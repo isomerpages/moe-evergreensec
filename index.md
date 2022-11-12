@@ -7,6 +7,5 @@ permalink: /
 notification: Welcome to Evergreen Secondary School!
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/EvergreenHomepage.gif
 ---
-
