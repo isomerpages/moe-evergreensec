@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/Science Department.md
       - Teaching Staff/Mother Tongue Department.md
       - Teaching Staff/Humanities Department.md
       - Teaching Staff/Aesthetics Department.md
