@@ -1,7 +1,5 @@
 logo: /images/Homepage/Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: School Information
     url: /permalink
     sublinks:
@@ -56,3 +54,5 @@ links:
         url: /permalink
       - title: Our Alumni
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
