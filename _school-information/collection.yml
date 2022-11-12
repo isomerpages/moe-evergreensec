@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Information.md
       - School Corporate Videos.md
       - Principal’s Message.md
       - The School Advisory Committee.md
