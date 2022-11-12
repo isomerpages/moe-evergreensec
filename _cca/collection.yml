@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Guitar Ensemble.md
       - Performing Arts/EVG Malay Dance Club.md
       - Performing Arts/.keep
       - Sports/Sports.md
