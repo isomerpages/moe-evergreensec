@@ -2,5 +2,6 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - Nutrition And Food Science/NFS Lower Secondary.md
       - Nutrition And Food Science/NFS Upper Secondary.md
       - Nutrition And Food Science/.keep
