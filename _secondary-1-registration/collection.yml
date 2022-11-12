@@ -1,4 +1,5 @@
 collections:
   secondary-1-registration:
     output: true
-    order: []
+    order:
+      - Frequently Asked Questions and Other Queries.md
