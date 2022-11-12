@@ -2,4 +2,5 @@ collections:
   mtl-department:
     output: true
     order:
+      - Chinese Language.md
       - Malay Language.md
