@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Interact Club.md
       - Clubs and Societies/Prefectorial Board.md
       - Clubs and Societies/.keep
       - Performing Arts/Performing Arts.md
