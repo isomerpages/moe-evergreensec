@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/.keep
       - Achievements/Achievements.md
       - Achievements/2021.md
