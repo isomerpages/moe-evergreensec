@@ -36,3 +36,23 @@ links:
         url: /permalink
       - title: Useful links for staff
         url: /permalink
+  - title: Our Curriculum
+    url: /permalink
+    sublinks:
+      - title: CCA
+        url: /permalink
+      - title: Departments
+        url: /permalink
+      - title: Distinctive School Programmes
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: Achievements
+        url: /permalink
+  - title: Our Partners
+    url: /permalink
+    sublinks:
+      - title: Parent Support Group
+        url: /permalink
+      - title: Our Alumni
+        url: /permalink
