@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Admission/Secondary 1 Registration.md
       - School Admission/Secondary 1 Appeal.md
       - School Admission/.keep
       - Direct School Admission DSA Sec.md
