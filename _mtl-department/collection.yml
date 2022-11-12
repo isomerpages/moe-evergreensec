@@ -1,4 +1,5 @@
 collections:
   mtl-department:
     output: true
-    order: []
+    order:
+      - Malay Language.md
