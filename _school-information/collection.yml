@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Principal’s Message.md
       - The School Advisory Committee.md
       - School Admission/School Admission.md
       - School Admission/Secondary 1 Registration.md
