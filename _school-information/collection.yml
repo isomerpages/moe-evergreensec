@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - Safety/Haze.md
       - Safety/.keep
