@@ -2,6 +2,7 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - Art/Art Upper Secondary.md
       - Art/Art Enrichment.md
       - Art/Learning Journey.md
       - Art/.keep
