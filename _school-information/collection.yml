@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Students/Financial Assistance and Insurance Matters.md
       - Students/Travel Declaration.md
       - Students/Post Secondary Information.md
       - Students/Useful links for Students.md
