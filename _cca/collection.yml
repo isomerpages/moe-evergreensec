@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/EVG Singapore Youth Flying Club.md
       - Clubs and Societies/Digital Media Club.md
       - Clubs and Societies/Interact Club.md
       - Clubs and Societies/Prefectorial Board.md
