@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Students/Useful links for Students.md
       - Students/Secondary 1 Registration.md
       - Students/.keep
       - Safety/Safety.md
