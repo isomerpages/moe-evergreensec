@@ -2,5 +2,6 @@ collections:
   secondary-1-registration:
     output: true
     order:
+      - Secondary 1 Letter to Parents Guardians.md
       - Secondary 1 Appeal for Admission to Evergreen Secondary School.md
       - Frequently Asked Questions and Other Queries.md
