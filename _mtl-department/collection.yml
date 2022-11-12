@@ -1,0 +1,4 @@
+collections:
+  mtl-department:
+    output: true
+    order: []
