@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Chinese Dance.md
       - Performing Arts/Evergreen Secondary School Chinese Orchestra (EVGCO).md
       - Performing Arts/Gamelan Ensemble.md
       - Performing Arts/Guitar Ensemble.md
