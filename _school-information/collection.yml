@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - Safety/Dengue.md
       - Safety/Haze.md
       - Safety/.keep
