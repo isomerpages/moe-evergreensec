@@ -2,3 +2,24 @@ logo: /images/Homepage/Logo.png
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: School Information
+    url: /permalink
+    sublinks:
+      - title: School Corporate Videos
+        url: /permalink
+      - title: Principal’s Message 2022
+        url: /permalink
+      - title: The School Advisory Committee
+        url: /permalink
+      - title: School Admission
+        url: /permalink
+      - title: Direct School Admission
+        url: /permalink
+      - title: Learning Environment
+        url: /permalink
+      - title: Newsletter by Vibes
+        url: /permalink
+      - title: Students
+        url: /permalink
+      - title: Safety
+        url: /permalink
