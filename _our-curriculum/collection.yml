@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/.keep
       - Achievements/Achievements.md
       - Achievements/2021.md
       - Achievements/2020.md
