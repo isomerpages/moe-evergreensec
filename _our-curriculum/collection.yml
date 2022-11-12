@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Departments/Information and Communication Technology (ICT).md
       - Departments/Mathematics Department.md
       - Departments/Principles of Accounts.md
       - Departments/CoCurricular Activities.md
