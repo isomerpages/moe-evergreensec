@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Achievements/2019.md
       - Achievements/2018.md
       - Achievements/.keep
