@@ -2,6 +2,7 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - Music.md
       - Nutrition And Food Science/Nutrition And Food Science.md
       - Nutrition And Food Science/NFS Lower Secondary.md
       - Nutrition And Food Science/NFS Upper Secondary.md
