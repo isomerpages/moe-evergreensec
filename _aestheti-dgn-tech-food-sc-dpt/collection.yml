@@ -1,5 +1,4 @@
 collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
-    order:
-      - Nutrition And Food Science.md
+    order: []
