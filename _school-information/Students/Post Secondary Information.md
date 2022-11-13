@@ -9,7 +9,7 @@ third_nav_title: Students
 Source: http://www.moe.gov.sg/education/landscape/
 
 Please read up the slides on post secondary options after O levels to find out more.  
-[Progression Pathway for Students after O Level](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Progression-Pathway-for-Students-after-O-Level.pdf)
+[Progression Pathway for Students after O Level](/files/Post%20Secondary%20Information/Progression-Pathway-for-Students-after-O-Level.pdf)
 
 ### Progression Pathways after N(A) and N(T)
 
@@ -28,7 +28,7 @@ Please read up the slides on post secondary options after O levels to find out m
 
 Students may like to
 
-*   download the file [Progression.pdf](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Progression.pdf) or [Progression.ppt](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Progression.ppt) to find out more details about how to enter Polytechnic and the different types of programmes available
+*   download the file [Progression.pdf](/files/Post%20Secondary%20Information/Progression.pdf) to find out more details about how to enter Polytechnic and the different types of programmes available
 *   visit [http://www.polytechnic.edu.sg/pfp/](http://www.polytechnic.edu.sg/pfp/) for more information on PFP
 *   visit [http://www.ite.edu.sg/wps/portal/definitely-des/](http://www.ite.edu.sg/wps/portal/definitely-des/) for more information on DPP
 
