@@ -3,15 +3,28 @@ title: Direct School Admission DSA Sec
 permalink: /school-information/Direct-School-Admission/
 description: ""
 ---
-**Content**
 
-1.  [Introduction](https://evergreensec.moe.edu.sg/direct-school-admission/#intro)
-2.  [Talent Areas](https://evergreensec.moe.edu.sg/direct-school-admission/#talent_areas)
-3.  [Selection Criteria](https://evergreensec.moe.edu.sg/direct-school-admission/#criteria)
-4.  [Selection Process](https://evergreensec.moe.edu.sg/direct-school-admission/#process)
-5.  [Key Dates](https://evergreensec.moe.edu.sg/direct-school-admission/#dates)
-6.  [Contact Information](https://evergreensec.moe.edu.sg/direct-school-admission/#contact_info)
-7.  [Frequently Asked Questions (FAQs)](https://evergreensec.moe.edu.sg/direct-school-admission/#FAQ)
+
+<div>
+
+
+<div style="float: left">
+
+<a href="https://www.moe.gov.sg/secondary/dsa">
+
+<img src="/images/School%20information/Direct%20School%20Admission/D1.jpg">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+
 
 **(A) Introduction**
 
