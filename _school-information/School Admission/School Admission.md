@@ -11,13 +11,13 @@ For students posted to our school or prospective students who want to apply for 
 *   We warmly welcome all students posted to our school.
 *   Click on the following link to view the information for Sec 1 Registration on 23 December 2021:
 
-**[Sec 1 Registration Page](https://evergreensec.moe.edu.sg/student/secondary-1-registration-2021/)** (Information will be posted by 22 December 2021)
+**[Sec 1 Registration Page](/school-information/School-Admission/Secondary-1-Registration/)** (Information will be posted by 22 December 2021)
 
 **(B) Sec 1 Appeal to Evergreen (for Students Posted to Other Schools)**
 
 *   Click on the following link to view the information for Sec 1 Registration on 23 December 2021:
 
-**[Sec 1 Appeal Page](https://evergreensec.moe.edu.sg/sec-1-appeal/)** (Information will be posted by 22 December 2021)
+**[Sec 1 Appeal Page](/school-information/School-Admission/Secondary-1-Appeal/)** (Information will be posted by 22 December 2021)
 
 **(C) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
 
@@ -27,4 +27,4 @@ For students posted to our school or prospective students who want to apply for 
 **(D) Direct School Admission Exercise (DSA-Sec)**
 
 *   DSA-Sec is closed for 2021, and will re-open for submission again in 2022 based on MOE information.
-*   You may visit the 2021 DSA-Sec page [here](https://evergreensec.moe.edu.sg/direct-school-admission/): [/direct-school-admission/](https://evergreensec.moe.edu.sg/direct-school-admission/)
+*   You may visit the 2021 DSA-Sec page [here](/school-information/Direct-School-Admission/)
