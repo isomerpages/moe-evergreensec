@@ -74,8 +74,8 @@ viii. Volleyball (Boys & Girls)
 
 9.      Click on these links to learn more about the above talent areas and their programmes:
 
-**• [Applied Learning Programme \[ALP\]](https://evergreensec.moe.edu.sg/distinctive-school-programmes/applied-learning-programme/)**  
-**• [Learning for Life Programme \[LLP\]](https://evergreensec.moe.edu.sg/distinctive-school-programmes/learning-for-life-programme/)**
+**• [Applied Learning Programme \[ALP\]](/our-curriculum/Distinctive-School-Programmes/Applied-Learning-Programme-ALP/)**  
+**• [Learning for Life Programme \[LLP\]](/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)**
 
 **(C) Selection Criteria** 
 
