@@ -91,7 +91,7 @@ viii. Volleyball (Boys & Girls)
 
 **(D) Selection Process**
 
-12.   To find out about the selection processes in each of the talent areas, click [here](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/05/Selection-Process-Information.pdf).
+12.   To find out about the selection processes in each of the talent areas, click [here](/files/Direct%20School%20Admission/Selection-Process-Information.pdf).
 
 **(E)** **Key dates**
 
