@@ -10,40 +10,28 @@ third_nav_title: Students
 
 </figure>
 
+
+
+<div>
+
+
+<div style="float: left">
+
+<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+
 <figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S2.png">
+<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S1.png">
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
 </figure>
 
-<figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S3.png">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</a>
 
-</figure>
+</div>
 
-<figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S4.png">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<div>
 
-</figure>
+</div>
 
-<figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S5.png">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S6.png">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-<img style="width:20%;height:50%" src="/images/School%20information/Students/Students/S7.png">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
+</div>
 
