@@ -3,8 +3,6 @@ title: Direct School Admission DSA Sec
 permalink: /school-information/Direct-School-Admission/
 description: ""
 ---
-
-
 <div>
 
 
@@ -48,7 +46,7 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 **(B)  Talent Areas**
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/05/Evergreen-Secondary-School-DSA-Advert-01b-2022-scaled.jpg)
+![](/images/School%20information/Direct%20School%20Admission/D2.jpg)
 
 6.     Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] & Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
 
@@ -166,3 +164,5 @@ c. Your child’s primary school information – such as P5 and P6 academic resu
 d. Optional field to indicate any non-school-based activities and achievements your child may have participated in
 
 Please see [**MOE’s website**](https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school) for more information.
+
+![](/images/School%20information/Direct%20School%20Admission/D3.jpg)
