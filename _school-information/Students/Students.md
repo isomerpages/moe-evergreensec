@@ -4,6 +4,8 @@ permalink: /school-information/Students/Students/
 description: ""
 third_nav_title: Students
 ---
+<img style="width:30%;height:50%" src="/images/School%20information/Students/Students/MID.png">
+
 <div>
 
 
