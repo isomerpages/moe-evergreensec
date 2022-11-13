@@ -120,3 +120,208 @@ Students may demonstrate the following actionable behaviour for each Value, whic
   </tr>
 </tbody>
 </table>
+
+**INTEGRITY**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Actionable Behaviour (What does INTEGRITY look like?)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">National Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Having the moral courage to speak up for what is right</span><br><span style="font-weight:inherit;font-style:inherit">2.      Having the moral courage to right what is wrong (responsible decision making)</span><br><span style="font-weight:inherit;font-style:inherit">3.      Understanding the importance of Singapore’s formula for success, which is founded on integrity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Guidance and Wellness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Being honest and responsible in word and deed</span><br><span style="font-weight:inherit;font-style:inherit">2.      Admitting mistakes and having the courage to face the consequences of one’s actions</span><br><span style="font-weight:inherit;font-style:inherit">3.      Having the moral courage to influence peers to act with integrity</span><br><span style="font-weight:inherit;font-style:inherit">4.      Completing all assignments without copying others’ work</span><br><span style="font-weight:inherit;font-style:inherit">5.      Saying what we mean and meaning what we say to all (e.g. keeping our promises, saying what we believe)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Positive Discipline</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Doing the right thing at all times:</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being honest e.g. reporting errors in marking even if this means a deduction in marks for ourselves</span><br><span style="font-weight:inherit;font-style:inherit">3.      Having the moral courage to tell peers that they are doing something wrong (instead of looking the other way or joining them)</span><br><span style="font-weight:inherit;font-style:inherit">4.      Having the courage to admit to wrongdoings and accepting responsibility and consequences (e.g. not offering weak excuses for being late)</span><br><br><span style="font-weight:inherit;font-style:inherit">Not cheating during tests and exams</span><br><span style="font-weight:inherit;font-style:inherit">Not passing off the work of others as our own</span><br><span style="font-weight:inherit;font-style:inherit">Not stealing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Instructional Programmes (Physical Education &amp; Aesthetics)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Having a true understanding of one’s own fitness level, and recognizing that there are no short cuts to success</span><br><span style="font-weight:inherit;font-style:inherit">2.      Recognising personal strengths and weaknesses and accepting constructive feedback from teachers, coaches and seniors for improvement</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCAs</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Being honest and playing fair during competitions</span><br><span style="font-weight:inherit;font-style:inherit">2.      Giving credit where it is due, and claiming credit for self only when one deserves it</span><br><span style="font-weight:inherit;font-style:inherit">3.      Having the moral courage to tell the truth</span><br><span style="font-weight:inherit;font-style:inherit">4.      Being accountable and taking responsibility for one’s actions, as well as the team’s actions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Leadership Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Role-modelling school values for our peers</span><br><span style="font-weight:inherit;font-style:inherit">2.      Influencing and inspiring the right behaviour at all times</span><br><span style="font-weight:inherit;font-style:inherit">3.      Giving credit for work done by others</span><br><span style="font-weight:inherit;font-style:inherit">4.      Choosing the morally right solution instead of the convenient solution</span><br><span style="font-weight:inherit;font-style:inherit">5.      Carrying out our responsibilities in a responsible and fair manner</span></td>
+  </tr>
+</tbody>
+</table>
+
+**COMMITMENT**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Actionable Behaviour (What does COMMITMENT look like?)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">National Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Understanding the importance of abiding by the laws to build a safe and secure Singapore for all:</span><br><span style="font-weight:inherit;font-style:inherit">1.      Participating actively in school CIP, Service Learning &amp; school-wide programmes</span><br><span style="font-weight:inherit;font-style:inherit">2.      Providing suggestions and feedback for school improvement</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Guidance and Wellness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Being responsible for one’s own learning (attendance, punctual submission of homework, having a sense of urgency, seeking help, asking good questions)</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being a contributing member in all group activities (project work, CCA, class committee)</span><br><span style="font-weight:inherit;font-style:inherit">3.      Building good relationships with family members (spending time to interact, engaging in family bonding activities)</span><br><span style="font-weight:inherit;font-style:inherit">4.      Building good relationships with teachers and peers (engaging in class and CCA bonding activities, spending time to interact, sharing family concerns with teachers)</span><br><span style="font-weight:inherit;font-style:inherit">5.      Developing clear life goals (beyond Evergreen Sec) by being focused on preparing well for the future (demonstrated through one’s academic achievements and one’s learning of soft skills)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Positive Discipline</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Understanding the importance of school rules in maintaining an orderly and conducive learning environment for the school community.</span><br><span style="font-weight:inherit;font-style:inherit">1.      Attending school and CCA activities regularly</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being consistently punctual for school i.e. for school events, CCA, competitions, LJs, CIP</span><br><span style="font-weight:inherit;font-style:inherit">3.      Being properly attired for school throughout the school day</span><br><span style="font-weight:inherit;font-style:inherit">4.      Having a sense of purpose in whatever we do i.e. staying focused on learning goals, striving for excellence and improvement</span><br><span style="font-weight:inherit;font-style:inherit">5.      Being responsible for one’s learning i.e.</span><br><br><span style="font-weight:inherit;font-style:inherit">bringing necessary lesson materials</span><br><span style="font-weight:inherit;font-style:inherit">doing homework</span><br><span style="font-weight:inherit;font-style:inherit">asking questions for clarification</span><br><span style="font-weight:inherit;font-style:inherit">doing necessary pre-reading</span><br><span style="font-weight:inherit;font-style:inherit">6. Learning and applying self-management and responsible decision making skills</span><br><span style="font-weight:inherit;font-style:inherit">7.      Submitting quality work (which demonstrates thoroughness, thought and effort)</span><br><span style="font-weight:inherit;font-style:inherit">8.      Participating and contributing actively in class and in group work</span><br><span style="font-weight:inherit;font-style:inherit">9.      Reflecting on one’s mistakes and making a concerted effort to change one’s behaviour for the better</span><br><span style="font-weight:inherit;font-style:inherit">10.  Learning from and responding positively to feedback</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Instructional Programmes (Physical Education &amp; Aesthetics)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Being properly attired</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being positive about practice sessions and challenges e.g. outdoor education programmes</span><br><span style="font-weight:inherit;font-style:inherit">3.      Setting meaningful personal goals for health and fitness</span><br><span style="font-weight:inherit;font-style:inherit">4.      Showing a sense of urgency and enthusiasm in learning new skills</span><br><span style="font-weight:inherit;font-style:inherit">5.      Taking pride in performing well and striving for excellence and improvement</span><br><span style="font-weight:inherit;font-style:inherit">6.      Adopting and maintaining a healthy lifestyle (e.g. avoiding sweetened soft drinks)</span><br><span style="font-weight:inherit;font-style:inherit">7.      Being willing to move away from our comfort zone and take on new challenges</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCAs</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Being present and punctual</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being properly attired</span><br><span style="font-weight:inherit;font-style:inherit">3.      Being positive about practice sessions and challenges</span><br><span style="font-weight:inherit;font-style:inherit">4.      Setting success criteria and targets for every training session</span><br><span style="font-weight:inherit;font-style:inherit">5.      Doing one’s best and striving for excellence – pushing oneself to one’s best level</span><br><span style="font-weight:inherit;font-style:inherit">6.      Taking part in training with a lively spirit, even when the training session is repetitive (understanding that rehearsals and repetitions are crucial to excellence)</span><br><span style="font-weight:inherit;font-style:inherit">7.      Being responsible for one’s own learning – coming prepared, asking for guidance, seeking feedback and making effort to improve</span><br><span style="font-weight:inherit;font-style:inherit">8.      Focusing on the common goals of the team and being the team member that every team wants to have</span><br><span style="font-weight:inherit;font-style:inherit">9.      Motivating team members to work towards their best standards</span><br><span style="font-weight:inherit;font-style:inherit">10.  Building team spirit</span><br><span style="font-weight:inherit;font-style:inherit">11.  Being prepared to take up leadership roles or volunteering for important (leadership) roles in the CCA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Leadership Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1.      Setting personal targets and striving for excellence</span><br><span style="font-weight:inherit;font-style:inherit">2.      Being committed to learning and developing oneself</span><br><span style="font-weight:inherit;font-style:inherit">3.      Being committed to developing others</span><br><span style="font-weight:inherit;font-style:inherit">4.      Being committed to the responsibilities which come with one’s leadership position e.g. Subject Reps reminding classmates of assignment deadlines</span><br><span style="font-weight:inherit;font-style:inherit">5.      Being committed to building a positive image for the school through word and deed as student leaders</span></td>
+  </tr>
+</tbody>
+</table>
+
+**ENTERPRISE**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Actionable Behaviour (What does ENTERPRISE look like?)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">National Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Believing that Singapore can turn its shortcomings into capabilities, and understanding that the success of Singapore is built on creativity and the determination to succeed</span><br><span style="font-weight:inherit;font-style:inherit">2. Being resourceful and innovative (initiating and organizing events/ programmes to meet the needs of peers and the community)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Guidance and Wellness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Setting high targets for personal growth and improvement, and working to achieve them in a determined manner</span><br><span style="font-weight:inherit;font-style:inherit">2. Equipping self with relevant information and data to generate creative ideas (resourcefulness)</span><br><span style="font-weight:inherit;font-style:inherit">3. Being resilient and using coping strategies in the face of challenges</span><br><br><span style="font-weight:inherit;font-style:inherit">self-management (time-management, stress management), and</span><br><span style="font-weight:inherit;font-style:inherit">relationship management.</span><br><span style="font-weight:inherit;font-style:inherit">4. Giving and accepting feedback positively for improvement</span><br><span style="font-weight:inherit;font-style:inherit">5. Adapting and adjusting when there is a change of teachers (e.g. adapting to different teaching styles and expectations)</span><br><span style="font-weight:inherit;font-style:inherit">6. Seeking help and advice in order to bounce back from failure</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Positive Discipline</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Learning from mistakes and not being discouraged by failure</span><br><span style="font-weight:inherit;font-style:inherit">2. Persevering in looking for solutions to overcome difficulties in learning/ behaviour</span><br><span style="font-weight:inherit;font-style:inherit">3. Learning to prioritise one’s duties/ responsibilities</span><br><span style="font-weight:inherit;font-style:inherit">4. Having the initiative to manage one’s behaviour in class while waiting for the teacher (in class, parade square, hall, etc.)</span><br><span style="font-weight:inherit;font-style:inherit">5. Being adaptable to new environments, people and expectations</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Instructional Programmes (Physical Education &amp; Aesthetics)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Persevering with personal goals for health and fitness</span><br><span style="font-weight:inherit;font-style:inherit">2. Taking the initiative to seek advice and feedback about personal health and fitness levels from teachers and reliable sources</span><br><span style="font-weight:inherit;font-style:inherit">3. Sustaining involvement in creative pursuits, hobbies or the performing and visual arts</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CCAs</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Taking the initiative to suggest improvements to CCA programmes and facilities</span><br><span style="font-weight:inherit;font-style:inherit">2. Confronting failure or disappointment in a positive manner</span><br><span style="font-weight:inherit;font-style:inherit">3. Having the confidence to speak up and share opinions and ideas</span><br><span style="font-weight:inherit;font-style:inherit">4. Being willing to explore innovative ideas to improve programmes, training approaches and learning experiences</span><br><span style="font-weight:inherit;font-style:inherit">5. Being resourceful by seeking alternative methods/ ways to succeed, especially in the face of physical, financial or time constraints</span><br><span style="font-weight:inherit;font-style:inherit">6. Being flexible and adapting to changes in physical environment and training conditions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Leadership Education</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1. Taking the initiative to help clarify learning or discussion points for others</span><br><span style="font-weight:inherit;font-style:inherit">2. Inspiring peers to work towards a common understanding or a shared vision</span><br><span style="font-weight:inherit;font-style:inherit">3. Thinking out of the box—being creative in coming up with new ideas or solutions</span><br><span style="font-weight:inherit;font-style:inherit">4. Being able to identify the problem and analyse the situation, and to plan and organize the programme competently and effectively</span><br><span style="font-weight:inherit;font-style:inherit">5. Planning ahead to pre-empt problems and carrying out actions to counter them</span><br><span style="font-weight:inherit;font-style:inherit">6. Adapting current plans in response to changes</span><br><span style="font-weight:inherit;font-style:inherit">7. Experimenting and taking calculated risks and learning from experience</span><br><span style="font-weight:inherit;font-style:inherit">8. Matching roles/ responsibilities to people’s strengths</span><br><span style="font-weight:inherit;font-style:inherit">9. Providing opportunities for peers to develop their own leadership e.g. by giving peers a chance to lead</span><br><span style="font-weight:inherit;font-style:inherit">10. Being resourceful in managing constraints</span><br><span style="font-weight:inherit;font-style:inherit">11. Role-modelling resilience and inspiring others to press on in the face of difficulties</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Our School Pledge**  
+We, EVGians, pledge to be thinking and caring people  
+with Respect, Integrity, Commitment and Enterprise  
+we are committed to aspire and achieve  
+and be the best that we can be.
+
+**Our School Song**  
+_Music and Lyrics by Steven Goh_  
+This time of youth, our years at Evergreen  
+We learn to be the best that we can be  
+To think and care with all our hearts and minds  
+We stand as one and together we will shine
+
+Chorus:  
+Let's do our best  
+In all endeavours  
+In Evergreen, we stand as one and together we believe  
+We'll give our best  
+For our future  
+In Evergreen, we aspire and achieve
+
+We make this pledge to Evergreen our school  
+To take each quest and see it fully through  
+To give our school its rightful pride of place  
+With enterprise with vision and grace
+
+Chorus:  
+Let's do our best  
+In all endeavours  
+In Evergreen, we stand as one and together we believe  
+We'll give our best  
+For our future  
+To be the best in all that we do
+
+In Evergreen, we aspire and achieve  
+In Evergreen, we aspire and achieve
