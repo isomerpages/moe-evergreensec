@@ -11,7 +11,7 @@ third_nav_title: Students
 
 <div> 
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Uniform-and-Textbook-Matters/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S1.png">
@@ -34,7 +34,7 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Timetables/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S2.png">
@@ -57,7 +57,7 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Post-Secondary-Information/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S3.png">
@@ -80,7 +80,7 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Useful-Links-For-Students/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S4.png">
@@ -103,11 +103,11 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Financial-Assistance-and-Insurance-Matters/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S5.png">
-<figcaption> <strong> CForms & Docs </strong> </figcaption>
+<figcaption> <strong> Forms & Docs </strong> </figcaption>
 
 </figure>
 
@@ -126,7 +126,7 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Announcements/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S6.png">
@@ -149,7 +149,7 @@ third_nav_title: Students
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/school-information/Students/Travel-Declaration/">
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S7.png">
