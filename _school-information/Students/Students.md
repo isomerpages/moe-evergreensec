@@ -153,10 +153,7 @@ third_nav_title: Students
 
 <figure>
 <img style="width:50%;height:50%" src="/images/School%20information/Students/Students/S7.png">
-<figcaption> <strong> Travel Declaration
-
-[  
-](https://www.facebook.com/EvergreenSecondary/) </strong> </figcaption>
+<figcaption> <strong> Travel Declaration </strong> </figcaption>
 
 </figure>
 
