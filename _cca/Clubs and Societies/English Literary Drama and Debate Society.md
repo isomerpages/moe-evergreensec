@@ -24,7 +24,7 @@ Head of Welfare: Joey Kuan Yee Xun 3 Respect
 
 Deputy Head of Welfare: Zarifah Binte Zaidi 3 Thinking
 
-![ELDDS 1](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/ELDDS-1.jpg "ELDDS 1")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E1.jpg)
 
 **VISION OF ELDDS**  
 Confident and eloquent communicators that strive towards literary and cultural excellence.
@@ -44,11 +44,12 @@ To provide participating schools with a platform for interaction and friendly de
 
 EVGDI 2019 saw an unprecedented number of 12 teams debating over 2 weekends, on 27 July and 3 August. At the Grand Finals, the Overall Champion was Pasir Ris Crest Secondary School. Evergreen Team B also achieved the First Runner-Up award, while the Best Speaker award at the Semi-Finals (Impromptu Round) went to John Poon.
 
-![EL DDS 2](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-2.jpg "EL DDS 2")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E2.jpg)
+
 
 ### **Debate**
 
-### Since its inception, the Debate Division has been active in fostering a dynamic debating culture in school. It aims to improve debaters’ general knowledge and sharpen their critical thinking skills. As such, opportunities for its members to represent the school in inter-school debating and oratorical competitions are numerous.
+Since its inception, the Debate Division has been active in fostering a dynamic debating culture in school. It aims to improve debaters’ general knowledge and sharpen their critical thinking skills. As such, opportunities for its members to represent the school in inter-school debating and oratorical competitions are numerous.
 
 **2021 Achievements**
 
@@ -62,13 +63,15 @@ The young team of debaters are as follows:
 4.  AUNI TAN BINTE ZAKI TAN ABDULLAH, the Debate Captain (2CMT)
 5.  SAHU SHREYA (2THK)
 
-![ELDDS Debate 21](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/11/ELDDS-Debate-21.jpeg "ELDDS Debate 21")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E3.jpeg)
+
 
 Clockwise: Gracelyn 1Thinking, Auni 2 Commitment, Shreya 2 Thinking, Sabrina 1 Character and Joey 1 Integrity
 
 ### **2020 Achievments**
 
-![Marsya 3 RSP, Bernard 3 ITG, Mrs Seah, Debate Teacher-in-charge, Cayden 2 CMT, Lea 2 ETP, Musfirah 3 THK, Joey 2 CMT, Sonia 3 ITG and Samuel 2 CMT during one of the training sessions.](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-3-1024x576.jpg "EL DDS 3")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E4.jpg)
+
 
 Marsya 3 RSP, Bernard 3 ITG, Mrs Seah, Debate Teacher-in-charge, Cayden 2 CMT, Lea 2 ETP, Musfirah 3 THK, Joey 2 CMT, Sonia 3 ITG and Samuel 2 CMT during one of the training sessions.
 
@@ -76,9 +79,8 @@ During the unprecedented times in July, two debate teams took on the challenge t
 
 It was a true test of the debaters’ grit. However, they rose to the occasion and beat 7 other teams to emerge as Champions of the Silver division. Kudos to these two teams of fighters.
 
-![Evergreen Team B emerged as Champions at the Silver Division of DADC 2020
-Team B comprised of Bernard 3ITG, Marsya 3 RSP, Musfirah 3 THK and Lea 2 ETP
-](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-4-1024x576.jpg "EL DDS 4")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E5.jpg)
+
 
 Evergreen Team B emerged as Champions at the Silver Division of DADC 2020 Team B comprised of Bernard 3ITG, Marsya 3 RSP, Musfirah 3 THK and Lea 2 ETP
 
@@ -86,7 +88,8 @@ The Division 3 Debating Championships held in January 2020 was a test of the deb
 
 Bernard and Marsya achieved the Best Speaker Award at Rounds 2 and 3 respectively.
 
-![Debaters: John Poon 4DYN, Celeste Lai 4 CMT, Sonia Ong 3 ITG, Marsya Faied 3 RSP & Bernard Lau 3 ITG (from left to right)](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-5-1024x768.jpg "EL DDS 5")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E6.jpg)
+
 
 Debaters: John Poon 4DYN, Celeste Lai 4 CMT, Sonia Ong 3 ITG, Marsya Faied 3 RSP & Bernard Lau 3 ITG (from left to right)
 
@@ -99,31 +102,22 @@ The debaters who achieved Best Speakers were as follows:
 *   Nur Kaisah Bte Abdul Kadir, ranked 2nd Best
 *   Tracy Goh, ranked 6th Best
 
-![EL DDS 6B](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-6B-400x300.jpg "EL DDS 6B")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E7.png)
 
-![EL DDS 6A](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/EL-DDS-6A-400x300.jpg "EL DDS 6A")
 
 ### Drama
 
 The Drama Division aims to inculcate in our students a deep love for the dramatic arts through creative, witty, and impactful performances. We train our students to be comfortable in a variety of public speaking and public performance engagements. Drama members participate in a wide spectrum of school-based performances such as our Chinese New Year Celebrations and National Day Celebrations. Our members also participate in the prestigious Odyssey of the Mind (Singapore), an annual creative problem-solving competition at Anglo Chinese School (Independent) where our members go up against schools like School Of The Arts and Raffles Girls Secondary School. Through these activities, members learn and sharpen their dramatic skills as well as deepen their creative processes – skills which are essential for their future aspirations in the 21st century.
 
-![ELDDS 4](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-4.jpg "ELDDS 4")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E8.png)
 
-![ELDDS 5](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-5.jpg "ELDDS 5")
-
-![ELDDS 6](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-6.jpg "ELDDS 6")
 
 ### **E-Journalism**
 
-![Vibes Logo](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/Vibes-Logo.png "Vibes Logo")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E9.png)
 
-The ELDDS E-journalism division, known as **EVG Vibes** in Evergreen, aims to groom student reporters to be excellent writers and drivers of content. The team comprises of student journalists who enjoy producing articles about current events ranging from competitions to the latest activities and programmes in Evergreen. In addition to reporting about events, members write about free topics and create comics. Student journalists do their own research by interviewing people and gathering information online and from print media.
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E10.png)
 
-The team is given opportunities to participate in national competitions such as The Media Challenge organised by Republic Polytechnic.   Students get to develop article-writing skills such as understanding newsworthiness and having an eye for detail, and these skills also represent Evergreen as a dynamic and an ever-aspiring institution. Articles produced by students are published as termly newsletters published on the school website and social media platforms.
-
-![Vibes 1](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/Vibes-1-2.jpg "Vibes 1")
-
-![reverie](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/reverie.jpg "reverie")
 
 **2020 Achievements**
 
@@ -133,19 +127,20 @@ This competition is organised by the National Organ Transplant Unit (NOTU) of th
 
 Read her winning essay here!  [https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool](https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool).
 
-![ELDDS Vibes Yu Eng](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/11/ELDDS-Vibes-Yu-Eng-768x1024.jpg "ELDDS Vibes Yu Eng")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E11.jpg)
+
 
 **2019 Achievements**
 
 A writing workshop was conducted for all EVG Vibes and Secondary 1 ELDDS members by Ms Nabilah Said—an editor, playwright, copywriter and former journalist at _The Straits Times_. Students learnt about life in the newsroom as a journalist and also had a hand in brainstorming and crafting their own stories for the EVG Vibes newsletter. The workshop ended with the class working together and critiquing each other’s articles.
 
-![20191](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/20191.jpg "20191")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E12.png)
 
-![20192](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/20192.jpg "20192")
 
 Our students also took part in Youth Empowered, a nationwide competition that provides students with a platform to increase their awareness about digital literacy and effective communication skills for social media campaigns.
 
-![poster](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/poster.jpg "poster")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E13.jpg)
+
 
 **2018 Achievements**
 
@@ -157,8 +152,4 @@ Charlene Long 4 ETP (Class of 2019)
 Ng Qi Ting 4 ITG (Class of 2019)  
 Jolene Chew 4 RSP
 
-![ELDDS 10](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-10.jpg "ELDDS 10")
-
-![ELDDS 11](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-11.jpg "ELDDS 11")
-
-![ELDDS 12](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/09/ELDDS-12.jpg "ELDDS 12")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E14.png)
