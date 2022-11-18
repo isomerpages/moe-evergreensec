@@ -4,7 +4,8 @@ permalink: /cca/Clubs-and-Societies/Interact-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/image1-300x300.jpg)  
+<img style="width:30%;height:50%" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I1.jpg">
+
 **Chartered year:** 2002  
 **Sponsoring Club:** Rotary Club of Suntec City  
 **Sister Clubs:** Rotaract Club of Northwest & Greendale Secondary School Interact Club  
