@@ -11,29 +11,15 @@ third_nav_title: Clubs and Societies
 **Sister Clubs:** Rotaract Club of Northwest & Greendale Secondary School Interact Club  
 **Teacher-Advisors:** Mdm Siti Mariam and Mr Anan
 
-Video Player
 
-00:00
-
-00:44
 
 ### **The Interact Pledge**
 
-_We, the members of the Interact Club,_
-_Pledge to serve the school and community,_
-_We Pledge to uphold and maintain_
-_The integrity of the club by rendering_
-_Our Commitment and dedication_
-_To a united Cause._
 
-_We pledge to take heed to the needs of_
-_Our school and community,_
-_Putting service above self_
-_To act with love_
-_And honour the Interact Code of Conduct_
-_With utmost sincerity._
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I2.png)
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/05/Interact-photo.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I3.jpg)
+
 
 **Club Description**
 
@@ -54,29 +40,30 @@ As part of our regular service for each level, the Interactors take part in sign
 7.  Service Learning in collaboration with various partners (ad-hoc)
 8.  Leadership Development Training in Community Development
 
-Video Player
 
-00:00
 
-04:19
 
-Check out the video specially prepared by our Interactors as part of their fundraising project for End Polio awareness.
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/05/Partnership-with-Rotaractors-project-icare.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I4.jpg)
+
 
 Interactors partnering with Rotaractors to run Project I-Care at various nursing homes, providing free eye checks for elderly
 
-![Interactors partnering with Rotaractors to run Project I-Care at various nursing homes, providing free eye checks for elderly. ](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/image13.jpg "image13")  
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I5.jpg)
+
 Interactors partnering with Rotaractors to run Project I-Care at various nursing homes, providing free eye checks for elderly.
 
-![Interactors organising a mass beach cleanup event at Yishun Dam for students from NCC and SYFC CCAs.](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/ic-6-1024x768.jpg "ic 6")  
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I6.jpg)
+ 
 Interactors partnering with other CCAs like the Singapore Youth Flying Club (SYFC) and NCC for Mass Beach Cleaning Up projects.
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/06/Charity-Bazaar.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I7.jpg)
+
 
 Interactors at the school’s Open House cum Charity Bazaar
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/06/Homework-Support-Programme.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I8.jpg)
+
 
 Interactors partnering with primary school students in the Homework Support Programme
 
@@ -95,6 +82,18 @@ BOD focused events are as follows:
 
 **Board of Directors (2021-2022)**
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2021/06/Board-of-directors.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I9.jpg)
 
-<table style="box-sizing: inherit; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: normal; font-weight: 400; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: separate; border-spacing: 0px; width: 999.9px; color: rgb(58, 58, 58); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;"><b style="box-sizing: inherit; font-weight: 700;">Position</b></td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;"><b style="box-sizing: inherit; font-weight: 700;">Name</b></td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">President</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Clarice</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Vice President</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Sophie</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Vice President</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Miao Qi</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Admin</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Ernest</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of Club Service</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Xin Hui</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of Club Service</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Maisara</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of Community Service</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Reyann</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of Community Service</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Shang Jun</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of International Understanding (IU)</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Hao Wen</td></tr><tr style="box-sizing: inherit; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Director of International Understanding (IU)</td><td style="box-sizing: inherit; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Valente</td></tr></tbody></table>
+
+| Position                                     | Name      |
+|----------------------------------------------|-----------|
+| President                                    | Clarice   |
+| Vice President                               | Sophie    |
+| Vice President                               | Miao Qi   |
+| Admin                                        | Ernest    |
+| Director of Club Service                     | Xin Hui   |
+| Director of Club Service                     | Maisara   |
+| Director of Community Service                | Reyann    |
+| Director of Community Service                | Shang Jun |
+| Director of International Understanding (IU) | Hao Wen   |
+| Director of International Understanding (IU) | Valente   |
