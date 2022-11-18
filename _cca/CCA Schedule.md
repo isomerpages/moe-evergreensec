@@ -5,4 +5,4 @@ description: ""
 ---
 **CCA Schedule**
 
-2022 CCA Schedule : [CCA Training Schedule 2022](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/01/CCA-Training-Schedule-2022.pdf)
+2022 CCA Schedule : [CCA Training Schedule 2022](/files/CCA%20Training%20Schedule/CCA-Training-Schedule-2022.pdf)
