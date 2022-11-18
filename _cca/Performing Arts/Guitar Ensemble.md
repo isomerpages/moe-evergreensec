@@ -80,3 +80,9 @@ Guitar Festival
 *   Trinity Guildhall Foundation Level Accreditation – Gold
 *   Performing for Educators @ SG50 Public Exhibition (North Zone)
 *   9th Guitar Ensemble Festival @ Nanyang Academy of Fine Arts, Lee Foundation Theatre
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oiXUHhrPJyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skaLj6qyhao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGFhOmEtcwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
