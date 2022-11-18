@@ -166,40 +166,14 @@ Best Social Media Award
 
 [https://www.youtube.com/watch?v=FXh8QO-kGLc&list=PL9yGdxIGSNss\_8SLy53jOB50dftFhFO5P&index=10](https://www.youtube.com/watch?v=FXh8QO-kGLc&list=PL9yGdxIGSNss_8SLy53jOB50dftFhFO5P&index=10)
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-1-1024x680.jpg)
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D6.png)
 
-**Photography Club’s Achievements**  
-Montage 2016 Photography Competition (Anna Ong, Top 20 best photographs, Youth Category)  
-Canon Photomarathon 2015 (Leck Yong Chee, 1st Prize, Student Category: Defy Your Imagination)  
-Facets of SG 2014 (Lim Hwee Xin, Lee Qi En, Top 50 Entries)
 
-**Competitions that our members have participated in:**  
-Our Schools, Our Stories 2018  
-Singapore Young Photographer Award 2018  
-Canon Photomarathon 2018
 
-**Basic Photography Workshop for Lower Sec Members**  
-The Lower Sec members attended a 10 session workshop on Basic Photography where they learnt about photography’s progression as an artistic medium, picked up technical skills that would help them to create the pictures that they want using a DSLR camera, and edited photos using photo editing software. In one of the sessions, the students were brought to Chinatown for an outdoor photo session where they were able to apply the skills that they had learnt. The students were given the task to capture a series of images that would help them tell a story about Chinatown.
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D7.png)
 
-![photography 5](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-5.jpg "photography 5")
-
-![photography 3](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-3.jpg "photography 3")
-
-![photography 4](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-4.jpg "photography 4")
-
-![photography 2](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-2.jpg "photography 2")
 
 **Canon Photomarathon 2018**  
 On 28th July, a group of EVG Photographers took up the challenge and participated in the student category of the annual Canon Photomarathon held at Suntec City Convention Hall. The Canon Photomarathon is a single-day photography competition where participants are given Competition Themes to capture. The themes are only unveiled on the event day at specific timings. Participants then have three hours to submit one picture per theme for the competition. Entries are based on the following criteria: relevance to theme and creative interpretation of theme. The themes for this year’s challenges were **SOLITUDE**, **SIMPLICITY** and **GLOW**. The competition provided good exposure for the members as it gave our photographers the opportunity to put their photography skills and creativity to the test.
 
-![photography 6](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-6.jpg "photography 6")
-
-![photography 7](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-7.jpg "photography 7")
-
-![photography 9](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-9.jpg "photography 9")
-
-![photography 11](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-11.jpg "photography 11")
-
-![photography 10](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-10.jpg "photography 10")
-
-![photography 8](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/09/photography-8.jpg "photography 8")
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D8.png)
