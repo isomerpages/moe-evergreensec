@@ -6,12 +6,6 @@ third_nav_title: Performing Arts
 ---
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C1.jpg)
 
-![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C2.jpg)
-
-![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C3.jpg)
-
-![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C4.jpg)
-
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C5.jpg)
 
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/Chinese%20Dance/C6.jpg)
