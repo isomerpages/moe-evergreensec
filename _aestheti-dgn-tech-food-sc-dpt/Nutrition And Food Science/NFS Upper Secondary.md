@@ -21,3 +21,10 @@ Our goals are:
 _(Reference: CPDD Teaching and Learning Guide)_
 
 **Some upper Sec practical examinations photos:**
+
+![](/images/Our%20Curriculum/Departments/Aesthetics,%20Design%20Technology/Nutrition%20And%20Food%20Science/Upper%20Secondary/U1.jpg)Upper secondary students cooking 4 dishes for their practical examinations
+
+**EXTERNAL CULINARY COURSE**  
+Every year, Secondary 3 Food and Nutrition students are given the opportunity to attend a culinary course conducted by a professional chef. This year we attended the course at Palate Sensations Cooking School where the students learned to make Choux pastry, Pizza and Swiss Roll. The skills learned are in line with the N(A) and O-Level National Examinations requirements and will be useful to create their own interesting and creative dishes for their practical examinations.
+
+![](/images/Our%20Curriculum/Departments/Aesthetics,%20Design%20Technology/Nutrition%20And%20Food%20Science/Upper%20Secondary/U2.jpg)Students at work and proud of their end products
