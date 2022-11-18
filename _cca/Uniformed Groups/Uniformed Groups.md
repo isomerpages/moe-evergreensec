@@ -4,10 +4,10 @@ permalink: /cca/Uniformed-Groups/Uniformed-Groups/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-#### [National Cadet Corps (NCC – Land)](https://evergreensec.moe.edu.sg/cca/uniformed-groups/national-cadet-corps-ncc-land/ "National Cadet Corps (NCC – Land)")
+#### [National Cadet Corps (NCC – Land)](/cca/Uniformed-Groups/National-Cadet-Corps-NCC-Land/)
 
-#### [National Civil Defence Cadet Corp (NCDCC)](https://evergreensec.moe.edu.sg/cca/uniformed-groups/national-civil-defence-cadet-corp/ "National Civil Defence Cadet Corp (NCDCC)")
+#### [National Civil Defence Cadet Corp (NCDCC)](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corp-NCDCC/)
 
-#### [NPCC](https://evergreensec.moe.edu.sg/cca/uniformed-groups/npcc/ "NPCC")
+#### [NPCC](/cca/Uniformed-Groups/NPCC/)
 
-#### [Red Cross Youth](https://evergreensec.moe.edu.sg/cca/uniformed-groups/red-cross-youth/ "Red Cross Youth")
+#### [Red Cross Youth](/cca/Uniformed-Groups/Red-Cross-Youth/)
