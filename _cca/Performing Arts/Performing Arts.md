@@ -4,12 +4,12 @@ permalink: /cca/Performing-Arts/Performing-Arts/
 description: ""
 third_nav_title: Performing Arts
 ---
-### [Chinese Dance](https://evergreensec.moe.edu.sg/cca/performing-arts/chinese-dance/ "Chinese Dance")
+#### [Chinese Dance](/cca/Performing-Arts/Chinese-Dance/)
 
-### [Evergreen Secondary School Chinese Orchestra (EVGCO)](https://evergreensec.moe.edu.sg/cca/performing-arts/evergreen-secondary-school-chinese-orchestra/ "Evergreen Secondary School Chinese Orchestra (EVGCO)")
+#### [Evergreen Secondary School Chinese Orchestra (EVGCO)](/cca/Performing-Arts/Evergreen-Secondary-School-Chinese-Orchestra-EVGCO/)
 
-### [Gamelan Ensemble](https://evergreensec.moe.edu.sg/cca/performing-arts/gamelan-ensemble/ "Gamelan Ensemble")
+#### [Gamelan Ensemble](/cca/Performing-Arts/Gamelan-Ensemble/)
 
-### [Guitar Ensemble](https://evergreensec.moe.edu.sg/cca/performing-arts/guitar-ensemble/ "Guitar Ensemble")
+#### [Guitar Ensemble](/cca/Performing-Arts/Guitar-Ensemble/)
 
-### [EVG Malay Dance Club](https://evergreensec.moe.edu.sg/cca/performing-arts/sukma-irama-evg-malay-dance-club/ "EVG Malay Dance Club")
+#### [EVG Malay Dance Club](/cca/Performing-Arts/EVG-Malay-Dance-Club/)
