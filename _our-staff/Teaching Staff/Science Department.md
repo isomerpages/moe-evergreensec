@@ -61,7 +61,7 @@ This programme has been in place since 2009 with the following objectives:
 
 Every year, we carry out the following activities at different times of the year to promote and increase the staff and students’ environmental awareness on the recent environmental issues at hand. The list of programmes and activities that they may be involved in are as follows:
 
-![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S4.png)
+<img style="width:40%;height:50%" src="/images/Our%20Staff/Teaching%20Staff/Science%20Department/S4.png">
 
 
 1.  Learning Journey to NEWater Visitor Centre
@@ -73,13 +73,13 @@ Every year, we carry out the following activities at different times of the year
 **School Green Award**  
 The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain a better understanding of the environment. Evergreen Secondary School has once again achieved the Lotus Sustained Achievement Award in the SEC-StarHub School Green Awards (SGA) 2017. We have been attaining the Lotus Sustained Achievement Award since 2012.
 
-![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S5.jpg)
+<img style="width:30%;height:50%" src="/images/Our%20Staff/Teaching%20Staff/Science%20Department/S5.jpg">
 
 
 **National Environment Quiz**  
 Every year, three of our Lower Secondary students take part in the National Environment Quiz organised by Nan Hua High School. The quiz aims to increase awareness of environmental issues amongst students.
 
-![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S6.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Staff/Teaching%20Staff/Science%20Department/S6.jpg">
 
 
 Participants for National Environment Quiz
@@ -87,7 +87,7 @@ Participants for National Environment Quiz
 **Earth Hour**  
 On the week of Earth Hour, students were also encouraged to switch off their lights for one hour to support energy conservation.
 
-![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S7.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Staff/Teaching%20Staff/Science%20Department/S7.jpg">
 
 
 Students making announcement about Earth Hour
@@ -97,6 +97,3 @@ Lessons on reducing the carbon footprint were planned during Home Period and the
 
 ![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S8.png)
 ![](/images/Our%20Staff/Teaching%20Staff/Science%20Department/S9.png)
-
-
-
