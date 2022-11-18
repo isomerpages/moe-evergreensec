@@ -17,4 +17,3 @@ description: ""
 <img style="width:30%;height:50%" src="/images/Our%20Staff/School%20Leaders/S3.png">  
 <figcaption> <strong> Mr Lak Yau Hui, Vice - Principal </strong> </figcaption>  
 </figure>
-
