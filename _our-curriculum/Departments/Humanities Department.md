@@ -52,22 +52,14 @@ Students participate in the annual NUS Geography Challenge and Interschool Histo
 
 **2017 Secondary 2 History Museum Visit to Changi Chapel**
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Humanities11-300x169.jpg)
+![](/images/Our%20Curriculum/Departments/Humanities%20Department/H6.png)
 
-Students analysing historical sources in Changi Chapel
 
 **2017 Secondary 3 History Students - TACA Cards**
 
-![Students using the TACA (Time, Author, Content, Audience) Cards to analyse their sources.](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/10/Humanities12-400x300.jpg "Humanities12")
+![](/images/Our%20Curriculum/Departments/Humanities%20Department/H7.png)
 
-Students using the TACA (Time, Author, Content, Audience) Cards to analyse their sources.
-
-![Students using the TACA (Time, Author, Content, Audience) Cards to analyse their sources.](https://evergreensec-wp-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2018/10/Humanities13-400x300.jpg "Humanities13")
-
-Students using the TACA (Time, Author, Content, Audience) Cards to analyse their sources.
 
 **Professional Development among History teachers**
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Humanities14-300x225.jpg)
-
-In-house training to deepen teachers’ knowledge and pedagogy
+![](/images/Our%20Curriculum/Departments/Humanities%20Department/H8.png)
