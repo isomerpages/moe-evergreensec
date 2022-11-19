@@ -4,6 +4,10 @@ permalink: /our-curriculum/Departments/MTL-Department/
 description: ""
 third_nav_title: Departments
 ---
+**[Chinese Language](/mtl-department/Chinese-Language/)**
+
+**[Malay Language](/mtl-department/Malay-Language/)**
+
 **Mother** **Tongue Languages Department’s Mission**  
 To nurture an EVGIAN who has the love for his/her own Mother Tongue, appreciates his/her own culture and practices good values
 
@@ -28,6 +32,3 @@ HMTL (HCL & HML)
 *   Enhance pupils’ oral and reading competencies through the MTL Comprehensive Reading Programme
 *   Infusion of ICT in language learning
 
-**[Chinese Language](/mtl-department/Chinese-Language/)**
-
-**[Malay Language](/mtl-department/Malay-Language/)**
