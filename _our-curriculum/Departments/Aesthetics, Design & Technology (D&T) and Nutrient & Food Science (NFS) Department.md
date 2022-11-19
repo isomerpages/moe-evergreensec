@@ -7,6 +7,17 @@ third_nav_title: Departments
 ---
 ##### **Aesthetics, Design & Technology (D&T) and Nutrient & Food Science (NFS) Department**
 
+**[School Information](/aestheti-dgn-tech-food-sc-dpt/School-Information/)**
+
+**[School wide Aesthetics E3 Programme](/aestheti-dgn-tech-food-sc-dpt/School-wide-Aesthetics-E3-Programme/)**
+
+**[Art](/aestheti-dgn-tech-food-sc-dpt/Art/Arts/)**
+
+**[Design and Technology](/aestheti-dgn-tech-food-sc-dpt/Design-and-Technology/Design-and-Technology/)**
+
+**[Music](/aestheti-dgn-tech-food-sc-dpt/Music/)**
+
+**[Nutrition And Food Science](/aestheti-dgn-tech-food-sc-dpt/Nutrition-And-Food-Science/Nutrition-And-Food-Science/)**
 
 **Vision:**  
 A vibrant arts culture that promotes creativity and critical thinking, as well as arts creation and appreciation.
@@ -31,14 +42,3 @@ Expression (heighten appreciation through expression)
 **Lower & Upper Secondary Integrated Curriculum**  
 Art, Design & Technology, Nutrient & Food Science and Music
 
-**[School Information](/aestheti-dgn-tech-food-sc-dpt/School-Information/)**
-
-**[School wide Aesthetics E3 Programme](/aestheti-dgn-tech-food-sc-dpt/School-wide-Aesthetics-E3-Programme/)**
-
-**[Art](/aestheti-dgn-tech-food-sc-dpt/Art/Arts/)**
-
-**[Design and Technology](/aestheti-dgn-tech-food-sc-dpt/Design-and-Technology/Design-and-Technology/)**
-
-**[Music](/aestheti-dgn-tech-food-sc-dpt/Music/)**
-
-**[Nutrition And Food Science](/aestheti-dgn-tech-food-sc-dpt/Nutrition-And-Food-Science/Nutrition-And-Food-Science/)**
