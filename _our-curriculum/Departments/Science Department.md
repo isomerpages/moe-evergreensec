@@ -16,11 +16,11 @@ Students enjoy an engaging and rigorous Science curriculum at Evergreen Secondar
 
 The Copernicus Research-based Integrated Science Programme (CRISP) aims to instil in every student a spirit of curiosity and an eagerness to explore and investigate both the natural and social sciences. Such an attitude was embodied by Nicolaus Copernicus, a Renaissance-era polymath who was well-versed in Mathematics, Astronomy, Medicine, Politics and Economics.
 
-![CRISP](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/CRISP-1024x505.png "CRISP")
+![](/images/Our%20Curriculum/Departments/Science%20Department/S1.png)
 
 **Secondary 2: Project Work, Competitions and Enrichment** **Programmes**
 
-**(****1) Interdisciplinary Project Work**
+**(1) Interdisciplinary Project Work**
 
 As part of the curriculum, students apply the scientific method to plan and carry out investigations to explain interesting phenomena. Alternatively, they embark on the iterative design cycle to engineer solutions to problems faced by people in their daily lives. At the end of the year, they present their findings and products to their classmates. They may even have an opportunity to implement their ideas within the school setting.
 
@@ -28,9 +28,8 @@ As part of the curriculum, students apply the scientific method to plan and carr
 
 Students with an interest and aptitude for scientific research are given the opportunity to showcase their promising projects at the annual North Zone Elementz Science Project Competition and Exhibition under the guidance of teacher mentors. As students collect and analyse data, complete research papers and answer questions posed by a panel of judges, they get a glimpse into the rigour of scientific research.
 
-![Science4](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science4-400x300.png "Science4")
+![](/images/Our%20Curriculum/Departments/Science%20Department/S2.png)
 
-![Science5](https://evergreensec-wp-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2018/10/Science5-400x300.png "Science5")
 
 **(3)** **Electives**
 
@@ -46,15 +45,14 @@ In 2018, Professor Jaya and a team of PhD candidates from the National Universit
 
 **(1) RP Scientific Inquiry Research**
 
-**(****2) VJC A\* Science Fair**
+**(2) VJC A\* Science Fair**
 
-**(****3) NUS Crystal Growing Challenge**
+**(3) NUS Crystal Growing Challenge**
 
 The event is organised by the National University of Singapore every 2 years.
 
-![Science7](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science7-400x300.jpg "Science7")
+![](/images/Our%20Curriculum/Departments/Science%20Department/S3.png)
 
-![Science6](https://evergreensec-wp-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2018/10/Science6-400x300.jpg "Science6")
 
 **Green Environment Education**  
 This programme has been in place since 2009 with the following objectives:
@@ -65,7 +63,8 @@ This programme has been in place since 2009 with the following objectives:
 
 Every year, we carry out the following activities at different times of the year to promote and increase the staff and students’ environmental awareness on the recent environmental issues at hand. The list of programmes and activities that they may be involved in are as follows:
 
-[![](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/newater-300x227.png)](https://evergreensec.moe.edu.sg/wp-content/uploads/2020/07/newater.png)
+![](/images/Our%20Curriculum/Departments/Science%20Department/S4.png)
+
 
 1.  Learning Journey to NEWater Visitor Centre
 2.  National Environment Quiz
@@ -76,37 +75,26 @@ Every year, we carry out the following activities at different times of the year
 **School Green Award**  
 The SEC-StarHub School Green Awards (SGA) is a self-audited voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain a better understanding of the environment. Evergreen Secondary School has once again achieved the Lotus Sustained Achievement Award in the SEC-StarHub School Green Awards (SGA) 2017. We have been attaining the Lotus Sustained Achievement Award since 2012.
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science8-2-225x300.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Science%20Department/S5.jpg">
+
 
 **National Environment Quiz**  
 Every year, three of our Lower Secondary students take part in the National Environment Quiz organised by Nan Hua High School. The quiz aims to increase awareness of environmental issues amongst students.
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science9-300x225.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/Science%20Department/S6.png">
+
 
 Participants for National Environment Quiz
 
 **Earth Hour**  
 On the week of Earth Hour, students were also encouraged to switch off their lights for one hour to support energy conservation.
 
-![](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science10-300x225.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/Science%20Department/S7.png">
+
 
 Students making announcement about Earth Hour
 
 **Earth Day**  
 Lessons on reducing the carbon footprint were planned during Home Period and the importance of reducing the use of plastics was also emphasised. On one of the days, an exhibition was held at the Notice Board Area to raise awareness of the ways the students can help to conserve the environment. There were also games for students to try out during their recesses.
 
-![Making announcement during Morning Assembly regarding Earth Day](https://evergreensec-wp-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2018/10/Science11-400x300.jpg "Science11")
-
-Making announcement during Morning Assembly regarding Earth Day
-
-![Students designing a pledge for Earth Day](https://evergreensec-wp-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2018/10/Science16-400x300.jpg "Science16")
-
-Students designing a pledge for Earth Day
-
-![Students trying out interactive games on the importance of reducing food waste](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science14-400x300.jpg "Science14")
-
-Students trying out interactive games on the importance of reducing food waste
-
-![Students visiting the exhibits during recess](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/Science12-400x300.jpg "Science12")
-
-Students visiting the exhibits
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/Science%20Department/S8.png">
