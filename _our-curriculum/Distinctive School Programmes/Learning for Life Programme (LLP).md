@@ -45,7 +45,7 @@ Programmes for students with higher interest and ability
 
 ![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L4.png)
 
-EVG Sports Carnival
+
 
 TIER 3: SPECIALISE the training for talented students in attachments or programmes through Partners
 
