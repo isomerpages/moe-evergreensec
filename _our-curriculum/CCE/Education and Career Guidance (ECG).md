@@ -28,4 +28,4 @@ ECG Curriculum in EVG is  undergirded by the four themes where programmes are c
 
 **ECG Counselling @ EVG**
 
-[Poster EVG (2022)ECG](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/05/Poster-EVG-2022ECG-1.pdf)
+[Poster EVG (2022)ECG](/files/Education%20and%20Career%20Guidance/Poster-EVG-2022ECG-1.pdf)
