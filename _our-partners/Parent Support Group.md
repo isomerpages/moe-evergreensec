@@ -27,3 +27,5 @@ Members of the PSG play an active parental support role and are involved in scho
 
 
 <img style="width:70%;height:50%" src="/images/Our%20Partners/Parent%20Support%20Group/P4.png">
+
+<img style="width:70%;height:50%" src="/images/Our%20Partners/Parent%20Support%20Group/P5.png">
