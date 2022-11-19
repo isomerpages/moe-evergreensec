@@ -27,3 +27,7 @@ HMTL (HCL & HML)
 *   Support language acquisition through structured reading programme
 *   Enhance pupils’ oral and reading competencies through the MTL Comprehensive Reading Programme
 *   Infusion of ICT in language learning
+
+**[Chinese Language](/mtl-department/Chinese-Language/)**
+
+**[Malay Language](/mtl-department/Malay-Language/)**
