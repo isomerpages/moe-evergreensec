@@ -89,22 +89,7 @@ For more details, please click link below.
 
 **Key CCA Highlights**
 
-![CCA Open House 2018](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/CCA1-400x300.png "CCA1")
-
-CCA Open House 2018
-
-![National School Games B Division Bowl Champions 2018](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/CCA3-400x300.png "CCA3")
-
-National School Games B Division Bowl Champions 2018
-
-![National School Games C Division Bowl Runners-Up 2018](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/CCA2-400x300.png "CCA2")
-
-National School Games C Division Bowl Runners-Up 2018
-
-![Woodlands National Day Carnival 2018 GOH Marching Contingent (NCC/NPCC/NCDCC) ](https://evergreensec.moe.edu.sg/wp-content/uploads/2018/10/CCA4-400x300.png "CCA4")
-
-Woodlands National Day Carnival 2018 GOH Marching Contingent (NCC/NPCC/NCDCC)
-
+![](/images/Our%20Curriculum/Departments/Co%20Curricular%20Activities/C1.png)
  LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.  
  
  School-based CCA refers to CCA that are organised within the school or have been endorsed by the school.  
