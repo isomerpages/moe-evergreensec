@@ -403,6 +403,6 @@ Students will demonstrate the willingness to think critically and inquire more d
 
 ![](/images/Our%20Curriculum/Departments/Principles%20of%20Accounts%20(POA)/P1.png)
 
-**Talk on the Accountancy Profession by ISCA**
+
 
 Speakers from the Institute of Singapore Chartered Accountants (ISCA) conducting a talk on the Accountancy Profession and the possible career pathways in the Accounting industry to students.
