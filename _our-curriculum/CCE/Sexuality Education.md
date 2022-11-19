@@ -232,3 +232,53 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
   </tr>
 </tbody>
 </table>
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+**_eTeens_** **Programme**:
+
+_8.      eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Evergreen Secondary School, the _eTeens_ programme will be implemented as follows in 2021:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Topics/Lessons</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Programme Learning Objectives</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Time Period</span><br><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 3 Week 9)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mass Talk by HPB appointed vendor</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:inherit;font-style:inherit">·       Modes of transmission</span><br><span style="font-weight:inherit;font-style:inherit">·       Modes of protection, specifically on how the condom is used</span><br><span style="font-weight:inherit;font-style:inherit">·       Consequences and impact of STIs/HIV</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Classroom-based Lesson</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 8</span></td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/02/Annex-A_2022.pdf) . The completed form is to be submitted by 03/02/2022.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/02/Annex-B_2022.pdf) . The completed form is to be submitted by 03/02/2022.
+13.  Parents can contact the school at [evergreen\_ss@moe.edu.sg](mailto:evergreen_ss@moe.edu.sg) or 63656392 for discussion or to seek clarification about the school’s sexuality education programme.
+
+14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
