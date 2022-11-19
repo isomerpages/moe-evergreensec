@@ -105,6 +105,8 @@ National School Games C Division Bowl Runners-Up 2018
 
 Woodlands National Day Carnival 2018 GOH Marching Contingent (NCC/NPCC/NCDCC)
 
-[\[1\]](https://evergreensec.moe.edu.sg/departments/co-curricular-activities/#_ftnref1) LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.  
-[\[2\]](https://evergreensec.moe.edu.sg/departments/co-curricular-activities/#_ftnref2) School-based CCA refers to CCA that are organised within the school or have been endorsed by the school.  
-[\[3\]](https://evergreensec.moe.edu.sg/departments/co-curricular-activities/#_ftnref3) Schools have processes in place to determine ‘exemplary conduct and active contribution’ with respect to their school’s context.
+ LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.  
+ 
+ School-based CCA refers to CCA that are organised within the school or have been endorsed by the school.  
+ 
+Schools have processes in place to determine ‘exemplary conduct and active contribution’ with respect to their school’s context.
