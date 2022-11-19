@@ -90,6 +90,7 @@ For more details, please click link below.
 **Key CCA Highlights**
 
 ![](/images/Our%20Curriculum/Departments/Co%20Curricular%20Activities/C1.png)
+
  LEAPS stands for Leadership, Enrichment, Achievement, Participation and Service. LEAPS 2.0 builds on the LEAPS system to better reflect MOE’s current emphasis on Student-Centric, Values-Driven education.  
  
  School-based CCA refers to CCA that are organised within the school or have been endorsed by the school.  
