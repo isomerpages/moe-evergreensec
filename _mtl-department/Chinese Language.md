@@ -288,6 +288,7 @@ Some of the students’ book reviews are as below:
   </tr>
 </tbody>
 </table>
+
 \*Department will provide support on academic resources and guidance.
 
 **Best Practices of department**    
