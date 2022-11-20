@@ -8,4 +8,7 @@ notification: Welcome to Evergreen Secondary School!
 sections:
   - hero:
       background: /images/Homepage/EvergreenHomepage.gif
+  - resources:
+      title: Announcements, news and events
+      button: Read more
 ---
