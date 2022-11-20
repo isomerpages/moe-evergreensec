@@ -33,8 +33,8 @@ We can start by cultivating a curious mind, as we seize every opportunity to lea
   
 Albert Einstein had this to say about curiosity:  
   
-_“The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when one contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries to comprehend only a little of this mystery every day.”  
-_  
+“The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when one contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries to comprehend only a little of this mystery every day.”  
+
 So as we go into every class, or take part in any learning experience, be curious.  Do not stop questioning.  Be in awe of the world around as we learn more about it each day in our lessons, and through our diverse schooling experiences. Be patient with yourself but do be determined to learn “a little” every day.  
   
 May we continue to live out our school mission. Let us “develop a passion to contribute and excel”.  
