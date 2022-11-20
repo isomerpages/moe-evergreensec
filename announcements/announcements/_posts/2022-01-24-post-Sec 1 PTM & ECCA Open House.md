@@ -12,4 +12,4 @@ Thank you for taking time to attend the Sec 1 PTM and CCA e-Open House on Saturd
 
 For those who were not able to attend, please refer to the slides here.
 
-[e-PTM Slides](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/01/e-PTM-Slides.pdf)
+[e-PTM Slides](/files/Sec%201%20PTM%20&%20e%20CCA%20Open%20House/EOY-Post-Exam-Programme-2022_Students-Briefing.pdf)
