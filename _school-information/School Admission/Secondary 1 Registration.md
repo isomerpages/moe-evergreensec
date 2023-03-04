@@ -16,9 +16,9 @@ Students are **not required** to physically report to their school for Seconda
 
 Any information regarding Secondary 1 registration 2023 will be disseminated via Parents Gateway (PG) and our [school website](https://evergreensec.moe.edu.sg/).
 
-**Menu**
-
-1.  Secondary 1 Online Registration on 2
+**Menu**  
+<a name="Backtotop"></a>
+1.  Secondary 1 Online Registration on 22 December 2022
 2.  Purchase of Textbooks and School 
 3.  Virtual Tour of School
 4.  Secondary 1 Letter to Parents / Guardians
