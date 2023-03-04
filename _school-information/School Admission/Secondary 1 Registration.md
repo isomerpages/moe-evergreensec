@@ -230,7 +230,10 @@ You can attend PSG meetings where school staff will share more about department 
 For all other enquiries please **call the General Office at 6365-6392 between 8.00 am to 4.00 pm on weekdays** (except public holidays).
 
 
-##### **(8) Quick Links**
+##### <A name="(8)QuickLinks"></a>(8) Quick Links
+
+*
+[Back to top](#Backtotop)
 
 *   *   Online Registration of Secondary 1 (Please complete by 22 December 2022, 11.59 pm)
         *   **[https://go.gov.sg/sec1registration2023](https://go.gov.sg/sec1registration2023)**
