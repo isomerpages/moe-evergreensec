@@ -125,3 +125,120 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
   </tr>
 </tbody>
 </table>
+
+##### **(3) Virtual Tour of School**
+
+*   If you would like to find out more about the learning experiences at Evergreen Secondary, or understand the school better, you can head over to this website: **[https://evgexperience.com/](https://evgexperience.com/)**
+
+##### **(4) Secondary 1 Letter to Parents / Guardians**
+
+*   Please refer to the **Term 1 Letter to Secondary One Parents** attached in our **Parents Gateway message**, for important information about the school and the key events in the school calendar for Term 1 2023.
+
+##### **(5) Reporting to School on 3 January 2023**
+
+*   If you are unable to report to Evergreen Secondary on 3 January 2023 due to valid reasons, please contact the General Office directly at **6365-6392** to confirm that you are taking up the place, and we will be able to reserve the place for you.
+
+##### **(6) Appeal for Admission to Evergreen Secondary School**
+
+*   For consideration to be placed on the waiting list for admission to Evergreen Secondary School, please submit your application form **[here:](https://form.gov.sg/636c4d420036370012df80e0)**
+    *   [**https://form.gov.sg/636c4d420036370012df80e0**](https://form.gov.sg/636c4d420036370012df80e0) 
+*   Students seeking admission **must** meet the cut-off point of the school.
+
+##### **(7) Frequently Asked Questions and Other Queries**
+
+##### **Sec 1 Registration**
+
+**(a)        What happens if I do not have Parents Gateway?**
+
+Information will be placed on the school website. If you do have any queries, you can contact the general office at 6365-6392.
+
+**(b)       How do I register my child into Evergreen Secondary School?**
+
+You can complete the Secondary 1 online registration by clicking on the following link.
+
+**[https://go.gov.sg/sec1registration2023](https://go.gov.sg/sec1registration2023)**
+
+ **(c)**        **What is the duration of the Zoom Session on 22 December 2022?**
+
+The duration of the Zoom session is around 1 hour. If you do have any concerns attending the Zoom session, you can contact the General Office.
+
+##### **Subject-Based Banding**
+
+**(d)       Can I appeal for my child to take subjects at a more demanding level?**
+
+There is no appeal as the offer is first made based on the PSLE Achievement Level. However, if a student did well for the subject and met the eligible criteria (with reference to the Weighted Assessment and Semestral Assessment results respectively) at the end of Secondary 1 Semester 1 or 2, he / she may be given the offer to take up the subject(s) at higher level
+
+##### **Higher Mother Tongue Language**
+
+**(e)        Can I appeal for my child to take Higher Mother Tongue Language (HMTL)?**
+
+Eligibility for HMTL is based on MOE’s letter of offer for the Secondary 1 students. Subsequently, our school may offer other students to take up HMTL based on his/her interest, aptitude and overall school-based performance.
+
+**(f)        What are the merits of taking HMTL?**
+
+HMTL offers students the opportunities to learn Chinese or Malay at a more advanced level. It will develop students with the ability, aptitude and interest in MTL to achieve higher levels of language proficiency and cultural knowledge.
+
+##### **Tamil Lessons**
+
+**(g)       My child would like to take Tamil lessons. What are the arrangements for his/ her Tamil lessons?**
+
+Evergreen Secondary School does not offer Tamil Language as a subject. The dedicated Tamil Language Centre for EVG is Marsiling Secondary School. Secondary One students who are taking Tamil Language at G3 (Express) can enroll at Marsiling Secondary School. Tamil Language students taking Tamil at G2 (NA) and G1 (NT) can enroll at Sembawang Secondary School. Students taking Tamil language will be allowed to leave earlier and proceed to the Tamil Centre on the days of their lessons. Currently, Tamil lessons are held once a week during the school term.
+
+##### **Third Language**
+
+**(h)       My child would like to take a Third Language. Is it possible?**
+
+Third Language offers are given by MOE based on the students’ PSLE results. Any appeal can be made directly to the MOE Language Centres.
+
+##### **Support for the Child**
+
+**(i)         My child has been having counselling in Primary School and would like to continue with counselling. How can I discuss the arrangements with the school?**
+
+Parents may contact the Form Teachers to request for counselling support, providing current areas of concerns, and the school counsellor will access to schedule a counselling session with the child.
+
+**(j)         My child has special needs. How do I inform the school about it?**
+
+Parents may email Mrs Julia Raj (HOD CCE) at [julia\_chia\_jing\_yi@schools.gov.sg](mailto:julia_chia_jing_yi@schools.gov.sg).
+
+**(k)        My child has health issues. How do I inform the school about it?**
+
+Parents may email Mr James Ng (HOD PE / CCA) at [james\_ng\_aik\_gian@schools.gov.sg](mailto:james_ng_aik_gian@schools.gov.sg).
+
+##### **Parents Support Group (PSG)**
+
+**(l)**         **How do I join the PSG?**
+
+You can register using the online form: **[https://go.gov.sg/evgjoinpsg](https://go.gov.sg/evgjoinpsg)**
+
+**(m)      How often does the PSG meet up?**
+
+The PSG meetings are held on a termly basis.
+
+**(n)       How does joining the PSG enable parents to better support their children in secondary school?**
+
+You can attend PSG meetings where school staff will share more about department programmes for parents to better understand the school and where support are given to students. The support network of parents may also share parenting tips and support each other on the parenting journey. There will also be invitation to workshops on parenting and support for students, and invitation to participate in school activities with students and teachers online or in school.
+
+##### **Other Queries**
+
+For all other enquiries please **call the General Office at 6365-6392 between 8.00 am to 4.00 pm on weekdays** (except public holidays).
+
+
+##### **(8) Quick Links**
+
+*   *   Online Registration of Secondary 1 (Please complete by 22 December 2022, 11.59 pm)
+        *   **[https://go.gov.sg/sec1registration2023](https://go.gov.sg/sec1registration2023)**
+    *   Sign up to join our school’s Parent Support Group (PSG)
+        *   **[https://go.gov.sg/evgjoinpsg](https://go.gov.sg/evgjoinpsg)**
+
+
+##### **(9) Materials from 22 Dec 2022 Sec 1 Registration Briefing**
+
+The following are the slides and video recording from the 22 Dec 2022 briefing session:
+
+**(A) Slides from Briefing:**
+
+*   [Sec 1 Registration Briefing Slides (22 Dec 2023)](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/12/Sec1_Registration-Briefing-Slides-22Dec2023.pdf)
+
+**(B) Video Recording of the 22 Dec 2022 Sec 1 Registration Briefing**
+
+*   [Click Here for the Link to Video](https://drive.google.com/file/d/1l4ForTMBZIAWcaKN_B9Apx9V9WohAuBQ/view?usp=share_link)
