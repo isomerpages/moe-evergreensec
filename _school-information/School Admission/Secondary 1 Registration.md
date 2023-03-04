@@ -18,12 +18,12 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 
 **Menu**
 
-1.  **[Secondary 1 Online Registration on 2](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#s1reg)**[**2** **December 202****2**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#s1reg)
-2.  [**Purchase of Textbooks and School Uniforms**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#books)
-3.  [**Virtual Tour of School**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#tour)
-4.  [**Secondary 1 Letter to Parents / Guardians**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#letter)
-5.  [**Reporting to School on 3 January 2023**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#reporting)
-6.  [**Appeal for Admission to Evergreen Secondary School**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#wl)
-7.  [**Frequently Asked Questions and Other Queries**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#faq)
-8.  [**Quick Links**](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#links)
-9.  _<Updated 22 Dec 2022, 2.00 pm>_ **[Materials from 22 Dec 2022 Sec 1 Registration Briefing](https://evergreensec.moe.edu.sg/student/secondary-1-registration/#materials)**
+1.  Secondary 1 Online Registration on 2
+2.  Purchase of Textbooks and School 
+3.  Virtual Tour of School
+4.  Secondary 1 Letter to Parents / Guardians
+5.  Reporting to School on 3 January 2023
+6.  Appeal for Admission to Evergreen Secondary School
+7.  Frequently Asked Questions and Other Queries
+8.  Quick Links
+9.  <Updated 22 Dec 2022, 2.00 pm> Materials from 22 Dec 2022 Sec 1 Registration Briefing
