@@ -47,7 +47,8 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 *   When joining the Zoom session, please use the Full NRIC name of your child being admitted to our school, e.g., “John Tan Lee Beng”. The Zoom session will open at 8.15 am. You will be placed in the virtual waiting room, for admission into the session at 8.30 am.
 *   We would appreciate it if only one Zoom account per child and your child’s Full Name are used for signing in.
 
-##### **(2) Purchase of Textbooks and Uniforms**
+##### <A name="(2)PurchaseofTextbooksandUniforms"></a>**(2) Purchase of Textbooks and Uniforms**
+[Back to top](#Backtotop)
 
 ##### **2.1       For N(A) and N(T) Course Students Eligible for Subject(s) at More Demanding Level through Subject-based Banding (SBB)**
 
