@@ -133,7 +133,8 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 
 *   If you would like to find out more about the learning experiences at Evergreen Secondary, or understand the school better, you can head over to this website: **[https://evgexperience.com/](https://evgexperience.com/)**
 
-##### **(4) Secondary 1 Letter to Parents / Guardians**
+##### <A name="(4)Secondary1LettertoParents/Guardians"></a>(4) Secondary 1 Letter to Parents / Guardians
+[Back to top](#Backtotop)
 
 *   Please refer to the **Term 1 Letter to Secondary One Parents** attached in our **Parents Gateway message**, for important information about the school and the key events in the school calendar for Term 1 2023.
 
