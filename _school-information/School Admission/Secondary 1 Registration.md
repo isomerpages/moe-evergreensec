@@ -19,15 +19,14 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 **Menu**  
 <a name="Backtotop"></a>
 1.  [Secondary 1 Online Registration on 22 December 2022](#Secondary1OnlineRegistrationon22December2022)
-2.  Purchase of Textbooks and School 
-3.  Virtual Tour of School
-4.  Secondary 1 Letter to Parents / Guardians
-5.  Reporting to School on 3 January 2023
-6.  Appeal for Admission to Evergreen Secondary School
-7.  Frequently Asked Questions and Other Queries
-8.  Quick Links
-9.  <Updated 22 Dec 2022, 2.00 pm> Materials from 22 Dec 2022 Sec 1 Registration Briefing
-
+2.  [Purchase of Textbooks and School](#PurchaseofTextbooksandSchool) 
+3.  [Virtual Tour of School](#VirtualTourofSchool)
+4.  [Secondary 1 Letter to Parents / Guardians](#Secondary1LettertoParents/Guardians)
+5.  [Reporting to School on 3 January 2023](#ReportingtoSchoolon3January2023)
+6.  [Appeal for Admission to Evergreen Secondary School](#AppealforAdmissiontoEvergreenSecondarySchool)
+7.  [Frequently Asked Questions and Other Queries](#FrequentlyAskedQuestionsandOtherQueries)
+8.  [Quick Links](#QuickLinks)
+9.  [Materials from 22 Dec 2022 Sec 1 Registration Briefing Updated on 22 Dec 2022](#Materialsfrom22Dec2022Sec1RegistrationBriefingUpdatedon22Dec2022)
 ##### **(1) Secondary 1 Online Registration on 22 December 2022**
 
 **Step 1: Online Registration** (_Deadline – 22 Dec 2022, 11.59 pm_)
