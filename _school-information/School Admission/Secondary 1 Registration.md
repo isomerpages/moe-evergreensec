@@ -128,7 +128,8 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 </tbody>
 </table>
 
-##### **(3) Virtual Tour of School**
+##### <A name="(3)VirtualTourofSchool"></a>**(3) Virtual Tour of School**
+[Back to top](#Backtotop)
 
 *   If you would like to find out more about the learning experiences at Evergreen Secondary, or understand the school better, you can head over to this website: **[https://evgexperience.com/](https://evgexperience.com/)**
 
