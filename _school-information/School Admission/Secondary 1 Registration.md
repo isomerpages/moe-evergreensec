@@ -27,7 +27,9 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 7.  [Frequently Asked Questions and Other Queries](#FrequentlyAskedQuestionsandOtherQueries)
 8.  [Quick Links](#QuickLinks)
 9.  [Materials from 22 Dec 2022 Sec 1 Registration Briefing Updated on 22 Dec 2022](#Materialsfrom22Dec2022Sec1RegistrationBriefingUpdatedon22Dec2022)
-##### **(1) Secondary 1 Online Registration on 22 December 2022**
+
+##### <A name="(1)Secondary1OnlineRegistrationon 22 December 2022"></a>(1) Secondary 1 Online Registration on 22 December 2022
+[Back to top](#Backtotop)
 
 **Step 1: Online Registration** (_Deadline – 22 Dec 2022, 11.59 pm_)
 
