@@ -3,43 +3,22 @@ title: Principal’s Message
 permalink: /school-information/Principals-Message/
 description: ""
 ---
-Foreword to students
+### **Principal’s Message 2023**  
 
-**Year of rejuvenation**  
   
-Welcome back to school!  
-  
-The theme for the year 2022 – rejuvenation – signifies a time for us to refresh and reinvigorate ourselves.  
-  
-Like how spring ushers in the growth of new beginnings, we look forward to a year of new areas of growth.
+**Welcome to 2023!** Our school vision of being “A **dynamic community** that thinks and cares” guides our approach in creating a quality schooling experience for our students.
 
-I shall suggest two key goals we can all adopt as we start the new year. 
+The school has accomplished much despite the Covid restrictions in the past 3 years.   These include piloting Full Subject Based Banding and implementing the Personalised Digital Learning Programme (PDLP).  Most significantly, the teachers had worked tirelessly to ensure the quality and continuous learning of our students throughout the Covid period.   We are very proud that EVGians had shown grit and self-directedness.
 
-**Build strong and positive relationships**  
-  
-As we begin the year, let us endeavour to build strong relationships with those around us.  
-  
-We can do so by getting to know and reaching out to others in our class, CCA, home, and community.  
-  
-Bring cheer to those around by making them feel accepted and important. Come together to brainstorm for ideas to make your class and CCA a safe and happy place where everyone can learn and grow in. As we embark on our Values-In-Action projects, empathise with others and be creative in the ways you bring about positive changes in their lives.   
-  
-Remember all of us have our unique set of strengths.  A good place to start is to revisit our **S**trengthsfinder or **S**trengthsexplorer profiles. Hone our strengths as we contribute. In our words and deeds, we can lift others up and enable them to live out their strengths. We can certainly make a difference in big and small ways!  
-  
-**Cultivate a curious mind**  
-  
-Learning is an exciting endeavour. Every one of us can certainly learn, and learn well.  
-  
-We can start by cultivating a curious mind, as we seize every opportunity to learn and grow.  
-  
-Albert Einstein had this to say about curiosity:  
-  
-“The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when one contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries to comprehend only a little of this mystery every day.”  
+Our school’s theme for 2023 is “**Synergy**”.  Synergy means to combine or coordinate to produce a joint effect that is greater than the sum of the parts.  This is a unique characteristic of the Evergreen community.  Together with our partners and parents, we can achieve synergy in three aspects.
 
-So as we go into every class, or take part in any learning experience, be curious.  Do not stop questioning.  Be in awe of the world around as we learn more about it each day in our lessons, and through our diverse schooling experiences. Be patient with yourself but do be determined to learn “a little” every day.  
-  
-May we continue to live out our school mission. Let us “develop a passion to contribute and excel”.  
-  
-I wish you a wonderful year of rejuvenation ahead!
+**First**, we want to continue to prepare our students for the future.  Our Applied Learning Programmes in Effective Communications has extended beyond the English Language to include the Mother Tongue Languages.  The multi-tiered programmes include in-class and out of class experiences that engage students in language use in various contexts. There are also opportunities for students to go on Overseas Learning Journeys as overseas trips are reinstated.  We will also continue to hone 21st Century Skills in our students through their CCA experiences.  More opportunities will be given to all students to relate to one another as well as to solve problems together.
+
+**Second**, we want to promote a positive learning environment that is uplifting and affirming for all.  EVGians are already known for their caring and discipline dispositions, and these strengths will be further harnessed to create a positive classroom culture where there is care for one another, and a common passion to contribute.  Students will have the opportunities to collaborate with one another through academic and CCA programmes.  They will also be able to plan and implement meaningful projects for the community.
+
+**Third**, we will create quality learning experiences that are engaging and ICT-enabled for all students.  Besides keeping abreast of the latest syllabus development, teachers collaborate within departments and with curriculum experts in MOE to promote the use of technology to empower learning.  In the light of Home-Based Learning, and PDLP, learning has become more blended, and tech-enabled with opportunities for students to access learning at their own time and pace.
+
+As we start the year, I urge every EVGian to make every effort to work with one another, and your teachers, to make learning a positive and fun experience for all.  Remember, **together, we are stronger!**
 
 Mr Vincent Toh
 
