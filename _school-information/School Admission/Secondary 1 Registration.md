@@ -231,8 +231,6 @@ For all other enquiries please **call the General Office at 6365-6392 between 8
 
 
 ##### <A name="(8)QuickLinks"></a>(8) Quick Links
-
-*
 [Back to top](#Backtotop)
 
 *   *   Online Registration of Secondary 1 (Please complete by 22 December 2022, 11.59 pm)
@@ -241,7 +239,8 @@ For all other enquiries please **call the General Office at 6365-6392 between 8
         *   **[https://go.gov.sg/evgjoinpsg](https://go.gov.sg/evgjoinpsg)**
 
 
-##### **(9) Materials from 22 Dec 2022 Sec 1 Registration Briefing**
+##### <A name="(9)Materialsfrom22Dec2022Sec1RegistrationBriefing"></a>(9) Materials from 22 Dec 2022 Sec 1 Registration Briefing
+[Back to top](#Backtotop)
 
 The following are the slides and video recording from the 22 Dec 2022 briefing session:
 
