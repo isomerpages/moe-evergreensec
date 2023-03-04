@@ -138,7 +138,8 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 
 *   Please refer to the **Term 1 Letter to Secondary One Parents** attached in our **Parents Gateway message**, for important information about the school and the key events in the school calendar for Term 1 2023.
 
-##### **(5) Reporting to School on 3 January 2023**
+##### <A name="(5)ReportingtoSchoolon3January2023"></a>(5) Reporting to School on 3 January 2023
+[Back to top](#Backtotop)
 
 *   If you are unable to report to Evergreen Secondary on 3 January 2023 due to valid reasons, please contact the General Office directly at **6365-6392** to confirm that you are taking up the place, and we will be able to reserve the place for you.
 
