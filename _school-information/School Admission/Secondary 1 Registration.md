@@ -150,7 +150,8 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
     *   [**https://form.gov.sg/636c4d420036370012df80e0**](https://form.gov.sg/636c4d420036370012df80e0) 
 *   Students seeking admission **must** meet the cut-off point of the school.
 
-##### **(7) Frequently Asked Questions and Other Queries**
+##### <A name="(7)FrequentlyAskedQuestionsandOtherQueries"></a>(7) Frequently Asked Questions and Other Queries
+[Back to top](#Backtotop)
 
 ##### **Sec 1 Registration**
 
