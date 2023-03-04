@@ -18,7 +18,7 @@ Any information regarding Secondary 1 registration 2023 will be disseminated via
 
 **Menu**  
 <a name="Backtotop"></a>
-1.  Secondary 1 Online Registration on 22 December 2022
+1.  [Secondary 1 Online Registration on 22 December 2022](#Secondary1OnlineRegistrationon22December2022)
 2.  Purchase of Textbooks and School 
 3.  Virtual Tour of School
 4.  Secondary 1 Letter to Parents / Guardians
