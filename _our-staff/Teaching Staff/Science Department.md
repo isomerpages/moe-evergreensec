@@ -20,7 +20,7 @@ The Copernicus Research-based Integrated Science Programme (CRISP) aims to insti
 
 **Secondary 2: Project Work, Competitions and Enrichment** **Programmes**
 
-**(****1) Interdisciplinary Project Work**
+**(1) Interdisciplinary Project Work**
 
 As part of the curriculum, students apply the scientific method to plan and carry out investigations to explain interesting phenomena. Alternatively, they embark on the iterative design cycle to engineer solutions to problems faced by people in their daily lives. At the end of the year, they present their findings and products to their classmates. They may even have an opportunity to implement their ideas within the school setting.
 
