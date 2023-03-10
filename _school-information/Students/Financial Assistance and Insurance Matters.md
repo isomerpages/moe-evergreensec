@@ -6,3 +6,4 @@ third_nav_title: Students
 ---
 **MOE Financial Assistance Scheme (MOE FAS)**
 
+**(A) MOE Financial Assistance Scheme (MOE FAS)**
