@@ -4,6 +4,6 @@ permalink: /school-information/Students/Financial-Assistance-and-Insurance-Matte
 description: ""
 third_nav_title: Students
 ---
-**MOE Financial Assistance Scheme (MOE FAS)**
+##### **MOE Financial Assistance Scheme (MOE FAS)**
 
 **(A) MOE Financial Assistance Scheme (MOE FAS)**
