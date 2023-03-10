@@ -83,7 +83,7 @@ Participation in North Zone Volleyball Championship for All Divisions
 
 B Division Girls North Zone 2021 – 4th
 
-![](/images/Our%20Curriculum/CCA/Sports/Volleyball/V2.jpg)
+![](/images/Our%20Curriculum/CCA/Sports/Volleyball/V2.jpeg)
 
 B Division Boys North Zone 2021 – 4th
 
