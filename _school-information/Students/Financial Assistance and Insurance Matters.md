@@ -75,7 +75,7 @@ Types of benefits provided under MOE FAS (Secondary School):
 
 **Application form** can be obtained either from the School General Office or downloaded below.
 
-*   [MOE FAS Application Form](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/12/MOE-FAS-Application-Form.pdf)
+*   [MOE FAS Application Form](/files/MOE%20FAS%202023/MOE-FAS-Application-Form.pdf)
 
 Alternatively, parents can also apply for MOE FAS online via this link: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
@@ -92,7 +92,7 @@ Company: **NTUC Income**
 
 Find out the summary of claims procedure and coverage:
 
-*   [Info about Student's Insurance Plan (NTUC)](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/02/Product-Fact-Sheet-Year-2023.pdf)
+*   [Info about Student's Insurance Plan (NTUC)](/files/MOE%20FAS%202023/Product-Fact-Sheet-Year-2023.pdf)
 
 All claims should be submitted as soon as possible subjected to a cap of 365 days from the date of accident.
 
