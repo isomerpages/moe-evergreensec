@@ -12,4 +12,4 @@ Thank you for taking time to attend the Sec 1 Parents Briefing on Saturday 14 Ja
 
 Thank you.
 
-[Sec1PTM\_Slides2023](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/01/Sec1PTM_Slides2023.pdf)
+[Sec1PTM\_Slides2023](/files/Announcements/Sec%201%20Parents%20Briefing%20Slides/Sec1PTM_Slides2023.pdf)
