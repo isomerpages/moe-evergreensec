@@ -16,7 +16,7 @@ third_nav_title: Sports
 *   Mr Chin Jun Feng (Girls)
 *   Mr Ng Yun Kwang (Boys)
 
-#### Student Leaders
+#### **Student Leaders**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
