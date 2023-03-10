@@ -50,6 +50,7 @@ As a multi-racial Performing Arts CCA group, we work in unison to achieve the be
 *   2021 SYF Arts Presentation – Certificate of Distinction
 
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/EVG%20Chinese%20Orchestra/E2.jpg)
+
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/EVG%20Chinese%20Orchestra/E3.jpg)
 
 
@@ -76,7 +77,3 @@ CCA Open House Performance, conducted by Aloysius Goh, our student conductor.
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/EVG%20Chinese%20Orchestra/E8.jpg)
 
 ![](/images/Our%20Curriculum/CCA/Performing%20Arts/EVG%20Chinese%20Orchestra/E9.jpg)
-
-
-
-
