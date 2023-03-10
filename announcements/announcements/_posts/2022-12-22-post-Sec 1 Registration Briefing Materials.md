@@ -12,7 +12,7 @@ The following are the slides and video recording from the briefing session for y
 
 **(A) Slides from Briefing:**
 
-*   [Sec 1 Registration Briefing Slides (22 Dec 2023)](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/12/Sec1_Registration-Briefing-Slides-22Dec2023.pdf)
+*   [Sec 1 Registration Briefing Slides (22 Dec 2023)](/files/Secondary%201%20Registration/Sec1_Registration-Briefing-Slides-22Dec2023.pdf)
 
 **(B) Video Recording of the 22 Dec 2022 Sec 1 Registration Briefing**
 
