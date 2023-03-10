@@ -14,4 +14,4 @@ Please refer to the attached pdf file for the Sec 1 CCA Trials Schedule 2023.
 
 Sec 1 students are encouraged to attend more than 4 trials so that they will make an informed decision for their CCA choices.
 
-[Sec 1 CCA Trials Schedule 2023](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/01/Sec-1-CCA-Trials-Schedule-2023.pdf)
+[Sec 1 CCA Trials Schedule 2023](/files/Announcements/CCA%20Trials%20Schedule%202023/Sec-1-CCA-Trials-Schedule-2023.pdf)
