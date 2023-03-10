@@ -85,3 +85,21 @@ However, due to the limitations of FormSG, households with the conditions below 
 *   More than 4 children in non-GGAS
 *   More than 3 grandparents residing in the same address
 *   Families with other dependents (e.g. Great grandparents, Aunties/Uncles, Cousins and others)
+
+##### **(B) Student's Insurance Plan**
+
+Company: **NTUC Income**
+
+Find out the summary of claims procedure and coverage:
+
+*   [Info about Student's Insurance Plan (NTUC)](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/02/Product-Fact-Sheet-Year-2023.pdf)
+
+All claims should be submitted as soon as possible subjected to a cap of 365 days from the date of accident.
+
+**Online Submission**
+
+1.  Go to Income’s GPA portal at **https://studentgpa.incomegroupins.com.sg**
+2.  Click on “New/Follow up Accident Claim”
+3.  Complete online claim form
+4.  Upload tax invoice(s), receipts (outpatient/inpatient claims) and required documents
+5.  Confirmation email will be sent to parents or students, and school administrator
