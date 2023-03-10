@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Sec 1 parents,
+
+Thank you for taking time to attend the Sec 1 Parents Briefing on Saturday 14 January 2023. The slides that were shared during the briefing can be found here.
+
+Thank you.
+
+[Sec1PTM\_Slides2023](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/01/Sec1PTM_Slides2023.pdf)
