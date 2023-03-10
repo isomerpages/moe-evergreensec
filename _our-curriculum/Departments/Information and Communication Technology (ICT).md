@@ -24,7 +24,6 @@ All EVGians are expected to be Caring Leaders and Thinking Citizens through your
 
 ![](/images/Our%20Curriculum/Departments/ICT/I2.png)
 
-
 **School ICT Programmes**
 
 1.  ICT Baseline Skills Enrichment Programme \[Microsoft Word, Microsoft Excel & Microsoft PowerPoint\] for Secondary One & Three students.
