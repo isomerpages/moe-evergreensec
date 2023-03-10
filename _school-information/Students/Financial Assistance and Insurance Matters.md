@@ -72,3 +72,16 @@ Types of benefits provided under MOE FAS (Secondary School):
   </tr>
 </tbody>
 </table>
+
+**Application form** can be obtained either from the School General Office or downloaded below.
+
+*   [MOE FAS Application Form](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/12/MOE-FAS-Application-Form.pdf)
+
+Alternatively, parents can also apply for MOE FAS online via this link: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+However, due to the limitations of FormSG, households with the conditions below are to apply for FAS using the **hardcopy forms**.
+
+*   More than 5 children in Government and Government-Aided Schools (GGAS)
+*   More than 4 children in non-GGAS
+*   More than 3 grandparents residing in the same address
+*   Families with other dependents (e.g. Great grandparents, Aunties/Uncles, Cousins and others)
