@@ -5,6 +5,12 @@ description: ""
 ---
 Evergreen Secondary School is committed to helping your child succeed in school and beyond. Here are some of the notable achievements of our EVG Alumni.
 
+**2022**
+
+**LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)**
+
+Name            : Aldrick Au Khin Hon
+
 **2021**
 
 **NGEE ANN POLYTECHNIC’S 2021 GRADUATING CLASS**
