@@ -1,5 +1,0 @@
-collections:
-  open-house:
-    output: true
-    order:
-      - 2023.md
