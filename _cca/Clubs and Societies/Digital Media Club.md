@@ -16,25 +16,24 @@ The Evergreen Secondary School DMC was formed to provide a platform for both stu
 
 **Organisational Structure:**
 
-| PRESIDENT (DIRECTOR OF VIDEOGRAPHY) | NATALIE                                          |
-|-------------------------------------|--------------------------------------------------|
-| PRESIDENT (DIRECTOR OF PHOTOGRAPHY) | JESSIE                                           |
-| VICE PRESIDENT (OPERATIONS)         | CHIK CHIN YEW                                    |
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT (PHOTOGRAPHY) | ANG CHENG YE                                           |
+| PRESIDENT (VIDEOGRAPHY) | NG WEN XUAN                                          |
+| PRESIDENT (AVA) | ZHOU YUSHI                                          |
+| VICE PRESIDENT (OPERATIONS)         | CHING XIN RU JOLIE                                    |
 | VICE PRESIDENT (CYBERWELLNESS)      | XAENA                                            |
-| VICE PRESIDENT (AVA)                | DARPHLYN LIM                                     |
-| VICE PRESIDENT (LIVESTREAM)         | BOEY ZHONG WEI                                   |
-| SECRETARY                           | VENKATAYOGI SHASHANK VAISHNAV                    |
-| ASSISTANT SECRETARY                 | LIM GUAN YING                                    |
-| LOGISTICS (PHOTO)                   | NG YU XIN CELESTE                                |
-| ASSISTANT LOGISTICS (PHOTO)         | ROSFARINA BINTE ROSLI                            |
-| ASSISTANT LOGISTICS (PHOTO)         | CAITLIN GOH                                      |
-| LOGISTICS (VIDEO)                   | MUHAMMAD HARITH FARIHIN BIN MOHAMMAD HISHAMUDDIN |
-| ASSISTANT LOGISTICS (VIDEO)         | SHERYL SOH SI XUAN                               |
-| ASSISTANT LOGISTICS (VIDEO)         | SHELLA SOH SI JIE                                |
-| PUBLICITY (CYBERWELLNESS/EXTERNAL)  | SEE YEOW YEE JESSIE                              |
-| PUBLICITY (INTERNAL AFFAIRS)        |  IZZUL ILHAM BIN RAZI                            |
-| COMMUNICATIONS OFFICER (SEC 2)      | XAENA KHOR JING YI                               |
-| COMMUNICATIONS OFFICER (SEC 2)      | BOEY ZHONG WEI                                   |
+| VICE PRESIDENT (AVA)                | AUDY AMANI BINTE DJOHAN                                     |
+| VICE PRESIDENT (LIVESTREAM)         | GALANIDA EMMANUEL MATTHEW ROQUE                                   |
+| SECRETARY                           | YOYO NG                    |
+| ASSISTANT SECRETARY                 | CHAN YAN HUI                                    |
+| LOGISTICS (PHOTO)                   | CHEN HONG YE                                |
+| LOGISTICS (VIDEO)                   | KYAN ELIJAH NG KAI EN |
+| ASSISTANT LOGISTICS (VIDEO)         | MUSRIDA DEA ANANDA                               |
+| LOGISTICS (AVA)         | ALI MUSLIH BIN MOHAMED AFANDI                               |
+| ASSISTANT LOGISTICS (AVA)         |  LIN JIA HENG                               |
+| COMMUNICATIONS OFFICER (SEC 2)      | CHONG YING EN REGINE                              |
+| COMMUNICATIONS OFFICER (SEC 2)      | GUAN XUE HONG                                 |
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D2.jpg)
 
