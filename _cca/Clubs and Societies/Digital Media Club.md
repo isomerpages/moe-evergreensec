@@ -22,7 +22,6 @@ The Evergreen Secondary School DMC was formed to provide a platform for both stu
 | PRESIDENT (VIDEOGRAPHY) | NG WEN XUAN                                          |
 | PRESIDENT (AVA) | ZHOU YUSHI                                          |
 | VICE PRESIDENT (OPERATIONS)         | CHING XIN RU JOLIE                                    |
-| VICE PRESIDENT (CYBERWELLNESS)      | XAENA                                            |
 | VICE PRESIDENT (AVA)                | AUDY AMANI BINTE DJOHAN                                     |
 | VICE PRESIDENT (LIVESTREAM)         | GALANIDA EMMANUEL MATTHEW ROQUE                                   |
 | SECRETARY                           | YOYO NG                    |
@@ -33,7 +32,7 @@ The Evergreen Secondary School DMC was formed to provide a platform for both stu
 | LOGISTICS (AVA)         | ALI MUSLIH BIN MOHAMED AFANDI                               |
 | ASSISTANT LOGISTICS (AVA)         |  LIN JIA HENG                               |
 | COMMUNICATIONS OFFICER (SEC 2)      | CHONG YING EN REGINE                              |
-| COMMUNICATIONS OFFICER (SEC 2)      | GUAN XUE HONG                                 |
+| COMMUNICATIONS OFFICER (SEC 1)      | GUAN XUE HONG                                 |
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D2.jpg)
 
