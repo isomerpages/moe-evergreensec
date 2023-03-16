@@ -66,11 +66,13 @@ Our DMC Program
 
 Every student in this club is encouraged to participate in the annual NEmation competition, School Digital Media Awards competition and media-related enrichment workshops. The students will also participate in various notable photography competitions and events.
 
-**Competitions and events****:**
+**Appreciate our NSmen 2022 Video Competition**
 
-**Appreciate our NSmen 2022 Video Competition **
+Organised by SAFRA Singapore, one of our entries ‘One Man, Many Hats’ has won the Merit Award, Audience Choice Award and Young Video Maker Award.
 
-Organised by SAFRA Singapore, one of our entries ‘One Man, Many Hats’ has won the Merit Award and Young Video Maker Award.
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/SafraNSmen2022Video.jpeg)
+
+The multiple award-winning production was led by Director Ng Wen Xuan, together with his crew Zhou Yushi, Chan Yan Hui, Yoyo Ng and Kyan Elijah Ng Kai En. 
 
 **Singapore’s Our Home SG 75** **2021**
 
