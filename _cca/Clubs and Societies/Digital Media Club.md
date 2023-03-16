@@ -59,60 +59,18 @@ The students of Digital Media Club will contribute to the school through providi
 
 
 Our DMC Program
+![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/Journey_DMC.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-52wp{background-color:#FFF;color:#3A3A3A;font-style:italic;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Secondary 1</span></th>
-    <th class="tg-dox4" colspan="4"><span style="font-weight:inherit;font-style:inherit">Basic Photography Workshop</span><br><br><span style="font-weight:inherit;font-style:inherit">Basic (Event) Videography Workshop</span><br><span style="font-weight:inherit;font-style:inherit">Creative Story Conceptualisation Workshop</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Secondary 2 onwards</span><br><br><span style="font-weight:inherit;font-style:inherit">(Specialisation / Division)</span></td>
-    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Photography</span></td>
-    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Videography</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Advanced Photography Workshop</span><br><br><span style="font-weight:inherit;font-style:inherit">Photography for School Needs</span></td>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Short Film Production Workshop</span><br><br><span style="font-weight:inherit;font-style:inherit">Videography for School Needs</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Secondary 3 or earlier</span><br><span style="font-weight:inherit;font-style:inherit">(Sub-Divisional Skills)</span></td>
-    <td class="tg-52wp"><span style="font-weight:inherit;font-style:italic">AVA Support</span></td>
-    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Livestreaming</span></td>
-    <td class="tg-52wp"><span style="font-weight:inherit;font-style:italic">Cyber Wellness</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Digital Mixer Training,</span><br><br><span style="font-weight:inherit;font-style:inherit">AVA Support for School Needs</span></td>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Multi-camera Events Video Live-Mixing Workshop,</span><br><br><span style="font-weight:inherit;font-style:inherit">Livestreaming for School events</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Trainings and Activities in collaboration with EVG Cyber Wellness Team (Student Well-being Committee)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Secondary 4/5</span></td>
-    <td class="tg-dox4" colspan="4"><span style="font-weight:inherit;font-style:inherit">Portfolio Organisation</span><br><br><span style="font-weight:inherit;font-style:inherit">Mentorship, Leadership and Succession</span></td>
-  </tr>
-</tbody>
-</table>
-
-**Outreach Programme**
-
-Students of DMC play a role in influencing their peers to be digitally-responsible citizens. They contribute by setting up booths at the annual Cyberwellness Carnival.
 
 **Awards and Achievements**
 
 Every student in this club is encouraged to participate in the annual NEmation competition, School Digital Media Awards competition and media-related enrichment workshops. The students will also participate in various notable photography competitions and events.
 
 **Competitions and events****:**
+
+**Appreciate our NSmen 2022 Video Competition **
+
+Organised by SAFRA Singapore, one of our entries ‘One Man, Many Hats’ has won the Merit Award and Young Video Maker Award.
 
 **Singapore’s Our Home SG 75** **2021**
 
