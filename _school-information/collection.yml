@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Our Staff.md
       - School Information.md
       - School Corporate Videos.md
       - Principal’s Message.md
