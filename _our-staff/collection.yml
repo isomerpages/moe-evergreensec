@@ -2,7 +2,6 @@ collections:
   our-staff:
     output: true
     order:
-      - Key Personnel.md
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/English Department.md
       - Teaching Staff/Mathematics Department.md
