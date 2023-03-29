@@ -21,6 +21,8 @@ links:
         url: /school-information/Students/Students/
       - title: Safety
         url: /school-information/Safety/Safety/
+      - title: Our Staff
+        url: /permalink
   - title: Our Staff
     url: /our-staff/School-Leaders/
     sublinks:
