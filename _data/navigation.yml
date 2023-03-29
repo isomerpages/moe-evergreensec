@@ -1,6 +1,6 @@
 logo: /images/Homepage/Logo.png
 links:
-  - title: School Information
+  - title: About Us
     url: /school-information/School-Information/
     sublinks:
       - title: School Corporate Videos
@@ -23,7 +23,7 @@ links:
         url: /school-information/Safety/Safety/
       - title: Our Staff
         url: /permalink
-  - title: Our Staff
+  - title: Life@EVG
     url: /our-staff/School-Leaders/
     sublinks:
       - title: School Leaders
@@ -36,7 +36,7 @@ links:
         url: /our-staff/Executive-and-Administrative-Staff/
       - title: Useful links for staff
         url: /our-staff/Useful-links-for-staff/
-  - title: Our Curriculum
+  - title: Curriculum@EVG
     url: /cca/CCA-Schedule/
     sublinks:
       - title: CCA
@@ -49,7 +49,7 @@ links:
         url: /our-curriculum/CCE/CCE-Framework/
       - title: Achievements
         url: /our-curriculum/Achievements/Achievements/
-  - title: Our Partners
+  - title: Co-Curriculum@EVG
     url: /our-partners/Parent-Support-Group/
     sublinks:
       - title: Parent Support Group
@@ -58,6 +58,8 @@ links:
         url: /our-partners/Our-Alumni/
       - title: Contact Us
         url: /permalink
-  - title: Our Staff
+  - title: Success Stories@EVG
     url: /permalink
     sublinks: []
+  - title: Info for EVGians
+    collection: aestheti-dgn-tech-food-sc-dpt
