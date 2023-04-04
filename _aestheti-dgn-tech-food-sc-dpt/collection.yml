@@ -2,6 +2,8 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - For Students/Character & Citizenship Development (Cyberwellness &
+        Education & Career Guidance).md
       - For Students/Travel Declarations.md
       - For Students/.keep
       - For Students/Timetables.md
