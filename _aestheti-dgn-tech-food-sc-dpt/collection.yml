@@ -2,6 +2,7 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - For Students/Uniform & Textbook Matters.md
       - For Students/Timetables.md
       - For Students/.keep
       - School Information.md
