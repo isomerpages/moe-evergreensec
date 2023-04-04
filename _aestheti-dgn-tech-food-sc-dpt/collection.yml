@@ -2,15 +2,15 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
-      - For Students/Our School Newsletter.md
-      - For Students/CCA Schedule.md
-      - For Students/Character & Citizenship Development (Cyberwellness &
-        Education & Career Guidance).md
-      - For Students/Travel Declarations.md
       - For Students/.keep
       - For Students/Timetables.md
       - For Students/Uniform & Textbook Matters.md
       - For Students/Financial Assistance & Insurance Matters.md
+      - For Students/Travel Declarations.md
+      - For Students/Character & Citizenship Development (Cyberwellness &
+        Education & Career Guidance).md
+      - For Students/CCA Schedule.md
+      - For Students/Our School Newsletter.md
       - School Information.md
       - School wide Aesthetics E3 Programme.md
       - Art/Arts.md
