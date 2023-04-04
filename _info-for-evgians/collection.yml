@@ -2,11 +2,6 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - For Parents/Parent Support Group.md
-      - For Parents/Parents Gateway.md
-      - For Parents/.keep
-      - For Staff/Useful links for staff.md
-      - For Staff/.keep
       - For Students/.keep
       - For Students/Timetables.md
       - For Students/Uniform & Textbook Matters.md
@@ -16,20 +11,25 @@ collections:
         Education & Career Guidance).md
       - For Students/CCA Schedule.md
       - For Students/Our School Newsletter.md
+      - For Staff/.keep
+      - For Staff/Useful links for staff.md
+      - For Parents/.keep
+      - For Parents/Parent Support Group.md
+      - For Parents/Parents Gateway.md
       - School Information.md
       - School wide Aesthetics E3 Programme.md
+      - Art/.keep
       - Art/Arts.md
       - Art/Art Lower Secondary.md
       - Art/Art Upper Secondary.md
       - Art/Art Enrichment.md
       - Art/Learning Journey.md
-      - Art/.keep
+      - Design and Technology/.keep
       - Design and Technology/Design and Technology.md
       - Design and Technology/Design and Technology Lower Secondary.md
       - Design and Technology/Design and Technology Upper Secondary.md
-      - Design and Technology/.keep
       - Music.md
+      - Nutrition And Food Science/.keep
       - Nutrition And Food Science/Nutrition And Food Science.md
       - Nutrition And Food Science/NFS Lower Secondary.md
       - Nutrition And Food Science/NFS Upper Secondary.md
-      - Nutrition And Food Science/.keep
