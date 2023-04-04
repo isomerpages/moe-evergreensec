@@ -2,10 +2,10 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
-      - For Students/Financial Assistance & Insurance Matters.md
-      - For Students/Uniform & Textbook Matters.md
-      - For Students/Timetables.md
       - For Students/.keep
+      - For Students/Timetables.md
+      - For Students/Uniform & Textbook Matters.md
+      - For Students/Financial Assistance & Insurance Matters.md
       - School Information.md
       - School wide Aesthetics E3 Programme.md
       - Art/Arts.md
