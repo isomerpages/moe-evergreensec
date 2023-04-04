@@ -2,6 +2,7 @@ collections:
   aestheti-dgn-tech-food-sc-dpt:
     output: true
     order:
+      - For Students/CCA Schedule.md
       - For Students/Character & Citizenship Development (Cyberwellness &
         Education & Career Guidance).md
       - For Students/Travel Declarations.md
