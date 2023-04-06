@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/Timetables.md
       - For Students/Uniform & Textbook Matters.md
       - For Students/Financial Assistance & Insurance Matters.md
       - For Students/Travel Declarations.md
