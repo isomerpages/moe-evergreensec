@@ -2,7 +2,6 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - Financial Assistance and Insurance Matters.md
       - For Students/Travel Declaration.md
       - For Students/Uniform and Textbook Matters.md
       - For Students/Timetables.md
