@@ -2,6 +2,7 @@ collections:
   info-for-evgians:
     output: true
     order:
+      - For Students/Newsletter by Vibes.md
       - For Students/Education and Career Guidance (ECG).md
       - For Students/Cyber Wellness.md
       - For Students/CCA Schedule.md
