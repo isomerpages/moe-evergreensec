@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  unpublished-old-materials:
     output: true
     order:
       - Teaching Staff/English Department.md
