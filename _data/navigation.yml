@@ -63,12 +63,3 @@ links:
     sublinks: []
   - title: Info For EVGians
     collection: info-for-evgians
-  - title: Info For EVGians (TEST)
-    url: /info-for-evgians
-    sublinks:
-      - title: For Students
-        url: /for-students
-      - title: For Staff
-        url: /for-staff
-      - title: For Parents
-        url: /for-parents
