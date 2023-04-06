@@ -1,5 +1,5 @@
 collections:
-  school-information:
+  about-us:
     output: true
     order:
       - Our Staff/Teaching Staff.md
