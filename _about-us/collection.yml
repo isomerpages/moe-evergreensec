@@ -2,21 +2,22 @@ collections:
   about-us:
     output: true
     order:
+      - Principal’s Message.md
+      - The School Advisory Committee.md
+      - Our Staff/.keep
       - Our Staff/Teaching Staff.md
       - Our Staff/Key Personnel.md
       - Our Staff/School Leaders.md
-      - Our Staff/.keep
       - School Information.md
       - School Corporate Videos.md
-      - Principal’s Message.md
-      - The School Advisory Committee.md
+      - School Admission/.keep
       - School Admission/Secondary 1 Appeal.md
       - School Admission/School Admission.md
       - School Admission/Secondary 1 Registration.md
-      - School Admission/.keep
       - Direct School Admission DSA Sec.md
       - Learning Environment.md
       - Newsletter by Vibes.md
+      - Students/.keep
       - Students/Students.md
       - Students/Timetables.md
       - Students/Uniform and Textbook Matters.md
@@ -26,8 +27,7 @@ collections:
       - Students/Post Secondary Information.md
       - Students/Useful links for Students.md
       - Students/Secondary 1 Registration (2023).md
-      - Students/.keep
+      - Safety/.keep
       - Safety/Safety.md
       - Safety/Dengue.md
       - Safety/Haze.md
-      - Safety/.keep
