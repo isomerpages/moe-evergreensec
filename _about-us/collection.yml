@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal’s Message.md
       - The School Advisory Committee.md
       - Our Staff/.keep
@@ -27,3 +26,4 @@ collections:
       - Safety/Safety.md
       - Safety/Dengue.md
       - Safety/Haze.md
+      - Contact Us.md
