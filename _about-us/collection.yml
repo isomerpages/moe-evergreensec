@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Information/Direct School Admission DSA Sec.md
       - Information/School Corporate Videos.md
       - Information/School Information.md
       - Information/.keep
