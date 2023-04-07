@@ -9,7 +9,6 @@ links:
   - title: Co-Curricular@Evg
     collection: cca-at-evg
   - title: Success Stories@EVG
-    url: /permalink
-    sublinks: []
+    collection: stories-at-evg
   - title: Info For EVGians
     collection: info-for-evgians
