@@ -1,5 +1,5 @@
 collections:
-  cca:
+  cca-at-evg:
     output: true
     order:
       - CCA in Evergreen.md
