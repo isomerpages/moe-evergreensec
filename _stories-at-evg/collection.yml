@@ -1,5 +1,5 @@
 collections:
-  our-partners:
+  stories-at-evg:
     output: true
     order:
       - Our Alumni.md
