@@ -5,18 +5,7 @@ links:
   - title: Life@EVG
     collection: life-at-evg
   - title: Curriculum@EVG
-    url: /curriculum/alp
-    sublinks:
-      - title: CCA
-        url: /cca/CCA-Schedule/
-      - title: Departments
-        url: /our-curriculum/Departments/Aesthetics-Design-and-Technology-DT-and-Nutrient-and-Food-Science-NFS/
-      - title: Distinctive School Programmes
-        url: /our-curriculum/Distinctive-School-Programmes/Distinctive-School-Programmes/
-      - title: CCE
-        url: /our-curriculum/CCE/CCE-Framework/
-      - title: Achievements
-        url: /our-curriculum/Achievements/Achievements/
+    collection: curriculum-at-evg
   - title: Co-Curricular@Evg
     collection: cca-at-evg
   - title: Success Stories@EVG
