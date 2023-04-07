@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Information/Direct School Admission DSA Sec.md
-      - Information/School Corporate Videos.md
-      - Information/School Information.md
-      - Information/.keep
       - Principal’s Message.md
       - The School Advisory Committee.md
       - Our Staff/.keep
       - Our Staff/Teaching Staff.md
       - Our Staff/Key Personnel.md
       - Our Staff/School Leaders.md
+      - Information/.keep
+      - Information/Direct School Admission DSA Sec.md
+      - Information/School Corporate Videos.md
+      - Information/School Information.md
       - School Admission/.keep
       - School Admission/Secondary 1 Appeal.md
       - School Admission/School Admission.md
