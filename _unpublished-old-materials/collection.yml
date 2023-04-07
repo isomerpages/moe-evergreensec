@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Secondary 1 Registration (2023).md
       - Useful links for Students.md
       - Post Secondary Information.md
       - Announcements.md
