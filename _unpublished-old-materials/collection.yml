@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Safety/Safety.md
       - Safety/.keep
       - Secondary 1 Registration (2023).md
       - Useful links for Students.md
