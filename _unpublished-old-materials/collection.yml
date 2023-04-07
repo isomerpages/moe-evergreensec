@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Nutrition and Food Science/.keep
       - Design & Technology/.keep
       - Art/.keep
       - School Information.md
