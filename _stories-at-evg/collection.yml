@@ -2,6 +2,7 @@ collections:
   stories-at-evg:
     output: true
     order:
+      - Student Achievements/2020.md
       - Student Achievements/2021.md
       - Student Achievements/Achievements.md
       - Student Achievements/.keep
