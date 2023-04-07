@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Safety/Haze.md
       - Safety/Dengue.md
       - Safety/Safety.md
       - Safety/.keep
