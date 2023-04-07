@@ -1,24 +1,7 @@
 logo: /images/Homepage/Logo.png
 links:
   - title: About Us
-    url: /school-information/School-Information/
-    sublinks:
-      - title: Principal’s Message 2022
-        url: /school-information/Principals-Message/
-      - title: School Advisory Committee
-        url: /school-information/The-School-Advisory-Committee/
-      - title: Our Staff
-        url: /permalink
-      - title: School Corporate Videos
-        url: /school-information/School-Information/
-      - title: School Admission
-        url: /school-information/School-Admission/School-Admission/
-      - title: Direct School Admission
-        url: /school-information/Direct-School-Admission/
-      - title: Safety
-        url: /school-information/Safety/Safety/
-      - title: School Information
-        url: /permalink
+    collection: about-us
   - title: Life@EVG
     url: /our-staff/School-Leaders/
     sublinks:
