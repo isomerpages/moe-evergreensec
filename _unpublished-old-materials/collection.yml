@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - School Information.md
       - Music.md
       - School wide Aesthetics E3 Programme.md
       - Teaching Staff/English Department.md
