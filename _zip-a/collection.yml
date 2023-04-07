@@ -1,5 +1,5 @@
 collections:
-  drive-a:
+  zip-a:
     output: true
     order:
       - Secondary 1 Registration.md
