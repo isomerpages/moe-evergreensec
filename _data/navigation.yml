@@ -26,11 +26,8 @@ links:
         url: /our-curriculum/CCE/CCE-Framework/
       - title: Achievements
         url: /our-curriculum/Achievements/Achievements/
-  - title: Co-Curriculum@EVG
-    url: /co-curricular
-    sublinks:
-      - title: Contact Us
-        url: /permalink
+  - title: Co-Curricular@EVG
+    collection: cca
   - title: Success Stories@EVG
     url: /permalink
     sublinks: []
