@@ -2,22 +2,23 @@ collections:
   cca:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - CoCurricular.md
+      - Learning for Life Programme (LLP).md
+      - Clubs and Societies/.keep
       - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/English Literary Drama and Debate Society.md
       - Clubs and Societies/EVG Singapore Youth Flying Club.md
       - Clubs and Societies/Digital Media Club.md
       - Clubs and Societies/Interact Club.md
       - Clubs and Societies/Prefectorial Board.md
-      - Clubs and Societies/.keep
+      - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Evergreen Secondary School Chinese Orchestra (EVGCO).md
       - Performing Arts/Gamelan Ensemble.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/EVG Malay Dance Club.md
-      - Performing Arts/.keep
+      - Sports/.keep
       - Sports/Sports.md
       - Sports/Athletics Cross Country.md
       - Sports/Badminton.md
@@ -26,10 +27,9 @@ collections:
       - Sports/Rugby.md
       - Sports/Touch Rugby.md
       - Sports/Volleyball.md
-      - Sports/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corps (NCC Land).md
       - Uniformed Groups/National Civil Defence Cadet Corp (NCDCC).md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/.keep
