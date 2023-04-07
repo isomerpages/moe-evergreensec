@@ -2,6 +2,7 @@ collections:
   unpublished-our-curriculum:
     output: true
     order:
+      - Teaching Staff.md
       - Malay Language.md
       - Chinese Language.md
       - Departments/Aesthetics, Design & Technology (D&T) and Nutrient & Food
