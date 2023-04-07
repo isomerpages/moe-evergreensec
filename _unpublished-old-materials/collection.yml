@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Design & Technology/.keep
       - Art/.keep
       - School Information.md
       - Music.md
