@@ -1,5 +1,5 @@
 collections:
-  unpublished-our-curriculum:
+  zip-b:
     output: true
     order:
       - Teaching Staff.md
