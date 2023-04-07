@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CoCurricular.md
+      - CCA in Evergreen.md
       - Learning for Life Programme (LLP).md
       - Clubs and Societies/.keep
       - Clubs and Societies/Clubs and Societies.md
