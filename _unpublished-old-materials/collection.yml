@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Students.md
       - Nutrition and Food Science/NFS Lower Secondary.md
       - Nutrition and Food Science/NFS Upper Secondary.md
       - Nutrition and Food Science/Nutrition And Food Science.md
