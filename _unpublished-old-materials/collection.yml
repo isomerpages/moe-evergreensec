@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Secondary 1 Registration.md
       - Secondary 1 Appeal.md
       - Safety/Haze.md
       - Safety/Dengue.md
