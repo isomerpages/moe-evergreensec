@@ -2,6 +2,7 @@ collections:
   unpublished-old-materials:
     output: true
     order:
+      - Nutrition and Food Science/NFS Upper Secondary.md
       - Nutrition and Food Science/Nutrition And Food Science.md
       - Nutrition and Food Science/.keep
       - Design & Technology/Design and Technology Lower Secondary.md
