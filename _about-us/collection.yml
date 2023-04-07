@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Information/School Corporate Videos.md
       - Information/School Information.md
       - Information/.keep
       - Principal’s Message.md
