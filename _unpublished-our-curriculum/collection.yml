@@ -2,6 +2,7 @@ collections:
   unpublished-our-curriculum:
     output: true
     order:
+      - Chinese Language.md
       - Departments/Aesthetics, Design & Technology (D&T) and Nutrient & Food
         Science (NFS) Department.md
       - Departments/English Department.md
