@@ -1,5 +1,5 @@
 collections:
-  secondary-1-registration:
+  zip-sec-1-registration:
     output: true
     order:
       - Secondary 1 Online Registration on 23 December 2021.md
