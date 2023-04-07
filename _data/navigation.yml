@@ -3,16 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: Life@EVG
-    url: /our-staff/School-Leaders/
-    sublinks:
-      - title: School Leaders
-        url: /our-staff/School-Leaders/
-      - title: Key Personnel
-        url: /our-staff/Key-Personnel/
-      - title: Teaching Staff
-        url: /our-staff/Teaching-Staff/Teaching-Staff/
-      - title: Executive & Administrative S
-        url: /our-staff/Executive-and-Administrative-Staff/
+    collection: life-at-evg
   - title: Curriculum@EVG
     url: /curriculum/alp
     sublinks:
@@ -26,7 +17,7 @@ links:
         url: /our-curriculum/CCE/CCE-Framework/
       - title: Achievements
         url: /our-curriculum/Achievements/Achievements/
-  - title: Cca At Evg
+  - title: Co-Curricular@Evg
     collection: cca-at-evg
   - title: Success Stories@EVG
     url: /permalink
