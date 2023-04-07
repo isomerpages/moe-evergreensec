@@ -1,4 +1,5 @@
 collections:
   life-at-evg:
     output: true
-    order: []
+    order:
+      - Learning Environment.md
