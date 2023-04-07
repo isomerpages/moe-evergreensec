@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CoCurricular Activities.md
+      - CoCurricular.md
       - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/English Literary Drama and Debate Society.md
       - Clubs and Societies/EVG Singapore Youth Flying Club.md
