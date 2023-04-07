@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Nutrition and Food Science/.keep
+      - Design & Technology/Design and Technology Upper Secondary.md
       - Design & Technology/Design and Technology.md
       - Design & Technology/.keep
       - Art/Learning Journey.md
