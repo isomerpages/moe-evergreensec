@@ -3,25 +3,21 @@ links:
   - title: About Us
     url: /school-information/School-Information/
     sublinks:
-      - title: School Corporate Videos
-        url: /school-information/School-Information/
       - title: Principal’s Message 2022
         url: /school-information/Principals-Message/
-      - title: The School Advisory Committee
+      - title: School Advisory Committee
         url: /school-information/The-School-Advisory-Committee/
+      - title: Our Staff
+        url: /permalink
+      - title: School Corporate Videos
+        url: /school-information/School-Information/
       - title: School Admission
         url: /school-information/School-Admission/School-Admission/
       - title: Direct School Admission
         url: /school-information/Direct-School-Admission/
-      - title: Learning Environment
-        url: /school-information/Learning-Environment/
-      - title: Newsletter by Vibes
-        url: /school-information/Newsletter-by-Vibes/
-      - title: Students
-        url: /school-information/Students/Students/
       - title: Safety
         url: /school-information/Safety/Safety/
-      - title: Our Staff
+      - title: School Information
         url: /permalink
   - title: Life@EVG
     url: /our-staff/School-Leaders/
