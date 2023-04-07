@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Information/School Information.md
       - Information/.keep
       - Principal’s Message.md
       - The School Advisory Committee.md
