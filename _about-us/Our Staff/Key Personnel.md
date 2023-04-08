@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 | Ms Siti Mariam Binte Muhammad | SH - History | siti_mariam_muhammad@moe.edu.sg |
 | Ms Chong Siew Sia | LH - Character & Citizenship Education (CCE) | chong_siew_sia@moe.edu.sg |
 | Ms Yew Min'er Mindice| LH - Mathematics | yew_miner_mindice@moe.edu.sg |
-| -------- | -------- | -------- |
+| Ms Chia Ai Li, Joan | LH - Science | chia_ai_li_joan@moe.edu.sg |
 | -------- | -------- | -------- |
 | -------- | -------- | -------- |
 | -------- | -------- | -------- |
