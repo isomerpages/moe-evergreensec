@@ -68,8 +68,7 @@ iii. Cross Country (Boys &amp; Girls)
 iv. Netball (Girls)  
 v. Rugby (Boys)  
 vi. Table Tennis (Boys &amp; Girls)  
-vii. Tag/Touch Rugby (Girls)  
-viii. Volleyball (Boys &amp; Girls)
+vii. Volleyball (Boys &amp; Girls)
 
 8.&nbsp; &nbsp; &nbsp;Successful applicants will be nurtured through our distinctive programmes to take on student leadership roles in school-wide programmes and in co-curricular activities. Some of these developmental programmes include communication skills and student leadership development programmes.
 
