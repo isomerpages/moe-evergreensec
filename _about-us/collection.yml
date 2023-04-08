@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Social Media/.keep
       - Principal’s Message.md
       - The School Advisory Committee.md
       - Our Staff/.keep
@@ -14,4 +13,5 @@ collections:
       - Information/School Admission.md
       - Information/Safety.md
       - Information/Direct School Admission DSA Sec.md
+      - Social Media/.keep
       - Contact Us.md
