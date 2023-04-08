@@ -18,6 +18,11 @@ third_nav_title: Our Staff
 | Mr Imran Bin Zainal | HOD - School Staff Developer | imran_zainal@moe.edu.sg |
 | Ms Loke Lay Fang | HOD - Science | loke_lay_fang@moe.edu.sg |
 | Ms Sharie Ong Minyu | SH - CCA & School Health  | ong_minyu@moe.edu.sg |
-| Ms Sew Mek Len | SH - Chinese Language | -------- |
+| Ms Sew Mek Len | SH - Chinese Language | sew_mek_len@moe.edu.sg |
+| Ms Siti Mariam Binte Muhammad | SH - History | siti_mariam_muhammad@moe.edu.sg |
+| Ms Chong Siew Sia | LH - Character & Citizenship Education (CCE) | chong_siew_sia@moe.edu.sg |
+| Ms Yew Min'er Mindice| LH - Mathematics | yew_miner_mindice@moe.edu.sg |
+| -------- | -------- | -------- |
+| -------- | -------- | -------- |
 | -------- | -------- | -------- |
 | -------- | -------- | -------- |
