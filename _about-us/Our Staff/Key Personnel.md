@@ -6,6 +6,7 @@ third_nav_title: Our Staff
 ---
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
+| Mr Imran Bin Zainal | School Staff Developer | imran_zainal@moe.edu.sg |
 | Ms Pushpalatha d/o Krishnan     | HOD - Aesthetics & D&T     | pushpalatha_krishnan@moe.edu.sg     |
 |Ms Julia Chia Jing Yi | HOD - Character & Citizenship Education (CCE) |julia_chia_jing_yi@moe.edu.sg |
 | Mr Abdul Aziz Bin Mohamad | HOD - Discipline | abdul_aziz_mohamad@moe.edu.sg |
@@ -15,7 +16,6 @@ third_nav_title: Our Staff
 | Mr Chong Sze Kei | HOD - Mathematics | chong_sze_kei@moe.edu.sg |
 | Mr Zulkarnain B Sarion  | HOD - Mother Tongue Languages | zulkarnain_bin_sarion@moe.edu.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@moe.edu.sg |
-| Mr Imran Bin Zainal | HOD - School Staff Developer | imran_zainal@moe.edu.sg |
 | Ms Loke Lay Fang | HOD - Science | loke_lay_fang@moe.edu.sg |
 | Ms Sharie Ong Minyu | SH - CCA & School Health  | ong_minyu@moe.edu.sg |
 | Ms Sew Mek Len | SH - Chinese Language | sew_mek_len@moe.edu.sg |
@@ -28,12 +28,3 @@ third_nav_title: Our Staff
 | Mr Anantharaja Krishnan Samy | Assistant Year Head | anantharaja_krishnan_samy@moe.edu.sg |
 | Ms Joanna Lee Teck Miang | Assistant Year Head | lee_teck_miang@moe.edu.sg |
 | Mr Ratish Balakrishnan | Assistant Year Head | ratish_balakrishnan@moe.edu.sg |
-| Ms Tina Kishore Sajnani | LT - English Literature | tina_kishore_sajnani@moe.edu.sg |
-| Ms Ma Ning | ST - Chinese Language | ma_ning@moe.edu.sg |
-| Mr Chua Chin-Lung Tyrus | ST - English Language | tyrus_chua_chin-lung@moe.edu.sg |
-| Ms Nor Zamzarina Bte Kamis | ST - Geography | nor_zamzarina_kamis@moe.edu.sg |
-| Mr Alawden s/o Myden Pillai | ST - History | alawden_myden_pillai@moe.edu.sg |
-| Ms Norhayati Bte Jidin | ST - Malay Language | norhayati_jidin@moe.edu.sg |
-| Mr Goh Poh Min | ST - Mathematics | goh_poh_min@moe.edu.sg |
-| Ms Tan Wah Sing | ST - Mathematics | tan_wah_sing@moe.edu.sg |
-| Mr Samuel Soong Rui | ST - Music | soong_rui_samuel@moe.edu.sg |
