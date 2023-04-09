@@ -7,10 +7,10 @@ third_nav_title: Our Staff
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Imran Bin Zainal | School Staff Developer | imran_zainal@moe.edu.sg |
-| Ms Pushpalatha d/o Krishnan     | HOD - Aesthetics & D&T     | pushpalatha_krishnan@moe.edu.sg     |
+| Ms Pushpalatha d/o Krishnan     | HOD - Aesthetics | pushpalatha_krishnan@moe.edu.sg     |
 |Ms Julia Chia Jing Yi | HOD - Character & Citizenship Education (CCE) |julia_chia_jing_yi@moe.edu.sg |
 | Mr Abdul Aziz Bin Mohamad | HOD - Discipline | abdul_aziz_mohamad@moe.edu.sg |
-| Ms Hanna Maryam Bte Samri | HOD - English and Literature | hanna_maryam_samri@moe.edu.sg |
+| Ms Hanna Maryam Bte Samri | HOD - English Language and Literature | hanna_maryam_samri@moe.edu.sg |
 | Ms Yong Shing Peng Sabrina | HOD - Humanities | yong_shing_peng_sabrina@moe.edu.sg |
 | Mr Chua Swee Heng Melvin   | HOD - Information & Communication Technology (ICT) | chua_swee_heng_melvin@moe.edu.sg |
 | Mr Chong Sze Kei | HOD - Mathematics | chong_sze_kei@moe.edu.sg |
