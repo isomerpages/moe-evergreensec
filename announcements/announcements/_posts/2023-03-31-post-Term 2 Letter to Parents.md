@@ -6,16 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents/Guardians,
+Dear Parents/Guardian,
 
-Welcome back to Term 2:)
+Please access the updated Term 2 timetable for the respective classes here :
 
-Please refer to the attached Letters to Parents for important Term 2 information.
-
-[](/files/letter-to-parents_term2_2023_sec_1.pdf)
-
-[](/files/letter-to-parents_term2_2023_sec_2.pdf)
-
-[](/files/letter-to-parents_term2_2023_sec_3.pdf)
-
-[](/files/letter-to-parents_term2_2023_sec_45.pdf)
+[2023 Term 2 Timetable\_Classes\_ver3d\_updated 31 Mar](https://evergreensec.moe.edu.sg/wp-content/uploads/2023/03/2023-Term-2-Timetable_Classes_ver3d_updated-31-Mar.pdf)
