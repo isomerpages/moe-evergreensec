@@ -17,12 +17,12 @@ third_nav_title: Our Staff
 | Mr Zulkarnain B Sarion  | HOD - Mother Tongue Languages | zulkarnain_bin_sarion@moe.edu.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@moe.edu.sg |
 | Ms Loke Lay Fang | HOD - Science | loke_lay_fang@moe.edu.sg |
-| Ms Sharie Ong Minyu | SH - CCA & School Health  | ong_minyu@moe.edu.sg |
-| Ms Sew Mek Len | SH - Chinese Language | sew_mek_len@moe.edu.sg |
-| Ms Siti Mariam Binte Muhammad | SH - History | siti_mariam_muhammad@moe.edu.sg |
-| Ms Chong Siew Sia | LH - Character & Citizenship Education (CCE) | chong_siew_sia@moe.edu.sg |
-| Ms Yew Min'er Mindice| LH - Mathematics | yew_miner_mindice@moe.edu.sg |
-| Ms Chia Ai Li, Joan | LH - Science | chia_ai_li_joan@moe.edu.sg |
+| Ms Sharie Ong Minyu | Subject Head - CCA & School Health  | ong_minyu@moe.edu.sg |
+| Ms Sew Mek Len | Subject Head - Chinese Language | sew_mek_len@moe.edu.sg |
+| Ms Siti Mariam Binte Muhammad | Subject Head - History | siti_mariam_muhammad@moe.edu.sg |
+| Ms Chong Siew Sia | Level Head - Character & Citizenship Education (CCE) | chong_siew_sia@moe.edu.sg |
+| Ms Yew Min'er Mindice| Level Head - Mathematics | yew_miner_mindice@moe.edu.sg |
+| Ms Chia Ai Li, Joan | Level Head - Science | chia_ai_li_joan@moe.edu.sg |
 | Mr Oun Yejiu | Year Head | oun_yejiu@moe.edu.sg |
 | Mr Mohammad Shahril Bin Jumat | Year Head | mohammad_shahril_jumat@moe.edu.sg |
 | Mr Anantharaja Krishnan Samy | Assistant Year Head | anantharaja_krishnan_samy@moe.edu.sg |
