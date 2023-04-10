@@ -9,6 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/hero_banner_1920x720.png
   - resources:
-      title: Announcements, news and events
       button: Read more
+      subtitle: Announcements, News & Events
 ---
