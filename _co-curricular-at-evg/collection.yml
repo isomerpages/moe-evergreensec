@@ -2,6 +2,7 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA Uniformed Groups/.keep
       - CCA   Clubs & Society/.keep
       - CCA   Clubs & Society/Prefectorial Board.md
       - CCA   Clubs & Society/Interact Club.md
