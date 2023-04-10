@@ -4,12 +4,12 @@ favicon: /images/Homepage/evergreen sec logo final color (2)_jan 2016 (rgb with
   transparent background).png
 colors:
   primary-color: "#226704"
-  secondary-color: "#86091b"
+  secondary-color: "#53ac62"
   media-colors:
     - title: media-color-one
-      color: "#6f9a49"
+      color: "#971122"
     - title: media-color-two
-      color: "#4d9f55"
+      color: "#e34008"
     - title: media-color-three
       color: "#008f12"
     - title: media-color-four
