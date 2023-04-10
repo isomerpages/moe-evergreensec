@@ -2,6 +2,7 @@ collections:
   zip-a:
     output: true
     order:
+      - Clubs and Societies.md
       - CCA in Evergreen.md
       - Secondary 1 Registration.md
       - Secondary 1 Appeal.md
