@@ -2,15 +2,15 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
-      - CCA Uniform Groups.md
-      - CCA Sports/.keep
-      - CCA Performing Arts/.keep
+      - CCA   Clubs & Society/.keep
       - CCA   Clubs & Society/Prefectorial Board.md
       - CCA   Clubs & Society/Interact Club.md
       - CCA   Clubs & Society/EVG Singapore Youth Flying Club.md
       - CCA   Clubs & Society/Digital Media Club.md
       - CCA   Clubs & Society/English Literary Drama and Debate Society.md
-      - CCA   Clubs & Society/.keep
+      - CCA Performing Arts/.keep
+      - CCA Sports/.keep
+      - CCA Uniform Groups.md
       - Learning for Life Programme (LLP).md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
