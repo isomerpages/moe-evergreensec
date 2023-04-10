@@ -1,5 +1,5 @@
 collections:
-  cca-at-evg:
+  co-curricular-at-evg:
     output: true
     order:
       - CCA in Evergreen.md
