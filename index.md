@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/hero_banner_1920x720.png
+      background: /images/Homepage/hero_banner_1920x720gif.gif
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
