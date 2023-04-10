@@ -2,12 +2,6 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
-      - CCA Uniformed Groups/Red Cross Youth.md
-      - CCA Uniformed Groups/NPCC.md
-      - CCA Uniformed Groups/National Civil Defence Cadet Corp (NCDCC).md
-      - CCA Uniformed Groups/National Cadet Corps (NCC Land).md
-      - CCA Uniformed Groups/Uniformed Groups.md
-      - CCA Uniformed Groups/.keep
       - CCA   Clubs & Society/.keep
       - CCA   Clubs & Society/Prefectorial Board.md
       - CCA   Clubs & Society/Interact Club.md
@@ -15,4 +9,3 @@ collections:
       - CCA   Clubs & Society/Digital Media Club.md
       - CCA   Clubs & Society/English Literary Drama and Debate Society.md
       - Learning for Life Programme (LLP).md
-      - Uniformed Groups/.keep
