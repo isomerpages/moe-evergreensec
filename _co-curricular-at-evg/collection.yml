@@ -2,7 +2,6 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
-      - CCA in Evergreen.md
       - Learning for Life Programme (LLP).md
       - Clubs and Societies/.keep
       - Clubs and Societies/Clubs and Societies.md
