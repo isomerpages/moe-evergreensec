@@ -2,6 +2,7 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA Uniformed Groups/Red Cross Youth.md
       - CCA Uniformed Groups/NPCC.md
       - CCA Uniformed Groups/National Civil Defence Cadet Corp (NCDCC).md
       - CCA Uniformed Groups/National Cadet Corps (NCC Land).md
