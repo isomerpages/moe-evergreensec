@@ -2,6 +2,7 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA Uniformed Groups/National Cadet Corps (NCC Land).md
       - CCA Uniformed Groups/Uniformed Groups.md
       - CCA Uniformed Groups/.keep
       - CCA   Clubs & Society/.keep
