@@ -2,6 +2,7 @@ collections:
   zip-cca:
     output: true
     order:
+      - CCA Sports/Athletics & Cross Country.md
       - CCA Sports/.keep
       - CCA Uniformed Groups/.keep
       - CCA Performing Arts/Malay Dance Club.md
