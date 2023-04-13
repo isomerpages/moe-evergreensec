@@ -2,6 +2,7 @@ collections:
   zip-cca:
     output: true
     order:
+      - CCA Sports/Table Tennis.md
       - CCA Sports/Touch Rugby.md
       - CCA Sports/Rugby.md
       - CCA Sports/Netball.md
