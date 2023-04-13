@@ -2,5 +2,4 @@ collections:
   curriculum-at-evg:
     output: true
     order:
-      - CCA/.keep
       - Applied Learning Programme (ALP).md
