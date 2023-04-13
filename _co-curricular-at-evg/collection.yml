@@ -2,7 +2,6 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
-      - Haze.md
       - CCA Clubs and Societies/English Literary Drama and Debate Society.md
       - CCA Clubs and Societies/Digital Media Club.md
       - CCA Clubs and Societies/EVG Singapore Youth Flying Club.md
