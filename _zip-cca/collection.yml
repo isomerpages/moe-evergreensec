@@ -2,5 +2,6 @@ collections:
   zip-cca:
     output: true
     order:
+      - CCA Sports/.keep
       - CCA Uniformed Groups/.keep
       - CCA Performing Arts/.keep
