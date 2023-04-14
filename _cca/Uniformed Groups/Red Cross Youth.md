@@ -4,6 +4,17 @@ permalink: /cca/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<p><strong>In-Charge:</strong><br><strong>Our Youth Officers</strong><br>Ms. Mavishna Sooben<br>Ms. Qurnyaningsy Ahmad Mokhtar<br>Ms Koh Yan Ling<br>Mr Afif Mansoor Muhammad</p>
+<p><strong>Our Volunteer Instructors<br></strong>James Lee (Overall IC)<br>Eric Lim<br>Jolyn Lee</p>
+<p><strong>Organisation Structures<br></strong>Our Secondary 3 Leaders 2022 - 2023 : Batch Compassion</p>
+<img src="/images/redcross1.png" style="width: 90%;">
+<p><strong>Mission</strong><br>To instil the Red Cross Youth spirit and strengthen the core values of compassion, passion and professionalism&nbsp;in all members</p>
+<p><strong>Vision</strong><br>To groom adaptable, resilient and confident young persons with a strong sense of civic responsibility</p>
+<p><strong>Motto</strong><br>Humanity In Our Hands</p>
+<img src="/images/redcross2.jpg" style="width: 33%;">
+<p><strong>About us</strong><br>Our core belief is that each one of us can make a difference in the world by serving humanity. Our cadets join us with that belief. Hence, EVG Red Cross Youth (RCY) is here to give them the skills and confidence to do just that.</p>
+<p>Throughout their journey as a member of the RCY, the cadets will not only learn but put into practise leadership skills, disaster management skills, essential lifesaving skills, blood donation knowledge. They are involved in local community service and overseas humanitarian projects as well.</p>
+<p>Helping anyone in need comes naturally to our cadets. An EVG RCY member stands out among the crowd with their strong sense of duty and leadership skills.</p>
 <img src="/images/redcross3.jpg" style="width: 90%;">
 <p><strong>Grooming our Cadet Leaders – Leadership Pathway</strong></p>
 <table>
