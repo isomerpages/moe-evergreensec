@@ -43,3 +43,11 @@ third_nav_title: Sports
 <li>During the 2<sup>nd</sup>&nbsp;Tier North Zone Competitions 2018, the C Division Boys achieved Silver medals, the B and C Divisions Girls achieved Bronze medals.</li>
 <li>Achieved 4th placing in the North Zone Competition 2021</li>
 </ul>
+<img src="/images/evgtt1.jpeg"><br>
+<img src="/images/evgtt2.jpeg"><br>
+<img src="/images/evgtt3.jpeg" style="width: 80%;"><br>
+<img src="/images/evgtt4.jpeg"><br>
+<img src="/images/evgtt5.jpeg"><br>
+<img src="/images/evgtt6.jpeg"><br>
+<img src="/images/evgtt7.jpeg"><br>
+<img src="/images/evgtt8.jpeg"><br>
