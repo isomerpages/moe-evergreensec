@@ -53,10 +53,48 @@ third_nav_title: Uniformed Groups
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ncdcc4.jpg"></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><img src="/images/ncdcc5.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/ncdcc6.jpg"></td>
 </tr>
 </tbody>
 </table>
 <p><strong>Badge Framework</strong></p>
 <img src="/images/ncdcc7.jpg" style="width: 60%;">
+<h4><strong>NCDCC Specialisation Model</strong></h4>
+<p><strong>NCDCC Specialisation Model</strong><br>Empowering youths to be Community First Responders Advocating Lifesaving Skills</p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/ncdcc8.jpg"></td>
+<td style="width: 75%;">
+<p>Launched on 8th April 2017, the NCDCC Specialisation Model aims to provide all Secondary Three NCDCC cadets an option to specialise in either Fire Safety, Medical Response or Urban Search and Rescue Specialisation Courses based on their strengths and interests. These courses co-developed with and conducted by the respective field specialists, modeling after the key functional ares of Singapore Civil Defence Force.</p>
+<p>Cadets are exposed to authentic learning experiences through realistic simulation and case studies to enable them to take on the role of the Community First Responders, in line with the SGSecure Movement to assist themselves and people aroud them in times of emergency.</p>
+<p>Cadets are also trained in skills to be a more effective communicator and leader in their units.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ncdcc9.jpg"></td>
+<td style="width: 75%;">
+<p>The Fire Safety Specialisation empowers cadets with the skills and knowledge of general fire safety standards and provisions. Cadets go throught a series of practical activities and learning journeys to have first-hand experience in the operations of fire protection devices, fire drill and enforcement checks.</p>
+<p>In addtion, cadets are also intorduced to the concep tof Fire Investigation to learn from realistic simulations and cases, the damaging effects of fire. At the end of the course, cadets can assist their schools and community as fire safety ambassadors.</p>
+<p>The trainers of the course, the SCDF Fire and Rescue Specialists, will also share their real life experiences through cases they have had attended to in the course of their duties.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ncdcc10.jpg"></td>
+<td style="width: 75%;">
+<p>The Medical Response Specialisation Course equips cadets with case studies of common emergencies and in-depth approach to perform critical emergency interventions. The course also imparts theoretical knowledge and practical skills for the resuscitation of collapsed adult and infant victims and the use of Automated External Defibrillator (AED) to restore normal heart rhythms.</p>
+<p>Upon successful completion of the course, cadets will receive a Provide Certificate in Standard First Aid, Basic Cardiac Life Support (BCLS) and AED, which are accredited by the National First Aid Course and National Resuscitation Council.</p>
+<p>The SCDF Paramedics and NCDCC personnel who have responded to real life emergencies will be invited to share real life experiences in applying the triangle of life skills to save someone's life.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/ncdcc11.jpg"></td>
+<td style="width: 75%;">
+<p>Urban Search and Rescue Specialisation (USAR) Course involves the searching of victims, accesssing into voids, providing medical stabilization and the extraction of victims trapped under structural collapse. SCDF USAR capability is internationallay accredited by the United Nations Disaster Assistance Council. Under the code name 'Ops Lionheart Contingent', SCDF's elite Disaster Assistance and Rescue Team (DART) travel to different parts of Asis Pacific to render USAR assistance to countries affected by disaster.</p>
+<p>The participants if the NCDCC USAR Specialisation Course will be introduced to the overview of USAR operations, basic search and rescue skills, hazard identification and psychological first aid. Participants will be taught how to recognize risks assosciated with collapsed structure and do through simulation exercise to render surface trapped victims away from risk areas using simple rescue tools.</p>
+<p>The NCDCC USAR Specialisation Course is supported by the United Nations (UN) International Search and Rescue Advisory Group (INSARAG). This is the first course involving secondary school students to be given the prestigious recognition.</p>
+</td>
+</tr>
+</tbody>
+</table>
