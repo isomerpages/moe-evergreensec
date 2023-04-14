@@ -98,3 +98,82 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
+<h4><strong>EVG NCDCC Org Chart</strong></h4>
+<img src="/images/ncdcc12.jpg" style="width: 80%;">
+<h4><strong>Expectations of Cadet Leaders</strong></h4>
+<p><strong>Role &amp; Expectations Of Cadet Leaders, AY 2018</strong></p>
+<p><strong>Compliance By All</strong></p>
+<ul>
+<li>3 Items NOT to be tampered; SAFETY, FINANCE, STANDARD (Assessments ie Campcraft/ Foot Drill/ CPR)</li>
+<li>Treat everyone with RESPECT.</li>
+<li>When in DOUBT, never ASSUME. Seek immediate CLARIFICATION.</li>
+</ul>
+<p><strong>Unit Sergeant Major (USM)</strong></p>
+<ul>
+<li>assist TOs in monitoring cadets develpomental progress via Training Package or UOPA</li>
+<li>establishing effective relationship with peers and community through leading</li>
+<li>empowering cadets to become confident self-directed learners</li>
+<li>engaging cadets to become and active and concerned citizens</li>
+<li>leading the cadets by setting examplary behavior and attitude</li>
+</ul>
+<p><strong>Assistant Sergeant Major (ASM)</strong></p>
+<ul>
+<li>inculating within the cadets the importance of making the choice to care and serve the community</li>
+<li>playing an active role in ensuring cadets welfare/ well-being is taken care of</li>
+<li>leading the cadets by setting examplary behavior and attitude</li>
+<li>equipping cadets with civil defence and life-saving skills</li>
+</ul>
+<p><strong>Regimental Sergeant Major (RSM)</strong></p>
+<ul>
+<li>leading the cadets by setting examplary behavior and attitude</li>
+<li>inculcating Muster Parade regiments within the cadets</li>
+<li>maintaining discipline among the cadets in the unit</li>
+<li>engaging and leading the cadets into action</li>
+</ul>
+<p><strong>Sec 1/ 2 Cadet Leaders</strong></p>
+<ul>
+<li>aiding cadets in learning Self and CD Awareness skills</li>
+<li>enhancing cadets CD skills and encouraging them to work as a Team</li>
+<li>playing an active role in ensuring cadets welfare/ well-being is taken care of</li>
+<li>Training Proposal to be submitted TO respective Level To by Tues.</li>
+<li>Training Proposal to be edited and approved by Level TO by Wed.</li>
+<li>Present Training Proposal in person or via e-mail.</li>
+<li>Training Proposal sent via Whats App will not be entertained.</li>
+</ul>
+<p><strong>Communications IC</strong></p>
+<ul>
+<li>assisting TOs to disseminate information and issue reminders from TOs to cadets</li>
+<li>ascertaining cadets attendance during any activity/ training</li>
+<li>communicating with parents, with the assistance of Tos</li>
+</ul>
+<p><strong>Store IC</strong></p>
+<ul>
+<li>ensuring that store items are in working condition</li>
+<li>maintain cleanliness and orderliness of the store</li>
+<li>managing/ preparing logistics before and after training</li>
+<li>ensuring cadets maintain discipline when utilizing store items</li>
+</ul>
+<p><strong>First Aider</strong></p>
+<ul>
+<li>inform TOs, immediately in case of any emergency</li>
+<li>rendering first aid assistance during any activity/ training</li>
+<li>seek assistance from TOs and EVG General Office immediately in case of any emergency</li>
+</ul>
+<p><strong>Games/ Physical Training (PT) IC</strong></p>
+<ul>
+<li>engaging and encouraging cadets to work as a Team</li>
+<li>ensuring cadets health and well-being are cared for during any activity/ training</li>
+<li>incorporating civil defence and life-saving skills, alongside physical training needs</li>
+</ul>
+<img src="/images/ncdcc13.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc14.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc15.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc16.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc17.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc18.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc19.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc20.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc21.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc22.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc23.jpg" style="width: 100%;"><br>
+<img src="/images/ncdcc24.jpg" style="width: 100%;">
