@@ -33,3 +33,4 @@ third_nav_title: Uniformed Groups
 <p><strong>YEAR 4 NCDCC</strong><br>The top tier of Cadet Leader will be chosen to the Warrant Officer of the unit.</p>
 <h4><strong>NCDCC Framework</strong></h4>
 <p><strong>Our Framework</strong><br><strong>SG SECURE</strong></p>
+<img src="/images/ncdcc2.jpg" style="width: 40%;">
