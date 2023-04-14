@@ -228,3 +228,35 @@ third_nav_title: Uniformed Groups
 <li>Inter-Unit Soccer Competition – 1<sup>st</sup>&nbsp;Runners-Up</li>
 </ul>
 <h4><strong>Our NCC Family activities</strong></h4>
+<h4 style="text-align: center;">Our NCC Family</h4>
+<img src="/images/nccland1.jpg" style="width: 50%;">
+<img src="/images/nccland2.jpg" style="width: 50%;">
+<h4><strong>Our NCC Activities</strong></h4>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland3.jpg">Captains Ball</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland4.jpg">Frisbee</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland5.jpg">Floorball</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland6.jpg">Kayaking</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland7.jpg" style="width: 55%;">Rock Climbing</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland8.jpg">Soccer</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland9.jpg" style="width: 75%;">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland10.jpg">Service Learning at Bintan</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland11.jpg">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland12.jpg">Service Learning at Bintan</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland13.jpg">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
