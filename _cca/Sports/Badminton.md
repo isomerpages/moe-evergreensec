@@ -70,3 +70,51 @@ third_nav_title: Sports
 </tr>
 </tbody>
 </table>
+<img src="/images/badmin7.jpg">
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/badmin8.jpg"></td>
+<td style="width: 50%;"><img src="/images/badmin9.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Our Girls Team 2020</strong></p>
+<p style="text-align: center;"><strong>Sec 4 Girls<br></strong>Carlyn Gan, Shermaine Sim, Jessica Zhang, Ashlynn Lum, Huang Junyi, Shi Xin Yi</p>
+<p style="text-align: center;"><strong>Sec 3 Girls<br></strong>Lim Jia Wen, Brenda Kwok, Ma Yin Myo Thet, Sharon Koh, Ting Ya Xuan, Cheok Tze Xin, Ooi Jia Xi, Charissa Yong, Jennifer Yap, Kok Zi Hui</p>
+<p style="text-align: center;"><strong>Sec 2 Girls<br></strong>Celine Tan, Wang Xin Min, Wong Yu Xun, Tan Yu Qian, Chay Yong Shi, Kong Sem Hui, Koh Hui Ru, Chee Zhi Xuan, Chloe Chan</p>
+<p style="text-align: center;"><strong>Sec 1 Girls<br></strong>Joyce Lim, Acacia Kiw, Belle Chong, Keira Pang, Lee Xin En, Janice Tan, Yap Yu Ting</p>
+<p><strong>Our Achievements</strong></p>
+<p><strong>EVG Badminton Events &amp; Achievements 2019</strong></p>
+<ul>
+<li>Participation in Northzone Championship for All divisions</li>
+<li>C Division Girls Northzone 2019 - Top 8</li>
+<li>R.O.M.P 2019 Badminton Competition - Top 8 (Boys Group 2)</li>
+<li>Badminton Carnival by SAC C Division Girls 2019 - 2nd&nbsp;Place</li>
+<li>Friendly Match with Zhonghua Secondary School (B and C Girls)</li>
+<li>Friendly Match with Anglo Chinese School (Barker Road) (B and C Boys)</li>
+<li>Friendly Match with Bowen Secondary School (B and C Boys)</li>
+<li>VIA with Special Olympics (Badminton)</li>
+<li>Learning Journey to Sports Science Institute</li>
+</ul>
+<img src="/images/badmin10.jpg">
+<p style="text-align: center;"><strong>Northzone Badminton Championships 2020</strong></p>
+<img src="/images/badmin11.jpg">
+<p><strong>Learning Journey to Sports Science Institute</strong></p>
+<p>Our students took part in the one day learning journey to Sports Science Institute and had the wonderful opportunity to attend a tour session hosted by Mr C Kunalan. We had the chance to get more insight on various sports lab, equipments and the special diets of atheletes to help improve on fitness level and maximise training.</p>
+<img src="/images/badmin12.jpg">
+<p><strong>Special Olympics Badminton (2019 Sea Games)</strong></p>
+<p>Some of our students had the opportunity to interact with the athelets from Special Olympics. They act as training partners and assistant coachs to help facilitate the team in their training for the 2019 Special Olympics Sea Games. Mdm Ng, our teacher, assisted and accompanied the team in their competitions to Thailand.</p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/badmin13.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/badmin14.jpg"></td>
+<td rowspan="2" style="width: 33.3333%;"><img src="/images/badmin17.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/badmin15.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/badmin16.jpg"></td>
+</tr>
+</tbody>
+</table>
