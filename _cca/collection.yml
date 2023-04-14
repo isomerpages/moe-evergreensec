@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
       - CCA Schedule.md
