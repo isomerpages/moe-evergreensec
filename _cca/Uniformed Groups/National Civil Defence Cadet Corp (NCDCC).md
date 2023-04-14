@@ -34,3 +34,18 @@ third_nav_title: Uniformed Groups
 <h4><strong>NCDCC Framework</strong></h4>
 <p><strong>Our Framework</strong><br><strong>SG SECURE</strong></p>
 <img src="/images/ncdcc2.jpg" style="width: 40%;">
+<ul>
+<li>Understanding the concerns and potential threats faced by Singapore</li>
+<li>Taking lead in equipping self and helping school community around him/ her to learn and be equipped with essential skills involved in the chain of saving lives and residents (EP Day) with essential skills and that involve the chain of saving lives.</li>
+<li>Able to get self, family and those around him/her out of harm’s way in times of emergency through the mastery and application of the Triangle of Life skills</li>
+<li>Be a youth ambassador of SGSecure in living and spreading the SGSecure messages</li>
+<li>Stay Alert: be vigilant, look out for security threats and know how to respond</li>
+<li>Stay United: build strong ties with his/her community. In a crisis, stay calm and do not spread rumours. Resume daily activities as soon as possible</li>
+<li>Stay Strong: be prepared and know what to do in an emergency. Know to apply 'Run, Hie, Tell', Improvised First Aid Skills and CPR-AED procedures</li>
+</ul>
+<p><strong>Leadership</strong></p>
+<img src="/images/ncdcc3.jpg" style="width: 50%;">
+<p>NCDCC Leadership Framework adopts the visual representation of a rescue helmet, an important Personal Protective Equipment (PPE) for rescuers. The rescue helmet symbolises the importance of this leadership framework in guiding the design of authentic CCA experiences in NCDCC.</p>
+<p>NCDCC core values of&nbsp;<strong>Noble, Caring, Disciplined, Courageous&nbsp;</strong>and<strong>&nbsp;Committed</strong>&nbsp;are the guided principles that form the strong identity and dictate the desired behaviour and action of the cadets. The framework is divided into three equal parts, to emphasize the equal importance of learn, lead and serve in NCDCC</p>
+<p>Lastly, the strap and buckle represent the connection that links the leadership framework to the desired cadet outcomes: responsible and resilient cadet, active and concerned citizen.</p>
+<p><strong>Badge Framework</strong></p>
