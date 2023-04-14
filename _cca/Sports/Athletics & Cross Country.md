@@ -176,3 +176,18 @@ third_nav_title: Sports
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Pictures of Cross-Country in Action</strong></p>
+<img src="/images/athcc9.jpg" style="width: 75%;">
+<p style="text-align: center;">Team Photo (Resilience Hike)</p>
+<img src="/images/athcc10.jpg" style="width: 75%;">
+<p style="text-align: center;">Garmin Race 2019</p>
+<img src="/images/athcc11.jpg" style="width: 75%;">
+<p style="text-align: center;">Sentosa Adventure Race</p>
+<img src="/images/athcc12.jpg" style="width: 75%;">
+<p style="text-align: center;">4D2N Training Camp</p>
+<img src="/images/athcc13.jpg" style="width: 75%;">
+<p style="text-align: center;">Woodlands Stadium Training Debrief</p>
+<img src="/images/athcc14.jpg" style="width: 75%;">
+<p style="text-align: center;">Abseiling and Rockwall Climbing at Republic Polytechnic</p>
+<img src="/images/athcc15.jpg" style="width: 75%;">
+<p style="text-align: center;">Canoeing at MacRitchie Reservoir</p>
