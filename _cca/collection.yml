@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Gamelan Ensemble.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Sukma Irama EVG Malay Dance Club.md
       - Performing Arts/Performing Arts.md
