@@ -2,6 +2,8 @@ collections:
   cca:
     output: true
     order:
+      - Sports/.keep
+      - Sports/Sports.md
       - Sports/Athletics & Cross Country.md
       - Sports/Badminton.md
       - Sports/EVG Table Tennis.md
@@ -9,8 +11,6 @@ collections:
       - Sports/Rugby.md
       - Sports/Touch Rugby.md
       - Sports/Volleyball.md
-      - Sports/Sports.md
-      - Sports/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corps (NCC – Land).md
