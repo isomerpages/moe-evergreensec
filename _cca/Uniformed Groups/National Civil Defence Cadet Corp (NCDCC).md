@@ -49,3 +49,14 @@ third_nav_title: Uniformed Groups
 <p>NCDCC core values of&nbsp;<strong>Noble, Caring, Disciplined, Courageous&nbsp;</strong>and<strong>&nbsp;Committed</strong>&nbsp;are the guided principles that form the strong identity and dictate the desired behaviour and action of the cadets. The framework is divided into three equal parts, to emphasize the equal importance of learn, lead and serve in NCDCC</p>
 <p>Lastly, the strap and buckle represent the connection that links the leadership framework to the desired cadet outcomes: responsible and resilient cadet, active and concerned citizen.</p>
 <p><strong>Badge Framework</strong></p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/ncdcc4.jpg"></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Badge Framework</strong></p>
+<img src="/images/ncdcc7.jpg" style="width: 60%;">
