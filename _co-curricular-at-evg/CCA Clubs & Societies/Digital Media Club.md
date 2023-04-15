@@ -8,9 +8,6 @@ third_nav_title: CCA Clubs & Societies
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/D1.png)
 
-**Digital Media Club (DMC)**
-
-The Evergreen Secondary School DMC was formed to provide a platform for both students and teachers of the school, possessing a wide range of experience and interests to come together in honing their IT and photography skills in a myriad of ways. With the overarching vision of being a student-centric Co-Curricular Activity (CCA), the DMC is always on the lookout to give new opportunities for students to develop themselves holistically, especially in the areas of leadership and character.
 
 **Teacher in Charge:** Ms Mindice Yew Min’Er (I/C), Mr Mr Muhd Amirul B Noor Rahman, Mr Tan Kim Kia and Mr Samuel Soong
 
