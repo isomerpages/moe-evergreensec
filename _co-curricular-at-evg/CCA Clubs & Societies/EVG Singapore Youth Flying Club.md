@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA Clubs & Societies
 ---
 **Teachers-in-charge:**  
-Ms Ngo Wei Min Jasmine, Ms Sharie Ong, Mr Ho Kok Wah, Mr Andy Ham
+Ms Ngo Wei Min Jasmine, Ms Sharie Ong, Mr Ho Kok Wah
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E1.jpg)
 
