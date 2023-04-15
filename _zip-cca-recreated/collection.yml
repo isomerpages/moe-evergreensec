@@ -1,5 +1,5 @@
 collections:
-  zip-cca:
+  zip-cca-recreated:
     output: true
     order:
       - CCA Sports/.keep
