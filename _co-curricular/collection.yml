@@ -1,5 +1,5 @@
 collections:
-  co-curricular-at-evg:
+  co-curricular:
     output: true
     order:
       - CCA Clubs and Societies/English Literary Drama and Debate Society.md
