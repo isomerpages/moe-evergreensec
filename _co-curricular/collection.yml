@@ -2,6 +2,5 @@ collections:
   co-curricular:
     output: true
     order:
-      - CCA Clubs and Societies/Interact Club.md
       - CCA Clubs and Societies/Prefectorial Board.md
       - CCA Clubs and Societies/.keep
