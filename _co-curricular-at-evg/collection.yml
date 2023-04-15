@@ -2,5 +2,6 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA Performing Arts/.keep
       - CCA Clubs & Societies/.keep
       - CCA Uniformed Groups/.keep
