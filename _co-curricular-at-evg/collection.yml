@@ -2,6 +2,7 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA Clubs & Societies/Interact Club.md
       - CCA Clubs & Societies/EVG Singapore Youth Flying Club.md
       - CCA Clubs & Societies/Digital Media Club.md
       - CCA Clubs & Societies/.keep
