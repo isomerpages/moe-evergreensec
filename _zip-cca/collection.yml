@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA Sports/.keep
-      - CCA Sports/Athletics & Cross Country.md
       - CCA Sports/Badminton.md
       - CCA Sports/Netball.md
       - CCA Sports/Rugby.md
