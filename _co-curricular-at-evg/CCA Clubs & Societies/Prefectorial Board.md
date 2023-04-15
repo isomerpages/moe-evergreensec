@@ -4,12 +4,6 @@ permalink: /cca/clubs/prefectorial-board/
 description: ""
 third_nav_title: CCA Clubs & Societies
 ---
-**Teachers-in-charge:**
-
-Prefectorial Board: Ms Lau Kai Li and Ms Yin Xiaohui
-
-CCA EXCO: Ms Clarissa Ng,  Mr Nelson Lam and Mr John Cheong
-
 **Vision:**  _Dynamic, Thinking and Caring Leaders_  
 **Mission:** To develop pupil leaders who are role models with a passion to contribute and excel.  
 **Guiding Philosophy:** Service through Leadership  
