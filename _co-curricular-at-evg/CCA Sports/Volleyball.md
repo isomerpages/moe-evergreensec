@@ -4,13 +4,6 @@ permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: CCA Sports
 ---
-<h4><strong>Teachers I/C</strong></h4>
-<ul>
-<li>Ms Elicia Yeo</li>
-<li>Mr Neo Zhi Da</li>
-<li>Mrs Tan Wei Leng</li>
-<li>Ms Melissa Wong</li>
-</ul>
 <h4><strong>Coaches</strong></h4>
 <ul>
 <li>Mr Chin Jun Feng (Girls)</li>
