@@ -1,5 +1,5 @@
 collections:
-  cca-remigrated:
+  zip-cca-remigrated:
     output: true
     order:
       - Performing Arts/Evergreen Secondary School Chinese Orchestra (EVGCO).md
