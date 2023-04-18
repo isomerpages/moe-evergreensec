@@ -1,0 +1,5 @@
+collections:
+  curriculum-at-evg:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md

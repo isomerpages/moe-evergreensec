@@ -1,0 +1,5 @@
+collections:
+  life-at-evg:
+    output: true
+    order:
+      - Our Learning Environment.md

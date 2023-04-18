@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Homepage/Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Life@EVG
+    collection: life-at-evg
+  - title: Curriculum@EVG
+    collection: curriculum-at-evg
+  - title: Co-Curricular@EVG
+    collection: co-curricular-at-evg
+  - title: Success Stories@EVG
+    collection: stories-at-evg
+  - title: Info For EVGians
+    collection: info-for-evgians

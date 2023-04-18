@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - The School Advisory Committee.md
+      - Our Staff/.keep
+      - Our Staff/School Leaders.md
+      - Our Staff/Key Personnel.md
+      - Our Staff/Lead and Senior Teachers.md
+      - Information/.keep
+      - Information/General Information.md
+      - Information/School Corporate Videos.md
+      - Information/School Admission.md
+      - Information/Safety.md
+      - Information/Direct School Admission DSA Sec.md
+      - Contact Us.md

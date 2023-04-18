@@ -1,0 +1,24 @@
+collections:
+  zip-b:
+    output: true
+    order:
+      - Teaching Staff.md
+      - Malay Language.md
+      - Chinese Language.md
+      - Departments/Aesthetics, Design & Technology (D&T) and Nutrient & Food
+        Science (NFS) Department.md
+      - Departments/English Department.md
+      - Departments/MTL Department.md
+      - Departments/Humanities Department.md
+      - Departments/Information and Communication Technology (ICT).md
+      - Departments/Mathematics Department.md
+      - Departments/Principles of Accounts.md
+      - Departments/Physical Education.md
+      - Departments/Science Department.md
+      - Departments/.keep
+      - Distinctive School Programmes/Distinctive School Programmes.md
+      - Distinctive School Programmes/.keep
+      - CCE/CCE Framework.md
+      - CCE/Student Leadership in Evergreen.md
+      - CCE/Sexuality Education.md
+      - CCE/.keep
