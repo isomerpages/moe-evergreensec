@@ -4,7 +4,6 @@ permalink: /school-information/Direct-School-Admission/
 description: ""
 third_nav_title: Information
 ---
-
 Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] &amp; Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
 
 Our school offers the following DSA talent areas and domains:
@@ -36,4 +35,3 @@ Click on these links to learn more about the above talent areas and their progra
 
 
 The Selection Criteria and Process for the talent areas will be updated from early May.  For more information on DSA-Sec, please see&nbsp;[**MOE’s website**](https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school).
-
