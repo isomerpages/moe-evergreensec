@@ -29,7 +29,7 @@ Successful applicants will be nurtured through our distinctive programmes to tak
 
 Click on these links to learn more about the above talent areas and their programmes:
 
-**•&nbsp;[Applied Learning Programme \[ALP\]](/https://www.evergreensec.moe.edu.sg/curriculum/alp/)**  
+[Applied Learning Programme](https://www.evergreensec.moe.edu.sg/curriculum/alp/)
 **•&nbsp;[Learning for Life Programme \[LLP\]](/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)**
 
 
