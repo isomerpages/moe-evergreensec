@@ -4,7 +4,7 @@ permalink: /cca/performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p><strong>Teacher IC:</strong><br>Mrs Priscilia Eng, Mr Travis Tan, Ms Yamuna, Ms Chong Siew Sia &amp; Mdm Lee Ai Hua</p>
+<p><strong>Teacher IC:</strong><br>Mrs Priscilia Eng, Mr Travis Tan, Ms Yamuna, Ms Chong Siew Sia & Mdm Lee Ai Hua</p>
 <p><strong>Training Day:</strong><br>Every Tuesday and Thursday</p>
 <p><strong>Training hours:</strong><br>3pm to 5:30 pm</p>
 <p>The idea of starting a Guitar Club as a new CCA in Evergreen Secondary School was mooted in 2009. This was in response to interest shown by some of our pupils, who could often be seen strumming on their own guitars during recess and after school. By the time the necessary administrative and other due processes were taken to source for funds for the guitars and guitar accessories and to engage a suitable coach, Term 1 of 2009 had passed. The Guitar Club auditioned for members and started the first training in Term 2 of 2009.</p>
@@ -25,7 +25,7 @@ third_nav_title: Performing Arts
 <p>CCA Exchange Programme</p>
 <img src="/images/guitar7.jpg">
 <p>Guitar Festival</p>
-<p><strong>Major Milestones &amp; Achievements</strong></p>
+<p><strong>Major Milestones & Achievements</strong></p>
 <p><strong>2021</strong></p>
 <ul>
 <li>SYF 2021 Arts Presentation (Certification of Accomplishment)</li>

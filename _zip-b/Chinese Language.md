@@ -9,7 +9,7 @@ Making Mother Tongue a Living Language
 **Mission**  
 A department that nurtures&nbsp;EVGIANs to love their Mother Tongue, appreciate their culture and practice good values.
 
-#### **Chinese Unit Programmes &amp; Events**
+#### **Chinese Unit Programmes & Events**
 
 
 ##### **Applied Learning Programme (ALP)**
@@ -133,7 +133,7 @@ There are different platforms and opportunities for students to learn, grow, str
 ![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C15.png)
 
 
-2\. Good Talk International Children &amp; Youth Bilingual Speech Conference
+2\. Good Talk International Children & Youth Bilingual Speech Conference
 
 ![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C16.png)
 
@@ -191,7 +191,7 @@ As part of Tier 3 ALP Programme, Students from 2CMT Samuel Soo and Tan Xin Xuan 
 ![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C19.png)
 
 
-##### **Virtual Tour of Beijing &amp; Tianjin-cum-Cultural Exchange with Suzhou Industrial Park Xinggang School**
+##### **Virtual Tour of Beijing & Tianjin-cum-Cultural Exchange with Suzhou Industrial Park Xinggang School**
 
 
 The CL unit organized a virtual learning journey to Beijing and Tianjin on the 6 November 2020. Through Zoom and 360 cameras, students were able to explore attractions of Beijing and Tianjin without the need to travel there per se, for example The Great Wall of China, Tiananmen Square and Singapore-Sino project in Tianjin Eco-city. The touring segment ended on a high note in the form of Kahoot game, which allowed the students to self-assess their own learning through the online tours to the various exciting locations in Beijing and Tianjin.

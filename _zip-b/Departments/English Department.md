@@ -94,11 +94,11 @@ Learning Journey to watch a theatre performance at the Esplanade
     <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Julius Caesar</span> <span style="font-weight:inherit;font-style:inherit">(Lit)</span><br><span style="font-weight:inherit;font-style:italic">Fiela’s Child</span> <span style="font-weight:inherit;font-style:inherit">(E. Lit)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Poetry &amp; Singapore Poetry</span></td>
+    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Poetry & Singapore Poetry</span></td>
   </tr>
   <tr>
     <td class="tg-c1uv" rowspan="2"><span style="font-weight:bold;font-style:inherit">Sec 4/5</span></td>
-    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Road to Memphis</span> <span style="font-weight:inherit;font-style:inherit">(Lit &amp; E. Lit)</span></td>
+    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Road to Memphis</span> <span style="font-weight:inherit;font-style:inherit">(Lit & E. Lit)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Prose</span></td>

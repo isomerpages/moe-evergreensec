@@ -13,10 +13,10 @@ third_nav_title: CCA Uniformed Groups
 <p><strong>Our Mission</strong><br>The mission&nbsp;of the National Police Cadet Corps is to develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.</p>
 <p><strong>Our Beliefs</strong><br>In accordance with our mission and observing our objectives, we believe in:</p>
 <ul>
-<li><em><u>Developing Leaders with Character &amp; Values&nbsp;</u></em><br>Ensureour growth by exposing us to a challenging environment, which, in turn will imbibe us with leadership qualities, strong character and civic, social and moral values.</li>
+<li><em><u>Developing Leaders with Character & Values&nbsp;</u></em><br>Ensureour growth by exposing us to a challenging environment, which, in turn will imbibe us with leadership qualities, strong character and civic, social and moral values.</li>
 <li><em><u>Building Bonds with SPF&nbsp;</u></em><br>Enlighten&nbsp;us on the role of the Singapore Police Force, help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.</li>
-<li><em><u>Showing Care &amp; Concern to Others&nbsp;</u></em><br>As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact, teach us&nbsp;to extend the same care and concern to others.</li>
-<li><em><u>Facing Challenges &amp; Achieving Excellence&nbsp;</u></em></li>
+<li><em><u>Showing Care & Concern to Others&nbsp;</u></em><br>As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact, teach us&nbsp;to extend the same care and concern to others.</li>
+<li><em><u>Facing Challenges & Achieving Excellence&nbsp;</u></em></li>
 <li>As a result of our identification with the Singapore Police Force, teach&nbsp;us to adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenges.</li>
 </ul>
 <p><strong>THE EVG NPCC FAMILY</strong></p>

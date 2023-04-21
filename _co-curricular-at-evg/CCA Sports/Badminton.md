@@ -85,7 +85,7 @@ third_nav_title: CCA Sports
 <p style="text-align: center;"><strong>Sec 2 Girls<br></strong>Celine Tan, Wang Xin Min, Wong Yu Xun, Tan Yu Qian, Chay Yong Shi, Kong Sem Hui, Koh Hui Ru, Chee Zhi Xuan, Chloe Chan</p>
 <p style="text-align: center;"><strong>Sec 1 Girls<br></strong>Joyce Lim, Acacia Kiw, Belle Chong, Keira Pang, Lee Xin En, Janice Tan, Yap Yu Ting</p>
 <p><strong>Our Achievements</strong></p>
-<p><strong>EVG Badminton Events &amp; Achievements 2019</strong></p>
+<p><strong>EVG Badminton Events & Achievements 2019</strong></p>
 <ul>
 <li>Participation in Northzone Championship for All divisions</li>
 <li>C Division Girls Northzone 2019 - Top 8</li>

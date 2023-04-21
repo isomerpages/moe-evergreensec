@@ -33,8 +33,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Empowerment</span><br><br><span style="font-weight:inherit;font-style:inherit">(Learn &amp; Perform)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">National Day - Singing</span><br><br><span style="font-weight:inherit;font-style:inherit">EVG Got Talent</span><br><span style="font-weight:inherit;font-style:inherit">Lunch Time &amp; After School Performances By Students (Interactive Art Booths, Musical Performances, Healthy Food Booths)</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Assembly/Stage Performances</span><br><span style="font-weight:inherit;font-style:inherit">Art Exhibitions @</span><br><span style="font-weight:inherit;font-style:inherit">School Compound &amp; Art Gallery</span></td>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Empowerment</span><br><br><span style="font-weight:inherit;font-style:inherit">(Learn & Perform)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">National Day - Singing</span><br><br><span style="font-weight:inherit;font-style:inherit">EVG Got Talent</span><br><span style="font-weight:inherit;font-style:inherit">Lunch Time & After School Performances By Students (Interactive Art Booths, Musical Performances, Healthy Food Booths)</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Assembly/Stage Performances</span><br><span style="font-weight:inherit;font-style:inherit">Art Exhibitions @</span><br><span style="font-weight:inherit;font-style:inherit">School Compound & Art Gallery</span></td>
   </tr>
 </thead>
 </table>
