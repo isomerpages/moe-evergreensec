@@ -7,7 +7,7 @@ third_nav_title: For Parents
 <img style="width:40%;height:50%" src="/images/Our%20Partners/Parent%20Support%20Group/P1.png">
 
 Vision  
-School &amp; Parents in Partnership for the Healthy Development of our Children.
+School & Parents in Partnership for the Healthy Development of our Children.
 
 Mission  
 To complement school's efforts to develop EVGians holistically through the active contribution of parents' time, skills, knowledge and network.

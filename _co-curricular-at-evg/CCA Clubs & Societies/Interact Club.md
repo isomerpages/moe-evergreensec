@@ -2,13 +2,13 @@
 title: Interact Club
 permalink: /cca/clubs/interact-club/
 description: ""
-third_nav_title: CCA Clubs &amp; Societies
+third_nav_title: CCA Clubs & Societies
 ---
 <img style="width:30%;height:50%" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Interact%20Club/I1.jpg">
 
 **Chartered year:**&nbsp;2002  
 **Sponsoring Club:**&nbsp;Rotary Club of Suntec City  
-**Sister Clubs:**&nbsp;Rotaract Club of Northwest &amp; Greendale Secondary School Interact Club  
+**Sister Clubs:**&nbsp;Rotaract Club of Northwest & Greendale Secondary School Interact Club  
 **Teacher-Advisors:**&nbsp;Mdm Siti Mariam and Mr Anan
 
 

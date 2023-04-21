@@ -112,7 +112,7 @@ third_nav_title: CCA Sports
 </tr>
 <tr>
 <td>
-<p>B &amp; C division</p>
+<p>B & C division</p>
 </td>
 <td>
 <p>&nbsp;Fridays, 12:45pm – 2:45pm</p>

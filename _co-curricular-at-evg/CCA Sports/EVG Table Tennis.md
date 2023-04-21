@@ -4,7 +4,7 @@ permalink: /cca/sports/evg-table-tennis/
 description: ""
 third_nav_title: CCA Sports
 ---
-<p><strong>Teachers I/C:</strong>&nbsp;Mdm Lynn See, Mdm Puah Ee Von, &amp; Mr Alawden</p>
+<p><strong>Teachers I/C:</strong>&nbsp;Mdm Lynn See, Mdm Puah Ee Von, & Mr Alawden</p>
 <table border="1">
 <tbody>
 <tr>

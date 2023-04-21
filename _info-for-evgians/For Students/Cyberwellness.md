@@ -52,7 +52,7 @@ In serious cases, you may also face disciplinary action in school and/or prosecu
 ![](/images/Our%20Curriculum/CCE/Cyber%20Wellness/C2.png)
 
 
-**Cyber Wellness Activities &amp; Achievements**
+**Cyber Wellness Activities & Achievements**
 
 **2018 Digital Citizenship Ambassadors in Action**
 

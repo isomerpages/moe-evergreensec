@@ -4,7 +4,7 @@ permalink: /school-information/Direct-School-Admission/
 description: ""
 third_nav_title: Information
 ---
-Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] &amp; Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
+Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] & Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
 
 Our school offers the following DSA talent areas and domains:
 
@@ -17,13 +17,13 @@ iv. Language – Malay Language
 
 **(b) Sports and Leadership Domains under our Learning for Life Programme \[LLP\]**
 
-i. Leadership (Boys &amp; Girls)  
-ii. Badminton (Boys &amp; Girls)  
-iii. Cross Country (Boys &amp; Girls)  
+i. Leadership (Boys & Girls)  
+ii. Badminton (Boys & Girls)  
+iii. Cross Country (Boys & Girls)  
 iv. Netball (Girls)  
 v. Rugby (Boys)  
-vi. Table Tennis (Boys &amp; Girls)  
-vii. Volleyball (Boys &amp; Girls)
+vi. Table Tennis (Boys & Girls)  
+vii. Volleyball (Boys & Girls)
 
 Successful applicants will be nurtured through our distinctive programmes to take on student leadership roles in school-wide programmes and in co-curricular activities. Some of these developmental programmes include communication skills and student leadership development programmes.
 

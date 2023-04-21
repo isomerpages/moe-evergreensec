@@ -66,12 +66,12 @@ Students with special talents and achievements in the following areas may apply 
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Student who won the Singapore Sport School Award, National School Championship Award, National School Division Award etc Student who is a national player</span></td>
   </tr>
   <tr>
-    <td class="tg-c1uv"><span style="font-weight:700">Performing &amp; Visual Arts</span></td>
+    <td class="tg-c1uv"><span style="font-weight:700">Performing & Visual Arts</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students who have obtained awards or achievements at national or international level</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Student who won awards at national/international competitions eg national level band competitions, national level dance competitions or national performing arts events (eg Singapore Youth Festival)</span><br><br><span style="font-weight:inherit;font-style:inherit">Student who is a key performer for a performing arts group</span></td>
   </tr>
   <tr>
-    <td class="tg-c1uv"><span style="font-weight:700">Leadership, Entrepreneurship &amp; Innovation</span></td>
+    <td class="tg-c1uv"><span style="font-weight:700">Leadership, Entrepreneurship & Innovation</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Students who have obtained awards or achievements at national or international level, or who have held key role/leadership positions in community</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Student who wonawards in entrepreneurship/innovation events at national/international levels.</span><br><br><span style="font-weight:inherit;font-style:inherit">Student who held key appointments in school committees/student council/uniform groups (eg President, Vice-President).</span></td>
   </tr>
@@ -79,7 +79,7 @@ Students with special talents and achievements in the following areas may apply 
 </table>
 
 To ensure that students admitted through SCAS will be able to cope with the ITE courses, they are expected to meet the minimum entry requirements (where applicable) of their respective Higher Nitec and Nitec courses based on their GCE ‘N’ or ‘O’ level results. &nbsp;Successful applicants are also expected to pass the colour vision test and/or medical check for admission into selected courses.  
-For students who are offered a place via their non-academic achievement in the areas of Sports, Performing &amp; Visual Arts and Leadership, Entrepreneurship &amp; Innovation, they will be required to contribute in the same CCA or similar CCA offered at their ITE College of study during their 2 years ITE Course.
+For students who are offered a place via their non-academic achievement in the areas of Sports, Performing & Visual Arts and Leadership, Entrepreneurship & Innovation, they will be required to contribute in the same CCA or similar CCA offered at their ITE College of study during their 2 years ITE Course.
 
 **SCHEDULE**  
 The key dates for SCAS are as follows:

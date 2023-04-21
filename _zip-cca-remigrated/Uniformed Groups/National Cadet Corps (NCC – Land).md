@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers I/C</strong><br>Miss Teresina Loola (Commanding Officer)<br>Mr Tseng Jih Cheng<br>Mr Lee Kim Fatt<br>Miss Feng Hui’er</p>
 <p><strong>NCC Vision</strong><br>Extraordinary Youth Leaders – To Serve with Pride and Dedication</p>
 <p><strong>NCC Mission</strong><br>To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities</p>
-<p><strong>8 Core Values</strong><br>Safety<br>Discipline<br>Leadership<br>Uprightness<br>Loyalty to country<br>Adventurous Spirit<br>Care for fellow cadets<br>Commitment &amp; Responsibility</p>
+<p><strong>8 Core Values</strong><br>Safety<br>Discipline<br>Leadership<br>Uprightness<br>Loyalty to country<br>Adventurous Spirit<br>Care for fellow cadets<br>Commitment & Responsibility</p>
 <p><strong>Key Thrusts</strong><br>Fitness<br>Leadership<br>Commitment to Singapore</p>
 <p>For more information:<br><a href="https://www.facebook.com/sgncc.hq/">https://www.facebook.com/sgncc.hq/</a><br><a href="https://www.facebook.com/evergreen.ncc.7">https://www.facebook.com/evergreen.ncc.7</a></p>
 <h4><strong>2021-2022 Leadership Committee</strong></h4>

@@ -59,7 +59,7 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships & Safety</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1</span><br><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</span><br><br><span style="font-weight:inherit;font-style:inherit">·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><br><span style="font-weight:inherit;font-style:inherit">·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><br><span style="font-weight:inherit;font-style:inherit">·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 4 Week 1</span></td>
@@ -99,7 +99,7 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships & Safety</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1</span><br><br><span style="font-weight:inherit;font-style:inherit">(60  mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female</span><br><span style="font-weight:inherit;font-style:inherit">·      Understand what sexual orientation entails</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 1</span></td>
@@ -139,7 +139,7 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships & Safety</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1A</span><br><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</span><br><br><span style="font-weight:inherit;font-style:inherit">·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</span><br><span style="font-weight:inherit;font-style:inherit">·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 2 Week 1</span></td>
@@ -179,7 +179,7 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships & Safety</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1</span><br><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 5</span></td>
@@ -225,7 +225,7 @@ At Evergreen Secondary School, the following lessons from the Growing Years Prog
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships & Safety</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">1</span><br><br><span style="font-weight:inherit;font-style:inherit">(60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 5</span></td>

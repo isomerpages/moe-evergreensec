@@ -58,7 +58,7 @@ Types of benefits provided under MOE FAS (Secondary School):
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">$10 payable by student (Deductible from student’s Edusave)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Textbooks &amp; School Attire</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Textbooks & School Attire</span></td>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Free</span></td>
   </tr>
   <tr>

@@ -14,7 +14,7 @@ description: ""
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S1.png">
-<figcaption> <strong> Books, Uniform &amp; Insurance </strong> </figcaption>
+<figcaption> <strong> Books, Uniform & Insurance </strong> </figcaption>
 
 </figure>
 
@@ -106,7 +106,7 @@ description: ""
 
 <figure>
 <img style="width:30%;height:50%" src="/images/School%20information/Students/Students/S5.png">
-<figcaption> <strong> Forms &amp; Docs </strong> </figcaption>
+<figcaption> <strong> Forms & Docs </strong> </figcaption>
 
 </figure>
 

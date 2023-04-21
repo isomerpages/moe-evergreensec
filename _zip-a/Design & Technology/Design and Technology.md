@@ -2,7 +2,7 @@
 title: Design and Technology
 permalink: /aestheti-dgn-tech-food-sc-dpt/Design-and-Technology/Design-and-Technology/
 description: ""
-third_nav_title: Design &amp; Technology
+third_nav_title: Design & Technology
 ---
 **Our Curriculum**
 
@@ -19,16 +19,16 @@ third_nav_title: Design &amp; Technology
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-sm4r" rowspan="3"><span style="font-weight:bold;font-style:inherit">An Integrative Approach to Teaching and Learning of Design &amp; Technology</span></td>
+    <td class="tg-sm4r" rowspan="3"><span style="font-weight:bold;font-style:inherit">An Integrative Approach to Teaching and Learning of Design & Technology</span></td>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">LOWER SECONDARY</span></td>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">UPPER SECONDARY</span></td>
   </tr>
   <tr>
-    <td class="tg-c5gh">Sec 1 Programme<br><span style="font-weight:inherit;font-style:inherit">Electronics</span><br><span style="font-weight:inherit;font-style:inherit">Structures</span><br><span style="font-weight:inherit;font-style:inherit">Integrated curriculum (D&amp;T and Art)</span><br><span style="font-weight:inherit;font-style:italic">- Shapes and Forms (3D sketching)</span></td>
+    <td class="tg-c5gh">Sec 1 Programme<br><span style="font-weight:inherit;font-style:inherit">Electronics</span><br><span style="font-weight:inherit;font-style:inherit">Structures</span><br><span style="font-weight:inherit;font-style:inherit">Integrated curriculum (D&T and Art)</span><br><span style="font-weight:inherit;font-style:italic">- Shapes and Forms (3D sketching)</span></td>
     <td class="tg-c5gh">Sec 3 Programme<br><span style="font-weight:inherit;font-style:inherit">Mechanisms</span><br><span style="font-weight:inherit;font-style:inherit">Electronics</span><br><span style="font-weight:inherit;font-style:inherit">Design</span><br><span style="font-weight:inherit;font-style:inherit">Coursework</span></td>
   </tr>
   <tr>
-    <td class="tg-c5gh">Sec 2 Programme<br><span style="font-weight:inherit;font-style:inherit">Mechanisms</span><br><span style="font-weight:inherit;font-style:inherit">Integrated curriculum (D&amp;T and Art)</span><br><span style="font-weight:inherit;font-style:italic">- Synthesis &amp; Shape Borrowing</span></td>
+    <td class="tg-c5gh">Sec 2 Programme<br><span style="font-weight:inherit;font-style:inherit">Mechanisms</span><br><span style="font-weight:inherit;font-style:inherit">Integrated curriculum (D&T and Art)</span><br><span style="font-weight:inherit;font-style:italic">- Synthesis & Shape Borrowing</span></td>
     <td class="tg-c5gh">Sec 4/5 Programme<br><span style="font-weight:inherit;font-style:inherit">Structures</span><br><span style="font-weight:inherit;font-style:inherit">GCE ‘N’/ ‘O’ Level</span><br><span style="font-weight:inherit;font-style:inherit">- Coursework (Paper 2)</span><br><span style="font-weight:inherit;font-style:inherit">- Theory (Paper 1)</span></td>
   </tr>
 </thead>
