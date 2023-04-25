@@ -1,6 +1,6 @@
 ---
 title: Updated Term 2 Timetable
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/updated-term2-timetable/
 date: 2023-03-31
 layout: post
 description: ""

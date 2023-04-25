@@ -1,6 +1,6 @@
 ---
 title: Term 2 Letter to Parents
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/term2-letter-to-parents/
 date: 2023-03-20
 layout: post
 description: ""
