@@ -71,7 +71,129 @@ Awards/ Achievements
     
 
 **
-
+<p><strong>Student Development Programmes</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="198">
+<p><strong>Level</strong></p>
+</td>
+<td width="403">
+<p><strong>Activities / Events / Courses</strong></p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Secondary 1 (Junior Cadets)</p>
+</td>
+<td width="403">
+<ul>
+<li>Camp FORGE</li>
+<li>Rock Climbing</li>
+<li>Shooting Course</li>
+<li>Orientation Camp</li>
+<li>Affirmation Ceremony</li>
+<li>Captains’ Ball Competition</li>
+<li>National Education Outings</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Secondary 2 (Senior Cadets)</p>
+</td>
+<td width="403">
+<ul>
+<li>Kayaking</li>
+<li>Camp STEEL</li>
+<li>Shooting Course</li>
+<li>Frisbee Competition</li>
+<li>Orienteering Course</li>
+<li>Freestyle Drill Course</li>
+<li>Fitness Instructor Course</li>
+<li>Orienteering Competition</li>
+<li>National Education Outings</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Secondary 3 (Cadet Leaders)</p>
+</td>
+<td width="403">
+<ul>
+<li>National Camp</li>
+<li>Specialist Course</li>
+<li>Leadership Camp</li>
+<li>Soccer Competition</li>
+<li>Cadet Leaders Course</li>
+<li>Senior Specialist Course</li>
+<li>Freestyle Drill Competition</li>
+<li>National Education Outings</li>
+<li>Overseas Learning Journey (Bintan) – Community Outreach</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Secondary 4 (Senior Cadet Leaders)</p>
+</td>
+<td width="403">
+<ul>
+<li>Freestyle Drill Competition</li>
+<li>Secondary 1 CCA Open House</li>
+<li>Secondary 1 Orientation Camp</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Awards / Achievements</strong></p>
+<p><strong>2019</strong></p>
+<ul>
+<li>Unit Recognition – Distinction</li>
+<li>Inter-Unit Floorball Competition – Champion</li>
+</ul>
+<p><strong>2018</strong></p>
+<ul>
+<li>Best Unit Competition – Gold</li>
+<li>Frisbee – Finalist (National)</li>
+<li>NCC Road Relay – Finalist (National</li>
+<li>Inter-Unit Soccer Competition – 1<sup>st</sup>&nbsp;Runners-Up</li>
+</ul>
+<h4><strong>Our NCC Family activities</strong></h4>
+<h4 style="text-align: center;">Our NCC Family</h4>
+<img src="/images/nccland1.jpg" style="width: 50%;">
+<img src="/images/nccland2.jpg" style="width: 50%;">
+<h4><strong>Our NCC Activities</strong></h4>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland3.jpg">Captains Ball</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland4.jpg">Frisbee</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland5.jpg">Floorball</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland6.jpg">Kayaking</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland7.jpg" style="width: 55%;">Rock Climbing</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland8.jpg">Soccer</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland9.jpg" style="width: 75%;">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland10.jpg">Service Learning at Bintan</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland11.jpg">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland12.jpg">Service Learning at Bintan</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/nccland13.jpg">Service Learning at Bintan</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 
 [NCC - Singapore](https://www.facebook.com/sgncc.hq/)
