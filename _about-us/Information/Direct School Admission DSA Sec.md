@@ -10,7 +10,7 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 
 
-1.   Application for DSA-Sec 2023 is open from 4th May to 31st May 2023.
+1.   **Application for DSA-Sec 2023 is open from 4th May to 31st May 2023.**
 * The application is free-of-charge.
 * Deadline for 2023 application is 3:00pm, 31 May 2023 (Wednesday).
 * **For more details and for application, please refer to the MOE website –**  [**https://www.moe.gov.sg/secondary/dsa**](%20%20https:/www.moe.gov.sg/secondary/dsa)
@@ -54,9 +54,9 @@ vii. Volleyball (Boys & Girls)
 
 9.   Click on these links to learn more about the above talent areas and their programmes:
 
-[Applied Learning Programme (ALP)](https://www.evergreensec.moe.edu.sg/curriculum/alp/)
+**[Applied Learning Programme (ALP)](https://www.evergreensec.moe.edu.sg/curriculum/alp/)**
 
-[Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)
+**[Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)**
 
 #### **(C) Selection Criteria**
 
@@ -85,4 +85,3 @@ vii. Volleyball (Boys & Girls)
 #### **(E) Apply Now & Follow Us on Social Media**
 
 14.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
-
