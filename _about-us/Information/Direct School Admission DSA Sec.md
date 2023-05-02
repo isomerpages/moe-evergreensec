@@ -74,15 +74,16 @@ vii. Volleyball (Boys & Girls)
 
 #### **(D) Selection Process**
 
-13.   To find out about the selection processes in each of the talent areas, click [here.](about:blank)
+13.   To find out about the selection processes in each of the talent areas, click [here](). 
 
 
 
 | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic1.jpg) | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic2.jpg) | 
 | -------- | -------- | -------- |
-| DSA Admin Information | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf) **|
+| **[DSA Admin Information](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf)** | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf)**  |
 
 
 #### **(E) Apply Now & Follow Us on Social Media**
 
 14.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
+
