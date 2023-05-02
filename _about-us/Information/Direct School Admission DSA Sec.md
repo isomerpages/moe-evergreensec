@@ -58,10 +58,21 @@ vii. Volleyball (Boys & Girls)
 
 [Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)
 
-**(C) Selection Criteria **
+**(C) Selection Criteria**
+
 10.   The following criteria will be considered:
+* Passionate about leading change to help others
+* Demonstrate exemplary character through active participation in community work or volunteerism
+* Strengths in oral and digital communication, namely Debating, Public Speaking and Journalism in English Language and/or Mother Tongue Language
+* Demonstrate strengths for further development in sports and/or leadership
+* Demonstration of aptitude and potential during interview and DSA assessment process.
+
 11.   **We welcome student applicants who express a deep passion in leadership, communications 1and/ or sports, even if they are presently not in any related CCA or school programme.**
+
 12.   Applicant’s experience in key leadership positions in Leadership Boards (e.g. Head or Deputy Head Prefect) or in CCAs would be considered, but are not a compulsory criteria.
+
+##### (D) Selection Process
+
 13.   To find out about the selection processes in each of the talent areas, click [here.](about:blank)
 14.   Follow us on Facebook and Instagram to find out more about our vibrant school community!
 
