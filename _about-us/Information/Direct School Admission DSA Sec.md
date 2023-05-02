@@ -74,13 +74,13 @@ vii. Volleyball (Boys & Girls)
 
 #### **(D) Selection Process**
 
-13.   To find out about the selection processes in each of the talent areas, click [here](). 
+13.   To find out about the selection processes in each of the talent areas, click [here](/files/Direct%20School%20Admission/evg-selection-process-information.pdf). 
 
 
 
 | ![](/images/School%20information/Direct%20School%20Admission/evg%20rugby.jpg) | ![](/images/School%20information/Direct%20School%20Admission/evg%20rainbow2.jpg) | 
 | -------- | -------- | -------- |
-| **[DSA Admin Information](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf)** | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf)**  |
+##### | **[DSA Admin Information](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf)** | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf)**  |
 
 
 #### **(E) Apply Now & Follow Us on Social Media**
