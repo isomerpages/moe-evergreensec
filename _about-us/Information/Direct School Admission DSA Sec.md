@@ -4,7 +4,7 @@ permalink: /school-information/Direct-School-Admission/
 description: ""
 third_nav_title: Information
 ---
-**(A) Introduction**
+#### **(A) Introduction**
 
 The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Ministry of Education in 2004, seeks to promote holistic education through recognizing a more diverse range of achievements and talents. All students interested in applying for a place to Evergreen Secondary School via DSA-Sec will need to do so via a centralised DSA-Sec Portal managed by the Ministry of Education (MOE).
 
@@ -25,7 +25,7 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 5.   **Click the link below to apply now for DSA to Evergreen Secondary:** [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
-**(B) Talent Areas**
+#### **(B) Talent Areas**
 
 6.   Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] & Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
 
@@ -58,7 +58,7 @@ vii. Volleyball (Boys & Girls)
 
 [Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)
 
-**(C) Selection Criteria**
+#### **(C) Selection Criteria**
 
 10.   The following criteria will be considered:
 * Passionate about leading change to help others
@@ -71,7 +71,7 @@ vii. Volleyball (Boys & Girls)
 
 12.   Applicant’s experience in key leadership positions in Leadership Boards (e.g. Head or Deputy Head Prefect) or in CCAs would be considered, but are not a compulsory criteria.
 
-##### (D) Selection Process
+#### **(D) Selection Process**
 
 13.   To find out about the selection processes in each of the talent areas, click [here.](about:blank)
 
@@ -82,12 +82,7 @@ vii. Volleyball (Boys & Girls)
 | DSA Admin Information | Frequently Asked Questions |
 
 
-14.   Follow us on Facebook and Instagram to find out more about our vibrant school community!
+#### **(E) Apply Now & Follow Us on Social Media**
 
+14.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
 
-Successful applicants will be nurtured through our distinctive programmes to take on student leadership roles in school-wide programmes and in co-curricular activities. Some of these developmental programmes include communication skills and student leadership development programmes.
-
-Click on these links to learn more about the above talent areas and their programmes:
-
-
-The Selection Criteria and Process for the talent areas will be updated from early May.  For more information on DSA-Sec, please see&nbsp;[**MOE’s website**](https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school).
