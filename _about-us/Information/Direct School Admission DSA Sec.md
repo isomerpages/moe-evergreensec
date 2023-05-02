@@ -74,6 +74,14 @@ vii. Volleyball (Boys & Girls)
 ##### (D) Selection Process
 
 13.   To find out about the selection processes in each of the talent areas, click [here.](about:blank)
+
+
+
+| ![](/images/School%20information/Direct%20School%20Admission/dsa_pic1.jpg) | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic2.jpg) | 
+| -------- | -------- | -------- |
+| DSA Admin Information | Frequently Asked Questions |
+
+
 14.   Follow us on Facebook and Instagram to find out more about our vibrant school community!
 
 
