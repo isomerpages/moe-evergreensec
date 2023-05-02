@@ -79,7 +79,7 @@ vii. Volleyball (Boys & Girls)
 
 | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic1.jpg) | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic2.jpg) | 
 | -------- | -------- | -------- |
-| DSA Admin Information | Frequently Asked Questions |
+| DSA Admin Information | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf) **|
 
 
 #### **(E) Apply Now & Follow Us on Social Media**
