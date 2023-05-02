@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Homepage/hero_banner_1920x720gif.gif
       url: /school-information/Direct-School-Admission/
-      button: Click Here to apply for DSA-SEC to Evergreen
+      button: Start your next journey with us
       key_highlights:
-        - title: Start your Next Journey with Us
+        - title: Click Here to apply for DSA-SEC to Evergreen
           description: ""
           url: /school-information/Direct-School-Admission/
   - resources:
