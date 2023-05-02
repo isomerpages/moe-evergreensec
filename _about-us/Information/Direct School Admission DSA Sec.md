@@ -13,7 +13,7 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 1.   **Application for DSA-Sec 2023 is open from 4th May to 31st May 2023.**
 * The application is free-of-charge.
 * Deadline for 2023 application is 3:00pm, 31 May 2023 (Wednesday).
-* **For more details and for application, please refer to the MOE website –**  [**https://www.moe.gov.sg/secondary/dsa**](%20%20https:/www.moe.gov.sg/secondary/dsa)
+* **For more details and for application, please refer to the MOE website –**  [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
 
 
@@ -68,7 +68,7 @@ vii. Volleyball (Boys & Girls)
 * Demonstrate strengths for further development in sports and/or leadership
 * Demonstration of aptitude and potential during interview and DSA assessment process.
 
-11.   **We welcome student applicants who express a deep passion in leadership, communications 1and/ or sports, even if they are presently not in any related CCA or school programme.**
+11.   **We welcome student applicants who express a deep passion in leadership, communications and/or sports, even if they are presently not in any related CCA or school programme.**
 
 12.   Applicant’s experience in key leadership positions in Leadership Boards (e.g. Head or Deputy Head Prefect) or in CCAs would be considered, but are not a compulsory criteria.
 
@@ -78,7 +78,7 @@ vii. Volleyball (Boys & Girls)
 
 
 
-| ![](/images/School%20information/Direct%20School%20Admission/dsa_pic1.jpg) | ![](/images/School%20information/Direct%20School%20Admission/dsa_pic2.jpg) | 
+| ![](/images/School%20information/Direct%20School%20Admission/evg%20rugby.jpg) | ![](/images/School%20information/Direct%20School%20Admission/evg%20rainbow2.jpg) | 
 | -------- | -------- | -------- |
 | **[DSA Admin Information](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf)** | **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf)**  |
 
@@ -87,3 +87,5 @@ vii. Volleyball (Boys & Girls)
 
 14.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
 
+![](/images/School%20information/Direct%20School%20Admission/evg%20road%20run.jpg) 
+##### **[Click here to apply for DSA-Sec to Evergreen!](https://www.moe.gov.sg/secondary/dsa)**
