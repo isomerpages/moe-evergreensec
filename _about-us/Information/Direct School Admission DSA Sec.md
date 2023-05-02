@@ -31,6 +31,7 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 
 7.   Our school offers the following DSA talent areas and domains:
+
 **(a)&nbsp; Academic Domains under our Applied Learning Programme \[ALP\]**
 
 i. Debating and Public Speaking  
