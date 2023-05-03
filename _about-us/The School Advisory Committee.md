@@ -14,6 +14,5 @@ As a key partner in guiding and growing the school to realise her mission and vi
 | Edward Wee     | Vice - Chairman |
 | Vincent Toh    |    Secretary    |
 | Carina Chia    |      Member     |
-| Lim Kee Cheng  |      Member     |
 | Tony Ng        |      Member     |
 | Phua Heng Jone |      Member     |
