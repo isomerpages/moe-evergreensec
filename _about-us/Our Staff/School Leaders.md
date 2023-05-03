@@ -4,7 +4,6 @@ permalink: /our-staff/School-Leaders/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <figure>  
 <img style="width:30%;height:50%" src="/images/Our%20Staff/School%20Leaders/S1.jpg">  
 <figcaption> <strong> Mr Vincent Toh, Principal </strong> </figcaption>  
