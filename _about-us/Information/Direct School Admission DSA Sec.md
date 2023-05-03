@@ -74,16 +74,18 @@ vii. Volleyball (Boys & Girls)
 
 #### **(D) Selection Process**
 
-13.   To find out about the selection processes in each of the talent areas, click [here](/files/Direct%20School%20Admission/evg-selection-process-information.pdf). 
-#### **[DSA Admin Information](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf)**
+13.   To find out about the selection processes for each of the talent areas, click [Selection Process](/files/Direct%20School%20Admission/evg-selection-process-information.pdf). 
+14.   To find out the key dates and contact information, click [DSA Admin Info](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf).
+15.   For Frequently Asked Questions. click [FAQ](/files/Direct%20School%20Admission/dsa-faq.pdf).
+
 ![](/images/School%20information/Direct%20School%20Admission/evg%20rugby.jpg)
-#### **[Frequently Asked Questions](/files/Direct%20School%20Admission/dsa-faq.pdf)** 
+
 ![](/images/School%20information/Direct%20School%20Admission/evg%20rainbow2.jpg)
 
 
 #### **(E) Apply Now & Follow Us on Social Media**
 
-14.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
+16.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
 
 ![](/images/School%20information/Direct%20School%20Admission/evg%20road%20run.jpg) 
 #### **[Click here to apply for DSA-Sec to Evergreen!](https://www.moe.gov.sg/secondary/dsa)**
