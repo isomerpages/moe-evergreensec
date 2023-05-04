@@ -2,6 +2,7 @@ collections:
   co-curricular-at-evg:
     output: true
     order:
+      - CCA in Evergreen.md
       - CCA Clubs & Societies/.keep
       - CCA Clubs & Societies/Digital Media Club.md
       - CCA Clubs & Societies/English Literary Drama and Debate Society.md
