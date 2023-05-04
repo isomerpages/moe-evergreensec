@@ -58,7 +58,7 @@ vii. Volleyball (Boys & Girls)
 #### **[Applied Learning Programme (ALP)](https://www.evergreensec.moe.edu.sg/curriculum/alp/)**
 
 #### **[Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)**
-#### 
+
 #### **(C) Selection Criteria**
 
 10.   The following criteria will be considered:
