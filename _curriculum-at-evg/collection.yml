@@ -4,12 +4,12 @@ collections:
     order:
       - Academics in Evergreen.md
       - Applied Learning Programme (ALP).md
-      - Departments/Physical Education.md
-      - Departments/Science Department.md
-      - Departments/Mathematics Department.md
-      - Departments/Humanities Department.md
-      - Departments/MTL Department.md
-      - Departments/English Department.md
+      - Departments/.keep
       - Departments/Aesthetics, Design & Technology (D&T) and Nutrient & Food
         Science (NFS) Department.md
-      - Departments/.keep
+      - Departments/English Department.md
+      - Departments/Humanities Department.md
+      - Departments/Mathematics Department.md
+      - Departments/MTL Department.md
+      - Departments/Science Department.md
+      - Departments/Physical Education.md
