@@ -1,0 +1,5 @@
+collections:
+  working-pages:
+    output: true
+    order:
+      - Our Houses.md
