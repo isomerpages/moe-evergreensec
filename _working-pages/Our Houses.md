@@ -18,3 +18,8 @@ Our houses were named after six founding fathers. They are Mr David Marshall, Mr
 
 ![The Phoenix is a symbol of resurrection.](/images/lim%20kim%20san.png)
 **Phoenix is a symbol of resurrection and a strong determination to succeed.**
+
+![Pegasus is a symbol of knowledge, inspiration and imagination.](/images/othman%20wok.png)
+**Pegasus is a symbol of knowledge, inspiration and imagination.**
+
+
