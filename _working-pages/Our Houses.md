@@ -22,4 +22,5 @@ Our houses were named after six founding fathers. They are Mr David Marshall, Mr
 ![Pegasus is a symbol of knowledge, inspiration and imagination.](/images/othman%20wok.png)
 **Pegasus is a symbol of knowledge, inspiration and imagination.**
 
-
+![Leo is a symbol of exuberance and leadership.](/images/rajaratnam.png)
+**Leo is a symbol of exuberance and leadership, and place courage and personal honesty above all else.**
