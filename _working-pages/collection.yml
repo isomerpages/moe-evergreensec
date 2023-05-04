@@ -1,0 +1,4 @@
+collections:
+  working-pages:
+    output: true
+    order: []
