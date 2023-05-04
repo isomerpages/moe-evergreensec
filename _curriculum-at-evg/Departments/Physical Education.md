@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-curriculum/Departments/Physical-Education/
+permalink: /our-curriculum/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---

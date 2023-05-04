@@ -1,7 +1,6 @@
 ---
-title: Aesthetics, Design & Technology (D&T) and Nutrient & Food Science (NFS)
-  Department
-permalink: /our-curriculum/Departments/Aesthetics-Design-and-Technology-DT-and-Nutrient-and-Food-Science-NFS/
+title: Aesthetics
+permalink: /our-curriculum/departments/aesthetics/
 description: ""
 third_nav_title: Departments
 ---
@@ -41,4 +40,3 @@ Expression (heighten appreciation through expression)
 
 **Lower & Upper Secondary Integrated Curriculum**  
 Art, Design & Technology, Nutrient & Food Science and Music
-

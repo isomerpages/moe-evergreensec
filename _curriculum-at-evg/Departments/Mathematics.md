@@ -1,6 +1,6 @@
 ---
-title: Mathematics Department
-permalink: /our-curriculum/Departments/Mathematics-Department/
+title: Mathematics
+permalink: /our-curriculum/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---
@@ -65,7 +65,7 @@ Our students have done us proud in last year’s National Examinations, with goo
 </table>
 
 **Our Programmes**  
-Annually, the department organises training workshops for passionate students who are interested in competitive mathematics. As an extra-curricular activity, the training workshop stimulates purposeful discussions amongst the students as well as prepares them with higher-order problem-solving heuristics. The topics discussed do not just complement the MOE Mathematics syllabus, they also develop the students’ creative thinking skills and deepen their understanding of certain concepts. From Secondary 2, students also take part in the Singapore Math Olympiad (SMO) and Singapore & Asian Math Olympiad (SASMO) competitions. Our strengths lie in giving students numerous opportunities to demonstrate their passion for mathematics.
+Annually, the department organises training workshops for passionate students who are interested in competitive mathematics. As an extra-curricular activity, the training workshop stimulates purposeful discussions amongst the students as well as prepares them with higher-order problem-solving heuristics. The topics discussed do not just complement the MOE Mathematics syllabus, they also develop the students’ creative thinking skills and deepen their understanding of certain concepts. From Secondary 2, students also take part in the Singapore Math Olympiad (SMO) and Singapore &amp; Asian Math Olympiad (SASMO) competitions. Our strengths lie in giving students numerous opportunities to demonstrate their passion for mathematics.
 
 Within the school curriculum, our students are always yearning for more and eager to tackle new challenges. Hence, all Secondary 3 Express students take Additional Mathematics as a subject, and selected 3NA and 3NT students take up cross-level Mathematics at a higher level (NA students study Express Maths, and NT students study NA Maths).
 

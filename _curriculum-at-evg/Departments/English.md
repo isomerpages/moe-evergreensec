@@ -1,6 +1,6 @@
 ---
-title: English Department
-permalink: /our-curriculum/Departments/English-Department/
+title: English
+permalink: /our-curriculum/departments/english/
 description: ""
 third_nav_title: Departments
 ---
@@ -15,10 +15,10 @@ By the end of Secondary 4/5 at EVG, a student should be able to:
 2.  think critically on a variety of world issues
 3.  be confident and passionate in the use of the English language
 
-### **Department Programmes & Events**
+### **Department Programmes &amp; Events**
 
 **Applied Learning Programme**  
-Evergreen Secondary’s [ALP](/our-curriculum/Distinctive-School-Programmes/Applied-Learning-Programme-ALP/) is the signature **Communication Skills & Inventive Thinking Programme** that focuses on values, communication, creative and critical thinking using the real-world context. Through the **EVG Communication Programme**, we aim to nurture all our students to become confident leaders, possessing effective communication skills and a sense of purpose.  In this way, we hope to enable every EVGian to **Aspire & Achieve** and be inspired to contribute actively to Singapore and the wider community.
+Evergreen Secondary’s&nbsp;[ALP](/our-curriculum/Distinctive-School-Programmes/Applied-Learning-Programme-ALP/)&nbsp;is the signature&nbsp;**Communication Skills &amp; Inventive Thinking Programme**&nbsp;that focuses on values, communication, creative and critical thinking using the real-world context. Through the&nbsp;**EVG Communication Programme**, we aim to nurture all our students to become confident leaders, possessing effective communication skills and a sense of purpose. &nbsp;In this way, we hope to enable every EVGian to&nbsp;**Aspire &amp; Achieve**&nbsp;and be inspired to contribute actively to Singapore and the wider community.
 
 Secondary One ALP - Readers Theatre
 
@@ -40,7 +40,7 @@ Later on, students will be tasked to tell their own stories as they stage script
 
 
 **EL Week**  
-Every March, the English Department organises a week-long event to celebrate the English language and to get students and staff to develop a greater sense of appreciation of English Language & Literature through fun and educational activities, like concert performances, panel discussions and language games.
+Every March, the English Department organises a week-long event to celebrate the English language and to get students and staff to develop a greater sense of appreciation of English Language &amp; Literature through fun and educational activities, like concert performances, panel discussions and language games.
 
 ![](/images/Our%20Curriculum/Departments/English%20Department/E3.png)
 
@@ -94,11 +94,11 @@ Learning Journey to watch a theatre performance at the Esplanade
     <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Julius Caesar</span> <span style="font-weight:inherit;font-style:inherit">(Lit)</span><br><span style="font-weight:inherit;font-style:italic">Fiela’s Child</span> <span style="font-weight:inherit;font-style:inherit">(E. Lit)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Poetry & Singapore Poetry</span></td>
+    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Poetry &amp; Singapore Poetry</span></td>
   </tr>
   <tr>
     <td class="tg-c1uv" rowspan="2"><span style="font-weight:bold;font-style:inherit">Sec 4/5</span></td>
-    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Road to Memphis</span> <span style="font-weight:inherit;font-style:inherit">(Lit & E. Lit)</span></td>
+    <td class="tg-52wp" colspan="2"><span style="font-weight:inherit;font-style:italic">Road to Memphis</span> <span style="font-weight:inherit;font-style:inherit">(Lit &amp; E. Lit)</span></td>
   </tr>
   <tr>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Unseen Prose</span></td>

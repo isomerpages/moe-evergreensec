@@ -1,6 +1,6 @@
 ---
-title: MTL Department
-permalink: /our-curriculum/Departments/MTL-Department/
+title: Mother Tongue Language
+permalink: /our-curriculum/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 ---
@@ -31,4 +31,3 @@ HMTL (HCL & HML)
 *   Support language acquisition through structured reading programme
 *   Enhance pupils’ oral and reading competencies through the MTL Comprehensive Reading Programme
 *   Infusion of ICT in language learning
-

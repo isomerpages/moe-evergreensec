@@ -1,6 +1,6 @@
 ---
-title: Science Department
-permalink: /our-curriculum/Departments/Science-Department/
+title: Science
+permalink: /our-curriculum/departments/science/
 description: ""
 third_nav_title: Departments
 ---
@@ -18,26 +18,26 @@ The Copernicus Research-based Integrated Science Programme (CRISP) aims to insti
 
 ![](/images/Our%20Curriculum/Departments/Science%20Department/S1.png)
 
-**Secondary 2: Project Work, Competitions and Enrichment** **Programmes**
+**Secondary 2: Project Work, Competitions and Enrichment**&nbsp;**Programmes**
 
 **(1) Interdisciplinary Project Work**
 
 As part of the curriculum, students apply the scientific method to plan and carry out investigations to explain interesting phenomena. Alternatively, they embark on the iterative design cycle to engineer solutions to problems faced by people in their daily lives. At the end of the year, they present their findings and products to their classmates. They may even have an opportunity to implement their ideas within the school setting.
 
-**(2) North Zone** **Elementz** **Competition**
+**(2) North Zone**&nbsp;**Elementz**&nbsp;**Competition**
 
 Students with an interest and aptitude for scientific research are given the opportunity to showcase their promising projects at the annual North Zone Elementz Science Project Competition and Exhibition under the guidance of teacher mentors. As students collect and analyse data, complete research papers and answer questions posed by a panel of judges, they get a glimpse into the rigour of scientific research.
 
 ![](/images/Our%20Curriculum/Departments/Science%20Department/S2.png)
 
 
-**(3)** **Electives**
+**(3)**&nbsp;**Electives**
 
-\- **Crime** **Science** **Investigation**
+\-&nbsp;**Crime**&nbsp;**Science**&nbsp;**Investigation**
 
 Every year, our teachers conduct an in-house module on forensic science techniques. Students learn how to examine and process evidence, including how to analyse blood samples, glass shattering patterns, fingerprints and other types of available evidence, in order to eliminate suspects and eventually identify the culprit. Through role-play, students learn to record observations, take measurements, form hypotheses and make deductions by interpreting a variety of data.
 
-\- **Dental Science**
+\-&nbsp;**Dental Science**
 
 In 2018, Professor Jaya and a team of PhD candidates from the National University of Singapore Faculty of Dentistry conducted a module to teach students how to perform common investigative dental procedures using a range of laboratory apparatus. In the process of learning how to achieve good dental health, they even learnt how to extract material from the mouth from current practitioners.
 
@@ -57,7 +57,7 @@ The event is organised by the National University of Singapore every 2 years.
 **Green Environment Education**  
 This programme has been in place since 2009 with the following objectives:
 
-*   Promote the conservation of the environment and climate awareness to the school population.
+*   Promote the conservation of the environment and climate awareness to the&nbsp;school population.
 *   To raise awareness of the importance of being a global citizen.
 *   To encourage students to share and promote the importance of the conservation of the environment and climate awareness to their family and friends at home.
 
