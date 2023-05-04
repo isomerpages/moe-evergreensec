@@ -16,4 +16,6 @@ Our houses were named after six founding fathers. They are Mr David Marshall, Mr
 ![Centaurs are renowned as great archers.](/images/goh%20keng%20swee.png)
 **Centaurs are gifted with foresight.**
 
+![The Phoenix is a symbol of resurrection.](/images/lim%20kim%20san.png)
+**Phoenix is a symbol of resurrection and a strong determination to succeed.**
 
