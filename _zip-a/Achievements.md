@@ -2,7 +2,6 @@
 title: Achievements
 permalink: /our-curriculum/Achievements/Achievements/
 description: ""
-third_nav_title: Student Achievements
 ---
 We are proud of our students for their different strengths and many talents.
 
