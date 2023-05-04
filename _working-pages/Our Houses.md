@@ -13,6 +13,7 @@ Our houses were named after six founding fathers. They are Mr David Marshall, Mr
 ![Aquila is a symbol of precision and determination.](/images/eddie%20barker.png)
 **Aquila is a symbol of precision and determination.**
 
-![Centaurs are renowned as great archers.]()
-**Centaurs are renowned as great archers. They are gifted with foresightedness.**
+![Centaurs are renowned as great archers.](/images/goh%20keng%20swee.png)
+**Centaurs are gifted with foresight.**
+
 
