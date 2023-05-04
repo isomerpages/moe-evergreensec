@@ -3,6 +3,8 @@ title: CCA in Evergreen
 permalink: /co-curricular/
 description: ""
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vEVBv5IY5OU" height="315" width="560"></iframe>
+
 **Vision**  
 Passion to Succeed.
 
@@ -24,7 +26,7 @@ To develop winners with character.
 **CCA in Evergreen**  
 Co-Curricular Activities in Evergreen Secondary School is COMPULSORY.
 
-Every student must take part in one school-based CCA, which can be from the Physical Sports, Uniformed Group, Visual & Performing Arts or Clubs & Societies. Participation in a second CCA may be allowed, subject to regular attendance in first CCA, good academic performance and not more than 3 days of CCA in a week. Students who are keen to experience the different CCA in school may opt for a change at the beginning of each academic year.
+Every student must take part in one school-based CCA, which can be from the Physical Sports, Uniformed Group, Visual &amp; Performing Arts or Clubs &amp; Societies. Participation in a second CCA may be allowed, subject to regular attendance in first CCA, good academic performance and not more than 3 days of CCA in a week. Students who are keen to experience the different CCA in school may opt for a change at the beginning of each academic year.
 
 **LEAPS 2.0**  
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
