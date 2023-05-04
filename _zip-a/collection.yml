@@ -2,6 +2,7 @@ collections:
   zip-a:
     output: true
     order:
+      - Safety.md
       - CCA Uniformed Groups/.keep
       - TempCCA/.keep
       - Clubs and Societies.md
