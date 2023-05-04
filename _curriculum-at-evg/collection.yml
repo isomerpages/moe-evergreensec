@@ -2,4 +2,5 @@ collections:
   curriculum-at-evg:
     output: true
     order:
+      - Departments/.keep
       - Applied Learning Programme (ALP).md
