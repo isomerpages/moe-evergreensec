@@ -2,5 +2,6 @@ collections:
   curriculum-at-evg:
     output: true
     order:
+      - Academics in Evergreen.md
       - Departments/.keep
       - Applied Learning Programme (ALP).md
