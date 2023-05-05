@@ -4,6 +4,8 @@ permalink: /our-staff/School-Leaders/
 description: ""
 third_nav_title: Our Staff
 ---
+![](/images/Our%20Staff/School%20Leaders/sl_grouppic.jpeg)
+
 | Name                    | Designation    | Email address                |
 |-------------------------|----------------|------------------------------|
 | Mr Toh Kim Yong Vincent | Principal      | Vincent_Toh@schools.gov.sg   |
