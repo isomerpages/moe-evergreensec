@@ -21,6 +21,8 @@ The Secondary 3 students undergo an intensive focus in effective presentation sk
 **Sec 3 EL Learning Journey**  
 To foster greater appreciation in the arts, all Sec 4 and 5 students get the opportunity to attend a theatre performance every year.
 
+![](/images/Our%20Curriculum/Departments/English%20Department/sec%203%20alp.jpeg)
+
 
 ### **Literature**
 
@@ -31,3 +33,5 @@ Our vibrant Literature programmes ensure that students at all levels delve deep 
 The highlight of Evergreen’s Literature programme is an emphasis on poetry which includes a thematic approach to Singapore poetry culminating in a learning journey to a complementary part of the country. We feel an experiential approach to the subject is vital to ensuring that students appreciate its relevance to their lives. 
 
 At Evergreen Secondary, we are convinced that introducing Literature well and inspiring through it will leave a lasting impact on its future and all of ours.
+
+![](/images/Our%20Curriculum/Departments/English%20Department/shakespeare%20exhibition.jpg)
