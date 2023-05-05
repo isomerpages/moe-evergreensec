@@ -36,8 +36,8 @@ Students will be able to experience authentic learning about business and financ
 * **Inter-disciplinary Approach**  
 Students will be able to experience the application of good English and Mathematics in articulating business financial performance.
 
-* **Connection to Society and World**  
+* **Stay Connected to Society and World**  
 Students will be able to experience the relevance of professional ethics within the accounting profession and be aware of the various career options and progression pathways in the Singapore Accounting ecosystem.
 
-* **Entrepreneurial Dare**  
+* **Develops Entrepreneurial Dare**  
 Students will demonstrate the willingness to think critically and inquire more deeply about the subject content that they have learnt.
