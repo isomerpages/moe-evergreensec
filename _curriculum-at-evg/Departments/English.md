@@ -4,7 +4,7 @@ permalink: /our-curriculum/departments/english/
 description: ""
 third_nav_title: Departments
 ---
-### **English Language**
+#### **English Language**
 
 **Key Learning Experiences**  
 * **Applied Learning Programme**  
@@ -23,7 +23,7 @@ The Secondary 3 students undergo an intensive focus in effective presentation sk
 To foster greater appreciation in the arts, all Sec 4 and 5 students get the opportunity to attend a theatre performance every year.![](/images/Our%20Curriculum/Departments/English%20Department/sec%203%20alp.jpeg)
 
 
-### **Literature**
+#### **Literature**
 
 Evergreen Secondary School believes in igniting a passion for Literature and bolstering students’ confidence in the subject. The school supports students in pursuing Literature at upper secondary by offering the subject to both Express and Normal Academic students and providing a rigorous and engaging lower secondary programme. Many of our students express that studying Literature is a unique experience no other subject is able to give.
 
