@@ -4,71 +4,40 @@ permalink: /our-curriculum/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---
+#### **Mathematics**
+
 The Mathematics Department has a cohesive team of Mathematics teachers, working closely together and being supportive of one another in order to bring out the best in our students. We take pride in creating success stories and have expectations to meet high standards of performance.
 
-**Mission**  
-To ignite in our pupils a passion for Mathematics and develop their latent potential in the subject so that they are able to appreciate it in real-life applications.
-
-**Achievements**  
-Our students have done us proud in last year’s National Examinations, with good distinction rates over the last 3 years.
-
-**O and N Level Results**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1uv" rowspan="2"><span style="font-weight:bold;font-style:inherit">Year</span></th>
-    <th class="tg-c1uv" rowspan="2"><span style="font-weight:bold;font-style:inherit">Level/Stream</span></th>
-    <th class="tg-c1uv" rowspan="2"><span style="font-weight:bold;font-style:inherit">Subject</span></th>
-    <th class="tg-c1uv" colspan="2"><span style="font-weight:bold;font-style:inherit">Percentage</span></th>
-  </tr>
-  <tr>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Pass</span></th>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Distinction</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dox4" rowspan="4"><span style="font-weight:inherit;font-style:inherit">2017</span></td>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">4 Exp</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">A Maths</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">100</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">60.5</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">E Maths</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">100</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">72.0</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4NA</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Maths</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">100</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">60.5</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">4NT</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Maths</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">100</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">44.1</span></td>
-  </tr>
-</tbody>
-</table>
-
 **Our Programmes**  
-Annually, the department organises training workshops for passionate students who are interested in competitive mathematics. As an extra-curricular activity, the training workshop stimulates purposeful discussions amongst the students as well as prepares them with higher-order problem-solving heuristics. The topics discussed do not just complement the MOE Mathematics syllabus, they also develop the students’ creative thinking skills and deepen their understanding of certain concepts. From Secondary 2, students also take part in the Singapore Math Olympiad (SMO) and Singapore &amp; Asian Math Olympiad (SASMO) competitions. Our strengths lie in giving students numerous opportunities to demonstrate their passion for mathematics.
+Annually, the department organises training workshops for passionate students who are interested in competitive mathematics. As an extra-curricular activity, the training workshop stimulates purposeful discussions amongst the students as well as prepares them with higher-order problem-solving heuristics. The topics discussed do not just complement the MOE Mathematics syllabus, they also develop the students’ creative thinking skills and deepen their understanding of certain concepts. From Secondary 2, students also take part in the Singapore Math Olympiad (SMO) and Singapore &amp; Asian Math Olympiad (SASMO) competitions. Our strengths lie in giving students numerous opportunities to demonstrate their passion for mathematics.![](/images/Our%20Curriculum/Departments/Mathematics%20Department/jpeg%20image%2019.jpeg)
 
-Within the school curriculum, our students are always yearning for more and eager to tackle new challenges. Hence, all Secondary 3 Express students take Additional Mathematics as a subject, and selected 3NA and 3NT students take up cross-level Mathematics at a higher level (NA students study Express Maths, and NT students study NA Maths).
+Within the school curriculum, our students are always yearning for more and eager for challenges. Hence, all Secondary Three G3 students take Additional Mathematics as a subject. As a Full-SBB pilot school, many of our students also take up cross-level Mathematics at a higher level across all the levels.
 
-![](/images/Our%20Curriculum/Departments/Mathematics%20Department/M1.png)
+#### **Computer Applications**
 
-![](/images/Our%20Curriculum/Departments/Mathematics%20Department/M2.png)
+The Animation and Game Making Competition or AGM, is an annual competition for students taking the subject, Computer Applications. This nationwide competition is organised by the Computer Education Unit, in MOE.
+
+In conjunction with the school-based course projects done by the students in Secondary 2 and 3, the best works are chosen to represent the school in the competition.
+
+In 2022, Muhammad Syazwan Bin Sharin from 2 Commitment was awarded the Gold award and Muhammad Izzan Adly Bin Azmi from 3 Commitment was awarded the bronze award.![](/images/Our%20Curriculum/Departments/Mathematics%20Department/syazwan%20receiving%20his%20gold%20award.jpeg)
+
+![](/images/Our%20Curriculum/Departments/Mathematics%20Department/izzan%20receiving%20the%20bronze%20award.jpeg)
+
+In addition, our school has also achieved the Sustained Gold Award for achieving three consecutive Gold Awards in the Animation category since the year 2020.![](/images/Our%20Curriculum/Departments/Mathematics%20Department/mrs%20eng%20receiving%20the%20sustained%20gold%20award.jpeg)
+
+#### **Principles of Accounts**
+The subject Principles of Accounts (POA) is offered as an elective subject for the Express and Normal (Academic) courses. The POA Syllabus is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting.  Students offering POA will develop an understanding of accounting concepts and learn how to apply accounting knowledge to develop lifelong skills and values. They will develop the abilities to prepare, communicate and use accounting information.  In the learning process, students will develop an understanding of the importance of professional ethics.
+
+**Key Learning Experiences**
+
+**Real-World Curriculum**  
+Students will be able to experience authentic learning about business and financial matters. This aims to instill good financial habits in our students by equipping them with important life-skills and financial literacy knowledge such as budgeting, the importance of savings and investing for the future. With the relevant knowledge and skills, the students can be better prepared for the financial landscape of the 21st century and make informed decisions to manage their future financial resources. 
+
+**Inter-disciplinary Approach**  
+Students will be able to experience the application of good English and Mathematics in articulating business financial performance.
+
+**Connected to Society and World**  
+Students will be able to experience the relevance of professional ethics within the accounting profession and be aware of the various career options and progression pathways in the Singapore Accounting ecosystem.
+
+**Entrepreneurial Dare**  
+Students will demonstrate the willingness to think critically and inquire more deeply about the subject content that they have learnt.
