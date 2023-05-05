@@ -29,5 +29,5 @@ An annual event since 2007, the EVG Road Run provides an excellent opportunity f
 * **EVG Sports Carnival**  
 The EVG Sports Carnival is a key initiative which offers sports competitions to all EVGians to encourage mass sports participation. These sports include Inter-House Badminton, Soccer and Dragon Boating. These competitions are meant to enrich the students’ experience in playing sports and to enable them to continue playing the sport as recreational activities beyond school.![](/images/Our%20Curriculum/Departments/Physical%20Education/P1.png)
 
-* **Character & Leadership Development through Sports**  
+* **Character & Leadership Development through Sports (CLDS)**  
 Sport Singapore has developed the CLDS Framework that features the use of game activities and specific role playing for the learning and development of performance, social and moral values and attributes. Evergreen Secondary School is one of the pilot schools to adopt this framework into PE lesson planning. The CLDS Framework works on the basis that ethical lessons and values-in-sport must be specifically “taught” rather than just caught from the experience. Through CLDS, the explicit teaching of values and student leadership development is infused into the PE pedagogies.![](/images/Our%20Curriculum/Departments/Physical%20Education/P2.png)
