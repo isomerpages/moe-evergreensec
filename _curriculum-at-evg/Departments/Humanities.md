@@ -4,7 +4,7 @@ permalink: /our-curriculum/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-### **Geography**
+#### **Geography**
 Geography students in Evergreen Secondary School are exposed to Geographical Inquiry (GI), whereby they are required to gather data, analyse and interpret their findings and make evaluations based on the collated information. In the process, they gain geographical insights and develop skills in communicating and applying geographical knowledge. 
 
 **Key Learning Experiences**  
@@ -22,7 +22,7 @@ To enhance students’ learning, Secondary 3 students went on a Learning Journey
   
 	To help students to develop a sense of appreciation, care and responsibility for the environment, the Geography Unit also collaborated with the EL/Lit Department to conduct a Learning Journey to Pulau Semakau. ![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/lj%20pulau%20semakau.jpg)
 
-#### **History**
+##### **History**
 **Key Learning Experiences**  
 * **Secondary 2 Investigation History: Singapore under the Japanese Occupation 1942 – 1945**  
 History students embarked on a learning journey at the Former Ford Motor Factory where they acquired and interpreted relevant historical sources that will help them construct knowledge and understanding of the past.  
