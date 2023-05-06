@@ -4,62 +4,31 @@ permalink: /our-curriculum/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-**Vision**  
-A dynamic team with a passion for engaging in life-long learning and excelling in a globalised world.
+#### **Geography**
+Geography students in Evergreen Secondary School are exposed to Geographical Inquiry (GI), whereby they are required to gather data, analyse and interpret their findings and make evaluations based on the collated information. In the process, they gain geographical insights and develop skills in communicating and applying geographical knowledge. 
 
-**Mission**  
-We nurture Character as well as Confident and Critical thinkers (C3) who are passionate towards learning and excelling through the Humanities lens.
+**Key Learning Experiences**  
+* **Secondary 1 Water Quality GI**  
+Our Secondary 1 students are given the opportunity to investigate the water quality around the school.  Groups of students presented and shared their findings to their peers.![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/water%20quality.jpg)
 
-**Our Programmes**  
-The Evergreen Humanities Department offers students the following subjects – Social Studies at Lower Secondary (Normal Technical Syllabus) and Upper Secondary (Express and Normal Academic Syllabi), and the choices of Core Geography and Core Literature, and History, Geography and Literature Electives.
+* **Secondary 3 Climate and Weather GI**  
+Secondary 3 students constructed a few hypothesis on microclimate and tested their hypotheses by collecting weather data around the school compound. Using the collated information, they supported or rejected their proposed hypothesis.![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/climate%20and%20weather%20gi.jpg)
 
-The Humanities Department has various programmes to engage the students so that they are able to comprehend and appreciate the workings of the world around them.
+* **Secondary 4 Tourism GI**  
+Our Secondary 4 students applied the fieldwork techniques to conduct an investigation on Kampong Glam. With the help of ICT, students worked collaboratively to collect, analyse and interpret collected data. The groups of students shared their data, analysis and evaluation with their peers.![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/tourism%20gi.jpg)
 
-**Academic Programmes**  
-The learning of Humanities places more emphasis on an inquiry-based approach. For History and Social Studies, students are required to research, analyse and interpret different types of sources to support their own hypothesis. On the other hand, Geography students are exposed to investigative and inquiry-based fieldwork, in which they are required to gather data and make evaluations based on the information they have collected.
+* **Learning Journeys**  
+To enhance students’ learning, Secondary 3 students went on a Learning Journey to Meteorological Service Singapore (MSS) to learn about the work of a meteorologist and the weather instruments used to collect the different weather readings for Singapore. ![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/lj%20forecast%20office.jpg)  
+  
+	To help students to develop a sense of appreciation, care and responsibility for the environment, the Geography Unit also collaborated with the EL/Lit Department to conduct a Learning Journey to Pulau Semakau. ![](/images/Our%20Curriculum/Departments/Humanities%20Department/Geography/lj%20pulau%20semakau.jpg)
 
-Lower Secondary students are introduced to skills such as describing trends, essay writing skills and source interpretations. Lower Secondary students also have the opportunity to conduct authentic customised historical and geographical research beyond the classroom.
+##### **History**
+**Key Learning Experiences**  
+* **Secondary 2 Investigation History: Singapore under the Japanese Occupation 1942 – 1945**  
+History students embarked on a learning journey at the Former Ford Motor Factory where they acquired and interpreted relevant historical sources that will help them construct knowledge and understanding of the past.  
 
-**Key learning approach**  
-The department’s key learning approach in teaching Humanities consists of multiple layers of scaffolding to help students unpack concepts and questions. The department practices _making thinking visible_ in constructing quality answers and using different levels of scaffolding to meet the needs of students with different learning profiles. In addition, the department also uses _guiding questions_ and _graphic organisers_ to structure students’ thinking processes and link concepts across the topics. Providing f_eedback for learning_ and _peer critiques_ are common pedagogical strategies used across the department to help students identify and bridge their learning gaps. This year, the department has embarked on using _Differentiated Instructions_ to cater to the diverse needs of our learners.
+  This was the place where the British forces surrendered unconditionally to the Imperial Japanese Army on 15 February 1942. The exhibition presents the events and memories surrounding the British surrender, the Japanese Occupation of Singapore, and the legacies of the war. Through oral history accounts, archival records and published materials, the exhibition highlights the diverse experiences of people in Singapore during this crucial time in our history.
 
-In 2018, the Evergreen Secondary School History Unit was awarded the MOE Innergy Award (Bronze) for our innovative use of Cognitive Scaffold for Critical Reading and Analysis of History Sources.
+  During the Learning Journey, students examined and collected a variety of sources, written, oral, pictorial or artefact, to have a deeper understanding of how people’s lives were affected by the Japanese Occupation in Singapore. We have also included a few thinking questions in our HI booklet to help our students engage with the sources in a more critical and meaningful manner.  
 
-**Opportunities**  
-Students participate in the annual NUS Geography Challenge and Interschool History Challenge as part of their extended learning curriculum.
-
-**2018 Secondary 1 Geography Inquiry-Based Lesson**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H1.png)
-
-**2018 Secondary 3 Pure Geography Students Coastal Fieldwork at East Coast Park**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H2.png)
-
-
-**2018 Secondary 4 Geography Students — Tourism fieldwork at Kampong Glam**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H3.png)
-
-
-**2018 Secondary 4 Geography Students — Tourism fieldwork at Kampong Glam**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H4.png)
-
-**2017 Secondary 1 History Museum Visit to the National Museum**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H5.png)
-
-**2017 Secondary 2 History Museum Visit to Changi Chapel**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H6.png)
-
-
-**2017 Secondary 3 History Students - TACA Cards**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H7.png)
-
-
-**Professional Development among History teachers**
-
-![](/images/Our%20Curriculum/Departments/Humanities%20Department/H8.png)
+  Together in their groups, they pooled together their sources, discussed and carefully selected the most relevant sources to illustrate the lives of the people in a poster. A short extract was also included to tell the story on how the people in Singapore lived through the Japanese Occupation.![](/images/Our%20Curriculum/Departments/Humanities%20Department/History/history%20group.jpg)
