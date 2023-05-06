@@ -27,4 +27,4 @@ third_nav_title: Our Staff
 | Mr Mohammad Shahril Bin Jumat | Year Head | mohammad_shahril_jumat@schools.gov.sg |
 | Mr Anantharaja Krishnan Samy | Assistant Year Head | anantharaja_krishnan_samy@schools.gov.sg |
 | Ms Joanna Lee Teck Miang | Assistant Year Head | lee_teck_miang@schools.gov.sg |
-| Mr Ratish Balakrishnan | Assistant Year Head | ratish_balakrishnan@moe.edu.sg |
+| Mr Ratish Balakrishnan | Assistant Year Head | ratish_balakrishnan@schools.gov.sg |
