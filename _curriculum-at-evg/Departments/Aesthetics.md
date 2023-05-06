@@ -33,6 +33,7 @@ Students get the opportunity to attend workshops in Polytechnics, where they get
 #### **Music**
 Experience Evergreen Secondary's
 Music here [Music E-Portal](http://www.evgmusics.com/)
+
 **Key Learning Experiences**
 * **EVG's P.R.I.S.M Programme (Powering Real-World Interdisciplinary Student Music Experiences)**  
 Here at Evergreen Secondary, students automatically join a two (mandatory) + two (optional) year in-house Programme (PRISM) that develops students into songwriters, singers and critical thinkers. Opportunities are given for students to develop their&nbsp;music&nbsp;craft and a robust in-house two-year GMP programme is dedicated to helping them achieve a basic ability to write songs on their own.
