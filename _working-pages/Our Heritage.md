@@ -3,7 +3,7 @@ title: Our Heritage
 permalink: /working-pages/permalink/
 description: ""
 ---
-![](/images/our%20heritage%20-%20school.jpg)
+
 
 Established in 2000, Evergreen Secondary School received its first batch of 320 students and 12 teaching staff. In June 2000, Evergreen Secondary School moved into its present premises at 11 Woodlands Street 83. 
 
