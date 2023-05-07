@@ -1,5 +1,4 @@
 collections:
   working-pages:
     output: true
-    order:
-      - Our Heritage.md
+    order: []
