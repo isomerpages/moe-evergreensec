@@ -1,8 +1,8 @@
 ---
 title: Direct School Admission DSA Sec
-permalink: /school-information/Direct-School-Admission/
+permalink: /admission/dsa/
 description: ""
-third_nav_title: Information
+third_nav_title: Admission
 ---
 #### **(A) Introduction**
 

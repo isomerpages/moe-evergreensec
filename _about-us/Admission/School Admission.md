@@ -1,8 +1,8 @@
 ---
 title: School Admission
-permalink: /school-information/School-Admission/School-Admission/
+permalink: /admission/school-admission/
 description: ""
-third_nav_title: Information
+third_nav_title: Admission
 ---
 For students posted to our school or prospective students who want to apply for DSA or appeal / transfer to Evergreen Sec, you can click on the links in the menu or below for relevant information and forms:
 
