@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
+      - Principal’s Message.md
       - About the School.md
+      - Admission/.keep
       - Admission/Direct School Admission DSA Sec.md
       - Admission/School Admission.md
-      - Admission/.keep
-      - Principal’s Message.md
-      - The School Advisory Committee.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Key Personnel.md
       - Our Staff/Lead and Senior Teachers.md
+      - The School Advisory Committee.md
       - Contact Us.md
