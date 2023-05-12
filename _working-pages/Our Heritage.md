@@ -1,10 +1,8 @@
 ---
 title: Our Heritage
-permalink: /working-pages/permalink/
+permalink: /working-pages/heritage/
 description: ""
 ---
-
-
 Established in 2000, Evergreen Secondary School received its first batch of 320 students and 12 teaching staff. In June 2000, Evergreen Secondary School moved into its present premises at 11 Woodlands Street 83. 
 
 To imbue in its students an indomitable spirit and strength in character, the school has actively cultivated in its students an intimate knowledge of the character traits of the founding leaders of modern Singapore. In recognition of the quality of its National Education (NE) programme, Evergreen Secondary School was designated the North Zone Centre of Excellence in NE in 2003. The school also received the Lee Kuan Yew NE Award (2004 and 2008) and was conferred the Niche Programme Status for NE in 2009. In 2014, the school was affirmed with the Best Practice in Character and Citizenship Education (CCE).  

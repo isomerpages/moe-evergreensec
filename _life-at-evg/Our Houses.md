@@ -1,6 +1,6 @@
 ---
 title: Our Houses
-permalink: /working-pages/permalink/
+permalink: /life-at-evg/houses/
 description: ""
 ---
 Our House System brings the school community together through exciting programmes such as our annual Road Run and Sports Carnival. It is a tradition that bonds our students and staff as proud EVGians.
