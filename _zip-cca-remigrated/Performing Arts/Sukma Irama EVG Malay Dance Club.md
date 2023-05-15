@@ -1,6 +1,6 @@
 ---
 title: Sukma Irama EVG Malay Dance Club
-permalink: /cca/performing-arts/sukma-irama-evg-malay-dance-club/
+permalink: /cca/003/
 description: ""
 third_nav_title: Performing Arts
 ---

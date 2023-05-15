@@ -1,6 +1,6 @@
 ---
 title: Athletics & Cross Country
-permalink: /cca/sports/athletics-cross-country/
+permalink: /cca/004/
 description: ""
 third_nav_title: Sports
 ---

@@ -1,6 +1,6 @@
 ---
 title: Touch Rugby
-permalink: /cca/sports/touch-rugby/
+permalink: /cca/005/
 description: ""
 third_nav_title: Sports
 ---
