@@ -8,6 +8,7 @@ third_nav_title: Our Staff
 | -------- | -------- | -------- |
 | Ms Tina Kishore Sajnani | Lead Teacher - English Literature | tina_kishore_sajnani@schools.gov.sg |  |
 | Ms Ma Ning | Senior Teacher - Chinese Language | ma_ning@schools.gov.sg |
+| Mr  Alawden Myden Pillai | Senior Teacher - History| alawden_myden_pillai@schools.gov.sg |
 | Mr Chua Chin-Lung Tyrus | Senior Teacher - English Language | tyrus_chua_chin-lung@schools.gov.sg |
 | Ms Nor Zamzarina Bte Kamis | Senior Teacher - Geography | nor_zamzarina_kamis@schools.gov.sg |
 | Ms Norhayati Bte Jidin | Senior Teacher - Malay Language | norhayati_jidin@schools.gov.sg |
