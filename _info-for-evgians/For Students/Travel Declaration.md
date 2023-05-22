@@ -4,7 +4,9 @@ permalink: /school-information/Students/Travel-Declaration/
 description: ""
 third_nav_title: For Students
 ---
-Travel declarations are to be submitted online using [MConline](https://www.lead.com.sg/LEAD/login/lms_login.aspx).
+For students whose parents are onboard Parents Gateway, log in to Parents Gateway to do your travel declaration.
 
-Please refer to the attached guidelines to submit the travel declaration.  
-[Guidelines for travel declaration.pdf](/files/Travel%20Declaration/Guidelines-for-travel-declaration.pdf)
+
+Please refer to the attached guidelines to submit the travel declaration.
+
+For students whose parents are not onboard Parents Gateway, click [here](https://go.gov.sg/evg-student-travel-2023) your travel declaration.
