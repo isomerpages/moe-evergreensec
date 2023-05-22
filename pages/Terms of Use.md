@@ -17,7 +17,7 @@ Thank you for visiting Evergreen Secondary School website. By accessing and usin
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](https://www.evergreensec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
