@@ -8,5 +8,14 @@ For students whose parents are onboard Parents Gateway, log in to Parents Gatewa
 
 
 Please refer to the attached guidelines to submit the travel declaration.
+[Guide to Travel Declaration on Parents Gateway]()
 
-For students whose parents are not onboard Parents Gateway, click [here](https://go.gov.sg/evg-student-travel-2023) your travel declaration.
+For students whose parents are not onboard Parents Gateway, click [here](https://go.gov.sg/evg-student-travel-2023) to do your travel declaration.
+
+
+
+
+
+
+
+
