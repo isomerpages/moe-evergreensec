@@ -25,5 +25,5 @@ For students posted to our school or prospective students who want to apply for 
 
 **(D) Direct School Admission Exercise (DSA-Sec)**
 
-*   DSA-Sec is closed for 2022, and will re-open for submission again in 2023 based on MOE information.
+*   DSA-Sec is open for 2023, from 4 to 31 May 2023.
 *   You may visit the 2022 DSA-Sec page [here](https://evergreensec.moe.edu.sg/direct-school-admission/): [/direct-school-admission/](https://evergreensec.moe.edu.sg/direct-school-admission/)
