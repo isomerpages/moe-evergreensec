@@ -2,4 +2,5 @@ collections:
   working-pages:
     output: true
     order:
+      - 2023.md
       - Our Heritage.md
