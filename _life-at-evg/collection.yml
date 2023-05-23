@@ -2,7 +2,7 @@ collections:
   life-at-evg:
     output: true
     order:
-      - Our Prospectus.md
       - Our Corporate Video.md
+      - Our Prospectus.md
       - Our Learning Environment.md
       - Our Houses.md
