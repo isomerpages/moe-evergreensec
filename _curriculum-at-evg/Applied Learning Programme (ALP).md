@@ -3,9 +3,12 @@ title: Applied Learning Programme (ALP)
 permalink: /curriculum/alp/
 description: ""
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Evergreen Sec   ALP&amp; LLP Feature" src="https://www.youtube.com/embed/3m4p8dbNnzk" height="393" width="699"></iframe>
+
+
 Effective Communicators With a Heart
 
-The school’s Applied Learning Programme (ALP) –  Effective  Communicators with a  Heart – is a three-year  programme  which  leverages  on  real-world  contexts  to develop values, communication skills, and creative and critical thinking. It seeks to groom confident leaders with effective communication skills, the ability to express themselves clearly and creatively, and a strong sense of purpose to harness these skills to serve for the greater good.
+The school’s Applied Learning Programme (ALP) –&nbsp; Effective&nbsp; Communicators with a&nbsp; Heart – is a three-year&nbsp; programme&nbsp; which&nbsp; leverages&nbsp; on&nbsp; real-world&nbsp; contexts&nbsp; to develop values, communication skills, and creative and critical thinking. It seeks to groom confident leaders with effective communication skills, the ability to express themselves clearly and creatively, and a strong sense of purpose to harness these skills to serve for the greater good.
 
 ![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A1.jpg)
 
