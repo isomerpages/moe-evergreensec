@@ -24,4 +24,3 @@ ECG Curriculum in EVG is  undergirded by the four themes where programmes are c
 ![](/images/Our%20Curriculum/CCE/Education%20and%20Career%20Guidance/E1.png)
 
 ![](/images/Our%20Curriculum/CCE/Education%20and%20Career%20Guidance/E2.png)
-Poster-EVG-2022ECG-1.pdf)
