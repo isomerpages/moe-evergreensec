@@ -6,4 +6,4 @@ third_nav_title: For Students
 ---
 #### **2023 Semester 1 Timetable**
 
-Please find the timetable for the respective classes here : [2023 Sem1 Timetable\_Classes\_ver5g\_Final](https://evergreensec.moe.edu.sg/wp-content/uploads/2022/12/2023-Sem1-Timetable_Classes_ver5g_Final.pdf)
+Please find the timetable for the respective classes here : [2023 Sem1 Term2 Timetable](/files/Timetables/2023%20term%202%20timetable_updated%2031%20mar.pdf)
