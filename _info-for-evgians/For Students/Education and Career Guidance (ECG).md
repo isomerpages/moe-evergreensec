@@ -15,7 +15,7 @@ The goals of ECG are to:
 
 In Secondary School, the ECG emphasis is on Exploration with the goal of deepening students’ understanding of self and relating schooling to different education and career pathways.
 
-For more information, please refer to the [MOE Website](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance).
+For more information, please refer to the [MOE Education and Career Guidance Website](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance).
 
 **ECG@EVG**
 
@@ -24,8 +24,4 @@ ECG Curriculum in EVG is  undergirded by the four themes where programmes are c
 ![](/images/Our%20Curriculum/CCE/Education%20and%20Career%20Guidance/E1.png)
 
 ![](/images/Our%20Curriculum/CCE/Education%20and%20Career%20Guidance/E2.png)
-
-
-**ECG Counselling @ EVG**
-
-[Poster EVG (2022)ECG](/files/Education%20and%20Career%20Guidance/Poster-EVG-2022ECG-1.pdf)
+Poster-EVG-2022ECG-1.pdf)
