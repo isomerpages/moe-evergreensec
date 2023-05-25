@@ -2,8 +2,8 @@ collections:
   life-at-evg:
     output: true
     order:
-      - Our Houses/Road Run & Sports Carnival.md
-      - Our Houses/Our Houses.md
       - Our Houses/.keep
+      - Our Houses/Our Houses.md
+      - Our Houses/Road Run & Sports Carnival.md
       - Our Corporate Video.md
       - Our Learning Environment.md
