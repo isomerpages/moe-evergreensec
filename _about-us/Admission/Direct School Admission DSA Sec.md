@@ -10,10 +10,10 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 
 
-1.   **Application for DSA-Sec 2023 is open from 4th May to 31st May 2023.**
+1.   **Application for DSA-Sec 2023 is open from 4th&nbsp;May to 31st&nbsp;May 2023.**
 * The application is free-of-charge.
 * Deadline for 2023 application is 3:00pm, 31 May 2023 (Wednesday).
-* **For more details and for application, please refer to the MOE website –**  [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+* **For more details and for application, please refer to the MOE website –** &nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
 
 
@@ -21,13 +21,14 @@ The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Mi
 
 3.   More details about Evergreen Secondary School’s DSA talent areas and selection criteria can be found below.
 
-4.   For further enquiries, you may contact our school at 63656392 (General Office) or via email at [evergreen\_ss@moe.edu.sg](mailto:evergreen_ss@moe.edu.sg?subject=Evergreen%20Secondary%20School)
+4.   For further enquiries, you may contact our school at 63656392 (General Office) or via email at&nbsp;[evergreen\_ss@moe.edu.sg](mailto:evergreen_ss@moe.edu.sg?subject=Evergreen%20Secondary%20School)
 
 5.   **Click the link below to apply now for DSA to Evergreen Secondary:** [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+6.   Click this link to view our School Prospectus         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:"IBM Plex Sans"; mso-font-alt:"IBM Plex Sans"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1610611985 1342185595 0 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} a:link, span.MsoHyperlink {mso-style-noshow:yes; mso-style-priority:99; color:#0563C1; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> [https://for.edu.sg/evgprospectus](https://for.edu.sg/evgprospectus)
 
 #### **(B) Talent Areas**
 
-6.   Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] & Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
+6.   Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] &amp; Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
 
 
 7.   Our school offers the following DSA talent areas and domains:
@@ -41,13 +42,13 @@ iv. Language – Malay Language
 
 **(b) Sports and Leadership Domains under our Learning for Life Programme \[LLP\]**
 
-i. Leadership (Boys & Girls)^  
-ii. Badminton (Boys & Girls)  
-iii. Cross Country (Boys & Girls)  
+i. Leadership (Boys &amp; Girls)^  
+ii. Badminton (Boys &amp; Girls)  
+iii. Cross Country (Boys &amp; Girls)  
 iv. Netball (Girls)  
 v. Rugby (Boys)  
-vi. Table Tennis (Boys & Girls)  
-vii. Volleyball (Boys & Girls)
+vi. Table Tennis (Boys &amp; Girls)  
+vii. Volleyball (Boys &amp; Girls)
 
 ^ *NOTE: Successful Leadership applicants can join any CCA in Evergreen Sec.*
 
@@ -83,7 +84,7 @@ vii. Volleyball (Boys & Girls)
 ![](/images/School%20information/Direct%20School%20Admission/evg%20rainbow2.jpg)
 
 
-#### **(E) Apply Now & Follow Us on Social Media**
+#### **(E) Apply Now &amp; Follow Us on Social Media**
 
 16.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
 
