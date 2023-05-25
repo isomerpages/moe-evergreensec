@@ -2,7 +2,6 @@ collections:
   curriculum-at-evg:
     output: true
     order:
-      - Overseas Learning Journeys.md
       - Aesthetics/.keep
       - Academics in Evergreen.md
       - Applied Learning Programme (ALP).md
@@ -14,3 +13,4 @@ collections:
       - Departments/Mother Tongue Language.md
       - Departments/Science.md
       - Departments/Physical Education.md
+      - Overseas Learning Journeys.md
