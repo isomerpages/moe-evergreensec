@@ -2,6 +2,7 @@ collections:
   life-at-evg:
     output: true
     order:
+      - Our Houses/Our Houses.md
       - Our Houses/.keep
       - Our Corporate Video.md
       - Our Learning Environment.md
