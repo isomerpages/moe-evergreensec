@@ -20,7 +20,6 @@ Parents, staff, guest runners and EVGians alike embarked on the 3.8 km scenic ro
 
 The EVG Road Run was not just a race; it was a celebration of our resilience, our spirit, and our commitment to growth. It reminded us that together, as one EVG family, we can overcome any obstacle and achieve greatness. The memories we created on that day will serve as a constant reminder of the bonds we share and the limitless potential that lies within us.
 
-![](/images/Life%20At%20EVG/Road%20Run/house_collage.jpg)
+![](/images/Life%20At%20EVG/Road%20Run/house_green.jpg)
 
 The Annual EVG Road Run was indeed a fitting way to conclude Term 1. It was a day filled with laughter, cheers, and a renewed sense of purpose.
-
