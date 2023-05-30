@@ -19,3 +19,20 @@ Chinese Unit launched the Reading Programme with the Secondary One and Two stude
   In collaboration with the Singapore Association of Writers, the Committee to Promote Chinese Language Learning (CPCLL) launched the Author-in-Residence Programme (驻校作家计划).  Numerous activities were organised and renowned local writers were invited to schools to promote a love and appreciation of literature among students. The school is honoured to invite local writer Mr Quek Yong Siu (郭永秀) to share his passion of writing with our students. 
 * **Learning Journeys**  
 In 2022, Chinese Unit has organized a virtual learning journey to Beijing and Tianjin in November. In this learning journey, students were able to explore attractions like The Great Wall of China, The Forbidden City and the Singapore-Sino project in Tianjin Eco-city virtually.  With the help of a local guide, students were able to learn interesting historical facts associated with these heritage sites. Different from that of last year, students had the opportunity gain a better understanding on the rapid technological development in China. Students have gained a better understanding on Chinese culture by participating in paper cutting activities.![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C12.png)
+
+
+Over the years, the Malay Language Unit has provide numerous opportunities to EVGians to demonstrate sharpen their skills in a variety workshops that cover poetry writing, debate, expository writing and communications.
+
+Through these workshops, students participated in interactive and engaging activities that helped developed their confidence and deepen their love for the language.
+
+**![](https://lh5.googleusercontent.com/M-wupefVy3qxfK0QHo6I-ll0hkgPvjD_pjDiHr_XNLBHhO1r-4TM-bFUFyn8YUOYodgAeD1FEuYfNGPhFk3B9iRbpt6kS6kLFde6Z51YGzG7kUAZYZv-FloCw9LO0bp0FJvGFR1bwI1nrthW-sXDoA=s2048)**
+
+**![](https://lh6.googleusercontent.com/139lukPoSgsz81PpYLygWlup-YswZdw7Ogqpcypcffc_XK2xY6gzae6T2z_3F86zAvZTliPS-xgJXzc3gw4v5-HlvYUGtFM0OtJoChySrNvzteC9aXak4CmrFst5LdDK7mKQ6Jn70Wz9fkCTel3H=s2048)**
+
+EVGians have also been given opportunities to represent the school and excel in Malay Language competitions that focus on skills like debating, writing and even Scrabble. 
+
+**![](https://lh3.googleusercontent.com/JrGhA8lykILwKBtOjnWQ9UiGGyKxJ3OjPa5fwY10SxDZSoTB2I9ccJDN9RNs456xlrAKUTbRaVXzm-4k_hYMOnhyQac3gUDtnWNkF3-L5RYOcAcnri1X1imX1hIACF7-lmbhJI2yF1taz-sGWugtug=s2048)**
+
+**![](https://lh4.googleusercontent.com/0zt1yLYoce3oB7YshaEyZdAWRrrnP5N4pdLdqNEWlY469nmBfeAKzU2Q0XghtuC9RL5LPKL4c60jW5fIySe9mPRfkwjnws27CwzfCLLI3FvYNv3bidveEpEhJvb_EAcHEN6IY091tuLtZU0bu_9x=s2048)**
+
+
