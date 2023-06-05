@@ -2,5 +2,4 @@ collections:
   working-pages:
     output: true
     order:
-      - Overseas Learning Journey (Jakarta).md
       - Our Heritage.md
