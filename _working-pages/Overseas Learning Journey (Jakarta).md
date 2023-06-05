@@ -3,7 +3,7 @@ title: Overseas Learning Journey (Jakarta)
 permalink: /working-pages/permalink/
 description: ""
 ---
-![](/images/jakarta27.jpg)![](/images/jakarta26.jpg)![](/images/jakart24.jpg)![](/images/jakarta14.jpg)![](/images/jakarya29.jpg)![](/images/jakarta18.jpg)From 30 May to 2 June 2023, our Secondary 3 Malay Language students travelled to Jakarta for the Sec 3 Cultural Immersion Overseas Learning Journey.
+From 30 May to 2 June 2023, our Secondary 3 Malay Language students travelled to Jakarta for the Sec 3 Cultural Immersion Overseas Learning Journey.
 
 The objectives of the learning journey are for our EVGians to:
 
