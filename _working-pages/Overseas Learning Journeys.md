@@ -12,4 +12,3 @@ Watch this space in July as we show highlights of 2023 OLJs to Kuala Lumpur, Ban
 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Beijing and Tianjin virtual learning journey 2020 by Evergreen Sec Sch CL Dept" src="https://www.youtube.com/embed/ReuodCko_Eo" height="688" width="1223"></iframe>
-
