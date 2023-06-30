@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Values.md
       - Principal’s Message.md
       - The School Advisory Committee.md
+      - Our School Values.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Key Personnel.md
