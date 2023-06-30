@@ -24,7 +24,7 @@ description: ""
 * An EVGian demonstrates resilience, perseverance, adaptability and resourcefulness when he/she faces challenges and constraints. 
 
 Our school values, which undergird our school’s policies and actions, are mapped to the 6 pillars of EVG’s CCE Framework of
-
+![](/images/Our%20School%20Values/values.JPG)
 * National Education
 * Guidance and Wellness
 * Positive Discipline
