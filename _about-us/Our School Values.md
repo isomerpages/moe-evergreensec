@@ -16,7 +16,7 @@ description: ""
 * An EVGian values the importance of integrity in public life and understands the importance of integrity to the success of Singapore.
 
 #### **Commitment**
-![](/images/Our%20School%20Values/commitment.jpg)
+![](/images/Our%20School%20Values/commitment_2.jpg)
 * An EVGian demonstrates care and commitment in his/her actions because he/she has a deep sense of responsibility to himself/herself, his/her family, his/her school, his/her community, his/her nation and the world.
 
 #### **Enterprise**
