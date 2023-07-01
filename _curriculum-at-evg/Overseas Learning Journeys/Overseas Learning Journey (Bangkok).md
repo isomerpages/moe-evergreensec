@@ -21,3 +21,11 @@ We are especially delighted to be back in Bangkok to visit Tepleela School which
 Indeed, through this visit we were able to foster the good relationship that we once had with our Thai counterparts. We were once again treated to exceptional Thai hospitality and a warm welcome. In addition, Tepleela school also had prepared a number of activities so that the students would be able to better appreciate the Thai culture and custom.
 
 Our EVGians also visited museums and other places of interest to immerse themselves in activities to understand and appreciate the Thai efforts at sustaining their culture and the environment.
+
+![](/images/bangkok%20olj1.jpg)
+
+![](/images/bangkok%20olj2.jpg)
+
+![](/images/bangkok%20olj3.jpg)
+
+![](/images/bangkok%20olj4.jpg)
