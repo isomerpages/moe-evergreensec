@@ -16,9 +16,9 @@ The OLJ aims to
 
 4\. Strengthen students’ commitment and rootedness to Singapore
 
-We are especially delighted to be back in Bangkok to visit Tepleela School which we had ties with since 2016 but was discontinued due to the pandemic. 
+We are especially delighted to be back in Bangkok to visit Tepleela School which we had ties with since 2016, but was discontinued due to the pandemic. 
 
-Indeed, through this visit we were able to foster the good relationship that we once had with our Thai counterparts. We were once again treated to exceptional Thai hospitality and a warm welcome. In addition, Tepleela school also had prepared a number of activities so that the students would be able to better appreciate the Thai culture and custom.
+Indeed, through this visit we were able to foster the good relationship that we once had with our Thai counterparts. We were once again treated to exceptional Thai hospitality and a warm welcome. In addition, Tepleela school also had prepared a number of activities so that the students would be able to better appreciate the Thai culture and customs.
 
 Our EVGians also visited museums and other places of interest to immerse themselves in activities to understand and appreciate the Thai efforts at sustaining their culture and the environment.
 
@@ -29,3 +29,4 @@ Our EVGians also visited museums and other places of interest to immerse themsel
 ![](/images/bangkok%20olj3.jpg)
 
 ![](/images/bangkok%20olj4.jpg)
+
