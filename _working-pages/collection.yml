@@ -2,6 +2,5 @@ collections:
   working-pages:
     output: true
     order:
-      - Vision, Mission & Values.md
       - Overseas Learning Journeys.md
       - Our Heritage.md
