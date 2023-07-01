@@ -1,6 +1,6 @@
 ---
 title: Overseas Learning Journey (Kuala Lumpur)
-permalink: /curriculum-at-evg/overseas-learning-journeys/permalink/
+permalink: /curriculum-at-evg/overseas-learning-journeys/kualalumpur2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
 ---

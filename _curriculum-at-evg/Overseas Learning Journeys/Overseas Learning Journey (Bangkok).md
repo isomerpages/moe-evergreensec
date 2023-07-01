@@ -1,6 +1,6 @@
 ---
 title: Overseas Learning Journey (Bangkok)
-permalink: /curriculum-at-evg/overseas-learning-journeys/permalink/
+permalink: /curriculum-at-evg/overseas-learning-journeys/bangkok2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
 ---
@@ -29,4 +29,3 @@ Our EVGians also visited museums and other places of interest to immerse themsel
 ![](/images/bangkok%20olj3.jpg)
 
 ![](/images/bangkok%20olj4.jpg)
-

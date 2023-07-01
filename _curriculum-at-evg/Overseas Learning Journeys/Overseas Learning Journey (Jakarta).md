@@ -1,6 +1,6 @@
 ---
 title: Overseas Learning Journey (Jakarta)
-permalink: /working-pages/permalink/
+permalink: /curriculum-at-evg/overseas-learning-journeys/jakarta2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
 ---
