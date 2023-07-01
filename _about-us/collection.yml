@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Vision, Mission & Values.md
       - Principal’s Message.md
       - The School Advisory Committee.md
+      - Vision, Mission & Values.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Key Personnel.md
