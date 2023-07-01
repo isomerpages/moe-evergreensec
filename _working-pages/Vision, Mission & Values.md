@@ -4,13 +4,13 @@ permalink: /working-pages/permalink/
 description: ""
 ---
 ## Our Vision
-#### A dynamic community that thinks and cares.
-# 
+#### **A dynamic community that thinks and cares.**
+
 
 # Our Mission
 
 
-#### We nurture citizens of character with the passion to contribute and excel.
+#### **We nurture citizens of character with the passion to contribute and excel.**
 # Our Values
 #### **Respect**
 ![](/images/Our%20School%20Values/respect.jpeg)
