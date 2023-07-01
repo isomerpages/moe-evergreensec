@@ -11,7 +11,8 @@ description: ""
 * We value and enhance the harmony of our multicultural society.
 
 #### **Integrity**
-![](/images/Our%20School%20Values/integrity.jpg)
+
+![](/images/integrity3.jpg)
 * EVGians demonstrate honesty in our actions and has the moral courage to stand up for what is right.
 * We value the importance of integrity in public life and understand the importance of integrity to the success of Singapore.
 
