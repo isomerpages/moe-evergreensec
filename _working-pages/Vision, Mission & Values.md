@@ -18,7 +18,7 @@ description: ""
 * We respect the school, community and nation to which we belong and abide by the rules and laws.
 * We respect the diverse cultures, religions and languages of our multicultural society.
 * We value and enhance the harmony of our multicultural society.
-
+****
 #### **Integrity**
 
 ![](/images/integrity3.jpg)
