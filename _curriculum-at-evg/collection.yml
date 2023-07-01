@@ -2,6 +2,7 @@ collections:
   curriculum-at-evg:
     output: true
     order:
+      - Overseas Learning Journeys/Overseas Learning Journey (Jakarta).md
       - Overseas Learning Journeys/.keep
       - Academics in Evergreen.md
       - Applied Learning Programme (ALP).md
