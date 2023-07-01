@@ -3,9 +3,9 @@ title: Vision, Mission & Values
 permalink: /working-pages/permalink/
 description: ""
 ---
-# Our Vision
-### A dynamic community that thinks and cares.
-
+## Our Vision
+#### A dynamic community that thinks and cares.
+# 
 
 # Our Mission
 
