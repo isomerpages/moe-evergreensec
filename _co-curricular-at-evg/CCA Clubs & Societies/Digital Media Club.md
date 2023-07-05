@@ -67,7 +67,7 @@ Every student in this club is encouraged to participate in the annual NEmation c
 We are delighted to announce that one of our entries ‘My Brother In Green’ has won the Merit Award, Audience Choice Award and Young Video Maker Award. This is the second year in a row that we have received these award!
 
 ![DMC NSMen 2023](/images/dmc%20nsmen%202023%201.JPG)
-The winning team: (From left to right) Zephan Saghadevan, Shawn Alexis, Joaquin Tan, Tian Jing Yu, Justin Liew. 
+The winning team: Zephan Saghadevan, Shawn Alexis, Joaquin Tan, Tian Jing Yu, Justin Liew. 
 
 ![DMC NSMen 2023 2](/images/dmc%20nsmen%202023%202.JPG)
 
