@@ -54,7 +54,7 @@ The students of Digital Media Club will contribute to the school through providi
 
 
 
-Our DMC Program
+**Our DMC Program**
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Digital%20Media%20Club/Journey_DMC.png)
 
 
