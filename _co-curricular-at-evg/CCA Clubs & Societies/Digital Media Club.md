@@ -37,13 +37,7 @@ FITNESS GAME IC                   | TAN KAI JIE, JOAQUIN & ALISHA QISTINA BTE MO
 
 ![DMC Formal 2022](/images/dmc%20formal%202022.JPG)
 
-**Mission**
 
-Through the lens, short stories and productions, to develop creative thinking skills and pursue the craft to explore our imagination.
-
-**Vision**
-
-To think critically, communicate effectively and acquire ICT and photography skills beyond classrooms.
 
 **Life of a Digital Media Club Member**
 
@@ -68,7 +62,16 @@ Our DMC Program
 
 Every student in this club is encouraged to participate in the annual NEmation competition, School Digital Media Awards competition and media-related enrichment workshops. The students will also participate in various notable photography competitions and events.
 
-**Appreciate our NSmen 2022 Video Competition**
+**Appreciating our NSmen 2023 Video Competition**
+
+We are delighted to announce that one of our entries ‘My Brother In Green’ has won the Merit Award, Audience Choice Award and Young Video Maker Award. This is the second year in a row that we have received these award!
+
+![DMC NSMen 2023](/images/dmc%20nsmen%202023%201.JPG)
+The winning team: (From left to right) Zephan Saghadevan, Shawn Alexis, Joaquin Tan, Tian Jing Yu, Justin Liew. 
+
+![DMC NSMen 2023 2](/images/dmc%20nsmen%202023%202.JPG)
+
+**Appreciating our NSmen 2022 Video Competition**
 
 Organised by SAFRA Singapore, one of our entries ‘One Man, Many Hats’ has won the Merit Award, Audience Choice Award and Young Video Maker Award.
 
@@ -80,7 +83,9 @@ The multiple award-winning production was led by Director Ng Wen Xuan, together 
 
 Earlier this year, students from Digital Media Club participated in Singapore Our Home, SG75 competition. This competition invites submissions in essays, pictures and motion media to express their strength of our community, emphasising the collective fight involving every walk of society. The theme for this year's competition is "Sustainability: Resilience and Inclusiveness in Fighting COVID-19".
 
-We are happy to announce that the submission by our students, Izzul Ilham Bin Razi (3ITG), Lim Qian Hui (3ITG) and Ong Li Xin (3RSP) was shortlisted for the final round of online public voting. As the online public votes count towards 20% of the final score, every vote counts!
+We are happy to announce that the submission by our students, Izzul Ilham Bin Razi (3ITG), Lim Qian Hui (3ITG) and Ong Li Xin (3RSP) was one of the top 20 finalists selected for public voting!
+
+![DMC SG75](/images/dmc%20sg75.jpg)
 
 **N.E.Mation 2021**  
 N.E.mation! is a competition for youths to express their notions on Total Defence through animation. All DMC members participate in this competition every year. In 2021, one of the teams was selected for Top 20 Finalists category.
