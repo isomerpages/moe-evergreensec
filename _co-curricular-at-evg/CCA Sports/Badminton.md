@@ -52,6 +52,7 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 | C Boys 2023    | Ong Sheng Hong     |      |
 |      | Yong Teck Wei     |      |
 | C Girls 2023    | Dion Tan Rui En     |      |
+
 #### Training Schedule Information
 * Semester 1:   
 Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team)
