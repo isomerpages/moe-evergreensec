@@ -55,7 +55,7 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 
 | Division | Captain                                  |
 |---------------------------------|-------------------------------------------------------|
-| B Boys 2022 - 2023 | Chua Wei Herng, Austin                                           |
+| B Boys 2022 - 2023 | Chua Wei Herng, Austin |
 | PRESIDENT (VIDEOGRAPHY) | CHONG YING EN REGINE                                          |
 | PRESIDENT (AVA) | MUSRIDA DEA ANANDA                                          |
 
