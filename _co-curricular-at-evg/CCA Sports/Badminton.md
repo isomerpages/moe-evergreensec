@@ -53,6 +53,12 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 |      | Yong Teck Wei     |      |
 | C Girls 2023    | Dion Tan Rui En     |      |
 
+| Division | Captain                                  |
+|---------------------------------|-------------------------------------------------------|
+| B Boys 2022 - 2023 | Chua Wei Herng, Austin                                           |
+| PRESIDENT (VIDEOGRAPHY) | CHONG YING EN REGINE                                          |
+| PRESIDENT (AVA) | MUSRIDA DEA ANANDA                                          |
+
 #### Training Schedule Information
 * Semester 1:   
 Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team)
