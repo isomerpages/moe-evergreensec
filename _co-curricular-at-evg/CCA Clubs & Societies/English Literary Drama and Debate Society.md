@@ -4,6 +4,12 @@ permalink: /cca/clubs/eldds/
 description: ""
 third_nav_title: CCA Clubs & Societies
 ---
+**English Literary Drama and Debate Society (ELDDS)**
+
+The English Literary Drama and Debate Society (ELDDS) is one of the most colourful and dynamic co-curricular activities in the school. Armed with the vision to develop young students in becoming confident, poised and eloquent communicators that enjoy, appreciate and strive towards literary and cultural excellence, students undergo an extensive programme curated for Debate and E-journalism. The programme develops and nurtures students to exercise their creative, intellectual and oratorical capacities.
+
+Our members strive to be confident and eloquent communicators that strive towards literary and cultural excellence.
+
 **Teachers in Charge**:
 
 Mrs Mona Seah, Ms Ratnawati Rawi, Ms Hanna Maryam, Ms Rachna Arora and Ms Koh Siang Cheng
