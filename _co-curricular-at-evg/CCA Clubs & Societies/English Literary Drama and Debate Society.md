@@ -43,6 +43,10 @@ The Silver Finals Best Speaker is awarded to Joey Oh, Third Opposition speaker. 
 
 **2022 Achievements**
 
+Singapore Secondary Schools Debating Championships Semi-Finalists
+
+![ELDDS Journalism](/images/eldds%20our%20journalism%20students.jpg)
+
 
 
 **2021 Achievements**
