@@ -10,6 +10,8 @@ The Evergreen Chinese Orchestra (EVGCO) started in July 2006 with conductor and 
 
 ![](/images/syf%20stage.jpg)
 
+![](/images/syf%20plucked%20string.jpg)
+
 As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, perseverance, positive attitude, and care. Members demonstrate these values through their dedication during practices, striving for excellence and perfection in their individual musical sections, and collaborating harmoniously in all performances.
 
 ![](/images/syf%20dizi.jpg)
