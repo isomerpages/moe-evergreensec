@@ -28,5 +28,3 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
 | LOGISTICS                 | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
 | SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
 ASST SECTION LEADERS         | TEY QIAO YUAN & NOOR SAFIRA BINTE MOHD RASHID & JACQUELYN LEE & WONG YU TONG & THOR EE QUAN & LIM KAI XUAN ISABEL & EU ZI TING & CHUA RUI EN & LIM JUN ZE                               |
-
-
