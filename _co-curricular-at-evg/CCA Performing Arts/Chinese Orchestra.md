@@ -12,6 +12,8 @@ The Evergreen Chinese Orchestra (EVGCO) started in July 2006 with conductor and 
 
 As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, perseverance, positive attitude, and care. Members demonstrate these values through their dedication during practices, striving for excellence and perfection in their individual musical sections, and collaborating harmoniously in all performances.
 
+![](/images/syf%20dizi.jpg)
+
 **Teacher in Charge:** Mr Yeo Gim Sng (I/C), Mr Henry Lee (2I/C), Mdm Norhayati Jidin and Ms Tan Wah Sing
 
  **Sections:** erhu, yangqin, ruan, liuqin, pipa, flute, sheng, suona, cello, double bass, percussions
