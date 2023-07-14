@@ -26,13 +26,7 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
 | STUDENT CONDUCTOR         | PHANG HUI XIN                                   |
 | RECREATIONAL MANAGER                           | THAN YI TING & CAYLIE WEE                    |
 | LOGISTICS                 | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
-| SECTION LEADER                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
-STUDENT CONDUCTOR         | HO XIN YUN                               |
-| RECREATIONAL MANAGER                   | THAN YI TING |
-| RECREATIONAL MANAGER         | CAYLIE WEE                               |
-| LOGISTICS (COORDINATOR)         | PHYLISS ANG                               |
-| LOGISTICS         |  GUO SITING & ELIZABETH PHYO & LIM JUN ZE|
-LOGISTICS (LIVESTREAM/LAPTOPS)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
-| COMMUNICATIONS OFFICER (SEC 2)      | YEUNG WEN JUN                              |
-| COMMUNICATIONS OFFICER (SEC 1)      | ZHANG HAOYANG                                 |
-PRODUCER                   | QUEK WEI XIN                                |
+| SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
+ASST SECTION LEADERS         | TEY QIAO YUAN & NOOR SAFIRA BINTE MOHD RASHID & JACQUELYN LEE & WONG YU TONG & THOR EE QUAN & LIM KAI XUAN ISABEL & EU ZI TING & CHUA RUI EN & LIM JUN ZE                               |
+
+
