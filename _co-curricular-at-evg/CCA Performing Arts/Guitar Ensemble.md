@@ -14,7 +14,16 @@ Our primary goal is to nurture a closely-knit and cohesive CCA that fosters crea
 
 **Organisational Structure**:
 
-
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT | ANNE KATELYN DE VERA BILBAO                                           |
+| VICE-PRESIDENT | CHRIS LEE THA KU                                          |
+| VICE-PRESIDENT | JOSH MATTHEW DEVADASS                                             |
+| QUARTER MASTER (UPPER SEC)          | LIM KE XUAN                                    |
+| QUARTER MASTER (UPPER SEC)                | POH KAI TING, SHANNON                                     |
+| QUARTER MASTER (LOWER SEC         | CELESTE YIP TONG SYUN                                   |
+| QUARTER MASTER (LOWER SEC                           | WIN JAZTMINE SU YAMIN BUMANGLAG                    |
+| QUARTER MASTER (LOWER SEC                | AHMAD ZAKI BIN RASHID                                    |
 
 **Life of a Guitar Ensemble Member**
 
