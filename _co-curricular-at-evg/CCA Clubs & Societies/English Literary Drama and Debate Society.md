@@ -4,47 +4,37 @@ permalink: /cca/clubs/eldds/
 description: ""
 third_nav_title: CCA Clubs & Societies
 ---
+**English Literary Drama and Debate Society (ELDDS)**
+![eldds cca open house 2023](/images/eldds%202023%20cca%20open%20house.jpg)
+
+The English Literary Drama and Debate Society (ELDDS) is one of the most colourful and dynamic co-curricular activities in the school. Armed with the vision to develop young students in becoming confident, poised and eloquent communicators that enjoy, appreciate and strive towards literary and cultural excellence, students undergo an extensive programme curated for Debate and E-journalism. The programme develops and nurtures students to exercise their creative, intellectual and oratorical capacities.
+
+Our members strive to be confident and eloquent communicators that strive towards literary and cultural excellence.
+
 **Teachers in Charge**:
 
-Mrs Mona Seah, Ms Ratnawati Rawi, Ms Hanna Maryam, Ms Rachna Arora and Ms Koh Siang Cheng
+Mrs Mona Seah and Ms Ratnawati Rawi
 
 **Organisational Structure:**
 
-President: Dikshaa Ramineni 3 Commitment
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT | JOEY OH JO EE                                           |
+| VICE PRESIDENT | CHEW YUN XUAN                                          |
+| DEBATE HEAD | GRACELYN ONG XIN LING                                          |
+| DEPUTY DEBATE         | HUMARANG SABRINA GABRIELLE SORTIJAS                                    |
+| VIBES HEAD                | HO XI RU, LYNN                                     |
+| DEPUTY VIBES HEAD         | ERIFFAH ARDILLA BINTE NORMAN                                   |
+| EDITOR                           | NURUL NABILA BINTE MOHAMAD NOOR HIDAYAT                    |
+| SOCIAL ENGAGEMENT                 | CHUA HE YING NICOLE & LAEKEISHA BOON JIA XUAN                                    |
+| FITNESS                   | KIMI RAIQA ERSALLE BINTE REZA ERSALLE & MUHAMMAD IZLAN BIN MOHD YAZID                                |
+PUBLICITY         | SHARIFAH ZAFIRA BINTE SYED AHMED YAMANI & RAJA SARAH BATRISYA PUTRI BINTI RAJA AHMAD KAMAL                               |
 
-Deputy President: Lea Sanchez Chan 3 Commitment
 
-Head of Debate Division: Samuel Soo En How 3 Integrity
 
-Head of Drama Division: Sofia Iman Connor 3 Respect
 
-Head of E-Journalism Division: Goh Jun An Jarren 3 Respect
 
-Head of Welfare: Joey Kuan Yee Xun 3 Respect
 
-Deputy Head of Welfare: Zarifah Binte Zaidi 3 Thinking
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E1.jpg)
-
-**VISION OF ELDDS**  
-Confident and eloquent communicators that strive towards literary and cultural excellence.
-
-**ELDDS**
-
-The English Literary Drama and Debate Society (ELDDS) is one of the most colourful and dynamic co-curricular activities in the school. Armed with the vision to develop young students in becoming confident, poised and eloquent communicators that enjoy, appreciate and strive towards literary and cultural excellence, students undergo an extensive programme curated for three robust divisions; the Drama, Debate and E-journalism Divisions. Each of these divisions serves to allow students to nurture and exercise their creative, intellectual and oratorical capacities.
-
-Our key annual inter-divisional event is the EVG Debate Invitationals (EVGDI), which sees invited schools from all over Singapore pitting their debating skills against each other. The objectives of EVGDI are:
-
-To provide novice debaters with the opportunity to:
-
-*   Represent their schools at the inter-school level.
-*   Debate thought-provoking motions, thereby honing their debating skills.
-
-To provide participating schools with a platform for interaction and friendly debate opportunities.
-
-EVGDI 2019 saw an unprecedented number of 12 teams debating over 2 weekends, on 27 July and 3 August. At the Grand Finals, the Overall Champion was Pasir Ris Crest Secondary School. Evergreen Team B also achieved the First Runner-Up award, while the Best Speaker award at the Semi-Finals (Impromptu Round) went to John Poon.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E2.jpg)
 
 
 ### **Debate**

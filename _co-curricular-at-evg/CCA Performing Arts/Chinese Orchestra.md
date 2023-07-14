@@ -4,41 +4,51 @@ permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: CCA Performing Arts
 ---
-The journey of the Evergreen Chinese Orchestra (EVGCO) began in July 2006. The conductor and many instructors of EVGCO are current members of the Singapore Chinese Orchestra, thereby bringing with them invaluable expertise and knowledge to share with our members. Together with the guidance and support of the teachers-in-charge, EVGCO has matured steadily as a musical group over the years, attaining notable recognition at the Singapore Youth Festival Arts Presentations since its inception.
+**Chinese Orchestra (EVGCO)**
+
+The Evergreen Chinese Orchestra (EVGCO) started in July 2006 with conductor and instructors who are experienced musicians from the Singapore Chinese Orchestra. They have provided valuable expertise and knowledge to the EVGCO members. With the guidance of the teachers and instructors, the EVGCO has grown and gained recognition at the Singapore Youth Festival Arts Presentations.
+
+![](/images/syf%20stage.jpg)
+
+![](/images/syf%20plucked%20string.jpg)
+
+As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, perseverance, positive attitude, and care. Members demonstrate these values through their dedication during practices, striving for excellence and perfection in their individual musical sections, and collaborating harmoniously in all performances.
+
+![](/images/syf%20dizi.jpg)
+
+**Teacher in Charge:** Mr Yeo Gim Sng (I/C), Mr Henry Lee (2I/C), Mdm Norhayati Jidin and Ms Tan Wah Sing
+
+ **Sections:** erhu, yangqin, ruan, liuqin, pipa, flute, sheng, suona, cello, double bass, percussions
  
-![](/images/evgco-pic-1.jpg)
+ 
+ 
+ **Organisational Structure:**
+ 
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| CHAIRPERSON | TEO HONG YAN                                           |
+| VICE-CHAIRPERSONS | CHAI MING JIE & LIM HUAN YU                                          |
+| QUARTER MASTERS | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
+| DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
+| TALENT SCOUT                | HO XIN YUN                                     |
+| STUDENT CONDUCTOR         | PHANG HUI XIN                                   |
+| RECREATIONAL MANAGERS                           | THAN YI TING & CAYLIE WEE                    |
+| LOGISTICS MANAGERS                | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
+| SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
+ASST SECTION LEADERS         | TEY QIAO YUAN & NOOR SAFIRA BINTE MOHD RASHID & JACQUELYN LEE & WONG YU TONG & THOR EE QUAN & LIM KAI XUAN ISABEL & EU ZI TING & CHUA RUI EN & LIM JUN ZE                               |
 
-As a multi-racial Performing Arts CCA group, we work in unison to achieve the best for the orchestra. Our training and developmental programmes allow our members to demonstrate the core values of perseverance, team work, positive attitude and caring in all aspects of their participation in the CCA.&nbsp; With perseverance, members put in dedicated effort in perfecting a score; with teamwork, we are able to weave the various parts of a score into a melodious and harmonious presentation; with a positive mindset, students work hard to excel in their respective musical sections.
+**Life of an EVG Chinese Orchestra Member**
 
-**Our Musical Sections**
+EVG Chinese Orchestra offers members a truly enriching experience, even for students with no musical background. It is heartening to see how individuals, regardless of their prior knowledge, learn to read musical notes and play various instruments with remarkable proficiency. The orchestra also provides an exceptional opportunity for potential students to showcase their leadership skills through various roles in organizing events, managing logistics, and coordinating performances within and outside of the school.
 
-*   Erhu
-*   Yangqin
-*   Ruan
-*   Liuqin
-*   Pipa
-*   Flute
-*   Sheng
-*   Suona
-*   Cello
-*   Double bass
-*   Percussions
+Furthermore, the orchestra fosters camaraderie and teamwork among members. Students learn the importance of bonding and working together harmoniously to achieve common goals. Through rigorous practice and rehearsals, they not only refine their musical skills but also form lasting friendships.
 
-<p><strong>Our Achievements</strong></p>
-<ul>
-<li>2021 SYF Arts Presentation – Certificate of Distinction</li>
-</ul>
-<img src="/images/evgco2.jpg" style="width: 80%;">
-<img src="/images/evgco3.jpg" style="width: 80%;">
-<ul>
-<li>2019 SYF Arts Presentation – Certificate of Distinction</li>
-</ul>
-<img src="/images/evgco4.jpg">
-<p><strong>Our Events</strong></p>
-<p>CCA Open House 2020</p>
-<img src="/images/evgco5.jpg" style="width: 80%;">
-<p style="text-align: center;">CCA Open House Performance, conducted by Aloysius Goh, our student conductor.</p>
-<img src="/images/evgco6.jpg">
-<img src="/images/evgco7.jpg">
-<img src="/images/evgco8.jpg">
-<img src="/images/evgco9.jpg">
+In summary, the EVG Chinese Orchestra serves as a platform for personal growth and self-expression. It creates a supportive environment where students can explore their musical abilities, discover hidden talents, and overcome challenges. The orchestra becomes a canvas for individual creativity and passion, empowering students to reach their full potential. It opens doors to a world of musical exploration, friendship, and self-discovery.
+
+**Awards and Achievements**
+
+SYF Arts Presentation 2023 – Certificate of Distinction
+
+SYF Arts Presentation 2021 – Certificate of Distinction
+
+![](/images/syf%20group.jpg)
