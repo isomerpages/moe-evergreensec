@@ -33,25 +33,8 @@ PUBLICITY         | SHARIFAH ZAFIRA BINTE SYED AHMED YAMANI & RAJA SARAH BATRISY
 
 
 
-**VISION OF ELDDS**  
-Confident and eloquent communicators that strive towards literary and cultural excellence.
 
-**ELDDS**
 
-The English Literary Drama and Debate Society (ELDDS) is one of the most colourful and dynamic co-curricular activities in the school. Armed with the vision to develop young students in becoming confident, poised and eloquent communicators that enjoy, appreciate and strive towards literary and cultural excellence, students undergo an extensive programme curated for three robust divisions; the Drama, Debate and E-journalism Divisions. Each of these divisions serves to allow students to nurture and exercise their creative, intellectual and oratorical capacities.
-
-Our key annual inter-divisional event is the EVG Debate Invitationals (EVGDI), which sees invited schools from all over Singapore pitting their debating skills against each other. The objectives of EVGDI are:
-
-To provide novice debaters with the opportunity to:
-
-*   Represent their schools at the inter-school level.
-*   Debate thought-provoking motions, thereby honing their debating skills.
-
-To provide participating schools with a platform for interaction and friendly debate opportunities.
-
-EVGDI 2019 saw an unprecedented number of 12 teams debating over 2 weekends, on 27 July and 3 August. At the Grand Finals, the Overall Champion was Pasir Ris Crest Secondary School. Evergreen Team B also achieved the First Runner-Up award, while the Best Speaker award at the Semi-Finals (Impromptu Round) went to John Poon.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E2.jpg)
 
 
 ### **Debate**
