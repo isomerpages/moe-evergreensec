@@ -13,3 +13,19 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
 **Teacher in Charge:** Mr Yeo Gim Sng (I/C), Mr Henry Lee (2I/C), Mdm Norhayati Jidin and Ms Tan Wah Sing
 
  **Sections:** erhu, yangqin, ruan, liuqin, pipa, flute, sheng, suona, cello, double bass, percussions
+ 
+ **Organisational Structure:**
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
