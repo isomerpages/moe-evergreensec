@@ -18,22 +18,21 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
  
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| PRESIDENT (PHOTOGRAPHY) | LIN JIA HENG                                           |
-| PRESIDENT (VIDEOGRAPHY) | CHONG YING EN REGINE                                          |
-| PRESIDENT (AVA) | MUSRIDA DEA ANANDA                                          |
-| VICE PRESIDENT (OPERATIONS)         | KHAIRIL RUSYAIDI BIN KHAIRULLAH                                    |
-| VICE PRESIDENT (AVA)                | YEH YUH XUN                                     |
-| VICE PRESIDENT (LIVESTREAM)         | TAY WEN SUAN                                   |
-| SECRETARY                           | ZEPHAN SAGHADEVAN                    |
-| ASSISTANT SECRETARY                 | NUR ADAWIYAH MAISARAH BTE ZULKARNAEN                                    |
-| LOGISTICS (PHOTO)                   | OH JUN LONG                                |
-ASSISTANT LOGISTICS (PHOTO)         | ANG JUN KIAT                               |
-| LOGISTICS (VIDEO)                   | SIM WEI RUI |
-| ASSISTANT LOGISTICS (VIDEO)         | TIAN JINGYU                               |
-| LOGISTICS (AVA)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
-| ASSISTANT LOGISTICS (AVA)         |  CLAUDIO XAVIER BARBERO & WONG JUN XIANG JENSON|
+| CHAIRPERSON | TEO HONG YAN                                           |
+| VICE-CHAIRPERSON | CHAI MING JIE & LIM HUAN YU                                          |
+| QUARTER MASTER | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
+| DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
+| TALENT SCOUT                | HO XIN YUN                                     |
+| STUDENT CONDUCTOR         | PHANG HUI XIN                                   |
+| RECREATIONAL MANAGER                           | THAN YI TING & CAYLIE WEE                    |
+| LOGISTICS                 | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
+| SECTION LEADER                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
+STUDENT CONDUCTOR         | HO XIN YUN                               |
+| RECREATIONAL MANAGER                   | THAN YI TING |
+| RECREATIONAL MANAGER         | CAYLIE WEE                               |
+| LOGISTICS (COORDINATOR)         | PHYLISS ANG                               |
+| LOGISTICS         |  GUO SITING & ELIZABETH PHYO & LIM JUN ZE|
 LOGISTICS (LIVESTREAM/LAPTOPS)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
 | COMMUNICATIONS OFFICER (SEC 2)      | YEUNG WEN JUN                              |
 | COMMUNICATIONS OFFICER (SEC 1)      | ZHANG HAOYANG                                 |
 PRODUCER                   | QUEK WEI XIN                                |
- 
