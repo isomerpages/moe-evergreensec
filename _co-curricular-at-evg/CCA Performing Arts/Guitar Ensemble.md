@@ -37,9 +37,11 @@ We aim to elevate our guitar skills, expand our musical knowledge, and foster a 
 
 Our members engage in various enriching experiences like participating in the Singapore Youth Festival (SYF) Arts Presentation, the inter-school exchange programs, and the MOE CCA Music Camp. We also actively organize concerts and competitions within our school and in the community. These opportunities not only allow us to gain valuable performance experience but also build our confidence and leadership skills. By immersing ourselves in these endeavors, we grow as musicians and individuals, creating harmonious melodies together and continuously pushing the boundaries of our capabilities.
 
-![](/images/g4%20syf%202023.jpeg)
+![](/images/g7%20inter-school%20guitar%20exchange%202023%20at%20saint%20anthony's%20canossian%20secondary%20school.jpeg)
 
-![](/images/g5%20syf%202023.jpeg)
+![](/images/g8%20inter-school%20guitar%20exchange%202023%20at%20saint%20anthony's%20canossian%20secondary%20school.jpeg)
+
+![](/images/g6%20syf%202023.jpeg)
 
 **Awards and Achievements**
 
@@ -50,3 +52,7 @@ SYF Arts Presentation 2023 – Certificate of Distinction
 SYF Arts Presentation 2021 – Certificate of Accomplishment
 
 2020 Guitar Festival
+
+![](/images/g4%20syf%202023.jpeg)
+
+![](/images/g5%20syf%202023.jpeg)
