@@ -16,16 +16,24 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
  
  **Organisational Structure:**
  
- 
-
-
-
-
-
-
-
-
- 
- 
- 
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT (PHOTOGRAPHY) | LIN JIA HENG                                           |
+| PRESIDENT (VIDEOGRAPHY) | CHONG YING EN REGINE                                          |
+| PRESIDENT (AVA) | MUSRIDA DEA ANANDA                                          |
+| VICE PRESIDENT (OPERATIONS)         | KHAIRIL RUSYAIDI BIN KHAIRULLAH                                    |
+| VICE PRESIDENT (AVA)                | YEH YUH XUN                                     |
+| VICE PRESIDENT (LIVESTREAM)         | TAY WEN SUAN                                   |
+| SECRETARY                           | ZEPHAN SAGHADEVAN                    |
+| ASSISTANT SECRETARY                 | NUR ADAWIYAH MAISARAH BTE ZULKARNAEN                                    |
+| LOGISTICS (PHOTO)                   | OH JUN LONG                                |
+ASSISTANT LOGISTICS (PHOTO)         | ANG JUN KIAT                               |
+| LOGISTICS (VIDEO)                   | SIM WEI RUI |
+| ASSISTANT LOGISTICS (VIDEO)         | TIAN JINGYU                               |
+| LOGISTICS (AVA)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
+| ASSISTANT LOGISTICS (AVA)         |  CLAUDIO XAVIER BARBERO & WONG JUN XIANG JENSON|
+LOGISTICS (LIVESTREAM/LAPTOPS)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
+| COMMUNICATIONS OFFICER (SEC 2)      | YEUNG WEN JUN                              |
+| COMMUNICATIONS OFFICER (SEC 1)      | ZHANG HAOYANG                                 |
+PRODUCER                   | QUEK WEI XIN                                |
  
