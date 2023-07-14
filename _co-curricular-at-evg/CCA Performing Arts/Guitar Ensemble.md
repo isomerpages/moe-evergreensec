@@ -4,16 +4,30 @@ permalink: /cca/performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: CCA Performing Arts
 ---
-The idea of starting a Guitar Club as a new CCA in Evergreen Secondary School was mooted in 2009. This was in response to interest shown by some of our pupils, who could often be seen strumming on their own guitars during recess and after school. By the time the necessary administrative and other due processes were taken to source for funds for the guitars and guitar accessories and to engage a suitable coach, Term 1 of 2009 had passed. The Guitar Club auditioned for members and started the first training in Term 2 of 2009.
+**Guitar Ensemble**
 
-**Vision**  
-To create a closely-knit and united CCA in which creativity and craftsmanship towards music thrives.
+In 2009, a Guitar Ensemble was introduced as a fresh Co-Curricular Activity (CCA) at Evergreen Secondary School in response to the growing interest exhibited by a group of our students. These individuals demonstrated a genuine passion for playing the guitar, often found strumming during breaks and after school hours.
 
-**Mission**  
-To experience the joy of making, understanding and sharing of music among members through Guitar.
+Our primary goal is to nurture a closely-knit and cohesive CCA that fosters creativity and excellence in music. We aspire to create an environment that cultivates a deep appreciation for the art of guitar playing. To achieve this, we offer our members the opportunity to develop their musical talents and to experience the sheer joy of creating, understanding, and sharing music through the guitar. Furthermore, we aim to foster a strong sense of camaraderie among all members.
 
-![](/images/guitar3.jpg)
+**Teacher in Charge:** Mr Vincent Chua (I/C), Ms Teng Wei Syan, Mr Travis Teo, Ms Lee Ai Hua
 
-The EVG Guitar Ensemble has various leadership positions offered to provide opportunities for students to develop themselves in their leadership skills.
+**Organisational Structure**:
 
-Consisting of a core EXCO team as well as section leaders, the EVG Guitar ensembles hopes to development all its members holistically through the leadership roles. Students participate in Inter-school exchange programme for Guitar leaders, Tang Tee Khoon Grand Series – Music Experience Programme and the MOE CCA Music Leader Camp.
+**Life of a Guitar Ensemble Member**
+
+We aim to elevate our guitar skills, expand our musical knowledge, and foster a lifelong passion for music that extends well beyond our time in school. Our practice sessions allow us to hone our abilities and encourage us to express our creativity and delve into a wide range of music genres and styles. We strive to develop our own distinct musical voices and embracing the uniqueness that each member brings to the ensemble.
+
+Our members engage in various enriching experiences like participating in the Singapore Youth Festival (SYF) Arts Presentation, the inter-school exchange programs, and the MOE CCA Music Camp. We also actively organize concerts and competitions within our school and in the community. These opportunities not only allow us to gain valuable performance experience but also build our confidence and leadership skills. By immersing ourselves in these endeavors, we grow as musicians and individuals, creating harmonious melodies together and continuously pushing the boundaries of our capabilities.
+
+**Awards and Achievements**
+
+SYF Arts Presentation 2023 – Certificate of Distinction
+
+2022 Guitar Festival
+
+SYF Arts Presentation 2021 – Certificate of Accomplishment
+
+2020 Guitar Festival
+
+
