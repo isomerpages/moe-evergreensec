@@ -27,13 +27,13 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
 | CHAIRPERSON | TEO HONG YAN                                           |
-| VICE-CHAIRPERSON | CHAI MING JIE & LIM HUAN YU                                          |
-| QUARTER MASTER | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
+| VICE-CHAIRPERSONS | CHAI MING JIE & LIM HUAN YU                                          |
+| QUARTER MASTERS | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
 | DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
 | TALENT SCOUT                | HO XIN YUN                                     |
 | STUDENT CONDUCTOR         | PHANG HUI XIN                                   |
-| RECREATIONAL MANAGER                           | THAN YI TING & CAYLIE WEE                    |
-| LOGISTICS                 | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
+| RECREATIONAL MANAGERS                           | THAN YI TING & CAYLIE WEE                    |
+| LOGISTICS MANAGERS                | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
 | SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
 ASST SECTION LEADERS         | TEY QIAO YUAN & NOOR SAFIRA BINTE MOHD RASHID & JACQUELYN LEE & WONG YU TONG & THOR EE QUAN & LIM KAI XUAN ISABEL & EU ZI TING & CHUA RUI EN & LIM JUN ZE                               |
 
@@ -48,6 +48,7 @@ In summary, the EVG Chinese Orchestra serves as a platform for personal growth a
 **Awards and Achievements**
 
 SYF Arts Presentation 2023 – Certificate of Distinction
+
 SYF Arts Presentation 2021 – Certificate of Distinction
 
 ![](/images/syf%20group.jpg)
