@@ -14,6 +14,8 @@ Our primary goal is to nurture a closely-knit and cohesive CCA that fosters crea
 
 **Organisational Structure**:
 
+
+
 **Life of a Guitar Ensemble Member**
 
 We aim to elevate our guitar skills, expand our musical knowledge, and foster a lifelong passion for music that extends well beyond our time in school. Our practice sessions allow us to hone our abilities and encourage us to express our creativity and delve into a wide range of music genres and styles. We strive to develop our own distinct musical voices and embracing the uniqueness that each member brings to the ensemble.
@@ -29,5 +31,3 @@ SYF Arts Presentation 2023 – Certificate of Distinction
 SYF Arts Presentation 2021 – Certificate of Accomplishment
 
 2020 Guitar Festival
-
-
