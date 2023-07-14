@@ -31,15 +31,19 @@ Mrs Mona Seah and Ms Ratnawati Rawi
 PUBLICITY         | SHARIFAH ZAFIRA BINTE SYED AHMED YAMANI & RAJA SARAH BATRISYA PUTRI BINTI RAJA AHMAD KAMAL                               |
 
 
+**Awards and Achievements**
+
+**2023 Achievements**
+
+Our debate team showed their true mettle in the Dunman High Debate Open (Silver Division), beating Division II teams - Whitley Sec (Round 1), ASRJC (Round 3) and Maris Stella at the Semi-Finals. At the Grand Finals, the motion was 'This House, as a talented sportsperson from a minority group that is underrepresented pin the sport, would adopt the selfish striker mentality.' The debate team, as the Opposition, beat Nan Chiau High and emerged as Champions (Silver Division).
+
+The Silver Finals Best Speaker is awarded to Joey Oh, Third Opposition speaker. Joey Oh and Gracelyn Ong, were also ranked 3rd and 7th respectively on the top 10 Best Speakers. The accolade is attributed to the passion and hard work of the team, consisting of Joey Oh Jo Ee, Gracelyn Ong, Chua He Ying Nicole, Su Yee Linn and Kasumi Yamashita.
+
+![eldds dhd 2023](/images/eldds%202023%20duman%20high%20debate.jpg)
+
+**2022 Achievements**
 
 
-
-
-
-
-### **Debate**
-
-Since its inception, the Debate Division has been active in fostering a dynamic debating culture in school. It aims to improve debaters’ general knowledge and sharpen their critical thinking skills. As such, opportunities for its members to represent the school in inter-school debating and oratorical competitions are numerous.
 
 **2021 Achievements**
 
@@ -101,5 +105,3 @@ This competition is organised by the National Organ Transplant Unit (NOTU) of th
 Read her winning essay here!  [https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool](https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool).
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E11.jpg)
-
-
