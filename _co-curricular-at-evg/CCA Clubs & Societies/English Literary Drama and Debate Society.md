@@ -5,6 +5,7 @@ description: ""
 third_nav_title: CCA Clubs & Societies
 ---
 **English Literary Drama and Debate Society (ELDDS)**
+![eldds cca open house 2023](/images/eldds%202023%20cca%20open%20house.jpg)
 
 The English Literary Drama and Debate Society (ELDDS) is one of the most colourful and dynamic co-curricular activities in the school. Armed with the vision to develop young students in becoming confident, poised and eloquent communicators that enjoy, appreciate and strive towards literary and cultural excellence, students undergo an extensive programme curated for Debate and E-journalism. The programme develops and nurtures students to exercise their creative, intellectual and oratorical capacities.
 
