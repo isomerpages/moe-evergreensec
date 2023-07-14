@@ -49,3 +49,4 @@ In summary, the EVG Chinese Orchestra serves as a platform for personal growth a
 
 SYF Arts Presentation 2023 – Certificate of Distinction
 SYF Arts Presentation 2021 – Certificate of Distinction
+
