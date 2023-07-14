@@ -13,25 +13,25 @@ Our members strive to be confident and eloquent communicators that strive toward
 
 **Teachers in Charge**:
 
-Mrs Mona Seah, Ms Ratnawati Rawi, Ms Hanna Maryam, Ms Rachna Arora and Ms Koh Siang Cheng
+Mrs Mona Seah and Ms Ratnawati Rawi
 
 **Organisational Structure:**
 
-President: Dikshaa Ramineni 3 Commitment
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT | JOEY OH JO EE                                           |
+| VICE PRESIDENT | CHEW YUN XUAN                                          |
+| DEBATE HEAD | GRACELYN ONG XIN LING                                          |
+| DEPUTY DEBATE         | HUMARANG SABRINA GABRIELLE SORTIJAS                                    |
+| VIBES HEAD                | HO XI RU, LYNN                                     |
+| DEPUTY VIBES HEAD         | ERIFFAH ARDILLA BINTE NORMAN                                   |
+| EDITOR                           | NURUL NABILA BINTE MOHAMAD NOOR HIDAYAT                    |
+| SOCIAL ENGAGEMENT                 | CHUA HE YING NICOLE & LAEKEISHA BOON JIA XUAN                                    |
+| FITNESS                   | KIMI RAIQA ERSALLE BINTE REZA ERSALLE & MUHAMMAD IZLAN BIN MOHD YAZID                                |
+PUBLICITY         | SHARIFAH ZAFIRA BINTE SYED AHMED YAMANI & RAJA SARAH BATRISYA PUTRI BINTI RAJA AHMAD KAMAL                               |
 
-Deputy President: Lea Sanchez Chan 3 Commitment
 
-Head of Debate Division: Samuel Soo En How 3 Integrity
 
-Head of Drama Division: Sofia Iman Connor 3 Respect
-
-Head of E-Journalism Division: Goh Jun An Jarren 3 Respect
-
-Head of Welfare: Joey Kuan Yee Xun 3 Respect
-
-Deputy Head of Welfare: Zarifah Binte Zaidi 3 Thinking
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E1.jpg)
 
 **VISION OF ELDDS**  
 Confident and eloquent communicators that strive towards literary and cultural excellence.
