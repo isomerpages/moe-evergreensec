@@ -4,7 +4,6 @@ permalink: /cca/performing-arts/malay-dance/
 description: ""
 third_nav_title: CCA Performing Arts
 ---
-
 ![](/images/md1%20singapore%20youth%20festival%202023%20-%20izzati%20binti%20umar%20baki.jpg)
 
 ‘Sway to The Rhythm’ is the motto of **Sukma Irama EVG Malay Dance Club**. 
