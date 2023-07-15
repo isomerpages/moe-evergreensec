@@ -13,31 +13,19 @@ The Chinese Dance, founded in 2001, was one of the pioneering performing arts in
 **Organisational Structure**:
 
 
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| CHAIRPERSON | JOLLY WOO SHENG JIE                                           |
+| VICE-CHAIRPERSON | WANG JIAYUAN                                          |
+| RECRUITMENT IC | CHOONG JIA QI                                            |
+| WELFARE IC          | LECK YUE SHI, VINNA LUC VIET THO                                    |
+| WELFARE IC                | HO KAI EN                                     |
+| LOGISTICS IC         | HIM SI EN                                   |
+| LOGISTICS IC                           | FENG AOWEN                    |
+| PUBLICITY IC                | LIM TZE SUEN (LIN ZIXUAN)                                    |
+| DISCIPLINE IC                   | LI MINGXUAN                                 |
 
-
-
-
-
-
-CCA Chairperson | JOLLY WOO SHENG JIE | 3DYN|
-
-CCA Vice-Chairperson | WANG JIAYUAN |3DYN|
-
-Recruitment Ic | CHOONG JIA QI|3ITG
-
-Welfare IC | LECK YUE SHI, VINNA LUC VIET THO|3DYN
-
-Welfare IC| HO KAI EN|3RSP
-
-Logistics IC | HIM SI EN|3CHR
-
-Logistics IC| FENG AOWEN|3CMT
-
-Publicity IC| LIM TZE SUEN (LIN ZIXUAN)|3ITG
-
-Discipline IC|LI MINGXUAN|3THK
-
-**Life of an EVG Chinese Orchestra Member**
+**Life of an EVG Chinese Dance Member**
 
 The EVG Chinese Dance has graced numerous school events and concerts, including the Chinese New Year and National Day celebrations. Our talents also shine brightly during the Singapore Youth Festival (SYF) Arts Presentation, as well as other competitions and special functions within the community. It is with great pride and gratitude that we are invited to perform at the prestigious 2023 Labour Day Istana Open House. The performance took place at the Ceremonial Plaza, set against the majestic backdrop of the Istana Main Building.
 
