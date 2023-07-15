@@ -31,15 +31,23 @@ Mrs Mona Seah and Ms Ratnawati Rawi
 PUBLICITY         | SHARIFAH ZAFIRA BINTE SYED AHMED YAMANI & RAJA SARAH BATRISYA PUTRI BINTI RAJA AHMAD KAMAL                               |
 
 
+**Awards and Achievements**
+
+**2023 Achievements**
+
+Our debate team showed their true mettle in the Dunman High Debate Open (Silver Division), beating Division II teams - Whitley Sec (Round 1), ASRJC (Round 3) and Maris Stella at the Semi-Finals. At the Grand Finals, the motion was 'This House, as a talented sportsperson from a minority group that is underrepresented pin the sport, would adopt the selfish striker mentality.' The debate team, as the Opposition, beat Nan Chiau High and emerged as Champions (Silver Division).
+
+The Silver Finals Best Speaker is awarded to Joey Oh, Third Opposition speaker. Joey Oh and Gracelyn Ong, were also ranked 3rd and 7th respectively on the top 10 Best Speakers. The accolade is attributed to the passion and hard work of the team, consisting of Joey Oh Jo Ee, Gracelyn Ong, Chua He Ying Nicole, Su Yee Linn and Kasumi Yamashita.
+
+![eldds dhd 2023](/images/eldds%202023%20duman%20high%20debate.jpg)
+
+**2022 Achievements**
+
+Singapore Secondary Schools Debating Championships Semi-Finalists
+
+![ELDDS Journalism](/images/eldds%20our%20journalism%20students.jpg)
 
 
-
-
-
-
-### **Debate**
-
-Since its inception, the Debate Division has been active in fostering a dynamic debating culture in school. It aims to improve debaters’ general knowledge and sharpen their critical thinking skills. As such, opportunities for its members to represent the school in inter-school debating and oratorical competitions are numerous.
 
 **2021 Achievements**
 
@@ -83,23 +91,6 @@ Bernard and Marsya achieved the Best Speaker Award at Rounds 2 and 3 respectivel
 
 Debaters: John Poon 4DYN, Celeste Lai 4 CMT, Sonia Ong 3 ITG, Marsya Faied 3 RSP & Bernard Lau 3 ITG (from left to right)
 
-**2019 Achievements**
-
-Our debaters took part in the Singapore Secondary Schools Debating Championships (Division III) 2019 and two debate speakers were ranked on the Top 20 Best Speakers among 32 schools. They have done us proud!
-
-The debaters who achieved Best Speakers were as follows:
-
-*   Nur Kaisah Bte Abdul Kadir, ranked 2nd Best
-*   Tracy Goh, ranked 6th Best
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E7.png)
-
-
-### Drama
-
-The Drama Division aims to inculcate in our students a deep love for the dramatic arts through creative, witty, and impactful performances. We train our students to be comfortable in a variety of public speaking and public performance engagements. Drama members participate in a wide spectrum of school-based performances such as our Chinese New Year Celebrations and National Day Celebrations. Our members also participate in the prestigious Odyssey of the Mind (Singapore), an annual creative problem-solving competition at Anglo Chinese School (Independent) where our members go up against schools like School Of The Arts and Raffles Girls Secondary School. Through these activities, members learn and sharpen their dramatic skills as well as deepen their creative processes – skills which are essential for their future aspirations in the 21st century.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E8.png)
 
 
 ### **E-Journalism**
@@ -118,28 +109,3 @@ This competition is organised by the National Organ Transplant Unit (NOTU) of th
 Read her winning essay here!  [https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool](https://www.liveon.gov.sg/showcase.html?Institution=EvergreenSecondarySchool).
 
 ![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E11.jpg)
-
-
-**2019 Achievements**
-
-A writing workshop was conducted for all EVG Vibes and Secondary 1 ELDDS members by Ms Nabilah Said—an editor, playwright, copywriter and former journalist at _The Straits Times_. Students learnt about life in the newsroom as a journalist and also had a hand in brainstorming and crafting their own stories for the EVG Vibes newsletter. The workshop ended with the class working together and critiquing each other’s articles.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E12.png)
-
-
-Our students also took part in Youth Empowered, a nationwide competition that provides students with a platform to increase their awareness about digital literacy and effective communication skills for social media campaigns.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E13.jpg)
-
-
-**2018 Achievements**
-
-EVG Vibes won the Most Avid Team Award at The Media Challenge 2018, organised by Republic Polytechnic. The award recognises the great display of teamwork and enthusiasm shown by our students in putting together a news package for a social cause.
-
-The team consisted of (from left to right):  
-Darius Peh 4 ITG  
-Charlene Long 4 ETP (Class of 2019)  
-Ng Qi Ting 4 ITG (Class of 2019)  
-Jolene Chew 4 RSP
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/English%20Literary%20Drama/E14.png)
