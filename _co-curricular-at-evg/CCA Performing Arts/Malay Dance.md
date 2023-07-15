@@ -12,11 +12,16 @@ Founded in 2004, Sukma Irama provided the platform for dancers to develop their 
 
 **Organisational Structure**:
 
-
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| PRESIDENT | AMARYLL MARISSA                                           |
+| VICE-PRESIDENT | NUR MARSYA DARWISYAH                                          |
 
 **Life of a Malay Dance Member**
 
-Sukma Irama specialises in traditional malay dance. Our dancers will master the 5 basic traditional Malay dance moves – Asli, Inang, Joget, Masri & Zapin. Dancers will be given the opportunity to showcase their talents during school events and in the Singapore Youth Festival (SYF). Malay Dance also collaborated with other performing Arts CCA in EVG such as Gamelan & Chinese Dance. Our dancers have the autonomy to choose and organise team-bonding & VIA activities.
+Sukma Irama specialises in traditional Malay dance. Our dancers will master the 5 basic dance moves – Asli, Inang, Joget, Masri & Zapin. 
+
+Dancers will be given the opportunity to showcase their talents at school events and the Singapore Youth Festival (SYF) Arts Performance. The Malay Dance also collaborates with other performing arts CCAs in EVG such as the Gamelan Ensemble and the Chinese Dance. Our dancers also have the autonomy to choose and organise team-bonding and VIA activities.
 
 **Awards and Achievements**
 
