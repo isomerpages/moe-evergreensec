@@ -4,7 +4,7 @@ permalink: /cca/performing-arts/gamelan-ensemble/
 description: ""
 third_nav_title: CCA Performing Arts
 ---
- **Gamelan Ensemble**
+**Gamelan Ensemble**
 
 The Gamelan Ensemble provides opportunities for students to learn to play various traditional instruments like the demung, kethuk, gendang, bonang and others. Our members play the gamelan instruments using the dual tuning system which ranges from a seven-tone scale with irregular intervals in between or a five-tone scale with equal intervals from one note to another.
 
