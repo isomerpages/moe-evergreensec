@@ -18,7 +18,6 @@ The Chinese Dance, founded in 2001, was one of the pioneering performing arts in
 
 **Organisational Structure**:
 
-
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
 | CHAIRPERSON | JOLLY WOO SHENG JIE                                           |
