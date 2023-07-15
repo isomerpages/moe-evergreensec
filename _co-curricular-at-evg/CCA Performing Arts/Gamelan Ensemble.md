@@ -16,7 +16,12 @@ The EVG Gamelan Ensemble has been invited to perform within school and in the co
 
 **Organisational Structure**:
 
-
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| CHAIRPERSON | TEO HONG YAN                                           |
+| VICE-CHAIRPERSONS | CHAI MING JIE & LIM HUAN YU                                          |
+| QUARTER MASTERS | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
+| DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
 
 **Life of a Gamelan Ensemble Member**
 
