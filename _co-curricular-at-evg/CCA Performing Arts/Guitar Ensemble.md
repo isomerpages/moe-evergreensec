@@ -41,8 +41,6 @@ Our members engage in various enriching experiences like participating in the Si
 
 ![](/images/g8%20inter-school%20guitar%20exchange%202023%20at%20saint%20anthony's%20canossian%20secondary%20school.jpeg)
 
-![](/images/g6%20syf%202023.jpeg)
-
 **Awards and Achievements**
 
 SYF Arts Presentation 2023 – Certificate of Distinction
