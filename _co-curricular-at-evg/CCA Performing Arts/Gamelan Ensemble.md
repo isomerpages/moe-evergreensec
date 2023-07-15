@@ -18,8 +18,8 @@ The EVG Gamelan Ensemble has been invited to perform within school and in the co
 
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | TEO HONG YAN                                           |
-| VICE-CHAIRPERSON | CHAI MING JIE & LIM HUAN YU                                          |
+| CHAIRPERSON | SITI NUR SARAH BINTE MOHAMED NOR                                           |
+| VICE-CHAIRPERSON | NADHRAH SHAISTA BINTE SOFIAN                                          |
 | COMMITTEE MEMBER | BILQIS AZZAHRA BINTI AZUWAN                                            |
 | COMMITTEE MEMBER          | NURUL AMALINA A'TIQAH BINTI ABDUL RAHIM                                    |
 
