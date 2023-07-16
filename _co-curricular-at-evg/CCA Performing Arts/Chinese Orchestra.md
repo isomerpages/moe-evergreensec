@@ -30,8 +30,8 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
 | VICE-CHAIRPERSONS | CHAI MING JIE & LIM HUAN YU                                          |
 | QUARTER MASTERS | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
 | DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
-| TALENT SCOUT                | HO XIN YUN                                     |
-| STUDENT CONDUCTOR         | PHANG HUI XIN                                   |
+| TALENT SCOUT                | LING YU EN                                     |
+| STUDENT CONDUCTOR         | HO XIN YUN                                   |
 | RECREATIONAL MANAGERS                           | THAN YI TING & CAYLIE WEE                    |
 | LOGISTICS MANAGERS                | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
 | SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
