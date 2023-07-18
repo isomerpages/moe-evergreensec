@@ -40,10 +40,10 @@ The top tier of Cadet Leader will be chosen to the Warrant Officer of the unit.
 
 Unit Overall Proficiency Award 2022 – Gold
 
-Unit Overall Proficiency Award 2021 – Gold
+NCDCC Instructional Video Competition – Champion
+
+NCDCC Urban Adventure Civil Defence Challenge 2022 – 2nd Runner Up
 
 Participation in National Day Parade (NDP) 2022
 
-NCDCC Instructional Video Competition (Champion)
-
-NCDCC Urban Adventure Civil Defence Challenge 2022 (2nd Runner Up)
+Unit Overall Proficiency Award 2021 – Gold
