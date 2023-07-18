@@ -38,9 +38,11 @@ The top tier of Cadet Leader will be chosen to the Warrant Officer of the unit.
 
 **Awards and Achievements**
 
-UOPA Gold Award (2021, 2022)
+Unit Overall Proficiency Award 2022 – Gold
 
-Evergreen Secondary School NCDCC Official NDP parade representation (2022)
+Unit Overall Proficiency Award 2021 – Gold
+
+Participation in National Day Parade (NDP) 2022
 
 NCDCC Instructional Video Competition (Champion)
 
