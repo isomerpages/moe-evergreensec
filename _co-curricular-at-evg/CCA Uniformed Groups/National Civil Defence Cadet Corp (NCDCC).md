@@ -6,9 +6,13 @@ third_nav_title: CCA Uniformed Groups
 ---
 **National Civil Defence Cadet Corps (NPCC)**
 
+![](/images/ncdcc_1%20-%20nelson%20l.jpg)
+
 NCDCC’s curriculum focuses mainly on Triangle of Life Skills which include basic firefighting, first aid and CPR+AED. These are important lifesaving skills that can make a difference to save a life in times of needs.
 
 **Teacher in Charge:** Ms Sangeetha Natarajan, Mr Nelson Lam, Ms Nur Syairah Binte Abdul Malek, Ms Chew Si Hui
+
+![](/images/ncdcc_2%20-%20nelson%20l.JPG)
 
 **Organisational Structure**:
 
@@ -47,3 +51,7 @@ NCDCC Urban Adventure Civil Defence Challenge 2022 – 2nd Runner Up
 Participation in National Day Parade (NDP) 2022
 
 Unit Overall Proficiency Award 2021 – Gold
+
+![](/images/ncdcc_3%20-%20nelson%20l.JPG)
+
+![](/images/ncdcc_4%20-%20nelson%20l.JPG)
