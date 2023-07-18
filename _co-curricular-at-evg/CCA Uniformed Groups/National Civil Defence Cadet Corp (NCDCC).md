@@ -12,29 +12,27 @@ NCDCC’s curriculum focuses mainly on Triangle of Life Skills which include bas
 
 **Organisational Structure**:
 
-
-
-USM/NUR NELLY NAOMI BINTE SHAH IRWAN/3 INTEGRITY
-
-ASM/MAXIMILLIAN HO ZHEN YI/3 INTEGRITY
-
-RSM/TOH MING XUAN/3 COMMITMENT
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| USM | NUR NELLY NAOMI BINTE SHAH IRWAN                                           |
+| ASM | MAXIMILLIAN HO ZHEN YI                                          |
+| RSM | TOH MING XUAN                                            |
 
 **Life of a NPCC Member**
 
-YEAR 1 NCDCC
+**Year 1**
 
 The three badges that a Secondary One Cadets will complete include Total Defence (Bronze) Badge, Foot Drill (Bronze) Badgeand Fire Safety Proficiency Badge. Cadets get to go through fire safety training at Sectorised Training. They are eligible for promotion to Lance Corporal upon completion of the three badge works.
 
-YEAR 2 NCDCC
+**Year 2**
 
 Secondary Two Cadets typically will complete six badges within the year. This includes Civil Defence Knowledge Badge, First Aid Proficiency Badge, SANA Badge, Foot Drill (Silver) Badge, CPR+AED Proficiency Badge and Rescue Proficiency Badge. They are eligible for promotion to Sergeant upon completion of six badge works.
 
-YEAR 3 NCDCC
+**Year 3**
 
 Secondary Three Cadets are required to complete the HAZMAT Proficiency Badge and Homefront Security Badge. There will also be three Specialisation Courses offered, namely the Fire Safety, Medical Response and Urban Search and Rescue Specialisation Courses. Cadets are eligible for promotion to Staff Sergeant upon completion of the Specialisation Courses.
 
-YEAR 4 NCDCC
+**Year 4**
 
 The top tier of Cadet Leader will be chosen to the Warrant Officer of the unit.
 
