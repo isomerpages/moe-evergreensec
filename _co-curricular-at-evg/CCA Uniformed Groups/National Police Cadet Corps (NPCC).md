@@ -12,6 +12,17 @@ The National Police Cadet Corps (NPCC) in Singapore aims to become the premier y
 
 **Organisational Structure**:
 
+ | Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| CHAIRPERSON | CHAN WEN XUAN                                           |
+| VICE-CHAIRPERSON | TEH GUANG LIANG DERRICK                                          |
+| SEC 1 OIC | JESTON LIN ZHUXINHAI                                            |
+| SEC 1 OIC          | CHAN LI YUN                                    |
+| SEC 2 OIC                | SYED UMAR SYARIFF BIN SYED FAIZAL                                     |
+| SEC 2 OIC         | TIEW YI HAO                                   |
+
+
+
 / SENIOR CADET INSPECTOR / CHEW SIEW HWEE
 
 / CADET INSPECTOR / LEE YING ZHENG
@@ -21,18 +32,6 @@ The National Police Cadet Corps (NPCC) in Singapore aims to become the premier y
 / CADET INSPECTOR / OH SHI YING
 
 / CADET INSPECTOR / MICHELLE ONG JIA XIN
-
-/ CHAIRPERSON / CHAN WEN XUAN /
-
-/ VICE-CHARIPERSON / TEH GUANG LIANG DERRICK /
-
-/ SEC 1 OIC / JESTON LIN ZHUXINHAI /
-
-/ SEC 1 OIC / CHAN LI YUN /
-
-/ SEC 2 OIC / SYED UMAR SYARIFF BIN SYED FAIZAL /
-
-/ SEC 2 OIC / TIEW YI HAO /
 
 **Life of a NPCC Member**
 
