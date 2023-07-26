@@ -12,6 +12,11 @@ The National Police Cadet Corps (NPCC) in Singapore aims to become the premier y
 
 **Organisational Structure**:
 
+
+
+
+
+
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
 | CHAIRPERSON | CHAN WEN XUAN                                           |
