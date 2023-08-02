@@ -17,7 +17,7 @@ In all endeavours
 In Evergreen, we stand as one and together we believe  
 We'll give our best  
 For our future  
-In Evergreen, we aspire and achieve
+In Evergreen, we Aspire and Achieve
 
 We make this pledge to Evergreen our school  
 To take each quest and see it fully through  
@@ -32,15 +32,14 @@ We'll give our best
 For our future  
 To be the best in all that we do
 
-In Evergreen, we aspire and achieve  
-In Evergreen, we aspire and achieve
+In Evergreen, we Aspire and Achieve  
+In Evergreen, we Aspire and Achieve
 
 *Videography by Digital Media Club, Song Lyrics by Steven Goh, Arranged by James Lye. *
 
 
 ## **Our School Pledge**  
 We, EVGians, 
-pledge to be thinking and caring people 
-with Respect, Integrity, Commitment and Enterprise 
-We are committed to aspire and achieve  
-and be the best that we can be.
+Pledge to be thinking and caring people 
+with Respect, Integrity, Commitment and Enterprise.
+We are committed to aspire and achieve and be the best that we can be.
