@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Song & Pledge.md
       - Principal’s Message.md
       - The School Advisory Committee.md
       - Vision, Mission & Values.md
+      - School Song & Pledge.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Key Personnel.md
