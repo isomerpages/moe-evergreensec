@@ -3,12 +3,6 @@ title: School Song & Pledge
 permalink: /about-us/school-song-pledge/
 description: ""
 ---
-## **Our School Pledge**  
-We, EVGians, pledge&nbsp;to be thinking and caring people  
-with Respect, Integrity, Commitment and Enterprise  
-we are committed to aspire and achieve  
-and be the best that we can be.
-
 ## **Our School Song**  
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mEbUdUAhJTU" height="315" width="560"></iframe>
 
@@ -43,3 +37,9 @@ To be the best in all that we do
 In Evergreen, we aspire and achieve  
 In Evergreen, we aspire and achieve
 
+
+## **Our School Pledge**  
+We, EVGians, pledge to be thinking and caring people 
+with Respect, Integrity, Commitment and Enterprise  
+we are committed to aspire and achieve  
+and be the best that we can be.
