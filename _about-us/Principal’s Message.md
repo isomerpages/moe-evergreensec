@@ -1,6 +1,6 @@
 ---
 title: Principal’s Message
-permalink: /school-information/Principals-Message/
+permalink: /about-us/principals-message/
 description: ""
 ---
 ### **Principal’s Message 2023**  

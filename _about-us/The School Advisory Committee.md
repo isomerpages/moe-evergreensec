@@ -1,6 +1,6 @@
 ---
 title: The School Advisory Committee
-permalink: /school-information/The-School-Advisory-Committee/
+permalink: /about-us/school-advisory-committee/
 description: ""
 ---
 The School Advisory Committee (SAC) of Evergreen Secondary School provides critical support to the school in her efforts to deliver quality school experience to every student and develop each one holistically in line with the MOE desired outcomes of education.
