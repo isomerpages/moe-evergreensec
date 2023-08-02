@@ -6,7 +6,7 @@ description: ""
 ## **Our School Song**  
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mEbUdUAhJTU" height="315" width="560"></iframe>
 
-Videography by Digital Media Club, Video Editing by Musrida Dea Ananda (Sec 2, 2022), Song Lyrics by Steven Goh, Arranged by James Lye. 
+Videography by Digital Media Club, Song Lyrics by Steven Goh, Arranged by James Lye. 
 
 This time of youth, our years at Evergreen  
 We learn to be the best that we can be  
