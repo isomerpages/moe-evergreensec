@@ -40,6 +40,9 @@ In Evergreen, we Aspire and Achieve
 
 ## **Our School Pledge**  
 We, EVGians, 
+
 Pledge to be thinking and caring people 
+
 with Respect, Integrity, Commitment and Enterprise.
+
 We are committed to aspire and achieve and be the best that we can be.
