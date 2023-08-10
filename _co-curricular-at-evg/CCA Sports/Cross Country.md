@@ -31,7 +31,7 @@ We are committed in the development of strong, self-motivated and disciplined yo
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/2%20crosscountry.jpg)
 
-#### Students Leaders
+#### Student Leaders
 | Leadership Role | Name |
 |-------|-------|
 | Team Captain | Micah Chen |
@@ -43,5 +43,3 @@ We are committed in the development of strong, self-motivated and disciplined yo
 | C Division Secretary | Marcel Wong |
 | C Boys Mentor IC | Chow Zhixuan |
 | C Girls Mentor IC | Elise Wee |
-
-
