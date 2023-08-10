@@ -42,7 +42,7 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 * 2022 Friendly Match with Bedok South Secondary School
 * 2022 Friendly Match with Bukit Batok Secondary School
 
-#### Students Leaders
+#### Student Leaders
 
 | Leadership Role | Name |
 |-------|-------|
