@@ -4,50 +4,33 @@ permalink: /cca/sports/evg-table-tennis/
 description: ""
 third_nav_title: CCA Sports
 ---
-<p><strong>Teachers I/C:</strong>&nbsp;Mdm Lynn See, Mdm Puah Ee Von, & Mr Alawden</p>
-<table border="1">
-<tbody>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"><strong>Captain</strong></td>
-<td style="text-align: center;"><strong>Vice Captain</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Boys</strong></td>
-<td style="text-align: center;">Lai Wei Lun&nbsp;</td>
-<td style="text-align: center;">Jarryl Lim&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Girls</strong></td>
-<td style="text-align: center;">Licia Ang&nbsp;</td>
-<td style="text-align: center;">Ooi Zenn Xyn</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Vision:</strong></p>
-<ul>
-<li>To provide an environment that promotes and supports healthy and active participation amongst members in Table Tennis at all levels.</li>
-</ul>
-<p><strong>Mission:</strong></p>
-<ul>
-<li>To promote and develop the skills and knowledge of Table Tennis players in all things related to the sports so as to achieve their full potential.</li>
-</ul>
-<p><strong>Talent Development</strong></p>
-<ul>
-<li>Through regular training sessions, our coach teaches the players rules, techniques and strategies on how to play table tennis from basic, to intermediate and advanced levels.</li>
-<li>Participation in zonal and inter-school competitions also provides opportunities for our players to gain experience, showcase their skills and interact with other opponents. It also builds self-esteem and commitment in our players.</li>
-<li>We also provide opportunities for better players to coach their peers and take on responsibilities/roles to lead and guide them during warm-ups, trainings and competitions.</li>
-</ul>
-<p><strong>Key events and competitions</strong></p>
-<ul>
-<li>During the 2<sup>nd</sup>&nbsp;Tier North Zone Competitions 2018, the C Division Boys achieved Silver medals, the B and C Divisions Girls achieved Bronze medals.</li>
-<li>Achieved 4th placing in the North Zone Competition 2021</li>
-</ul>
-<img src="/images/evgtt1.jpeg"><br>
-<img src="/images/evgtt2.jpeg"><br>
-<img src="/images/evgtt3.jpeg" style="width: 80%;"><br>
-<img src="/images/evgtt4.jpeg"><br>
-<img src="/images/evgtt5.jpeg"><br>
-<img src="/images/evgtt6.jpeg"><br>
-<img src="/images/evgtt7.jpeg"><br>
-<img src="/images/evgtt8.jpeg"><br>
+### EVG Table Tennis
+
+To cultivate a sense of appreciation and passion for table tennis. To instil a sense of discipline and responsibility in our players. To nurture confident and resilient individuals.
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_05.jpg)
+
+Our players gain confidence and experience through practising with one another and mini matches with other school players and effective coaching by instructor. Outstanding players are selected to represent school for national school games.
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_03.jpg)
+
+#### Events and Achievements
+* North Zone Table Tennis Championship 2020 C Division Boys Top 4th 
+* North Zone Table Tennis Championship 2021 B Division Boys 4th Placing 
+* North Zone Table Tennis Championship 2022 C Division Girls 4th Placing 
+* North Zone Table Tennis Championship 2023 C Division Girls 4th Placing
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_04.jpg)
+
+#### Student Leaders
+
+| Leadership Role | Name |
+|-------|-------|
+| B Boys Captain | Jarren Lim | 
+| B Boys Vice Captain | Delon Foo |
+| B Girls Captain | Kam Zhi Xuen |
+| B Girls Vice Captain | Rachael Wong |
+| Lower Sec Boys I/C | Jaedon Lim |
+| Lower Sec Girls I/C | Ng Wei En |
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_01.JPG)
