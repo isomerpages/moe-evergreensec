@@ -4,23 +4,44 @@ permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: CCA Sports
 ---
-Evergreen Cross Country as a long-distance running team have grown from strength to strength. Starting out in 2013 with just 13 members, we have grown to a team of more than 50, and accumulated a reputation as one of the strongest in the North Zone. We train hard to run fast, and we expect all our members to put in their very best at trainings and at competitions.
+### Cross Country
 
-But Cross Country is more than just a CCA, it’s a lifestyle!
+Cross-country is a middle-distance running sport of around 3.6-4.8km. The term “cross-country” refers to running across different types of terrain and profile. As an endurance sport, physical conditioning and fitness are very important components. As a result, our student athletes train consistently in varying intensities and volume throughout the year, to ensure they maintain the progress and fitness from season to season.
 
-On top of training student athletes to become fitter, faster, and healthier, we also provide a holistic development especially in the areas of character, discipline, resilience, and time management. We do so by our unique programme and initiatives such as:
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/1%20crosscountry.jpg)
 
-*   Participation in various races throughout the year
-*   Weekly team breakfast
-*   Focused study sessions
-*   Enrichment activities e.g. abseiling, climbing, hiking
-*   Training camps
-*   Emphasis on healthy lifestyle and good time management
+We are committed in the development of strong, self-motivated and disciplined youths that excel in both sports and studies. We do this during training times when opportunities arise for us provide character coaching, to be influenced by the team’s senior members’ mentorship, and to have fun learning as a team by participating in various enrichment programmes. Our graduates are strong-willed, resilient, and capable young men and women who are selected through the Direct Schools Admission for Junior Colleges (DSA-JC) for their excellence in sports and studies to top JCs in Singapore. Many of them end up as captains of their Cross-Country or Track and Field teams.
 
-![](/images/athletics.jpg)
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/3%20crosscountry.jpg)
 
-Over the years, our strict training programme has produced good runners, students, and leaders who have gone to fill many positions in the school’s Prefectorial Board, CCA Executive Committee, and scouted by Top JCs in Singapore. In 2018 and 2019, the school’s valedictorians were from Cross Country.
+#### Events and Achievements
+2023 National Schools Games Cross-Country
+* B Div Boys Team – 5th place
+* B Div Boys Individual – 2nd (Emerson Koo)
 
-As one of the best Teams in the North Zone, our values and process-driven CCA is suitable for those who want to excel and strive to become a better student athlete. Come and try it to experience it for yourself!
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/4%20crosscountry.jpg)
 
-![](/images/athletics1.jpg)
+2022 National Schools Games Cross-Country
+* B Div Boys Team – 5th place
+* B Div Girls – 5th place
+* C Div Boys – 7th place
+* B Div Boys Individual – 20th (Micah Chen)
+* B Div Girls Individual – 15th (Ng Kai Rou)
+* C Div Boys Individual – 10th (Austin Joseph Roji)
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/2%20crosscountry.jpg)
+
+#### Students Leaders
+| Leadership Role | Name |
+|-------|-------|
+| Team Captain | Micah Chen |
+| B Boys Captain | Tee Lin Kai |
+| B Girls Captain | Aqeela |
+| B Division Secretary | Chen Yong Zhe |
+| C Boys Captain | Ryan Wee |
+| C Girls Captain | Goh Vee Xuan |
+| C Division Secretary | Marcel Wong |
+| C Boys Mentor IC | Chow Zhixuan |
+| C Girls Mentor IC | Elise Wee |
+
+
