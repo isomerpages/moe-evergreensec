@@ -44,15 +44,17 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 
 #### Students Leaders
 
-| Division | Captain | Vice-Captain |
-|-------|-------|-------|
-| B Boys 2022 - 2023 | Chua Wei Herng, Austin | Ng Wee Teng |
-| B Girls 2022 - 2023 | Acacia Kiw Zi Xuan | Lim Wai Ern, Joyce |
-| Boys 2023 - 2024 | Ang Zi Shyan Matthias |  |
-| Girls 2023 - 2024 | Lee Yi Xin, Lyn |  |
-| C Boys 2023 | Ong Sheng Hong |  |
-|  | Yong Teck Wei |  |
-| C Girls 2023 | Dion Tan Rui En |  |
+| Leadership Role | Name |
+|-------|-------|
+| B Boys Captain 2022 - 2023 | Chua Wei Herng, Austin | 
+| B Boys Vice-Captain 2022 - 2023 | Ng Wee Teng |
+| B Girls Captain 2022 - 2023 | Acacia Kiw Zi Xuan | 
+| B Girls Vice-Captain 2022 - 2023 | Lim Wai Ern, Joyce |
+| Boys Captain 2023 - 2024 | Ang Zi Shyan Matthias |
+| Girls Captain 2023 - 2024 | Lee Yi Xin, Lyn |
+| C Division Boys Team Captains 2023 | Ong Sheng Hong |  |
+|  | Yong Teck Wei |
+| C Division Girls Team Captain 2023 | Dion Tan Rui En |  |
 
 #### Training Schedule Information
 * Semester 1:   
