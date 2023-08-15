@@ -34,3 +34,7 @@ Our players gain confidence and experience through practising with one another a
 | Lower Sec Girls I/C | Ng Wei En |
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_01.JPG)
+
+#### Training Schedule Information
+
+Tuesdays and Thursdays, 3.30pm -5.30pm, Spectrum
