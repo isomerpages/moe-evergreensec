@@ -34,13 +34,13 @@ We are committed in the development of strong, self-motivated and disciplined yo
 #### Student Leaders
 | Leadership Role | Name |
 |-------|-------|
-| Team Captain | Micah Chen |
+| Team Captain | Micah Chen | 
 | B Boys Captain | Tee Lin Kai |
 | B Girls Captain | Aqeela |
 | B Division Secretary | Chen Yong Zhe |
 | C Boys Captain | Ryan Wee |
 | C Girls Captain | Goh Vee Xuan |
-| C Division Secretary | Marcel Wong |
+| C Division Secretary | Marcel Wong | 
 | C Boys Mentor IC | Chow Zhixuan |
 | C Girls Mentor IC | Elise Wee |
 
