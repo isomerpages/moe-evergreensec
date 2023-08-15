@@ -4,7 +4,7 @@ permalink: /cca/sports/cross-country/
 description: ""
 third_nav_title: CCA Sports
 ---
-### Cross Country
+### EVG Cross Country
 
 Cross-country is a middle-distance running sport of around 3.6-4.8km. The term “cross-country” refers to running across different types of terrain and profile. As an endurance sport, physical conditioning and fitness are very important components. As a result, our student athletes train consistently in varying intensities and volume throughout the year, to ensure they maintain the progress and fitness from season to season.
 
