@@ -44,4 +44,4 @@ We train twice a week on Tuesdays and Thursdays. Over the years, we have taken p
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Rugby/2023%20Updates/rugby_03.JPG)
 
 #### Training Schedule Information
-Tuesdays and Thursdays, 3.30 - 5.30 pm
+Tuesdays and Thursdays, 3.30 - 5.30 pm, School Field
