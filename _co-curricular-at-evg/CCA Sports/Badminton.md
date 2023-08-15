@@ -58,9 +58,9 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 
 #### Training Schedule Information
 * Semester 1:   
-Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team)
+Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team), School Hall
 * Semester 2:   
-Wednesday (B Division) and Friday (C Division)
+Wednesday (B Division) and Friday (C Division), School Hall
 
 #### Watch Us on YouTube!
 * [Evg Badminton Trailer 2023](https://youtu.be/AQcVPfu9hC8)
