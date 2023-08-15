@@ -37,4 +37,4 @@ Our players gain confidence and experience through practising with one another a
 
 #### Training Schedule Information
 
-Tuesdays and Thursdays, 3.30pm -5.30pm, Spectrum
+Tuesday and Thursday, 3.30pm -5.30pm, Spectrum
