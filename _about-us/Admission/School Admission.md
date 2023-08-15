@@ -8,7 +8,7 @@ For students posted to our school or prospective students who want to apply for 
 
 **(A) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
 
-*   You can email us at [EVERGREEN\_SS@MOE.EDU.SG](mailto:EVERGREEN_SS@MOE.EDU.SG) to enquire about vacancy and transfer to Evergreen Secondary.
+*   Please click on  https://form.gov.sg/636c4e8d53cf9a0011d88bc4 to apply.
 
 **(B) Direct School Admission Exercise (DSA-Sec)**
 

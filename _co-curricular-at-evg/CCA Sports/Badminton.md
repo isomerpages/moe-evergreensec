@@ -42,23 +42,25 @@ opportunities for our team leaders, who also serve as role models, inspiring the
 * 2022 Friendly Match with Bedok South Secondary School
 * 2022 Friendly Match with Bukit Batok Secondary School
 
-#### Students Leaders
+#### Student Leaders
 
-| Division | Captain | Vice-Captain |
-|-------|-------|-------|
-| B Boys 2022 - 2023 | Chua Wei Herng, Austin | Ng Wee Teng |
-| B Girls 2022 - 2023 | Acacia Kiw Zi Xuan | Lim Wai Ern, Joyce |
-| Boys 2023 - 2024 | Ang Zi Shyan Matthias |  |
-| Girls 2023 - 2024 | Lee Yi Xin, Lyn |  |
-| C Boys 2023 | Ong Sheng Hong |  |
-|  | Yong Teck Wei |  |
-| C Girls 2023 | Dion Tan Rui En |  |
+| Leadership Role | Name |
+|-------|-------|
+| B Boys Captain 2022 - 2023 | Chua Wei Herng, Austin | 
+| B Boys Vice-Captain 2022 - 2023 | Ng Wee Teng |
+| B Girls Captain 2022 - 2023 | Acacia Kiw Zi Xuan | 
+| B Girls Vice-Captain 2022 - 2023 | Lim Wai Ern, Joyce |
+| Boys Captain 2023 - 2024 | Ang Zi Shyan Matthias |
+| Girls Captain 2023 - 2024 | Lee Yi Xin, Lyn |
+| C Division Boys Team Captains 2023 | Ong Sheng Hong |  |
+|  | Yong Teck Wei |
+| C Division Girls Team Captain 2023 | Dion Tan Rui En |  |
 
 #### Training Schedule Information
 * Semester 1:   
-Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team)
+Tuesday (B Division), Thursday (C Division) and Friday (Sec 1 team), School Hall
 * Semester 2:   
-Wednesday (B Division) and Friday (C Division)
+Wednesday (B Division) and Friday (C Division), School Hall
 
 #### Watch Us on YouTube!
 * [Evg Badminton Trailer 2023](https://youtu.be/AQcVPfu9hC8)
