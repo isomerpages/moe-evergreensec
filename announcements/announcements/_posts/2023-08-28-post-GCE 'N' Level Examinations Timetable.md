@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Please note the updated GCE 'N' Level Examinations Timetable below.
+
+[GCE 'N' Level Examinations Timetable](/files/gce%20n-level%20exam%20timetable%2011_08_2023%20for%20publication.pdf)
