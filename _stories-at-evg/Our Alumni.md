@@ -5,6 +5,16 @@ description: ""
 ---
 Evergreen Secondary School is committed to helping your child succeed in school and beyond. Here are some of the notable achievements of our EVG Alumni.
 
+**2023**
+
+**LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)**
+
+&
+
+**LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENT(SECONDARY)**
+
+Name : Raxton Koh Rong Qin
+
 **2022**
 
 **LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)**
