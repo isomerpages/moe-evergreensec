@@ -4,8 +4,30 @@ permalink: /cca/ug/red-cross-youth/
 description: ""
 third_nav_title: CCA Uniformed Groups
 ---
-<p><strong>In-Charge:</strong><br><strong>Our Youth Officers</strong><br>Ms. Mavishna Sooben<br>Ms. Qurnyaningsy Ahmad Mokhtar<br>Ms Koh Yan Ling<br>Mr Afif Mansoor Muhammad</p>
-<p><strong>Our Volunteer Instructors<br></strong>James Lee (Overall IC)<br>Eric Lim<br>Jolyn Lee</p>
+**Red Cross Youth (RCY)**
+
+![RCY Flag](/images/rcy_1_rcy%20cadets%20with%20flag.jpg)
+
+The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross and Red Crescent Movement. RCY operates in primary and secondary schools, post-secondary institutions, and communities, offering young volunteers a smooth transition into adulthood. The organization focuses on character-building, leadership, life-saving skills, blood donation, community service, and humanitarian projects. It aims to develop 21st-century competencies, character, and citizenship among youth.
+
+**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling
+
+**Volunteer Instructors:** Mr Eric Lim (Overall I/C), Mr Koh Raxton, Miss Jasmine Soh
+
+**Organisational Structure:**
+
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| CHAIRPERSON | BEH GISELLE                                           |
+| VICE CHAIRPERSON (TRAINING) | LIM PEI SI, VICKY                                          |
+| VICE CHAIRPERSON (ADMIN) | HOH YI XUAN                                          |
+| LEVEL HEAD (SEC 1)         | ADEL CHIA EN XI &amp; HAO CHENXI                                    |
+| LEVEL HEAD (SEC 2)                | TING XIAN JIE &amp; HANNAH LIM YI XUAN                                     |
+| LEVEL HEAD (SEC 3)         | CHEW YEK LUM &amp; ONG YING XI                                   |
+| MEDIC IC                           | WU JINGYI                    |
+| LOGISTICS IC                 | ZHANG JIAYANG &amp; CHUNG XIN YI                                    |
+| 
+
 <p><strong>Organisation Structures<br></strong>Our Secondary 3 Leaders 2022 - 2023 : Batch Compassion</p>
 <img src="/images/redcross1.png" style="width: 90%;">
 <p><strong>Mission</strong><br>To instil the Red Cross Youth spirit and strengthen the core values of compassion, passion and professionalism&nbsp;in all members</p>
