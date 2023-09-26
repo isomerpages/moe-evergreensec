@@ -28,60 +28,13 @@ The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross a
 | LOGISTICS IC                 | ZHANG JIAYANG &amp; CHUNG XIN YI                                    |
 | 
 
-<p><strong>Organisation Structures<br></strong>Our Secondary 3 Leaders 2022 - 2023 : Batch Compassion</p>
-<img src="/images/redcross1.png" style="width: 90%;">
-<p><strong>Mission</strong><br>To instil the Red Cross Youth spirit and strengthen the core values of compassion, passion and professionalism&nbsp;in all members</p>
-<p><strong>Vision</strong><br>To groom adaptable, resilient and confident young persons with a strong sense of civic responsibility</p>
-<p><strong>Motto</strong><br>Humanity In Our Hands</p>
-<img src="/images/redcross2.jpg" style="width: 33%;">
-<p><strong>About us</strong><br>Our core belief is that each one of us can make a difference in the world by serving humanity. Our cadets join us with that belief. Hence, EVG Red Cross Youth (RCY) is here to give them the skills and confidence to do just that.</p>
-<p>Throughout their journey as a member of the RCY, the cadets will not only learn but put into practise leadership skills, disaster management skills, essential lifesaving skills, blood donation knowledge. They are involved in local community service and overseas humanitarian projects as well.</p>
-<p>Helping anyone in need comes naturally to our cadets. An EVG RCY member stands out among the crowd with their strong sense of duty and leadership skills.</p>
-<img src="/images/redcross3.jpg" style="width: 90%;">
-<p><strong>Grooming our Cadet Leaders – Leadership Pathway</strong></p>
-<table>
-<tbody>
-<tr>
-<td width="150"><strong>Secondary 1</strong></td>
-<td width="150"><strong>Secondary 2</strong></td>
-<td width="150"><strong>Secondary 3</strong></td>
-<td width="150"><strong>Secondary 4/5</strong></td>
-</tr>
-<tr>
-<td width="150">Learn all core subject and obtain a&nbsp;<strong>Bronze badge</strong>&nbsp;for each subject.</td>
-<td width="150">Obtain a&nbsp;<strong>Silver badge</strong>&nbsp;for all subjects</td>
-<td width="150">Obtain a&nbsp;<strong>Gold badge&nbsp;</strong>for all subjects by attending Gold Modular workshops organised by RC HQ</td>
-<td width="150">Groom their Secondary 3 juniors to take up their new roles</td>
-</tr>
-<tr>
-<td width="150">Obtain a&nbsp;<strong>Basic First Aid Certification</strong>&nbsp;and carry out First Aid duties during school event</td>
-<td width="150">Go through&nbsp;<strong>Bronze level of Youth Leadership</strong>&nbsp;and learn to identify their own strengths and work as a team</td>
-<td width="150">Go through&nbsp;<strong>Silver level of the Youth Leadership</strong>&nbsp;and learn to identify the strengths of their batch mates and together create a caring environment for their juniors to learn and grow</td>
-<td width="150">Go through&nbsp;<strong>Gold Level of the Youth Leadership</strong>&nbsp;and learn to be leaders in their communities</td>
-</tr>
-<tr>
-<td width="150">Participate in all VIA programmes such as visiting the Red Cross Home for the Disabled</td>
-<td width="150">Participate in First Aid duties, taking on role of group ICs</td>
-<td width="150">Take up the role of Non-Commissioned Officer (NCO) and lead the unit. Roles are allocated based on strengths and interests.</td>
-<td width="150">Attend&nbsp;<strong>Flare Conference</strong></td>
-</tr>
-<tr>
-<td width="150" rowspan="3">&nbsp;</td>
-<td width="150">Participate in all VIA activities and take up role Group ICs</td>
-<td width="150">Plan and execute First Aid and VIA programmes. Participate in Overseas Service Learning project.</td>
-<td width="150" rowspan="3">&nbsp;</td>
-</tr>
-<tr>
-<td width="150">Participate in various competitions such as&nbsp;<strong>National First Aid, Ambassadors of Blood Donation and Disaster Management Championships</strong></td>
-<td width="150">Participate in various competitions such as&nbsp;<strong>National First Aid and Trailblazer Championships</strong></td>
-</tr>
-<tr>
-<td width="150">Selected cadets will go for the&nbsp;<strong>Unit Specialist Programme</strong> organised by RC HQ to specialise in different subjects which they will be teaching their juniors<br><br>(overnight camp involved)</td>
-<td width="150">All cadets will attend school-based OURS Leadership camp and Unit Leaders will attend the&nbsp;<strong>Warrant Officer Programme&nbsp;</strong>organised by RC HQ</td>
-</tr>
-</tbody>
-</table>
-<img src="/images/redcross4.jpg" style="width: 90%;">
+
+We believe that everyone can make a positive difference in the world by helping others. Our cadets at EVG Red Cross Youth (RCY) also share this belief, which is why our organisation exists—to teach them the necessary skills and give them the confidence to make a difference. As RCY members, cadets learn and practice leadership, disaster management, lifesaving, and blood donation skills. They actively help their local community and take part in humanitarian projects abroad. Our cadets have a natural desire to assist those in need and are known for their strong sense of responsibility and leadership qualities.
+
+![RCY Grooming](/images/rcy_2_grooming%20our%20cadet%20leaders.jpg)
+
+
+
 <p><strong>Achievements</strong></p>
 <table width="0">
 <tbody>
