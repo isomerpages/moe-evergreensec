@@ -39,6 +39,44 @@ We believe that everyone can make a positive difference in the world by helping 
 <table width="0">
 <tbody>
 <tr>
+	
+<td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
+</tr>
+<tr>
+	
+<td width="312"><strong>Excellent Unit Award</strong></td>
+<td width="312">No Assessment</td>
+</tr>
+<tr>
+<td width="624" colspan="2"><strong>Competitions</strong></td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid - Awareness Category (Junior)</strong></td>
+<td width="312">Commendation</td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid - Awareness Category (Senior)</strong></td>
+<td width="312">Silver</td>
+</tr>
+<tr>
+<td width="312"><strong>Disaster Risk Reduction Competition<br></strong><strong>(Team)</strong></td>
+<td width="312">Commendation</td>
+</tr>
+<tr>
+<td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
+<td width="312">Commendation</td>
+</tr>
+<tr>
+<td><strong>Trailblazer Competition (Team)</strong></td>
+<td>Silver</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="0">
+<tbody>
+<tr>
+	
 <td width="624" colspan="2" style="text-align: center;"><strong>2022</strong></td>
 </tr>
 <tr>
