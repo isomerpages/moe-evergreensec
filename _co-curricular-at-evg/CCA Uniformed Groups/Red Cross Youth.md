@@ -29,48 +29,51 @@ The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross a
 | 
 
 
-We believe that everyone can make a positive difference in the world by helping others. Our cadets at EVG Red Cross Youth (RCY) also share this belief, which is why our organisation exists—to teach them the necessary skills and give them the confidence to make a difference. As RCY members, cadets learn and practice leadership, disaster management, lifesaving, and blood donation skills. They actively help their local community and take part in humanitarian projects abroad. Our cadets have a natural desire to assist those in need and are known for their strong sense of responsibility and leadership qualities.
+We believe that everyone can make a positive difference in the world by helping others. Our cadets at EVG Red Cross Youth (RCY) also share this belief, which is why our organisation exists—to teach them the necessary skills and give them the confidence to make a difference. 
+![RCY Enrollment](/images/rcy_4_pinning%20enrollment%20badge%20on%20a%20new%20sec%201%20cadet.jpg)
+As RCY members, cadets learn and practice leadership, disaster management, lifesaving, and blood donation skills. They actively help their local community and take part in humanitarian projects abroad. Our cadets have a natural desire to assist those in need and are known for their strong sense of responsibility and leadership qualities.
+![RCY First Aiders](/images/rcy_5_first%20aiders.JPG)
 
 ![RCY Grooming](/images/rcy_2_grooming%20our%20cadet%20leaders.jpg)
 
 
 
-<p><strong>Achievements</strong></p>
+<p><strong>Awards and Achievements</strong></p>
 <table width="0">
 <tbody>
 <tr>
+
+	
 	
 <td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
 <tr>
 	
-<td width="312"><strong>Excellent Unit Award</strong></td>
-<td width="312">No Assessment</td>
+<td width="312"><strong>Director's Award Most Outstanding Cadet in the unit</strong></td>
+<td width="312">Leong Yu Heng Evan</td>
 </tr>
 <tr>
 <td width="624" colspan="2"><strong>Competitions</strong></td>
 </tr>
 <tr>
-<td width="312"><strong>First Aid - Awareness Category (Junior)</strong></td>
-<td width="312">Commendation</td>
+<td width="312"><strong>First Aid Competition (Junior) 2023</strong></td>
+<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
 </tr>
 <tr>
-<td width="312"><strong>First Aid - Awareness Category (Senior)</strong></td>
-<td width="312">Silver</td>
+<td width="312"><strong>First Aid Competition (Senior) 2023</strong></td>
+<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
 </tr>
 <tr>
-<td width="312"><strong>Disaster Risk Reduction Competition<br></strong><strong>(Team)</strong></td>
-<td width="312">Commendation</td>
+<td width="312"><strong>Disaster Risk Reduction Competition 2023<br></strong><strong>(Team)</strong></td>
+<td width="312">Silver Award<br>(Team Leader: Lim Pei Si Vicky)</td>
 </tr>
 <tr>
 <td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
-<td width="312">Commendation</td>
+<td width="312">Silver Award<br>(Ong Ying Xi)</td>
 </tr>
 <tr>
-<td><strong>Trailblazer Competition (Team)</strong></td>
-<td>Silver</td>
-</tr>
-</tbody>
+
+</tr></tbody>
 </table>
 <p>&nbsp;</p>
 <table width="0">
@@ -171,5 +174,5 @@ We believe that everyone can make a positive difference in the world by helping 
 </tbody>
 </table>
 <p><strong>Find out more:&nbsp;</strong><br>EVG RCY Instagram page:&nbsp;<a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth page:&nbsp;<a href="http://www.rcyouth.com/">http://www.rcyouth.com</a>/&nbsp;<a href="http://www.redcrossyouth.sg/">http://www.redcrossyouth.sg/</a></p>
-<p style="text-align: center;"><strong>Join us and be part of the Red Cross family. Humanity is in your hands.</strong></p>
+<p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p>
 <img src="/images/redcross5.jpg" style="width: 80%;">
