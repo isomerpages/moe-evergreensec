@@ -43,7 +43,7 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 <tbody>
 <tr>
 
-	
+
 	
 <td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
