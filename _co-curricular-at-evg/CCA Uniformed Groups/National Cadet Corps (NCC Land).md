@@ -4,9 +4,43 @@ permalink: /cca/ug/ncc/
 description: ""
 third_nav_title: CCA Uniformed Groups
 ---
+**National Cadet Corps (Land)**
+
+![NCC unit](/images/ncc%2001%20-%20unit%20photo.jpg)
+
 The National Cadet Corps (NCC) is a premier uniformed youth organisation supported by MOE and SAF. The aim of the NCC is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
 
-![](/images/ncc123.jpg)
+**Teachers in Charge:** Ms Teresina Margaret d/o Loola (I/C) and Ms Cheyenne Rebecca Chew Mun Yuen
+
+**Organisational Structure:**
+
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| UNIT SERGEANT MAJOR (USM) | CLARENCE CHOO                                           |
+| ASSISTANT SERGEANT MAJOR (ASM) | OU JIAN YI                                          |
+| SEC 1 IC | GAVIN LOW                                          |
+| SEC 1 2IC         | DANISH AQIL                                    |
+| SEC 2 IC                | TEE WEI TECK                                     |
+| SEC 2 2IC         | MD FADZULI &amp; MICKEANNU CHEN                                   |
+| SEC 3 IC                           | OU JIAN YI                    |
+| ASSISTANT SECRETARY                 | NUR ADAWIYAH MAISARAH BTE ZULKARNAEN                                    |
+| LOGISTICS (PHOTO)                   | OH JUN LONG                                |
+ASSISTANT LOGISTICS (PHOTO)         | ANG JUN KIAT                               |
+| LOGISTICS (VIDEO)                   | SIM WEI RUI |
+| ASSISTANT LOGISTICS (VIDEO)         | TIAN JINGYU                               |
+| LOGISTICS (AVA)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
+| ASSISTANT LOGISTICS (AVA)         |  CLAUDIO XAVIER BARBERO &amp; WONG JUN XIANG JENSON|
+LOGISTICS (LIVESTREAM/LAPTOPS)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
+| COMMUNICATIONS OFFICER (SEC 2)      | YEUNG WEN JUN                              |
+| COMMUNICATIONS OFFICER (SEC 1)      | ZHANG HAOYANG                                 |
+PRODUCER                   | QUEK WEI XIN                                |
+FITNESS GAME IC                   | TAN KAI JIE, JOAQUIN &amp; ALISHA QISTINA BTE MOHD NIZAR                                |
+
+![NCC RSAF Day](/images/ncc%2008.jpg)
+
+Cadets are introduced to an array of activities related to the ‘Cadet Strong’ framework, where all NCC cadets are ‘Cadet Strong’ -with a resilient mind, fit body and committed heart. We hope to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
+
+![NCC Discuss](/images/ncc%2006.jpg)
 
 **NCC Vision**  
 Extraordinary Youth Leaders – To Serve with Pride and Dedication
