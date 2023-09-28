@@ -39,17 +39,17 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 
 
 <p><strong>Awards and Achievements</strong></p>
+
+
+![RCY Directors Award](/images/rcy_3_award.jpg)
+	
 <table width="0">
 <tbody>
-<tr>
-
-
-	
-<td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
+<tr><td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
 <tr>
 	
-<td width="312"><strong>Director's Award Most Outstanding Cadet in the unit</strong></td>
+<td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
 <td width="312">Leong Yu Heng Evan</td>
 </tr>
 <tr>
