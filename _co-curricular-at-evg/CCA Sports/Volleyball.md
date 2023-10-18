@@ -4,57 +4,65 @@ permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: CCA Sports
 ---
-<h4><strong>Coaches</strong></h4>
-<ul>
-<li>Mr Chin Jun Feng (Girls)</li>
-<li>Mr Ng Yun Kwang (Boys)</li>
-</ul>
-<h4 style="text-align: center;">Student Leaders</h4>
-<table border="1">
-<tbody>
-<tr>
-<td>&nbsp;</td>
-<td style="text-align: center;"><strong>B Division</strong></td>
-<td style="text-align: center;"><strong>C Division</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Captain</strong></td>
-<td style="text-align: center;">Liu Jie (Girls)<br>Chong Seng Kit (Boys)</td>
-<td style="text-align: center;">Bee Yi Qian (Girls)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Vice Captain</strong></td>
-<td style="text-align: center;">Tan Xin Xuan (Girls)<br>Anirudh Ratheesh (Boys)</td>
-<td style="text-align: center;">Tan Yan Jun (Girls)</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>EVG Volleyball</strong></h4>
-<p>EVG Volleyball aims to develop student athletes who are disciplined and resilient. The CCA is centred on the development of volleyball competencies and character development. Through our vigorous physical trainings, student athletes develop and progress to become robust and competent players with a strong sense of identity and belonging to the school. Our athletes are encouraged to be accomplished holistically – on the volleyball court and in their academia.</p>
-<h4><strong>Achievements</strong></h4>
-<p><strong>2021<br></strong>B Division Girls North Zone - 4th<br>B Division Boys North Zone - 4th</p>
-<p><strong>2020<br></strong>B Division Girls North Zone - Top 8<br>B Division Boys North Zone – Top 8</p>
-<p><strong>2019<br></strong>National Schools North Zone Volleyball Championship (C Division Boys) – 4th<br>Participation in North Zone Volleyball Championship for All Divisions</p>
-<h4><strong>Events and other activities</strong></h4>
-<ul>
-<li>Presbyterian High School (PHS) Invitation Volleyball Championships</li>
-<li>Friendly competitions with Zhenghua Secondary and Raffles Junior College</li>
-<li>Sec 1 CCA Orientation</li>
-<li>EVG Sports Carnival</li>
-<li>Learning Journey to Sports Science Institute</li>
-</ul>
-<h4><strong>Pictures of Volleyball in Action</strong></h4>
-<img src="/images/vball1.jpg">
-<p style="text-align: center;">B Division Girls North Zone 2021 – 4th</p>
-<img src="/images/vball2.jpeg">
-<p style="text-align: center;">B Division Boys North Zone 2021 – 4th</p>
-<img src="/images/vball3.jpg">
-<p style="text-align: center;">Open House 2020</p>
-<img src="/images/vball4.jpg">
-<p style="text-align: center;">Friendly Competition, 2020</p>
-<img src="/images/vball5.jpg">
-<p style="text-align: center;">B Division Girls 2020</p>
-<img src="/images/vball6.jpg">
-<p style="text-align: center;">B Division Boys 2020</p>
-<img src="/images/vball7.jpg">
-<p style="text-align: center;">C Division Boys - North Zone 2nd<br>C Division Girls - North Zone 3rd</p>
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball1.jpeg)
+
+### EVG Volleyball
+	
+In EVG Volleyball, we aim to nurture our student's holistic development by instilling our 4 core values in them. These values can be summarised into an acronym, ACES. 
+
+A is for Attitude. Through regular training sessions and competitive matches, we aim to cultivate a positive attitude among our students, teaching them to approach challenges with optimism and determination. 
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball5.jpg)
+
+C is for Cooperation. Volleyball is a team sport, where 6 players are on court at any one time. Although each player has a slightly different role and skill set, every player counts. Through this, our students learn the significance of teamwork and collaboration, understanding that their individual efforts contribute to the overall success of the team.
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball521.jpg)
+
+E is for Excellence. Our students strive towards constant improvement individually, and together as a team. They are encouraged to push their boundaries, and set high standards for themselves.
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball2.jpg)
+
+Finally, S is for Sportsmanship. We develop our students to be athletes with strong character and values on court, who display dignity in defeat, and humility in victory.
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball421.jpg)
+
+In essence, EVG Volleyball aims to develop well-rounded individuals who possess not only technical proficiency in the sport but also the essential values and character traits necessary for success in various aspects of life.	
+	
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball3.jpg)
+
+#### Events and Achievements
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball4.jpg)
+
+* 2021: NSG Volleyball Championships B Division Boys (North Zone): 4th Team Placing
+* 2022: NSG Volleyball Championships B Division Boys (North Zone): 2nd Team Placing
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball121.jpg)
+
+#### Student Leaders
+
+| Leadership Role | Name |
+|-------|-------|
+| B Div (Boys) Captain | Ye LiYuan | 
+| B Div (Boys) Vice-Captain | Pang Zi Xiu |
+| B Div (Boys) Logistics IC | Xu ZhangChen Alfred |
+| C Div (Boys) Captain | Gabriel Loh Shen Jie | 
+| C Div (Boys) Vice-Captain | Ethan Gan Jun Fung |
+| C Div (Boys) Logistics IC | Mohd Haziq Ilhan Bin Helmi|
+| C Div (Boys) Sec 1 Captain | Joash Lim Yu Xi | 
+| C Div (Boys) Sec 1 Vice-Captain | Shi Sheyong |
+| C Div (Boys) Sec 1 Logistics IC | Koo Kai Wen|
+| B Div (Girls) Captain | Ling Xin En | 
+| B Div (Girls) Vice-Captain | Tan Yi Xuen |
+| B Div (Girls) Logistics IC | Leong Xin Yu |
+| B Div (Girls) Welfare IC | Elyse Lee Xin En |
+| C Div (Girls) Captain | Leong Wen Thung, Bernice | 
+| C Div (Girls) Vice-Captain | Ng Jing Wen Sarah |
+| C Div (Girls) Logistics IC | Sim Xiao Mian Mian|  |
+
+![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball321.jpg)
+
+#### Training Schedule Information
+* Volleyball Boys: Tuesday and Thursday 3.30pm to 6.00pm, ISH
+* Volleyball Girls: Monday and Thursday 3.30pm to 6.00pm, ISH
+
