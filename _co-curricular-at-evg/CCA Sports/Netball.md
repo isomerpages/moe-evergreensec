@@ -29,7 +29,7 @@ The EVG netball experience is one that will definitely bring about many incredib
 #### Events and Achievements
 
 * 4 girls were selected for 17 & U Zone Development Squad Selection in 2023
-* B division entered the quarter finals in the north zone championships 2023
+* B division entered the quarter finals in the North Zone championships 2023
 
 
 #### Student Leaders
