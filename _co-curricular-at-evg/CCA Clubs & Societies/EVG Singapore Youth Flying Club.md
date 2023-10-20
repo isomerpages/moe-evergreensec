@@ -77,4 +77,4 @@ All cadets will be allowed to choose their specialization after FET. Members not
 
 ![EVG YFC](/images/evgyfc%2007.jpeg)
 
-
+<p><strong>Find out more: </strong><br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0">https://sites.google.com/view/evgyfc/home?authuser=0</a><br>SYFC website link <br><a href="https://www.syfc.sg/cca/cca-activities/">https://www.syfc.sg/cca/cca-activities/</a></p>
