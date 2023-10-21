@@ -46,9 +46,8 @@ We are committed in the development of strong, self-motivated and disciplined yo
 | C Girls Mentor IC | Elise Wee |
 
 #### Training Schedule Information
-Tuesday and Thursday, 3.30pm to 6.00pm, Woodlands Stadium
-
-Friday, 3.30pm to 6.00pm, MacRitchie Reservoir (Sec 2-4s only)
+* Tuesday and Thursday, 3.30pm to 6.00pm, Woodlands Stadium
+* Friday, 3.30pm to 6.00pm, MacRitchie Reservoir (Sec 2-4s only)
 
 #### More Information
 [Information for New Secondary 1](/files/CCA%20Training%20Schedule/Cross%20Country/cca%20open%20house%202023%20-%20cross%20country.pdf)
