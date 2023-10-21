@@ -4,135 +4,77 @@ permalink: /cca/clubs/evg-syfc/
 description: ""
 third_nav_title: CCA Clubs & Societies
 ---
+**EVG Singapore Youth Flying Club**
+![EVGYFC](/images/evgyfc_01.jpg)
+
+EVG YFC aims to develop all members holistically throughout their 4 years in this CCA. Students get to experience a whole range of aviation related activities. From lectures aimed at improving their knowledge, to building and flying of model aircraft and visits to RSAF squadrons and airbases; these initiatives help strengthen their interest and forge a deeper understanding in Aviation. Additionally, students can experience joyrides on various RSAF aircraft under the Flight Experience Program (FEP). These include the Lockheed C-130, Fokker 50 and CH-47 Chinook. The FEP also features an experiential ride on the SYFC Diamond DA-40 (for selected outstanding individuals). Currently, we are one of the 17 secondary schools participating in the SYFC CCA programmes and an Open Unit for students from other secondary schools who are keen to learn more on aviation (CCA conducted on Saturday mornings in SYFC).
+
 **Teachers-in-charge:**  
-Ms Ngo Wei Min Jasmine, Ms Sharie Ong, Mr Ho Kok Wah
+Ms Ngo Wei Min Jasmine, Mr Ho Kok Wah, Ms Sharie Ong Minyu
 
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E1.jpg)
+**Organisational Structure:**
 
-#### **Training Day & Time (2021):**
+| Leadership Role | Student                                  |
+|---------------------------------|-------------------------------------------------------|
+| COMMANDER EVG YFC | ALEXANDER CHEVIZ GOH                                           |
+| DY COMMANDER EVG YFC | LIM JUN MING LEROY                                          |
+| DY COMMANDER EVG YFC AMX4 | ANG KAI JUN CADEN                                          |
+| HEAD TRAINING          | TERRENCE GOH BING WEE                                    |
+| DY HEAD TRAINING                | RADEN IRFAN HARIS BIN MUHAMMAD SYAFIQ                                     |
+| DY HEAD TRAINING         | TAN QI EN EDEN                                   |
+| HEAD LOGISTICS                           | JORDAN LIM ZHE RUI                    |
+| DY LOGISTICS (RC)                 | TING XIAN ZHEN                                    |
+| DY LOGISTICS (DRONE)                   | NUR ILHAM BIN SAHARUDIN                                |
+DY LOGISTICS (CL)         | CHEONG REN GUI                               |
+| COMMANDER RC DIV                   | MA ZICHAO |
+| DY COMMANDER         | LEONG JUN WEN                               |
+| SECTION LEADER         | RAIN LIM KAI YAN                               |
+| SECTION LEADER         |  CHAN PAK YUN KIEFER|
+COMMANDER CL DIV         | CELIO DARION BUDIMAN                               |
+| DY COMMANDER      | LAI YU TONG                              |
+| SECTION LEADER      | LIEW YANG ZHI, ALVIN                                 |
+SECTION LEADER                   | ZENG FAN CHEN                                |
+COMMANDER DRONE DIVISION                   | JOVAN SOO JUN TENG                                |DY COMMANDER      | BRYAN YEAP ZI YANG                              |
+| SECTION LEADER      | ETHAN SENG                                 |
+SECTION LEADER                   | YEO JIE LUN, JAYLEN                                |
 
-Tuesday, 7.30am – 9am & Thursday, 3.30pm – 6pm
+![EVG YFC](/images/evgyfc_03.jpeg)
 
-**The mission and vision of the CCA**
 
-The Youth Flying Club (YFC) in Evergreen Secondary School was formed in 2003. To date, the total strength has grown to more than 150 members.
+**Life of an EVG YFC Member**
 
-YFC, in collaboration with the Singapore Youth Flying Club (SYFC), aims to promote an interest in aviation and to develop a passion for flying through aeromodelling.
+EVG YFC CCA adopts a model which it develops and trains our members holistically throughout their 4 years in this CCA. Flight Simulation and Launch Glider is fundamental and the first touch point for all members. All Year 1 cadets will undergo a 1 year Fundamental and Experiential Training (FET). Cadet’s Training in Year 1 will be conducted in 3 Phases over the course of 1 year.
 
-**How does the CCA develop its students and talents? How does the CCA develop its leaders?**
+![EVG YFC](/images/evgyfc_02.jpeg)
 
-In the YFC, cadets are given the opportunity to hone important life skills that encompass skill development, character development and leadership training. This is achieved through numerous experiential learning activities and competitions.
+All cadets will be allowed to choose their specialization after FET. Members not holding any appointment in the Command Team will be posted to 1 of the Division as their specialization: Radio Control/ Control Line/ Drone. Members are to self regulate their flying hours for Flight Simulation after FET. In the YFC, members are given the opportunity to hone important life skills that encompass skill development, character development and leadership training. This is achieved through numerous experiential learning activities and competitions.
 
-**SYFC Member Experience**  
+![EVG YFC](/images/evgyfc_04.jpg)
 
-*   Weekly aeromodelling lessons, Radio Control (RC) and Control Line (CL) flying practices, drone-flying and flight training on simulator (SIM) software
-*   Basic Quad (drone-flying) course, First-Person View Racking Quad course, Glider-making course, RC and CL flying course, SIM
-*   Experience flights in various aircrafts: Lockheed C130 Hercules aircraft, Fokker 50 aircraft, CH-47 Chinook helicopter and Diamond 40 Aeroplanes
-*   Learning Journeys to Seletar Airport, Singapore Air Show and Maker Faire Singapore
-*   Participate in various aviation-related activities organised by polytechnics (Aerodynamics, 3D printing, and Wind tunnel)
+**Awards and Achievements**
 
-**SYFC Leadership Programme**
+**The Singapore Amazing Flying Machine Competition (SAFMC) 2023**
 
-Potential leaders are given leadership positions to hone their communication and decision-making skills.
+- organised by DSO National Laboratories and Science Centre Singapore
+- First place for Most Creative and Theory of Flight Award
+- First Runner Up for Overall Championship Award
+- $1000 cash prize for EVGYFC members/Team Ocean
 
-These leaders are selected to attend Junior Aviators’ Course, Flight Leaders’ Course and SWIFT Instructor’s Course conducted at SYFC.
+![EVG YFC](/images/evgyfc_05.jpg)
 
-**The most defining experience for a student in YFC**
+**Drone Odyssey Challenge**
 
-A SYFC member will experience drone-flying, glider-building and enjoy joyrides in various aeroplanes. For students who have aspirations to seek a career in aviation, this CCA provides exposure and foundational skills.
+- organised by Science Centre Singapore and EP Tec Solutions PTE LTD with support from the Ministry of Education (MOE) and various partners
+- Champions in the B1 Parrot Drone Obstacle Challenge ($500 cash prize for EVGYFC members)
+- Best Presentation Award
 
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E2.jpg)
+![EVG YFC](/images/evgyfc_06.jpeg)
 
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E3.jpg)
+**The annual SYFC Inter-school Competition**
 
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E4.jpg)
+- organised by Singapore Youth Flying Club
+- Results to be announced soon.
 
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E5.jpg)
+![EVG YFC](/images/evgyfc%2007.jpeg)
 
-
-##### **School Open house 2019 & CCA Open House 2020**
-
-
-We showcased the different sections in YFC: Radio Control Plane Team (RC), Electric Control-Lined Plane Team (CL) and Flight Simulation Team (SIM) and our club’s activities.
-
-We showcased the mechanics of flying a Parrot Drone/ Tiny Whoop with drone obstacle course.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E6.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E7.jpg)
-
-
-
-**CCA’s key leadership courses, pinnacle awards, events and competitions**
-
-For the past 5 years, Evergreen Youth Flying Club has attained the Overall Champion in the Singapore Interschool Aeromodelling Championship. In 2019, Evergreen Youth Flying Club came in as 2nd runner up in the Overall Interschool Aeromodelling Championship.
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E8.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E9.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E10.jpg)
-
-
-**SYFC** **Inter-school Aeromodelling Competition 2019 (ISAC)**
-
-**Competition Event: Inter-schools Flight Simulator & Glider Competition**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E11.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E12.jpg)
-
-
-**Competition Event: Inter-schools RC Pylon Racing Competition**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E13.jpg)
-
-
-##### **Youth Flying Club Internal and External Competitions:**
-
-##### **Singapore Amazing Flying Machine Competition 2019 (SAFMC)**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E14.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E15.jpg)
-
-
-**Youth Flying Club VIA Project:** **Sec 2 & 3 visit to the Sree Narayana Mission Home**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E16.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E17.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E18.jpg)
-
-
-**Secondary 1 Beach Clean-up at Yishun Dam**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E19.jpg)
-
-
-**Youth Flying Club Learning Journeys**
-
-**Sec 1 SYFC Orientation Tour**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E20.jpg)
-
-
-**CAAS Aviation Learning Journey at Temasek Polytechnic**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E21.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E22.jpg)
-
-
-
-**Seletar Airport**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E23.jpg)
-
-
-**Youth Flying Club DA 40 Joyride**
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E24.jpg)
-
-![](/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/EVG%20Singapore%20YFC/E25.jpg)
+<p><strong>Find out more: </strong><br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0">https://sites.google.com/view/evgyfc/home?authuser=0</a><br>SYFC website link <br><a href="https://www.syfc.sg/cca/cca-activities/">https://www.syfc.sg/cca/cca-activities/</a></p>

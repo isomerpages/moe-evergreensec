@@ -37,6 +37,7 @@ In essence, EVG Volleyball aims to develop well-rounded individuals who possess 
 
 * 2021: NSG Volleyball Championships B Division Boys (North Zone): 4th Team Placing
 * 2022: NSG Volleyball Championships B Division Boys (North Zone): 2nd Team Placing
+* 2023: ACTIVESG Volleyball Cup (Girls Under 19): 4th Team Placing
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball23_08.jpeg)
 
@@ -51,7 +52,7 @@ In essence, EVG Volleyball aims to develop well-rounded individuals who possess 
 | C Div (Boys) Vice-Captain | Ethan Gan Jun Fung |
 | C Div (Boys) Logistics IC | Mohd Haziq Ilhan Bin Helmi|
 | C Div (Boys) Sec 1 Captain | Joash Lim Yu Xi | 
-| C Div (Boys) Sec 1 Vice-Captain | Shi Sheyong |
+| C Div (Boys) Sec 1 Vice-Captain | Shi SheYong |
 | C Div (Boys) Sec 1 Logistics IC | Koo Kai Wen|
 | B Div (Girls) Captain | Ling Xin En | 
 | B Div (Girls) Vice-Captain | Tan Yi Xuen |

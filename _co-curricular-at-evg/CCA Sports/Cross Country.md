@@ -32,6 +32,7 @@ We are committed in the development of strong, self-motivated and disciplined yo
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/2%20crosscountry.jpg)
 
 #### Student Leaders
+
 | Leadership Role | Name |
 |-------|-------|
 | Team Captain | Micah Chen | 
@@ -40,14 +41,13 @@ We are committed in the development of strong, self-motivated and disciplined yo
 | B Division Secretary | Chen Yong Zhe |
 | C Boys Captain | Ryan Wee |
 | C Girls Captain | Goh Vee Xuan |
-| C Division Secretary | Marcel Wong | 
+| C Division Secretary | Marcel Wong |
 | C Boys Mentor IC | Chow Zhixuan |
 | C Girls Mentor IC | Elise Wee |
 
 #### Training Schedule Information
-Tuesday and Thursday, 3.30pm to 6.00pm, Woodlands Stadium
-
-Friday, 3.30pm to 6.00pm, MacRitchie Reservoir (Sec 2-4s only)
+* Tuesday and Thursday, 3.30pm to 6.00pm, Woodlands Stadium
+* Friday, 3.30pm to 6.00pm, MacRitchie Reservoir (Sec 2-4s only)
 
 #### More Information
 [Information for New Secondary 1](/files/CCA%20Training%20Schedule/Cross%20Country/cca%20open%20house%202023%20-%20cross%20country.pdf)
