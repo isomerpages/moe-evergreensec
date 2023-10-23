@@ -34,9 +34,9 @@ COMMANDER CL DIV         | CELIO DARION BUDIMAN                               |
 | DY COMMANDER      | LAI YU TONG                              |
 | SECTION LEADER      | LIEW YANG ZHI, ALVIN                                 |
 SECTION LEADER                   | ZENG FAN CHEN                                |
-COMMANDER DRONE DIVISION                   | JOVAN SOO JUN TENG                                |                              |
-| DY COMMANDER      | BRYAN YEAP ZI YANG                                 |
-SECTION LEADER                   | ETHAN SENG                                |
+COMMANDER DRONE DIVISION                   | JOVAN SOO JUN TENG                                |
+DY COMMANDER      | BRYAN YEAP ZI YANG                              |
+| SECTION LEADER      | ETHAN SENG                                 |
 SECTION LEADER                   | YEO JIE LUN, JAYLEN                                |
 
 ![EVG YFC](/images/evgyfc_03.jpeg)
