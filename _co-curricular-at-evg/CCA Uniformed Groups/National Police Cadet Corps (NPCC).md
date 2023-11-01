@@ -10,7 +10,7 @@ third_nav_title: CCA Uniformed Groups
 
 The National Police Cadet Corps (NPCC) in Singapore aims to become the premier youth organization in the country, actively working with the Singapore Police Force to ensure safety and fight crime. NPCC's mission is to develop its members into responsible citizens and community leaders through discipline, leadership training, and community engagement. By empowering young individuals with essential life skills and values, NPCC plays a crucial role in making Singapore one of the safest places globally.
 
-**Teacher in Charge:** Mr Wong Wei Tang, Ms Joanna Lee, Mr Tyrus Chua
+**Teacher in Charge:** Mr Wong Wei Tang, Ms Joanna Lee, Mr Tyrus Chua, Ms Wu Yuting
 
 ![](/images/npcc_02%20-%20wong%20wei%20tang.jpg)
 
