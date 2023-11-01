@@ -8,7 +8,7 @@ For students posted to our school or prospective students who want to apply for 
 
 **(A) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
 
-*   Please click on  https://form.gov.sg/636c4e8d53cf9a0011d88bc4 to apply.
+*  Please click [here](https://form.gov.sg/636c4e8d53cf9a0011d88bc4) to apply.
 
 **(B) Direct School Admission Exercise (DSA-Sec)**
 
