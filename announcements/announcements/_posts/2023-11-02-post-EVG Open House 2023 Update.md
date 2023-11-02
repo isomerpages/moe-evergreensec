@@ -15,15 +15,15 @@ variant: markdown
 	
 <center>Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!</center>
 
-<center>Join in the engaging experiences on offer:
+<center>Join in the engaging experiences on offer:</center>
 
- **Principal’s Address + Q&amp;A session**
+ **<center>Principal’s Address + Q&amp;A session</center>**
 
- **Hall Gallery &amp; Activities**
+ **<center>Hall Gallery &amp; Activities</center>**
 
- **The CCA Experience – catch our vibrant CCAs in action!**
+ **<center>The CCA Experience – catch our vibrant CCAs in action!</center>**
 
- **EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer**</center>
+ **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer**</center>
 
 ### **<center>To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)</center>**
 
