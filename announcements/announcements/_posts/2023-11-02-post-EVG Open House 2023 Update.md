@@ -10,7 +10,7 @@ image: ""
 
        
 
-## <div align="center"> “The place to be!”
+## “The place to be!”
 	
 Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
 
@@ -24,10 +24,9 @@ Join in the engaging experiences on offer:
 
 * **EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer**
 
-### <div align="center"> To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)
+### To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)
 
 
-#### <div align="center">See you on 18th November!
+#### See you on 18th November!
 
 
-</div></div></div>
