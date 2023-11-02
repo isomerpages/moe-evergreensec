@@ -10,7 +10,7 @@ image: /images/evg 2023 road run full-school portrait v6 copy (jpeg).jpg
 
        
 
-## **“The place to be!”**
+###            “The place to be!”
 
 Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
 
@@ -27,4 +27,4 @@ Join in the engaging experiences on offer :
 
 ### *To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)
 
-####               See you on 18th November!
+    **See you on 18th November!**
