@@ -23,9 +23,9 @@ variant: markdown
 
  **<center>The CCA Experience – catch our vibrant CCAs in action!</center>**
 
- **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer**</center>
+ **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer</center>**
 
-### **<center>To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)</center>**
+### **<center>To register for the EVG Tour, click [here](https://go.gov.sg/tourevg) </center>**
 
 
 #### **<center>See you on 18th November!</center>**
