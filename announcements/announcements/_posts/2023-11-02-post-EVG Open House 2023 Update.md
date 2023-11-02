@@ -25,6 +25,7 @@ variant: markdown
 
  **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer</center>**
 
+
 ### **<center>To register for the EVG Tour, click [here.](https://go.gov.sg/tourevg)</center>**
 
 
