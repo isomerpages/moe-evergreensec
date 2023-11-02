@@ -25,6 +25,6 @@ Join in the engaging experiences on offer:
 
 * **EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer**
 
-### <div align="center"> To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)
+### <div align="center"> To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)</div>
 
-#### <div align="center">See you on 18th November!</div></div>
+#### <div align="center">See you on 18th November!</div>
