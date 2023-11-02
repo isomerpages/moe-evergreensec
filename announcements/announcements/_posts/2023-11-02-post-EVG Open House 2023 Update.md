@@ -11,9 +11,9 @@ variant: markdown
 
        
 
-## **<center>"The place to be!"**
+## **"The place to be!"**
 	
-<center>Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
+Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
 
 Join in the engaging experiences on offer:
 
@@ -28,4 +28,4 @@ Join in the engaging experiences on offer:
 ### **To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)**
 
 
-#### **See you on 18th November!**</center></center>
+#### **See you on 18th November!**
