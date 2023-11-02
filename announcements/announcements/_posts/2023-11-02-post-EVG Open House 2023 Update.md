@@ -27,4 +27,7 @@ Join in the engaging experiences on offer:
 ### <div align="center"> To register for the EVG Tour, click [here](https://go.gov.sg/tourevg)
 
 
-#### <div align="center">See you on 18th November!</div></div></div>
+#### <div align="center">See you on 18th November!
+
+
+</div></div></div>
