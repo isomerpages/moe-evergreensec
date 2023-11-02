@@ -10,7 +10,7 @@ image: ""
 
        
 
-## <div align="center"> “The place to be!”
+## `<div align="center">`“The place to be!”
 	
 Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
 
