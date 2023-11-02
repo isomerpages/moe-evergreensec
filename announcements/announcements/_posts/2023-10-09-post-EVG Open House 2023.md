@@ -14,7 +14,7 @@ image: /images/evg 2023 road run full-school portrait v6 copy (jpeg).jpg
 
 Join us on Saturday 18th November at our school grounds and explore what it means to be an EVGian!
 
-Join in the engaging experiences on offer :
+Join in the engaging experiences on offer:
 
 * **Principal’s Address + Q&A session**
 
