@@ -28,5 +28,3 @@ Join in the engaging experiences on offer:
 
 
 #### See you on 18th November!
-
-
