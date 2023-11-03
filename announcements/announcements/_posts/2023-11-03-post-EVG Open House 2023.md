@@ -25,6 +25,4 @@ variant: markdown
 
  **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer</center>**
 
-
-
-#### **<center>See you on 18th November!</center>**
+#### **<center>More details to come next week!</center>**
