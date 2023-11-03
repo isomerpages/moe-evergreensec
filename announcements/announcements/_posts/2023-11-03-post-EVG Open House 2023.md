@@ -1,7 +1,7 @@
 ---
-title: EVG Open House 2023 Update
+title: EVG Open House 2023
 permalink: /announcements/announcements/permalink/
-date: 2023-11-02
+date: 2023-11-03
 layout: post
 description: ""
 image: ""
@@ -25,8 +25,6 @@ variant: markdown
 
  **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer</center>**
 
-
-### **<center>To register for the EVG Tour, click [here.](https://go.gov.sg/tourevg)</center>**
 
 
 #### **<center>See you on 18th November!</center>**
