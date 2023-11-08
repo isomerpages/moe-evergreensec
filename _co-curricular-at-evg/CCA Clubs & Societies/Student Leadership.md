@@ -5,7 +5,8 @@ description: ""
 third_nav_title: CCA Clubs & Societies
 variant: markdown
 ---
-**Student Leadership**
+**Student Leadership (Prefectorial Board &amp; CCA EXCO)**
+
 ![Student Leadership](/images/stl%20-%20rhd23.jpeg)
 
 **Teachers in Charge:** <br>Mr Anantharaja Krishnan Samy <br>(Subject Head of Student Leadership)
