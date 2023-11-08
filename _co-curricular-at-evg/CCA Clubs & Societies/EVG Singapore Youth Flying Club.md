@@ -3,11 +3,12 @@ title: EVG Singapore Youth Flying Club
 permalink: /cca/clubs/evg-syfc/
 description: ""
 third_nav_title: CCA Clubs & Societies
+variant: markdown
 ---
 **EVG Singapore Youth Flying Club**
 ![EVGYFC](/images/evgyfc_01.jpg)
 
-EVG YFC aims to develop all members holistically throughout their 4 years in this CCA. Students get to experience a whole range of aviation related activities. From lectures aimed at improving their knowledge, to building and flying of model aircraft and visits to RSAF squadrons and airbases; these initiatives help strengthen their interest and forge a deeper understanding in Aviation. Additionally, students can experience joyrides on various RSAF aircraft under the Flight Experience Program (FEP). These include the Lockheed C-130, Fokker 50 and CH-47 Chinook. The FEP also features an experiential ride on the SYFC Diamond DA-40 (for selected outstanding individuals). Currently, we are one of the 17 secondary schools participating in the SYFC CCA programmes and an Open Unit for students from other secondary schools who are keen to learn more on aviation (CCA conducted on Saturday mornings in SYFC).
+EVG YFC aims to develop all members holistically throughout their 4 years in this CCA. Students get to experience a whole range of aviation-related activities. From lectures aimed at improving their knowledge, to building and flying of model aircraft and visits to RSAF squadrons and airbases, these initiatives help strengthen their interest and forge a deeper understanding in Aviation. Additionally, students can experience joyrides on various RSAF aircraft under the Flight Experience Program (FEP). These include the Lockheed C-130, Fokker 50 and CH-47 Chinook. The FEP also features an experiential ride on the SYFC Diamond DA-40 (for selected outstanding individuals). Currently, we are one of the 17 secondary schools participating in the SYFC CCA programmes and an Open Unit for students from other secondary schools who are keen to learn more on aviation (CCA conducted on Saturday mornings in SYFC).
 
 **Teachers-in-charge:**  
 Ms Ngo Wei Min Jasmine, Mr Ho Kok Wah, Ms Sharie Ong Minyu
