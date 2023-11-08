@@ -21,8 +21,9 @@ variant: markdown
 
  **<center>Hall Gallery &amp; Activities</center>**
 
- **<center>The CCA Experience – catch our vibrant CCAs in action!</center>**
+ **<center>The CCA Experience – Catch our vibrant CCAs in action!</center>**
 
- **<center>EVG Tour – join our Student Ambassadors and find out more about what EVG has to offer</center>**
+ **<center>EVG Tour – Join our Student Ambassadors and find out more about what EVG has to offer!</center>**
+ 
 
 #### **<center>More details to come this week!</center>**
