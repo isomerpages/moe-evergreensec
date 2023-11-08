@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: CCA Performing Arts
+variant: markdown
 ---
 ![](/images/cd_01%20-%20ning%20ma.jpg)
 
