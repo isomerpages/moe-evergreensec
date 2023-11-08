@@ -3,6 +3,7 @@ title: National Civil Defence Cadet Corp (NCDCC)
 permalink: /cca/ug/ncdcc/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **National Civil Defence Cadet Corps (NPCC)**
 
