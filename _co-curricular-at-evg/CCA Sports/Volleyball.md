@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: CCA Sports
+variant: markdown
 ---
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/_vball1.jpeg)
 

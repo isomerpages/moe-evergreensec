@@ -3,12 +3,13 @@ title: Interact Club
 permalink: /cca/clubs/interact-club/
 description: ""
 third_nav_title: CCA Clubs & Societies
+variant: markdown
 ---
 **Interact Club**
 
 ![Interact Club](/images/interact%20logo.jpeg)
 
-Interact Club is a Rotary-sponsored service club for youths between 12 to 18 years old. Interact Club gives them the opportunity to participate in fun, meaningful service projects while developing their leadership skills and other lifetime values holistically. The word 'Interact' is derived from the phrase 'International Action'. It is to signify that Interact is a international phenomenon where young people all over the world are spreading fellowship and international understanding through a wide array of Interact service activities. The Evergreen Secondary School Interact Club is a Rotary Club of Suntec City-sponsored service club. We enable students to interact more with society and initiate as well as galvanize others to take part community involvement programmes. This in turn opens up students’ eyes to the world of the less privileged which broadens their horizons. It is a club where everyone is a leader passionate to serve both school and community, where students put “Service Above Self”.
+Interact Club is a Rotary-sponsored service club for youths between 12 to 18 years old. Interact Club gives our EVGIans the opportunity to participate in fun, meaningful service projects while developing their leadership skills and other lifetime values holistically. The word 'Interact' is derived from the phrase 'International Action'. It is to signify that Interact is a international phenomenon where young people all over the world are spreading fellowship and international understanding through a wide array of Interact service activities. The Evergreen Secondary School Interact Club is a Rotary Club of Suntec City-sponsored service club. We enable students to interact more with society and initiate as well as galvanize others to take part community involvement programmes. This in turn opens up students’ eyes to the world of the less privileged which broadens their horizons. It is a club where everyone is a leader passionate to serve both school and community, where students put “Service Above Self”.
 
 **Teachers in Charge:** Mr Anantharaja Krishnan Samy (I/C), Ms Koh Siang Cheng
 
@@ -63,5 +64,3 @@ DISTRICT AWARDS
 	* Choo Jia Yi Glennis, 3 Character
 
 ![Interact Club](/images/interact%20club%20photo%205.jpeg)
-
-

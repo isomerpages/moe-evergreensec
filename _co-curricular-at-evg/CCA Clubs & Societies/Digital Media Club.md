@@ -3,6 +3,7 @@ title: Digital Media Club
 permalink: /cca/clubs/digital-media-club/
 description: ""
 third_nav_title: CCA Clubs & Societies
+variant: markdown
 ---
 **Digital Media Club (DMC)**
 ![DMC Logo](/images/dmc-logo_white%20(1).jpg)
