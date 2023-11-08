@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /cca/performing-arts/malay-dance/
 description: ""
 third_nav_title: CCA Performing Arts
+variant: markdown
 ---
 ![](/images/md1%20singapore%20youth%20festival%202023%20-%20izzati%20binti%20umar%20baki.jpg)
 
@@ -27,7 +28,7 @@ Founded in 2004, Sukma Irama provided the platform for dancers to develop their 
 
 Sukma Irama specialises in traditional Malay dance. Our dancers will master the 5 basic dance moves – Asli, Inang, Joget, Masri & Zapin. 
 
-Dancers will be given the opportunity to showcase their talents at school events and the Singapore Youth Festival (SYF) Arts Performance. The Malay Dance also collaborates with other performing arts CCAs in EVG such as the Gamelan Ensemble and the Chinese Dance. Our dancers also have the autonomy to choose and organise team-bonding and VIA activities.
+Dancers will be given the opportunity to showcase their talents at school events and the Singapore Youth Festival (SYF) Arts Performance. The Malay Dance also collaborates with other Performing Arts CCAs in EVG such as the Gamelan Ensemble and the Chinese Dance. Our dancers also have the autonomy to choose and organise team-bonding and VIA activities.
 
 ![](/images/md6%202023%20cny%20performance%20-%20izzati%20binti%20umar%20baki.jpg)
 
