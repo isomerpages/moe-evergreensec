@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: CCA Sports
+variant: markdown
 ---
 <img src="/images/badmin1.jpg" style="width: 40%;">
 
@@ -12,7 +13,7 @@ EVG Badminton is dedicated to cultivating resilient and committed student leader
 	
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/_2%20evg%20badminton%20sec%204%20leaders_.jpg)
 	
-Through rigorous training routines, we challenge students to surpass their limits and strive for personal growth. Our diverse range of team and individual events, including friendly matches, school competitions, and external tournaments, provide invaluable exposure and match experience, fostering their competitive spirit and sportsmanship. Recognizing the significance of academic excellence alongside athletic achievement, we go beyond the court to instill a well-rounded mindset. 
+Through rigorous training, we challenge students to surpass their limits and strive for personal growth. Our diverse range of team and individual events, including friendly matches, school competitions, and external tournaments, provide invaluable exposure and match experience, fostering their competitive spirit and sportsmanship. Recognizing the significance of academic excellence alongside athletic achievement, we go beyond the court to instill a well-rounded mindset. 
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/_4%20evg%20badminton%20b%20girls%202023_.jpg)
 
@@ -24,11 +25,11 @@ At Evergreen, our goal is to cultivate a competitive spirit and promote sportsma
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/_6%20evg%20badminton%20b%20boys%202023_.jpg)
 
-As our team continues to grow, our focus is on nurturing student leaders who possess creativity and contribute effectively to the team. In the CCA open house event, all members actively participated and showcased their talents through various creative means, such as designing posters, creating promotional videos, and delivering persuasive speeches to promote Badminton to the Secondary One juniors and parents. 
+As our team continues to grow, our focus is on nurturing student leaders who possess creativity and contribute effectively to the team. In the CCA Open House event, all members actively participated and showcased their talents through various creative means, such as designing posters, creating promotional videos, and delivering persuasive speeches to promote Badminton to the Secondary One juniors and parents. 
 
 ![](/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/evg%20c%20boys%202023%20round%202.jpg)
 
-The badminton captains, vice-captains, and executive committee members worked collaboratively to plan and host both the in-house annual year-end tournament and the CCA open house event. These experiences provide valuable leadership 
+The Badminton Captains, Vice-Captains, and Executive Committee members work collaboratively to plan and host both the in-house annual year-end tournament and the CCA open house event. These experiences provide valuable leadership 
 opportunities for our team leaders, who also serve as role models, inspiring the juniors to develop their own leadership skills.<p></p>
 
 #### Events and Achievements
