@@ -17,7 +17,7 @@ Mr Nelson Lam (OIC), Ms Teresina Loola, Mdm Ratna
 
 ![Student Leadership - Logo](/images/stl%20-%20logo%20combine.png)
 
-From planning and running school-wide events to assisting the school in its day-to-day activities, the prefectorial board takes great pride and responsibility in doing all these well. Formed when the school was in still in its infant years, the board and its members have increasingly taken on greater roles and tasks.
+From planning and running school-wide events to assisting the school in its day-to-day activities, the Prefectorial Board takes great pride and responsibility in doing all these well. Formed when the school was in still in its infant years, the board and its members have increasingly taken on greater roles and tasks.
 
 ![Student Leadership](/images/stl%20-%20leaders.JPG)
 
@@ -27,7 +27,7 @@ Over the years, the roles and responsibilities of the prefects have expanded, in
 
 ![Student Leadership CCA EXCO](/images/stl%20-%20cca%20exco.jpg)
 
-An executive committee is formed from the top student leaders in Secondary 3 to lead the prefectorial board in organising and executing events. Instead of just being ushers, prefects now need to know how to plan, organise, delegate and assume the various roles and responsibilities associated with an event. School-based events such as Secondary One Orientation, Primary Six School Visits and Graduation Day are just a few of the events that greatly involve the prefectorial board.
+Each year. an Executive Committee is formed from the top student leaders in Secondary 3 to lead the Prefectorial Board in organising and executing events. Prefects now need to know how to plan, organise, delegate and assume the various roles and responsibilities associated with an event. School-based events such as Secondary One Orientation, Primary Six School Visits and Graduation Day are just a few of the events that greatly involve the Prefectorial Board.
 
 ![Student Leadership Event](/images/stl%20-%20events.jpg)
 
