@@ -27,13 +27,13 @@ Over the years, the roles and responsibilities of the prefects have expanded, in
 
 ![Student Leadership CCA EXCO](/images/stl%20-%20cca%20exco.jpg)
 
-Each year. an Executive Committee is formed from the top student leaders in Secondary 3 to lead the Prefectorial Board in organising and executing events. Prefects now need to know how to plan, organise, delegate and assume the various roles and responsibilities associated with an event. School-based events such as Secondary One Orientation, Primary Six School Visits and Graduation Day are just a few of the events that greatly involve the Prefectorial Board.
+Each year, an Executive Committee is formed from the top student leaders in Secondary 3 are involved in organising and executing events. Student leaders plan, organise, delegate and assume the various roles and responsibilities associated with an event. School-based events such as Secondary One Orientation and Graduation Day are just a couple of the events that greatly involve the student leaders.
 
 ![Student Leadership Event](/images/stl%20-%20events.jpg)
 
-In addition, prefects are given formal leadership developmental training from external agencies such as Halogen, Achievers and Acorn Training to hone their leadership potential and ability, on top of the constant guidance received from their seniors and teachers.
+In addition, student leaders are given formal leadership developmental training from external agencies such as Halogen, Achievers and Acorn Training to hone their leadership potential and ability, on top of the constant guidance received from their seniors and teachers.
 
-To date, the prefects are 60-strong and come from very diverse backgrounds and interests. It is in this various mix that the school hopes to develop future leaders for the community.
+To date, the student leaders are 60-strong and come from very diverse backgrounds and interests. It is in this various mix that the school hopes to develop future leaders for the community.
 
 ![Student Leadership](/images/stl%20-%20investiture.jpg)
 
@@ -80,9 +80,8 @@ The Prefectorial Board also comprises the Secondary 3 Senior Prefects and the Se
 
 **Activities and Initiatives**
 
-*   Sec 1 Orientation Programme and Campfire
+*   Sec 1 Orientation
 *   Lunar New Year Hamper Wrapping
-*   Honours Day
 *   Student Leaders’ Investiture
 *   Leadership-In-Action Camp
 *   Teachers’ Day Celebrations
