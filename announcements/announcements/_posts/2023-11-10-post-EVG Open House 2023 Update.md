@@ -39,6 +39,8 @@ variant: markdown
 
  **<center>12.00 noon</center>**
 
-#### **<center>Sign up at our Registration Booth on Saturday 18 November.</center>**
+**<center>If you’d like to join the EVG Tour, sign up at our Registration Booth on Saturday 18 November! Places are limited!</center>**
 
-#### **<center>Places are limited. See you at our Open House on 18 November!</center>**
+#### **<center>No registration needed for other events.</center>**
+
+### **<center>See you at our Open House on 18 November!</center>**
