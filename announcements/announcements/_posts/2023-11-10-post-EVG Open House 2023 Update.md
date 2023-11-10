@@ -39,7 +39,7 @@ variant: markdown
 
  **<center>12.00 noon</center>**
 
-**<center>Sign up for the guided tour at our Registration Booth during the Open House. Places are limited.</center>**
+**<center>You can sign up for the guided tour at our Registration Booth during the Open House. Places are limited.</center>**
 
 #### **<center>All are welcomed to the EVG Open House. No registration needed.</center>**
 
