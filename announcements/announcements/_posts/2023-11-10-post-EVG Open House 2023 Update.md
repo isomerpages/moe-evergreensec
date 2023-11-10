@@ -39,6 +39,6 @@ variant: markdown
 
  **<center>12.00 noon</center>**
 
-#### **<center>Sign up at our Registration Booth on Saturday 18 November.</center>**
+**<center>Sign up for the guided tour at our Registration Booth during the Open House. Places for the guided tour are limited.</center>**
 
-#### **<center>Places are limited. See you at our Open House on 18 November!</center>**
+#### **<center>All are welcomed. See you at our Open House on 18 November!</center>**
