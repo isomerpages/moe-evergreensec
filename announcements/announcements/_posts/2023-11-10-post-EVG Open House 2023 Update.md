@@ -41,4 +41,4 @@ variant: markdown
 
 **<center>Sign up for the guided tour at our Registration Booth during the Open House. Places for the guided tour are limited.</center>**
 
-#### **<center>All are welcomed. See you at our Open House on 18 November!</center>**
+#### **<center>All are welcomed. See you at our Open House on Saturday 18 November!</center>**
