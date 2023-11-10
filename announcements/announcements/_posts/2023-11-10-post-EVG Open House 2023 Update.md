@@ -39,8 +39,8 @@ variant: markdown
 
  **<center>12.00 noon</center>**
 
-**<center>You can sign up for the EVG guided tour at our Registration Booth during the Open House. Places are limited.</center>**
+**<center>If you’d like to join the EVG Tour, sign up at our Registration Booth on Saturday 18 November! Places are limited!</center>**
 
-#### **<center>All are welcomed to our Open House. No registration needed.</center>**
+#### **<center>No registration needed for other events.</center>**
 
-### **<center>See you in Evergreen Secondary School on Saturday 18 November!</center>**
+### **<center>See you at our Open House on 18 November!</center>**
