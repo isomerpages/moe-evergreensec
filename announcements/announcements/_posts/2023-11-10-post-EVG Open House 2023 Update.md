@@ -41,6 +41,6 @@ variant: markdown
 
 **<center>Sign up for the guided tour at our Registration Booth during the Open House. Places are limited.</center>**
 
-#### **<center>All are welcomed to visit our Open House. No registration needed.</center>**
+#### **<center>All are welcomed to the EVG Open House. No registration needed.</center>**
 
 ### **<center>See you at our Open House on Saturday 18 November!</center>**
