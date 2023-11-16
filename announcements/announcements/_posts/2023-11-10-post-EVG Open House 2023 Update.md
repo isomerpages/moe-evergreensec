@@ -42,6 +42,7 @@ variant: markdown
 
 **<center>If you’d like to join the EVG Tour, sign up at our Registration Booth on Saturday 18 November! Places are limited!</center>**
 
+**<center> Check out our [Facebook](https://www.facebook.com/EvergreenSecondary) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) accounts for updates!</center>**
 
 
 #### **<center>No registration needed for other events.</center>**
