@@ -20,7 +20,7 @@ variant: markdown
  **<center>Principal’s Address + Q&amp;A session (9.30 a.m. &amp; 12 noon)</center>**
  
 
- **<center>Hall Gallery &amp; Activities</center>**
+ **<center>Hall Gallery &amp; Activities (9.00 a.m. - 1.00 p.m)</center>**
 
  **<center>The CCA Experience – Catch our vibrant CCAs in action!</center>**
 
@@ -41,6 +41,8 @@ variant: markdown
  **<center>12.00 noon</center>**
 
 **<center>If you’d like to join the EVG Tour, sign up at our Registration Booth on Saturday 18 November! Places are limited!</center>**
+
+
 
 #### **<center>No registration needed for other events.</center>**
 
