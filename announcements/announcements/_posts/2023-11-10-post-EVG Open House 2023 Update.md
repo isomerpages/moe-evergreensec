@@ -17,7 +17,8 @@ variant: markdown
 
 <center>Join in the engaging experiences on offer:</center>
 
- **<center>Principal’s Address + Q&amp;A session</center>**
+ **<center>Principal’s Address + Q&amp;A session (9.30 a.m. &amp; 12 noon)</center>**
+ 
 
  **<center>Hall Gallery &amp; Activities</center>**
 
