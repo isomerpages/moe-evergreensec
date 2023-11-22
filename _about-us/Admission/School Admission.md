@@ -3,6 +3,7 @@ title: School Admission
 permalink: /admission/school-admission/
 description: ""
 third_nav_title: Admission
+variant: markdown
 ---
 For students posted to our school or prospective students who want to apply for DSA or appeal / transfer to Evergreen Sec, you can click on the links in the menu or below for relevant information:
 
@@ -14,3 +15,9 @@ For students posted to our school or prospective students who want to apply for 
 
 *   The 2023 DSA-Sec registration period is open from 4 - 31 May 2023.
 *   You may visit the 2023 DSA-Sec page to apply [https://www.evergreensec.moe.edu.sg/admission/dsa/](https://www.evergreensec.moe.edu.sg/admission/dsa/)
+
+**(C) Secondary School Selection (after release of PSLE results)**
+
+Please refer to our [FAQ for Parents & Students](/files/EVG___FAQ_for_Parents_and_Students_After_PSLE_Result_Release_on_22_Nov_2023__version_22_Nov_2023_.pdf) here.
+
+**(D) Appeal after Secondary One Posting results**
