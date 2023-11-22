@@ -18,4 +18,6 @@ For students posted to our school or prospective students who want to apply for 
 
 **(C) Secondary School Selection (after release of PSLE results)**
 
+Please refer to our [FAQ for Parents & Students](/files/EVG___FAQ_for_Parents_and_Students_After_PSLE_Result_Release_on_22_Nov_2023__version_22_Nov_2023_.pdf) here.
+
 **(D) Appeal after Secondary One Posting results**
