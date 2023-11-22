@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 **Address :** 11, WOODLANDS STREET 83 (738489)  
 **Tel :** 63656392     **Fax :** 63658083  
@@ -21,6 +22,10 @@ The newly integrated transport hub, located in Woodlands Town Centre, is now in 
 Woodlands MRT Station
 
 ![](/images/Contact%20Us/C2.png)
+
+### **Follow us on social media**
+**[Instagram](https://www.instagram.com/evergreen_secondary_official/)**        **[Facebook](https://www.facebook.com/EvergreenSecondary/)**     
+**[Youtube](https://www.youtube.com/channel/UC5lg0o_1JDz1wfjEAHlHQ9A)**
 
 ### **Feedback Form**
 
