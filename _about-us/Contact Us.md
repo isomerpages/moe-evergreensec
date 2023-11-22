@@ -26,8 +26,9 @@ Woodlands MRT Station
 ### **Follow us on social media**
 **[Instagram](https://www.instagram.com/evergreen_secondary_official/)**
 
+**[Facebook](https://www.facebook.com/EvergreenSecondary/)**
 
-
+**[Youtube](https://www.youtube.com/channel/UC5lg0o_1JDz1wfjEAHlHQ9A)**
 
 ### **Feedback Form**
 
