@@ -2,6 +2,7 @@
 title: Safety
 permalink: /about-us/information/safety/
 description: ""
+variant: markdown
 ---
 **Safety Vision**  
 A dynamic school that thinks and cares about safety.
@@ -21,7 +22,7 @@ All students contribute to safety by:
 At Evergreen Secondary we believe in the benefits of participating in sports and exercise regularly. At the same time, we need to be aware of the possible risks to our safety and take responsibility for our own well-being.
 
 Please click on the following links for sports safety advice from the Singapore Sports Council, and MOE School Safety Website.  
-[http://www.schoolsports.sg/sssc/safety\_resources](http://www.schoolsports.sg/sssc/safety_resources)    
+
 [http://intranet.moe.gov.sg/schoolsafety/]
 
 ## **Fight Dengue**
