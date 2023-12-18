@@ -2,26 +2,31 @@
 title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-### **Principal’s Message 2023**  
+### **Principal’s Message 2024**  
 
-  
-**Welcome to 2023!** Our school vision of being “A **dynamic community** that thinks and cares” guides our approach in creating a quality schooling experience for our students.
+ 
+##### **Our Future of Learning Together**
 
-The school has accomplished much despite the Covid restrictions in the past 3 years.   These include piloting Full Subject Based Banding and implementing the Personalised Digital Learning Programme (PDLP).  Most significantly, the teachers had worked tirelessly to ensure the quality and continuous learning of our students throughout the Covid period.   We are very proud that EVGians had shown grit and self-directedness.
 
-Our school’s theme for 2023 is “**Synergy**”.  Synergy means to combine or coordinate to produce a joint effect that is greater than the sum of the parts.  This is a unique characteristic of the Evergreen community.  Together with our partners and parents, we can achieve synergy in three aspects.
 
-**First**, we want to continue to prepare our students for the future.  Our Applied Learning Programmes in Effective Communications has extended beyond the English Language to include the Mother Tongue Languages.  The multi-tiered programmes include in-class and out of class experiences that engage students in language use in various contexts. There are also opportunities for students to go on Overseas Learning Journeys as overseas trips are reinstated.  We will also continue to hone 21st Century Skills in our students through their CCA experiences.  More opportunities will be given to all students to relate to one another as well as to solve problems together.
+A warm welcome to 2024 to everyone! On behalf of the Evergreen Secondary School community, I would first like to express my gratitude to Mr Vincent Toh for his steadfast stewardship of the school. His leadership, and that of our esteemed Principals before him, has established deep foundations of excellence for our school.
 
-**Second**, we want to promote a positive learning environment that is uplifting and affirming for all.  EVGians are already known for their caring and discipline dispositions, and these strengths will be further harnessed to create a positive classroom culture where there is care for one another, and a common passion to contribute.  Students will have the opportunities to collaborate with one another through academic and CCA programmes.  They will also be able to plan and implement meaningful projects for the community.
+I feel privileged to be able to serve alongside the staff of Evergreen, to build on these strong roots. As we embark on this journey together, our school theme for 2024 is “Our school's theme for 2024 is “**Our Future of Learning Together**”.
 
-**Third**, we will create quality learning experiences that are engaging and ICT-enabled for all students.  Besides keeping abreast of the latest syllabus development, teachers collaborate within departments and with curriculum experts in MOE to promote the use of technology to empower learning.  In the light of Home-Based Learning, and PDLP, learning has become more blended, and tech-enabled with opportunities for students to access learning at their own time and pace.
+There are three core components to this theme.
 
-As we start the year, I urge every EVGian to make every effort to work with one another, and your teachers, to make learning a positive and fun experience for all.  Remember, **together, we are stronger!**
+1.“**Future**”. While the future can feel daunting, it is also full of possibility. Evergreen’s suite of programmes will continue to ensure EVGians are well-prepared for the future, with 21st Century Competencies infused across the total curriculum. EVGians will enjoy future-oriented opportunities to learn, through programmes such as Overseas Learning Journeys and our Applied Learning Programme, “Effective Communicators with a Heart”. 
 
-Mr Vincent Toh
+2.“**Learning**”. Learning must enable our students, unique in their abilities, to flourish in an uplifting school environment. Our core focus continues to be on providing high quality, student-centric and innovative learning experiences, rooted in Evergreen’s distinct traditions in National Education. Our focus on values and positive discipline shines through our form teachers, CCA groups and platforms like our Learning for Life Programme—"Strengthening Resilience, Character and Leadership through Sports Education.”
 
-Principal
+3.“**Together**”- The Evergreen Community is at the heart of the school. We have a community of warm staff who take pride in our professionalism and are committed to collaborating to nurture the whole child. Our EVGians show heartwarming care for each other, and seek to contribute to the community. We are also blessed to have supportive parents and partners to journey with us.
 
-![](/images/School%20information/Principal’s%20Message%202022/P1.jpeg)
+Ultimately, under all our efforts, there must be Hope. In a tumultuous world, school is a very special place because it houses the hopes of all of us. As a school, we will continue to support and uplift each other in realising our hopes, and in doing so, Evergreen will continue to grow from strength to strength, season to season.
+
+I truly look forward to our future of learning, together.
+
+
+Yours Sincerely, Ms Bian Yu Wei
+
