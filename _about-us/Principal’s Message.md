@@ -30,3 +30,4 @@ I truly look forward to our future of learning, together.
 
 Yours Sincerely, Ms Bian Yu Wei
 
+![](/images/WhatsApp_Image_2023_12_18_at_2_24_40_PM.jpeg)
