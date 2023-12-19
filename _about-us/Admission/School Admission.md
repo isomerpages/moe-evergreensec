@@ -7,17 +7,22 @@ variant: markdown
 ---
 For students posted to our school or prospective students who want to apply for DSA or appeal / transfer to Evergreen Sec, you can click on the links in the menu or below for relevant information:
 
-**(A) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
+**(A) Appeal after Secondary One Posting results**
+
+Primary 6 students who have just received your secondary school posting in 2023 may use this form to appeal for transfer to Evergreen Secondary School. 
+
+Your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
+
+[Appeal for 2024 Sec 1- Evergreen Secondary School](https://form.gov.sg/657fbc58522a800012ea7059)
+
+
+**(B) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
 
 *  Please click [here](https://form.gov.sg/636c4e8d53cf9a0011d88bc4) to apply.
 
-**(B) Direct School Admission Exercise (DSA-Sec)**
 
-*   The 2023 DSA-Sec registration period is open from 4 - 31 May 2023.
-*   You may visit the 2023 DSA-Sec page to apply [https://www.evergreensec.moe.edu.sg/admission/dsa/](https://www.evergreensec.moe.edu.sg/admission/dsa/)
 
 **(C) Secondary School Selection (after release of PSLE results)**
 
 Please refer to our [FAQ for Parents and Students](/files/EVG___FAQ_for_Parents_and_Students_After_PSLE_Result_Release_on_22_Nov_2023__version_22_Nov_2023_.pdf) here.
 
-**(D) Appeal after Secondary One Posting results**
