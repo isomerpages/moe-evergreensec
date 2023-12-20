@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: For 2024 Secondary 1 Registration
           description: Click here
-          url: /announcements/announcements/sec-1-registration-2023/
+          url: https://www.evergreensec.moe.edu.sg/announcements/announcements/permalink/
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
