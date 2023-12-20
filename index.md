@@ -10,10 +10,10 @@ sections:
       background: /images/Homepage/hero_banner_1920x720gif.gif
       variant: image
       button: '"the place to be!"'
-      url: https://www.evergreensec.moe.edu.sg/life-at-evg/prospectus/
+      url: https://www.evergreensec.moe.edu.sg/admission/school-admission/
       key_highlights:
-        - title: MIssed our Open House?
-          description: Learn more here!
+        - title: For 2024 Secondary 1 Registration
+          description: Click here
           url: https://www.evergreensec.moe.edu.sg/life-at-evg/prospectus/
   - resources:
       button: Read more
