@@ -23,6 +23,8 @@ Posting Group 2 : 23
 
 Posting Group 1 : 28
 
+Deadline for appeal for S1 (AY2024) is 26 Dec 2023, 12 pm.
+
 Please click on the link below to apply.
 
 [Appeal for 2024 Sec 1- Evergreen Secondary School](https://form.gov.sg/657fbc58522a800012ea7059)
