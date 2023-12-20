@@ -14,9 +14,12 @@ For consideration to be placed on the waiting list for admission to Evergreen Se
 Students seeking admission must meet the cut-off point (COP) of the school.
 
 Our Cut Off Points (COP) for AY2024 Sec 1 are: 
-Posting Group 3: 16
-Posting Group 2: 23
-Posting Group 1: 28
+
+**Posting Group 3: 16**
+
+**Posting Group 2: 23**
+
+**Posting Group 1: 28**
 
 Deadline for appeal for S1 (AY2024) is 26 Dec 2023, 12 pm.
 
