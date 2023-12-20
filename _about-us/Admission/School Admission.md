@@ -13,6 +13,16 @@ Primary 6 students who have just received your secondary school posting in 2023 
 
 Your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 
+Students seeking admission **must** meet the Cut-Off Points (COP) of the school.
+
+Our Cut-Off Points (COP) for AY2024 Sec 1 are :
+
+Posting Group 3 : 16
+
+Posting Group 2 : 23
+
+Posting Group 1 : 28
+
 Please click on the link below to apply.
 
 [Appeal for 2024 Sec 1- Evergreen Secondary School](https://form.gov.sg/657fbc58522a800012ea7059)
