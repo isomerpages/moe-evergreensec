@@ -12,8 +12,8 @@ sections:
       button: '"the place to be!"'
       url: https://www.evergreensec.moe.edu.sg/admission/school-admission/
       key_highlights:
-        - title: For 2024 Secondary 1 Registration
-          description: Click here
+        - title: For Secondary 1 Registration (Academic Year 2024)
+          description: Click here more details
           url: https://www.evergreensec.moe.edu.sg/announcements/announcements/permalink/
   - resources:
       button: Read more
