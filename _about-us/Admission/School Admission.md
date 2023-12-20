@@ -7,15 +7,18 @@ variant: markdown
 ---
 For students posted to our school or prospective students who want to apply for DSA or appeal / transfer to Evergreen Sec, you can click on the links in the menu or below for relevant information:
 
-**(A) Appeal after Secondary One Posting results**
+**(A) Secondary 1 (AY2024) Appeal for Admission to Evergreen Secondary School**
 
-Primary 6 students who have just received your secondary school posting in 2023 may use this form to appeal for transfer to Evergreen Secondary School. 
+For consideration to be placed on the waiting list for admission to Evergreen Secondary School, please submit your application form through [https://go.gov.sg/sec1appeal-evgss](https://go.gov.sg/sec1appeal-evgss)
 
-Your PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
+Students seeking admission must meet the cut-off point (COP) of the school.
 
-Please click on the link below to apply.
+Our Cut Off Points (COP) for AY2024 Sec 1 are: 
+Posting Group 3: 16
+Posting Group 2: 23
+Posting Group 1: 28
 
-[Appeal for 2024 Sec 1- Evergreen Secondary School](https://form.gov.sg/657fbc58522a800012ea7059)
+Deadline for appeal for S1 (AY2024) is 26 Dec 2023, 12 pm.
 
 
 **(B) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
