@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: For 2024 Secondary 1 Registration
           description: Click here
-          url: https://www.evergreensec.moe.edu.sg/life-at-evg/prospectus/
+          url: /announcements/announcements/sec-1-registration-2023/
   - resources:
       button: Read more
       subtitle: Announcements, News & Events

@@ -1,10 +1,11 @@
 ---
 title: Sec 1 Registration 2023
-permalink: /announcements/announcements/Sec-1-Registration-2023/
+permalink: /announcements/announcements/sec-1-registration-2023/
 date: 2022-12-20
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 It is our pleasure to welcome all Secondary 1 students (AY2023) posted to Evergreen Secondary School.
 
