@@ -3,6 +3,7 @@ title: Financial Assistance and Insurance Matters
 permalink: /school-information/Students/Financial-Assistance-and-Insurance-Matters/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ##### **MOE Financial Assistance Scheme (MOE FAS)**
 
@@ -58,7 +59,7 @@ Types of benefits provided under MOE FAS (Secondary School):
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">$10 payable by student (Deductible from student’s Edusave)</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Textbooks & School Attire</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Textbooks &amp; School Attire</span></td>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Free</span></td>
   </tr>
   <tr>
@@ -75,7 +76,7 @@ Types of benefits provided under MOE FAS (Secondary School):
 
 **Application form**&nbsp;can be obtained either from the School General Office or downloaded below.
 
-*   [MOE FAS Application Form](/files/MOE%20FAS%202023/MOE-FAS-Application-Form.pdf)
+*  [MOE FAS Application Form](/files/2024_MOE_FAS_Application_Form.pdf)
 
 Alternatively, parents can also apply for MOE FAS online via this link:&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
