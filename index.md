@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: For Secondary 1 Registration (Academic Year 2024)
           description: Click here more details
-          url: https://www.evergreensec.moe.edu.sg/announcements/announcements/permalink/
+          url: /announcements/announcements/sec1reg2024/
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
