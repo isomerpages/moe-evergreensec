@@ -1,10 +1,11 @@
 ---
 title: Caring Teacher Award
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/caring-tchr-2023/
 date: 2023-07-20
 layout: post
 description: ""
 image: /images/cta 2023 poster.jpg
+variant: tiptap
 ---
 Dear EVGians,
 

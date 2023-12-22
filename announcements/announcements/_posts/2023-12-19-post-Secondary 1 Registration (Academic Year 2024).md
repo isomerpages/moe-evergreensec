@@ -1,6 +1,6 @@
 ---
 title: Secondary 1 Registration (Academic Year 2024)
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/s1regdetails/
 date: 2023-12-19
 layout: post
 description: ""

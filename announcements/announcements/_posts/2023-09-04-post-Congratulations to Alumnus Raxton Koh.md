@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Alumnus Raxton Koh
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/alumnus-raxton-koh/
 date: 2023-09-04
 layout: post
 description: ""

@@ -1,10 +1,11 @@
 ---
 title: Sec 1 Parents Briefing Slides
-permalink: /announcements/announcements/Sec-1-Parents-Briefing-Slides/
+permalink: /announcements/announcements/s1-parents-briefing-2023/
 date: 2023-01-17
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear Sec 1 parents,
 

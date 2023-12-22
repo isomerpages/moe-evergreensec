@@ -1,10 +1,11 @@
 ---
 title: EVG Road Run 2023
-permalink: /announcements/announcements/EVG-Road-Run-2023/
+permalink: /announcements/announcements/evg-road-run-2023/
 date: 2023-03-03
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 The EVG Road Run will be held this Friday 10 March from 8 a.m. to 12 noon at Gardens by the Bay.  Please refer to the attached briefing slides and running route video for more information.
 

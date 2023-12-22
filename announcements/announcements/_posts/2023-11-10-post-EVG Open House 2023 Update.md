@@ -1,6 +1,6 @@
 ---
 title: EVG Open House 2023 Update
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/evgoh2023update/
 date: 2023-11-10
 layout: post
 description: ""
