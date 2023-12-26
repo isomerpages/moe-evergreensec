@@ -10,6 +10,6 @@ variant: markdown
 | Name                    | Designation    | Email address                |
 |-------------------------|----------------|------------------------------|
 | Ms Bian Yu Wei | Principal      | Bian_Yu_Wei@schools.gov.sg   |
-| Mdm Karen Tay           | Vice Principal | Tay_Chor_Hwee@schools.gov.sg |
 | Mr Lak Yau Hui          | Vice Principal | Lak_Yau_Hui@schools.gov.sg   |
+| Mdm Karen Tay           | Vice Principal | Tay_Chor_Hwee@schools.gov.sg |
 | Mr Lim Kangyu | Vice Principal | Lim_Kangyu@schools.gov.sg |
