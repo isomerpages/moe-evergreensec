@@ -3,11 +3,13 @@ title: School Leaders
 permalink: /our-staff/School-Leaders/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-![](/images/Our%20Staff/School%20Leaders/sl_grouppic.jpeg)
+
 
 | Name                    | Designation    | Email address                |
 |-------------------------|----------------|------------------------------|
-| Mr Toh Kim Yong Vincent | Principal      | Vincent_Toh@schools.gov.sg   |
-| Mdm Karen Tay           | Vice Principal | tay_chor_hwee@schools.gov.sg |
-| Mr Lak Yau Hui          | Vice Principal | lak_yau_hui@schools.gov.sg   |
+| Ms Bian Yu Wei | Principal      | Bian_Yu_Wei@schools.gov.sg   |
+| Mdm Karen Tay           | Vice Principal | Tay_Chor_Hwee@schools.gov.sg |
+| Mr Lak Yau Hui          | Vice Principal | Lak_Yau_Hui@schools.gov.sg   |
+| Mr Lim Kangyu | Vice Principal | Lim_Kangyu@schools.gov.sg |
