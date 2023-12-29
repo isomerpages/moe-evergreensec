@@ -32,4 +32,3 @@ Yours Sincerely,
 Ms Bian Yu Wei
 
 ![](/images/Our%20Staff/School%20Leaders/Principal_Message_29dec23.png)
-![](/images/WhatsApp_Image_2023_12_18_at_2_24_40_PM.jpeg)
