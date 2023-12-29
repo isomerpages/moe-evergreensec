@@ -29,6 +29,5 @@ I truly look forward to our future of learning, together.
 
 
 Yours Sincerely, 
-Ms Bian Yu Wei
-
+Ms Bian Yu Wei 
 ![](/images/Our%20Staff/School%20Leaders/Principal_Message_29dec23.png)
