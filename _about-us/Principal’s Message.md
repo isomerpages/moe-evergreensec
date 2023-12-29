@@ -13,7 +13,7 @@ variant: markdown
 
 A warm welcome to 2024 to everyone! On behalf of the Evergreen Secondary School community, I would first like to express my gratitude to Mr Vincent Toh for his steadfast stewardship of the school. His leadership, and that of our esteemed Principals before him, has established deep foundations of excellence for our school.
 
-I feel privileged to be able to serve alongside the staff of Evergreen, to build on these strong roots. As we embark on this journey together, our school theme for 2024 is “Our school's theme for 2024 is “**Our Future of Learning Together**”.
+I feel privileged to be able to serve alongside the staff of Evergreen, to build on these strong roots. As we embark on this journey together, our school theme for 2024 is “**Our Future of Learning Together**”.
 
 There are three core components to this theme.
 
