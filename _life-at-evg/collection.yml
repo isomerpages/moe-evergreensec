@@ -1,0 +1,10 @@
+collections:
+  life-at-evg:
+    output: true
+    order:
+      - Our Corporate Video.md
+      - Our Learning Environment.md
+      - Our Houses/.keep
+      - Our Houses/Our Houses.md
+      - Our Houses/Road Run.md
+      - Our Houses/Sports Carnival.md

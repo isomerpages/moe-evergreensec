@@ -1,0 +1,17 @@
+collections:
+  zip-b:
+    output: true
+    order:
+      - About the School.md
+      - Teaching Staff.md
+      - Malay Language.md
+      - Chinese Language.md
+      - Departments/Information and Communication Technology (ICT).md
+      - Departments/Principles of Accounts.md
+      - Departments/.keep
+      - Distinctive School Programmes/Distinctive School Programmes.md
+      - Distinctive School Programmes/.keep
+      - CCE/CCE Framework.md
+      - CCE/Student Leadership in Evergreen.md
+      - CCE/Sexuality Education.md
+      - CCE/.keep

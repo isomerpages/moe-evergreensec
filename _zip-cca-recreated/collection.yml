@@ -1,0 +1,17 @@
+collections:
+  zip-cca-recreated:
+    output: true
+    order:
+      - CCA Sports/.keep
+      - CCA Sports/Badminton.md
+      - CCA Sports/Netball.md
+      - CCA Sports/Rugby.md
+      - CCA Sports/Table Tennis.md
+      - CCA Sports/Volleyball.md
+      - CCA Uniformed Groups/.keep
+      - CCA Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - CCA Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - CCA Uniformed Groups/Red Cross Youth.md
+      - CCA Performing Arts/.keep
+      - CCA Performing Arts/Chinese Dance.md
+      - CCA Performing Arts/Gamelan Ensemble.md

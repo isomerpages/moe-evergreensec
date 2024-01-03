@@ -1,0 +1,18 @@
+collections:
+  curriculum-at-evg:
+    output: true
+    order:
+      - Academics in Evergreen.md
+      - Applied Learning Programme (ALP).md
+      - Departments/.keep
+      - Departments/Aesthetics.md
+      - Departments/English.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Language.md
+      - Departments/Science.md
+      - Departments/Physical Education.md
+      - Overseas Learning Journeys/.keep
+      - Overseas Learning Journeys/Overseas Learning Journey (Bangkok).md
+      - Overseas Learning Journeys/Overseas Learning Journey (Jakarta).md
+      - Overseas Learning Journeys/Overseas Learning Journey (Kuala Lumpur).md

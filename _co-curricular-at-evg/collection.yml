@@ -1,0 +1,35 @@
+collections:
+  co-curricular-at-evg:
+    output: true
+    order:
+      - CCA in Evergreen.md
+      - CCA Clubs & Societies/EVG CCA Clubs & Societies Video.md
+      - CCA Clubs & Societies/.keep
+      - CCA Clubs & Societies/Digital Media Club.md
+      - CCA Clubs & Societies/English Literary Drama and Debate Society.md
+      - CCA Clubs & Societies/EVG Singapore Youth Flying Club.md
+      - CCA Clubs & Societies/Interact Club.md
+      - CCA Clubs & Societies/Student Leadership.md
+      - CCA Performing Arts/CCA Performing Arts Video.md
+      - CCA Performing Arts/.keep
+      - CCA Performing Arts/Chinese Dance.md
+      - CCA Performing Arts/Chinese Orchestra.md
+      - CCA Performing Arts/Gamelan Ensemble.md
+      - CCA Performing Arts/Guitar Ensemble.md
+      - CCA Performing Arts/Malay Dance.md
+      - CCA Sports/CCA Sports Video.md
+      - CCA Sports/.keep
+      - CCA Sports/Cross Country.md
+      - CCA Sports/Badminton.md
+      - CCA Sports/EVG Table Tennis.md
+      - CCA Sports/Netball.md
+      - CCA Sports/Touch Rugby.md
+      - CCA Sports/Rugby.md
+      - CCA Sports/Volleyball.md
+      - CCA Uniformed Groups/CCA Uniformed Groups Video.md
+      - CCA Uniformed Groups/.keep
+      - CCA Uniformed Groups/National Cadet Corps (NCC Land).md
+      - CCA Uniformed Groups/National Civil Defence Cadet Corp (NCDCC).md
+      - CCA Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - CCA Uniformed Groups/Red Cross Youth.md
+      - Learning for Life Programme (LLP).md

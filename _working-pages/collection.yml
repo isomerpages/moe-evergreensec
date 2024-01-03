@@ -1,0 +1,7 @@
+collections:
+  working-pages:
+    output: true
+    order:
+      - Our School Values.md
+      - Overseas Learning Journeys.md
+      - Our Heritage.md
