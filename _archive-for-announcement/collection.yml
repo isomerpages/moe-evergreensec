@@ -1,0 +1,4 @@
+collections:
+  archive-for-announcement:
+    output: true
+    order: []
