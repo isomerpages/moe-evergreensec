@@ -1,4 +1,4 @@
 collections:
-  archive-for-announcement:
+  announcement-archive:
     output: true
     order: []
