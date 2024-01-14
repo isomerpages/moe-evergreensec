@@ -3,11 +3,11 @@ title: Timetables
 permalink: /school-information/Students/Timetables/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
-#### **2023 Semester 2 Timetable**
+#### **2024 Semester 1 Timetable**
 
-Please access Semester 2 timetable for the respective classes here : 
+Please access Semester 1 timetable for the respective classes here : 
 
-**[Sem 2 Timetable (Updated 26Jun23)](/files/Timetables/timetable%202023_sem2_ver5f_classes_final_updated%2026%20jun.pdf)**
+[2024 Sem 1 Timetable](/files/2024_Sem1_Timetable_Classes_ver3e_updated.pdf)
 
-*Version last updated on 26 June 2023, 1000 hour.*
