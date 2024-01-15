@@ -3,6 +3,7 @@ title: National Cadet Corps (NCC Land)
 permalink: /cca/ug/ncc/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **National Cadet Corps (Land)**
 
@@ -10,7 +11,7 @@ third_nav_title: CCA Uniformed Groups
 
 The National Cadet Corps (NCC) is a premier uniformed youth organisation supported by MOE and SAF. The aim of the NCC is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
 
-**Teachers in Charge:** Ms Teresina Margaret d/o Loola (I/C) and Ms Cheyenne Rebecca Chew Mun Yuen
+**Teachers in Charge:** Miss Teresina Loola (I/C) and Mr Tseng Jih Cheng
 
 **Organisational Structure:**
 
