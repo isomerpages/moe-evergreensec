@@ -66,3 +66,7 @@ Wednesday (B Division) and Friday (C Division), School Hall
 #### Watch Us on YouTube!
 * [Evg Badminton Trailer 2023](https://youtu.be/AQcVPfu9hC8)
 * [Evg Badminton with Mr Irwin](https://youtu.be/FxXNLFBCF-Q)
+
+#### Join our 2024 trial sessions!
+
+![Badminton Trials](/images/Badminton_Trial_Poster_2024.jpg)
