@@ -725,6 +725,7 @@ decision-making</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
+<p></p>
 </li>
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
