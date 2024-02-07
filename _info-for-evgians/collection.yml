@@ -2,7 +2,6 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - For Students/MOE Sexuality Education.md
       - For Students/.keep
       - For Students/Timetables.md
       - For Students/Uniform and Textbook Matters.md
@@ -10,6 +9,7 @@ collections:
       - For Students/Travel Declaration.md
       - For Students/Cyberwellness.md
       - For Students/Education and Career Guidance (ECG).md
+      - For Students/MOE Sexuality Education.md
       - For Students/CCA Schedule.md
       - For Students/Our School Newsletter.md
       - For Staff/Useful links for staff.md
