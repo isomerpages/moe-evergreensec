@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /our-staff/Key-Personnel/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
@@ -17,7 +18,7 @@ third_nav_title: Our Staff
 | Mr Zulkarnain Bin Sarion  | HOD - Mother Tongue Languages | zulkarnain_bin_sarion@schools.gov.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@schools.gov.sg |
 | Ms Loke Lay Fang | HOD - Science | loke_lay_fang@schools.gov.sg |
-| Ms Sharie Ong Minyu | Subject Head - CCA & School Health  | ong_minyu@schools.gov.sg |
+| Ms Low Hwee Noi | Subject Head - Chinese Language  | low_hwee_noi@schools.gov.sg |
 | Ms Sew Mek Len | Subject Head - Chinese Language | sew_mek_len@schools.gov.sg |
 | Ms Siti Mariam Binte Muhammad | Subject Head - History | siti_mariam_muhammad@schools.gov.sg |
 | Ms Chong Siew Sia | Level Head - Character & Citizenship Education (CCE) | chong_siew_sia@schools.gov.sg |
