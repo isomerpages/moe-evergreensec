@@ -2,6 +2,7 @@
 title: The School Advisory Committee
 permalink: /about-us/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 The School Advisory Committee (SAC) of Evergreen Secondary School provides critical support to the school in her efforts to deliver quality school experience to every student and develop each one holistically in line with the MOE desired outcomes of education.
 
@@ -12,7 +13,7 @@ As a key partner in guiding and growing the school to realise her mission and vi
 | Lydia Chan     |     Chairman    |
 |----------------|:---------------:|
 | Edward Wee     | Vice - Chairman |
-| Vincent Toh    |    Secretary    |
+| Bian Yu Wei    |    Secretary    |
 | Carina Chia    |      Member     |
 | Tony Ng        |      Member     |
 | Phua Heng Jone |      Member     |
