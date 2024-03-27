@@ -54,11 +54,7 @@ Types of benefits provided under MOE FAS (Secondary School):
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Standard Miscellaneous Fees</span></td>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Waived</span></td>
   </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">2nd-Tier Miscellaneous Fees</span></td>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">$10 payable by student (Deductible from student’s Edusave)</span></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Textbooks &amp; School Attire</span></td>
     <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">Free</span></td>
   </tr>
@@ -68,7 +64,7 @@ Types of benefits provided under MOE FAS (Secondary School):
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Meal Coupon</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">$7.00 per day</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">$7.60 per day</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">This will be activated only upon registration of EZ-Link card at general office</span></td>
   </tr>
 </tbody>
