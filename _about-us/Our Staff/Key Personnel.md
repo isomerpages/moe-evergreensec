@@ -30,4 +30,4 @@ variant: markdown
 | Mr Anantharaja Krishnan Samy | Assistant Year Head | anantharaja_krishnan_samy@schools.gov.sg |
 | Ms Joanna Lee Teck Miang | Assistant Year Head | lee_teck_miang@schools.gov.sg |
 | Mr Ratish Balakrishnan | Assistant Year Head | ratish_balakrishnan@schools.gov.sg |
-| Ms Lee Wei Leng | Assistant Year Head - 21 CC (Int) | lee_wei_leng@schools.gov.sg |
+| Ms Lee Wei Leng | Assistant Year Head - 21CC (Int) | lee_wei_leng@schools.gov.sg |
