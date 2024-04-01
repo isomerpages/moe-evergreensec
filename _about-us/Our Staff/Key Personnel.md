@@ -20,6 +20,7 @@ variant: markdown
 | Ms Loke Lay Fang | HOD - Science | loke_lay_fang@schools.gov.sg |
 | Ms Low Hwee Noi | Subject Head - Chinese Language  | low_hwee_noi@schools.gov.sg |
 | Ms Siti Mariam Binte Muhammad | Subject Head - History | siti_mariam_muhammad@schools.gov.sg |
+| Mr Wong Wei Tang | Subject Head - Student Management (Int) | wong_wei_tang@schools.gov.sg |
 | Ms Chong Siew Sia | Level Head - Character & Citizenship Education (CCE) | chong_siew_sia@schools.gov.sg |
 | Ms Yew Min'er Mindice| Level Head - Mathematics | yew_miner_mindice@schools.gov.sg |
 | Ms Chia Ai Li, Joan | Level Head - Science | chia_ai_li_joan@schools.gov.sg |
