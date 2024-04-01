@@ -16,4 +16,4 @@ variant: markdown
 | Mr Goh Poh Min | Senior Teacher - Mathematics | goh_poh_min@schools.gov.sg 
  Ms Tan Wah Sing | Senior Teacher - Mathematics | tan_wah_sing@schools.gov.sg |
 | Mr Samuel Soong Rui | Senior Teacher - Music | soong_rui_samuel@schools.gov.sg |
-| Ms Teng Wei Syan Priscilia | Senior Teacher - Science | teng_wei_syan@schools.gov.sg |
+| Ms Teng Wei Syan Priscilia | Senior Teacher - Chemistry | teng_wei_syan@schools.gov.sg |
