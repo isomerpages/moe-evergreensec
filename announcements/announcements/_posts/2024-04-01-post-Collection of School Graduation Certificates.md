@@ -13,5 +13,5 @@ for Sec 4E, 4NT and 5NA students are ready for collection from <strong>02 to 12 
 Please approach Mdm Jamila in the General Office for assistance.</p>
 <p>Please bring along your EZlink or NRIC as proof of identification when
 collecting your SGC. If your parents are collecting on your behalf, kindly
-ensure they bring along an authorization letter.</p>
+ensure that they bring along an authorization letter.</p>
 <p>Thank you.</p>
