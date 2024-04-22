@@ -54,4 +54,9 @@ programmes:</p>
 Samri <a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(hanna_maryam_samri@schools.gov.sg)</a>
 </p>
 <p>For further enquiries on other DSA matters, please email the following:
-DSA Coordinator : Mr Ratish Balakrishnan</p>
+DSA Coordinator : Mr Ratish Balakrishnan <a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(ratish_balakrishnan@schools.gov.sg)</a>
+</p>
+<p></p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
