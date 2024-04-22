@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /curriculum/alp/
 description: ""
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Evergreen Sec   ALP&amp; LLP Feature" src="https://www.youtube.com/embed/3m4p8dbNnzk" height="393" width="699"></iframe>
 
@@ -12,7 +13,7 @@ The school’s Applied Learning Programme (ALP) –&nbsp; Effective&nbsp; Commun
 
 ![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A1.jpg)
 
-In the present run, the English ALP is closely aligned with the English Language curriculum. The Secondary 1 Readers’ Theatre Programme focuses on the foundational skillsets of clarity and emotion in communication. The Secondary 2 Forum Theatre programme aims to develop students’ capacity for empathy as well as analytical and critical thinking, through the interactivity offered by Forum Theatre. Secondary 3 students undergo an intensive focus on effective presentation skills, honing their communication skills in order to speak persuasively, and with purpose. Authentic platforms to apply their skills are deliberately created in the students’ Service Learning Projects.
+In the present run, the English ALP is closely aligned with the English Language curriculum. The Secondary 1 Drama Programme focuses on the foundational skillsets of clarity in self-expression. The Secondary 2 Forum Theatre programme aims to develop students’ capacity for empathy as well as analytical and critical thinking, through the interactivity offered by Forum Theatre. Secondary 3 students undergo an intensive focus on effective presentation skills, honing their communication skills in order to speak persuasively, and with purpose. Authentic platforms to apply their skills are deliberately created in the students’ Service Learning Projects.
 
 ![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A2.png)
 
