@@ -42,21 +42,21 @@ programmes:</p>
 </p>
 <p>For further enquiries on specific talent areas, you may email the following
 :</p>
-<p>DSA (Sports): <a href="james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr James Ng</a>
+<p>DSA (Sports): Mr James Ng <a href="mailto:james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(james_ng_aik_gian@schools.gov.sg)</a>
 </p>
-<p>DSA (Leadership): Mr Anantharaja Krishnan Samy (mailto:<a href="Anantharaja_Krishnan_Samy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anantharaja_krishnan_samy@schools.gov.sg</a>)</p>
-<p>DSA (Chinese Language): Mdm Low Hwee Noi [<a href="low_hwee_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hwee_noi@schools.gov.sg</a>](mailto:
-<a href="low_hwee_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hwee_noi@schools.gov.sg</a>)</p>
-<p>DSA (Malay Language): Mr Zulkarnain bin Sarion [<a href="zulkarnain_bin_sarion@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnain_bin_sarion@schools.gov.sg</a>]
-(mailto: <a href="zulkarnain_bin_sarion@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnain_bin_sarion@schools.gov.sg</a> 
-<a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">g</a>)</p>
+<p>DSA (Leadership): Mr Anantharaja Krishnan Samy <a href="mailto:anantharaja_krishnan_samy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(anantharaja_krishnan_samy@schools.gov.sg)</a>
+</p>
+<p>DSA (Chinese Language): Mdm Low Hwee Noi <a href="mailto:low_hwee_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(low_hwee_noi@schools.gov.sg)</a>
+</p>
+<p>DSA (Malay Language): Mr Zulkarnain bin Sarion <a href="mailto:zulkarnain_bin_sarion@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(zulkarnain_bin_sarion@schools.gov.sg)</a>
+</p>
 <p>DSA (Debating and Public Speaking) &amp; (Journalism): Ms Hanna Maryam
 Samri [<a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hanna_maryam_samri@schools.gov.sg</a>]
 (mailto: <a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hanna_maryam_samri@schools.gov.sg</a>)</p>
 <p></p>
 <p>For further enquiries on other DSA matters, please email the following:
-DSA Coordinator : Mr Ratish Balakrishnan [<a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@schools.gov.sg</a>]
-(mailto: <a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@schools.gov.sg</a>)</p>
+DSA Coordinator : Mr Ratish Balakrishnan <a href="mailto:ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(ratish_balakrishnan@schools.gov.sg)</a>
+</p>
 <p></p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
