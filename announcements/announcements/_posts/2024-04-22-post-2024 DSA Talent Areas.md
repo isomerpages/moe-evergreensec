@@ -53,4 +53,5 @@ programmes:</p>
 <p>DSA (Debating and Public Speaking) &amp; (Journalism): Ms Hanna Maryam
 Samri <a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(hanna_maryam_samri@schools.gov.sg)</a>
 </p>
-<p>For further enquiries on other DSA matters, please email the following:</p>
+<p>For further enquiries on other DSA matters, please email the following:
+DSA Coordinator : Mr Ratish Balakrishnan</p>
