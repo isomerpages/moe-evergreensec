@@ -42,7 +42,8 @@ programmes:</p>
 </p>
 <p>For further enquiries on specific talent areas, you may email the following
 :</p>
-<p>DSA (Sports): Mr James Ng (<a rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a>)</p>
+<p>DSA (Sports): Mr James Ng <a href="james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(james_ng_aik_gian@schools.gov.sg)</a>
+</p>
 <p>DSA (Leadership): Mr Anantharaja Krishnan Samy (<a rel="noopener noreferrer nofollow" target="_blank">Anantharaja_Krishnan_Samy@schools.gov.sg</a>)</p>
 <p>DSA (Chinese Language): Mdm Low Hwee Noi (<a rel="noopener noreferrer nofollow" target="_blank">low_hwee_noi@schools.gov.sg</a>)</p>
 <p>DSA (Malay Language): Mr Zulkarnain bin Sarion (<a rel="noopener noreferrer nofollow" target="_blank">zulkarnain_bin_sarion@schools.gov.sg</a>)</p>
