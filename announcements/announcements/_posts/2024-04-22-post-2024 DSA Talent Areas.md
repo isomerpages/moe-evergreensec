@@ -53,9 +53,11 @@ programmes:</p>
 <p>DSA (Debating and Public Speaking) &amp; (Journalism): Ms Hanna Maryam
 Samri <a href="hanna_maryam_samri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(hanna_maryam_samri@schools.gov.sg)</a>
 </p>
+<p>[<a href="mailto:EVERGREEN\_SS@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">EVERGREEN\_SS@MOE.EDU.SG</a>](mailto:
+<a href="mailto:EVERGREEN_SS@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">EVERGREEN_SS@MOE.EDU.SG</a>)</p>
 <p>For further enquiries on other DSA matters, please email the following:
-DSA Coordinator : Mr Ratish Balakrishnan <a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(ratish_balakrishnan@schools.gov.sg)</a>
-</p>
+DSA Coordinator : Mr Ratish Balakrishnan [<a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@schools.gov.sg</a>](mailto:
+<a href="ratish_balakrishnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@schools.gov.sg</a>)</p>
 <p></p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
