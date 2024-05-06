@@ -16,8 +16,6 @@ by the Ministry of Education (MOE).</p>
 <li>
 <p><strong>Application for DSA-Sec 2024 is open from Tuesday 7<sup>th</sup>&nbsp;May, 11 a.m. to Monday 3<sup>rd</sup>&nbsp;June, 3 p.m.</strong>
 </p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>The application is free-of-charge.</p>
@@ -28,6 +26,8 @@ by the Ministry of Education (MOE).</p>
 </p>
 </li>
 </ul>
+</li>
+</ol>
 <ol start="2">
 <li>
 <p>Parents and students are encouraged to choose schools wisely based on
