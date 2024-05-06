@@ -158,13 +158,13 @@ is <u>not</u> a compulsory criteria.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To find out about the selection processes for each of the talent areas,
-click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\EVG-Selection-Process-Information.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Process</a>.</p>
+click <a href="/files/Direct School Admission/EVG_Selection_Process_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Process</a>.</p>
 </li>
 <li>
-<p>To find out the key dates and contact information, click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\DSA Admin Info 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Admin Info</a>.</p>
+<p>To find out the key dates and contact information, click <a href="/files/Direct School Admission/DSA_Admin_Info_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Admin Info</a>.</p>
 </li>
 <li>
-<p>For Frequently Asked Questions. click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\DSA Frequently Asked Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
+<p>For Frequently Asked Questions. click <a href="/files/Direct School Admission/DSA_Frequently_Asked_Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 </li>
 <li>
 <p>Due to high number of applicants, we will not be informing candidates
