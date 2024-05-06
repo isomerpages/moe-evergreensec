@@ -3,90 +3,184 @@ title: Direct School Admission DSA Sec
 permalink: /admission/dsa/
 description: ""
 third_nav_title: Admission
+variant: tiptap
 ---
-#### **(A) Introduction**
-
-The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced by the Ministry of Education in 2004, seeks to promote holistic education through recognizing a more diverse range of achievements and talents. All students interested in applying for a place to Evergreen Secondary School via DSA-Sec will need to do so via a centralised DSA-Sec Portal managed by the Ministry of Education (MOE).
-
-
-
-1.   **Application for DSA-Sec 2023 is open from 4th&nbsp;May to 31st&nbsp;May 2023.**
-* The application is free-of-charge.
-* Deadline for 2023 application is 3:00pm, 31 May 2023 (Wednesday).
-* **For more details and for application, please refer to the MOE website –** &nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
-
-
-
-2.   Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Year 1 - 4/5.
-
-3.   More details about Evergreen Secondary School’s DSA talent areas and selection criteria can be found below.
-
-4.   For further enquiries, you may contact our school at 63656392 (General Office) or via email at&nbsp;[evergreen\_ss@moe.edu.sg](mailto:evergreen_ss@moe.edu.sg?subject=Evergreen%20Secondary%20School)
-
-5.   **Click the link below to apply now for DSA to Evergreen Secondary:** [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
-6.   Click this link to view our School Prospectus         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:"IBM Plex Sans"; mso-font-alt:"IBM Plex Sans"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1610611985 1342185595 0 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} a:link, span.MsoHyperlink {mso-style-noshow:yes; mso-style-priority:99; color:#0563C1; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> [https://for.edu.sg/evgprospectus](https://for.edu.sg/evgprospectus)
-
-#### **(B) Talent Areas**
-
-6.   Evergreen Secondary School offers all Primary 6 students an opportunity to gain direct admission through the Direct School Admission \[DSA\] Exercise, which is tied to our school’s Applied Learning Programme \[ALP\] &amp; Learning for Life Programme \[LLP\]. We welcome student applicants who express a deep passion in communications and/ or sports, even if they are presently not in any related CCA.
-
-
-7.   Our school offers the following DSA talent areas and domains:
-
-**(a) Academic Domains under our Applied Learning Programme \[ALP\]**
-
-i. Debating and Public Speaking  
-ii. Journalism  
-iii. Language – Chinese Language  
-iv. Language – Malay Language
-
-**(b) Sports and Leadership Domains under our Learning for Life Programme \[LLP\]**
-
-i. Leadership (Boys &amp; Girls)^  
-ii. Badminton (Boys &amp; Girls)  
-iii. Cross Country (Boys &amp; Girls)  
-iv. Netball (Girls)  
-v. Rugby (Boys)  
-vi. Table Tennis (Boys &amp; Girls)  
-vii. Volleyball (Boys &amp; Girls)
-
-^ *NOTE: Successful Leadership applicants can join any CCA in Evergreen Sec.*
-
-8.   Successful applicants will be nurtured through our distinctive programmes to take on student leadership roles in school-wide programmes and in co-curricular activities. Some of these developmental programmes include communication skills and student leadership development programmes.
-
-9.   Click on these links to learn more about the above talent areas and their programmes:
-
-#### **[Applied Learning Programme (ALP)](https://www.evergreensec.moe.edu.sg/curriculum/alp/)**
-
-#### **[Learning for Life Programme (LLP)](https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/)**
-
-#### **(C) Selection Criteria**
-
-10.   The following criteria will be considered:
-* Passionate about leading change to help others
-* Demonstrate exemplary character through active participation in community work or volunteerism
-* Strengths in oral and digital communication, namely Debating, Public Speaking and Journalism in English Language and/or Mother Tongue Language
-* Demonstrate strengths for further development in sports and/or leadership
-* Demonstration of aptitude and potential during interview and DSA assessment process.
-
-11.   **We welcome student applicants who express a deep passion in leadership, communications and/or sports, even if they are presently not in any related CCA or school programme.**
-
-12.   Applicant’s experience in key leadership positions in Leadership Boards (e.g. Head or Deputy Head Prefect) or in CCAs would be considered, but are not a compulsory criteria.
-
-#### **(D) Selection Process**
-
-13.   To find out about the selection processes for each of the talent areas, click [Selection Process](/files/Direct%20School%20Admission/evg-selection-process-information.pdf). 
-14.   To find out the key dates and contact information, click [DSA Admin Info](/files/Direct%20School%20Admission/dsa%20admin%20info.pdf).
-15.   For Frequently Asked Questions. click [FAQ](/files/dsa%20frequently%20asked%20questions_v2.pdf)
-
-![](/images/School%20information/Direct%20School%20Admission/evg%20rugby.jpg)
-
-![](/images/School%20information/Direct%20School%20Admission/evg%20rainbow2.jpg)
-
-
-#### **(E) Apply Now &amp; Follow Us on Social Media**
-
-16.   Follow us on [Facebook](https://www.facebook.com/EvergreenSecondary/) and [Instagram](https://www.instagram.com/evergreen_secondary_official/) to find out more about our vibrant school community!
-
-![](/images/School%20information/Direct%20School%20Admission/evg%20road%20run.jpg) 
-#### **[Click here to apply for DSA-Sec to Evergreen!](https://www.moe.gov.sg/secondary/dsa)**
+<h4><strong>(A) Introduction</strong></h4>
+<p>The Direct School Admission - Secondary (DSA-Sec) Exercise, introduced
+by the Ministry of Education in 2004, seeks to promote holistic education
+through recognizing a more diverse range of achievements and talents. All
+students interested in applying for a place to Evergreen Secondary School
+via DSA-Sec will need to do so via a centralised DSA-Sec Portal managed
+by the Ministry of Education (MOE).</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Application for DSA-Sec 2024 is open from Tuesday 7<sup>th</sup>&nbsp;May, 11 a.m. to Monday 3<sup>rd</sup>&nbsp;June, 3 p.m.</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>The application is free-of-charge.</p>
+</li>
+<li>
+<p><strong>For more details and for application, please refer to the MOE website –</strong> &nbsp;
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+</li>
+</ul>
+<ol start="2">
+<li>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.
+<br>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from Year 1 - 4/5.</p>
+</li>
+<li>
+<p>More details about Evergreen Secondary School’s DSA talent areas and selection
+criteria can be found below.</p>
+</li>
+<li>
+<p>For further enquiries, you may contact our school at 63656392 (General
+Office) or via email at&nbsp;<a href="mailto:evergreen_ss@moe.edu.sg?subject=Evergreen%20Secondary%20School" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Click this link to view our School Prospectus <a href="https://www.evergreensec.moe.edu.sg/life-at-evg/prospectus/" rel="noopener noreferrer nofollow" target="_blank">https://www.evergreensec.moe.edu.sg/life-at-evg/prospectus/</a>
+</p>
+</li>
+<li>
+<p><strong>Click the link below to apply now for DSA to Evergreen Secondary:</strong> 
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+</li>
+</ol>
+<h4><strong>(B) Talent Areas</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Evergreen Secondary School offers all Primary 6 students an opportunity
+to gain direct admission through the Direct School Admission [DSA] Exercise,
+which is tied to our school’s Applied Learning Programme [ALP] &amp; Learning
+for Life Programme [LLP]. We welcome student applicants who express a deep
+passion in communications and/ or sports, even if they are presently not
+in any related CCA.</p>
+</li>
+<li>
+<p>Our school offers the following DSA talent areas and domains:
+<br><strong>(a) Talent Areas under our Applied Learning Programme [ALP]</strong>
+</p>
+<p>i. Debating and Public Speaking
+<br>ii. Journalism
+<br>iii. Language – Chinese Language
+<br>iv. Language – Malay Language</p>
+<p><strong>(b) Talent Areas under our Learning for Life Programme [LLP]</strong>
+</p>
+<p>i. Leadership (Boys &amp; Girls)
+<br>ii. Badminton (Boys &amp; Girls)
+<br>iii. Cross Country (Boys &amp; Girls)
+<br>iv. Netball (Girls)
+<br>v. Rugby (Boys)
+<br>vi. Table Tennis (Boys &amp; Girls)
+<br>vii. Volleyball (Boys &amp; Girls)</p>
+<p>Students who are offered in EVG via DSA Sports, Debating &amp; Public
+Speaking and Journalism are obliged to join the respective sports CCA and
+ELDDS if they choose our school.</p>
+<p>Students who are offered Leadership, Chinese Language and Malay Language
+applicants may join any CCA if they choose our school.</p>
+<p></p>
+</li>
+<li>
+<p>Successful applicants will be nurtured through our distinctive programmes
+to further develop their talents and character. They can participate in
+various competitions and workshops to hone their skills with enriching
+experiences. They will also have the opportunities to apply for student
+leadership roles within their CCA and also at wider school level.</p>
+</li>
+<li>
+<p>Click on these links to learn more about the above talent areas and their
+programmes:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.evergreensec.moe.edu.sg/curriculum/alp/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme (ALP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme [LLP]</a>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP LLP" src="/images/ALP_LLP.jpg">
+</div>
+<p></p>
+<h4><strong>(C) Selection Criteria</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>The following criteria will be considered:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Passionate about leading change to help others</p>
+</li>
+<li>
+<p>Demonstrate exemplary character through active participation in community
+work or volunteerism</p>
+</li>
+<li>
+<p>Strengths in oral and digital communication, namely Debating, Public Speaking
+and Journalism in English Language and/or Mother Tongue Language</p>
+</li>
+<li>
+<p>Demonstrate strengths for further development in sports and/or leadership</p>
+</li>
+<li>
+<p>Demonstration of aptitude and potential during interview and DSA assessment
+process.</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p><strong>We welcome student applicants who express a deep passion in leadership, communications and/or sports, even if they are presently not in any related CCA or school programme.</strong>
+</p>
+</li>
+<li>
+<p>Applicant’s experience in key leadership positions in Leadership Boards
+(e.g. Head or Deputy Head Prefect) or in CCAs would be considered, but
+is <u>not</u> a compulsory criteria.</p>
+</li>
+</ol>
+<h4><strong>(D) Selection Process</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To find out about the selection processes for each of the talent areas,
+click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\EVG-Selection-Process-Information.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Process</a>.</p>
+</li>
+<li>
+<p>To find out the key dates and contact information, click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\DSA Admin Info 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Admin Info</a>.</p>
+</li>
+<li>
+<p>For Frequently Asked Questions. click <a href="\\D3623SMOE01\Sharing\_EVERGREEN\ADMIN\DSA - 1\2024\DSA Frequently Asked Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
+</li>
+<li>
+<p>Due to high number of applicants, we will not be informing candidates
+who have not been shortlisted for interviews and/or trials.</p>
+</li>
+</ol>
+<h4><strong>(E) Apply Now &amp; Follow Us on Social Media</strong></h4>
+<ol start="16" data-tight="true" class="tight">
+<li>
+<p>Follow us on <a href="https://www.facebook.com/EvergreenSecondary/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/evergreen_secondary_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to find out more about our vibrant school community!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Application" src="/images/DSA_Application.jpg">
+</div>
+</li>
+</ol>
+<h4><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Click here to apply for DSA-Sec to Evergreen!</a></h4>
+<p></p>
