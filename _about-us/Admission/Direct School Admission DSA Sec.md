@@ -175,7 +175,7 @@ who have not been shortlisted for interviews and/or trials.</p>
 <ol start="16" data-tight="true" class="tight">
 <li>
 <p>Follow us on <a href="https://www.facebook.com/EvergreenSecondary/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
-<a href="https://www.instagram.com/evergreen_secondary_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to find out more about our vibrant school community!</p>
+<a href="https://www.facebook.com/EvergreenSecondary/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>and find out more about our vibrant school community!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DSA Application" src="/images/DSA_Application.jpg">
