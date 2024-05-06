@@ -12,9 +12,9 @@ sections:
       button: '"the place to be!"'
       url: /announcements/announcements/s1regdetails
       key_highlights:
-        - title: For Secondary 1 Registration (Academic Year 2024)
-          description: Click here more details
-          url: /announcements/announcements/s1regbrief
+        - title: DSA-Sec 2024 Applications
+          description: Click here for more details
+          url: https://www.evergreensec.moe.edu.sg/admission/dsa/
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
