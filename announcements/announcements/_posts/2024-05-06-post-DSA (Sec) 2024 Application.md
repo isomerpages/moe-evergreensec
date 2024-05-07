@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The DSA registration period is open from Tuesday 7th June, 11am to 3rd
+<p>The DSA registration period is open from Tuesday 7th May, 11am to 3rd
 June, 3pm.</p>
 <p>We invite Primary 6 students and their parents to apply for DSA 2024.</p>
 <p>We welcome student applicants who express a deep passion in leadership,
