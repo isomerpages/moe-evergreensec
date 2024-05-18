@@ -119,29 +119,4 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;"><table width="0">
 <tbody>
 <tr>
-<td width="624" colspan="2" style="text-align: center;"><strong>2021</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>Excellent Unit Award</strong></td>
-<td width="312">Gold</td>
-</tr>
-<tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid - Awareness Category</strong></td>
-<td width="312">Participation</td>
-</tr>
-<tr>
-<td width="312"><strong>Trailblazer Championship</strong></td>
-<td width="312">Participation</td>
-</tr>
-<tr>
-<td width="312"><strong>Ambassador Blood Donation Competition</strong></td>
-<td width="312">Bronze</td>
-</tr>
-<tr>
-<td width="312"><strong>Disaster Management Championship</strong></td>
-<td width="312">Gold</td>
-
-</tr></tbody></table>
+<td width="624" colspan="2" style="text-align: center;"></td></tr></tbody></table>
