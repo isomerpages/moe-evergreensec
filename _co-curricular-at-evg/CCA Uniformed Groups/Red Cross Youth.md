@@ -116,7 +116,6 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 <p><strong>Find out more: </strong><br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth <br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
 	
 	
-</p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;"><table width="0">
-<tbody>
-<tr>
-<td width="624" colspan="2" style="text-align: center;"></td></tr></tbody></table>
+</p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;">
+
+
