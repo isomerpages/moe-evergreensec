@@ -13,7 +13,7 @@ The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross a
 
 **Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling, Ms Carlyna Tambunan
 
-**Volunteer Instructors:** Mr Eric Lim (Overall I/C), Mr Koh Raxton, Miss Jasmine Soh
+**Volunteer Instructors:** Mr Eric Lim, Miss Jasmine Soh, Mr Raxton Koh
 
 **Organisational Structure:**
 
