@@ -28,9 +28,12 @@ Our primary goal is to nurture a closely-knit and cohesive CCA that fosters crea
 | VICE-PRESIDENT | GOH LE HANG                                             |
 | QUARTER MASTER (UPPER SEC)          | AHMAD ZAKI BIN RASHID                                    |
 | QUARTER MASTER (UPPER SEC)                | LEONG SANDERS LIANG WEI TAISHI                                     |
-| QUARTER MASTER (LOWER SEC         | CELESTE YIP TONG SYUN                                   |
-| QUARTER MASTER (LOWER SEC                           | WIN JAZTMINE SU YAMIN BUMANGLAG                    |
-| QUARTER MASTER (LOWER SEC                | AHMAD ZAKI BIN RASHID                                    |
+| QUARTER MASTER (UPPER SEC)                | LIM JIAN WEI                                     |
+| QUARTER MASTER (LOWER SEC         | AQILAH AN-NISAA BINTE AMRAN                                   |
+| QUARTER MASTER (LOWER SEC                           | YEONG XIN ROU                    |
+| QUARTER MASTER (LOWER SEC                | LOW YANG BEI                                    |
+| QUARTER MASTER (LOWER SEC                | LOW YANG BEI                                    |
+| QUARTER MASTER (LOWER SEC                | LOW YANG BEI                                    |
 
 **Life of a Guitar Ensemble Member**
 
