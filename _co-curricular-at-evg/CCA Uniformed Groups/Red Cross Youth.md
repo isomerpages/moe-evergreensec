@@ -3,6 +3,7 @@ title: Red Cross Youth
 permalink: /cca/ug/red-cross-youth/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Red Cross Youth (RCY)**
 
@@ -10,7 +11,7 @@ third_nav_title: CCA Uniformed Groups
 
 The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross and Red Crescent Movement. RCY operates in primary and secondary schools, post-secondary institutions, and communities, offering young volunteers a smooth transition into adulthood. The organization focuses on character-building, leadership, life-saving skills, blood donation, community service, and humanitarian projects. It aims to develop 21st-century competencies, character, and citizenship among youth.
 
-**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling
+**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling, Ms Carlyna Tambunan
 
 **Volunteer Instructors:** Mr Eric Lim (Overall I/C), Mr Koh Raxton, Miss Jasmine Soh
 
