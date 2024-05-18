@@ -22,10 +22,10 @@ The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross a
 | CHAIRPERSON | TEO YU HAN                                           |
 | VICE CHAIRPERSON (TRAINING) | CHEVELLE KHOO                                          |
 | VICE CHAIRPERSON (ADMIN) | JIANG XIN DI                                          |
-| LEVEL HEAD (SEC 1)         | ADEL CHIA EN XI &amp; HAO CHENXI                                    |
+| LEVEL HEAD (SEC 1)         | NUR FATHIN &amp; LOH YU QI &amp; NG YAO MIN                                     |
 | LEVEL HEAD (SEC 2)                | TING XIAN JIE &amp; HANNAH LIM YI XUAN                                     |
 | LEVEL HEAD (SEC 3)         | CHEW YEK LUM &amp; ONG YING XI                                   |
-| MEDIC IC                           | WU JINGYI                    |
+| MEDIA IC                           | WU JINGYI                    |
 | LOGISTICS IC                 | ZHANG JIAYANG &amp; CHUNG XIN YI                                    |
 | 
 
