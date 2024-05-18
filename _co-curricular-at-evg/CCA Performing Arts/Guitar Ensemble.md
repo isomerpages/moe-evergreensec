@@ -17,7 +17,7 @@ Our primary goal is to nurture a closely-knit and cohesive CCA that fosters crea
 
 ![](/images/g2%20syf%202023.jpeg)
 
-**Teacher in Charge:** Mr Vincent Chua (I/C), Ms Teng Wei Syan, Mr Travis Teo, Ms Lee Ai Hua
+**Teacher in Charge:** Mr Vincent Chua (I/C), Ms Rachna Arora, Ms Sakinah
 
 **Organisational Structure**:
 
