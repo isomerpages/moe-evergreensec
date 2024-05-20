@@ -3,6 +3,7 @@ title: Red Cross Youth
 permalink: /cca/ug/red-cross-youth/
 description: ""
 third_nav_title: CCA Uniformed Groups
+variant: markdown
 ---
 **Red Cross Youth (RCY)**
 
@@ -10,22 +11,22 @@ third_nav_title: CCA Uniformed Groups
 
 The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross and Red Crescent Movement. RCY operates in primary and secondary schools, post-secondary institutions, and communities, offering young volunteers a smooth transition into adulthood. The organization focuses on character-building, leadership, life-saving skills, blood donation, community service, and humanitarian projects. It aims to develop 21st-century competencies, character, and citizenship among youth.
 
-**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling
+**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling, Ms Carlyna Tambunan
 
-**Volunteer Instructors:** Mr Eric Lim (Overall I/C), Mr Koh Raxton, Miss Jasmine Soh
+**Volunteer Instructors:** Eric Lim, Jasmine Soh, Raxton Koh, Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang
 
 **Organisational Structure:**
 
 | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | BEH GISELLE                                           |
-| VICE CHAIRPERSON (TRAINING) | LIM PEI SI, VICKY                                          |
-| VICE CHAIRPERSON (ADMIN) | HOH YI XUAN                                          |
-| LEVEL HEAD (SEC 1)         | ADEL CHIA EN XI &amp; HAO CHENXI                                    |
-| LEVEL HEAD (SEC 2)                | TING XIAN JIE &amp; HANNAH LIM YI XUAN                                     |
-| LEVEL HEAD (SEC 3)         | CHEW YEK LUM &amp; ONG YING XI                                   |
-| MEDIC IC                           | WU JINGYI                    |
-| LOGISTICS IC                 | ZHANG JIAYANG &amp; CHUNG XIN YI                                    |
+| CHAIRPERSON | TEO YU HAN                                           |
+| VICE CHAIRPERSON (TRAINING) | CHEVELLE KHOO                                          |
+| VICE CHAIRPERSON (ADMIN) | JIANG XIN DI                                          |
+| LEVEL HEAD (SEC 1)         | NUR FATHIN &amp; LOH YU QI &amp; NG YAO MIN                                     |
+| LEVEL HEAD (SEC 2)                | BRIAN LOW &amp; WONG YU TONG                                     |
+| LEVEL HEAD (SEC 3)         | THESVIN UTHIRASWAN &amp; KEERTNA ANNATHASON                                   |
+| MEDIA IC                           | KEERTNA ANNATHASON &amp; THEONE SOH                    |
+| LOGISTICS IC                 | WONG YU TONG &amp; FALISYAH AULYA                                    |
 | 
 
 
@@ -112,69 +113,9 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table width="0">
-<tbody>
-<tr>
-<td width="624" colspan="2" style="text-align: center;"><strong>2021</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>Excellent Unit Award</strong></td>
-<td width="312">Gold</td>
-</tr>
-<tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid - Awareness Category</strong></td>
-<td width="312">Participation</td>
-</tr>
-<tr>
-<td width="312"><strong>Trailblazer Championship</strong></td>
-<td width="312">Participation</td>
-</tr>
-<tr>
-<td width="312"><strong>Ambassador Blood Donation Competition</strong></td>
-<td width="312">Bronze</td>
-</tr>
-<tr>
-<td width="312"><strong>Disaster Management Championship</strong></td>
-<td width="312">Gold</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table width="0">
-<tbody>
-<tr>
-<td width="624" colspan="2" style="text-align: center;"><strong>2020</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>Excellent Unit Award</strong></td>
-<td width="312">Gold</td>
-</tr>
-<tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid - Awareness Category</strong></td>
-<td width="312">Bronze</td>
-</tr>
-<tr>
-<td width="312"><strong>Trailblazer Championship</strong></td>
-<td width="312">Finalist</td>
-</tr>
-<tr>
-<td width="312"><strong>Ambassador Blood Donation Competition</strong></td>
-<td width="312">Certificate of Participation with grade ‘Good’</td>
-</tr>
-<tr>
-<td width="312"><strong>Disaster Management Championship</strong></td>
-<td width="312">Finalist / Bronze</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Find out more: </strong><br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth <br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
 	
 	
-</p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p>
-<img src="/images/redcross5.jpg" style="width: 80%;">
+</p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;">
+
+

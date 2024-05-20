@@ -17,20 +17,23 @@ Our primary goal is to nurture a closely-knit and cohesive CCA that fosters crea
 
 ![](/images/g2%20syf%202023.jpeg)
 
-**Teacher in Charge:** Mr Vincent Chua (I/C), Ms Teng Wei Syan, Mr Travis Teo, Ms Lee Ai Hua
+**Teacher in Charge:** Mr Vincent Chua (I/C), Ms Rachna Arora, Ms Sakinah
 
 **Organisational Structure**:
 
 | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| PRESIDENT | ANNE KATELYN DE VERA BILBAO                                           |
-| VICE-PRESIDENT | CHRIS LEE THA KU                                          |
-| VICE-PRESIDENT | JOSH MATTHEW DEVADASS                                             |
-| QUARTER MASTER (UPPER SEC)          | LIM KE XUAN                                    |
-| QUARTER MASTER (UPPER SEC)                | POH KAI TING, SHANNON                                     |
-| QUARTER MASTER (LOWER SEC         | CELESTE YIP TONG SYUN                                   |
-| QUARTER MASTER (LOWER SEC                           | WIN JAZTMINE SU YAMIN BUMANGLAG                    |
-| QUARTER MASTER (LOWER SEC                | AHMAD ZAKI BIN RASHID                                    |
+| PRESIDENT | CELESTE YIP TONG SYUN                                           |
+| VICE-PRESIDENT | WIN JAZTMINE SU YAMIN BUMANGLAG                                          |
+| VICE-PRESIDENT | GOH LE HANG                                             |
+| QUARTER MASTER (UPPER SEC)          | AHMAD ZAKI BIN RASHID                                    |
+| QUARTER MASTER (UPPER SEC)                | LEONG SANDERS LIANG WEI TAISHI                                     |
+| QUARTER MASTER (UPPER SEC)                | LIM JIAN WEI                                     |
+| QUARTER MASTER (LOWER SEC)         | AQILAH AN-NISAA BINTE AMRAN                                   |
+| QUARTER MASTER (LOWER SEC)                           | YEONG XIN ROU                    |
+| QUARTER MASTER (LOWER SEC)                | LOW YANG BEI                                    |
+| QUARTER MASTER (LOWER SEC)                | CHLOE THOO KAI QING                                    |
+| QUARTER MASTER (LOWER SEC)                | LIU JIA'EN CHLOE                                    |
 
 **Life of a Guitar Ensemble Member**
 
