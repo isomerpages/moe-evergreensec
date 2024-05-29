@@ -11,7 +11,7 @@ variant: markdown
 
 NCDCC’s curriculum focuses mainly on Triangle of Life Skills which include basic firefighting, first aid and CPR+AED. These are important lifesaving skills that can make a difference to save a life in times of needs.
 
-**Teacher in Charge:** Ms Sangeetha Natarajan, Mr Nelson Lam, Ms Nur Syairah Binte Abdul Malek, Ms Chew Si Hui
+**Teacher in Charge:** Ms Sangeetha Natarajan, Mr Nelson Lam, Ms Chew Si Hui
 
 ![](/images/ncdcc_2%20-%20nelson%20l.JPG)
 
