@@ -27,16 +27,12 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
  
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | TEO HONG YAN                                           |
-| VICE-CHAIRPERSONS | CHAI MING JIE & LIM HUAN YU                                          |
-| QUARTER MASTERS | GOH WAN RU (COORDINATOR) & JASPER WONG & PHANG HUI XIN                                            |
-| DISCIPLINE MISTRESS/ MASTER          | LIM HUAN YU & MARKUS CHENG                                    |
-| TALENT SCOUT                | LING YU EN                                     |
-| STUDENT CONDUCTOR         | HO XIN YUN                                   |
-| RECREATIONAL MANAGERS                           | THAN YI TING & CAYLIE WEE                    |
-| LOGISTICS MANAGERS                | PHYLISS ANG (COORDINATOR) & GUO SITING & ELIZABETH PHYO & LIM JUN ZE                                    |
-| SECTION LEADERS                   | JASPER WONG & PHYLISS ANG & SHEN XUNZHAO & HO XIN YUN & CHLOE CHAI & ZANN YOON & CHEN SI JIN                                 |
-ASST SECTION LEADERS         | TEY QIAO YUAN & NOOR SAFIRA BINTE MOHD RASHID & JACQUELYN LEE & WONG YU TONG & THOR EE QUAN & LIM KAI XUAN ISABEL & EU ZI TING & CHUA RUI EN & LIM JUN ZE                               |
+| CHAIRPERSON | JACQUELYN LEE                                           |
+| VICE-CHAIRPERSONS | THOR EE QUAN & SHARON LING YAO                                          |
+| QUARTER MASTERS | WONG YU TONG (COORDINATOR) & LIM JUN ZE & WANG ZIXUAN                                            |
+| DISCIPLINE MISTRESS/ MASTER          | ADILAH BINTE JEFFRIDIN & PEK ZI YING NICOLE                                    |
+| TALENT SCOUT                | CLARIEL LEE YAN NIU                                    |
+| STUDENT CONDUCTOR         | YAO HANCHEN BRAYAN                                   |
 
 **Life of an EVG Chinese Orchestra Member**
 
