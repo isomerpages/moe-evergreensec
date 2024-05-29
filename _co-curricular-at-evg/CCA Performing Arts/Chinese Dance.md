@@ -21,15 +21,11 @@ The Chinese Dance, founded in 2001, was one of the pioneering performing arts in
 
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | JOLLY WOO SHENG JIE                                           |
-| VICE-CHAIRPERSON | WANG JIAYUAN                                          |
-| RECRUITMENT IC | CHOONG JIA QI                                            |
-| WELFARE IC          | LECK YUE SHI, VINNA LUC VIET THO                                    |
-| WELFARE IC                | HO KAI EN                                     |
-| LOGISTICS IC         | HIM SI EN                                   |
-| LOGISTICS IC                           | FENG AOWEN                    |
-| PUBLICITY IC                | LIM TZE SUEN (LIN ZIXUAN)                                    |
-| DISCIPLINE IC                   | LI MINGXUAN                                 |
+| CHAIRPERSON | MAZEL CHONG KAI JIE                                           |
+| VICE-CHAIRPERSON | XIAO ZICEN                                          |
+| RECRUITMENT IC | ONG QING RU                                            |
+| LOGISTICS IC         | LIM SI YU                                   |
+
 
 **Life of an EVG Chinese Dance Member**
 
