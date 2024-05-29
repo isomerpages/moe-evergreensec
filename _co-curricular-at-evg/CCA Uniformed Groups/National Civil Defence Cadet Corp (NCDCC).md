@@ -19,9 +19,9 @@ NCDCC’s curriculum focuses mainly on Triangle of Life Skills which include bas
 
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| UNIT SERGEANT MAJOR (USM) | NUR NELLY NAOMI BINTE SHAH IRWAN                                           |
-| ASSISTANT SERGEANT MAJOR (ASM) | MAXIMILLIAN HO ZHEN YI                                          |
-| REGIMENTAL SERGEANT MAJOR (RSM) | TOH MING XUAN                                            |
+| UNIT SERGEANT MAJOR (USM) | ANEEQ MARITH BIN MUNAWAR                                           |
+| ASSISTANT SERGEANT MAJOR (ASM) | MUHAMMAD NASRIN BIN MUHAMMAD ADI                                          |
+| REGIMENTAL SERGEANT MAJOR (RSM) | FASYAH QIARA BINTE SHAHRIL                                            |
 
 **Life of a NPCC Member**
 

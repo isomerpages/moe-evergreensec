@@ -25,10 +25,10 @@ The EVG Gamelan Ensemble has been invited to perform within school and in the co
 
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | SITI NUR SARAH BINTE MOHAMED NOR                                           |
-| VICE-CHAIRPERSON | NADHRAH SHAISTA BINTE SOFIAN                                          |
-| COMMITTEE MEMBER | BILQIS AZZAHRA BINTI AZUWAN                                            |
-| COMMITTEE MEMBER          | NURUL AMALINA A'TIQAH BINTI ABDUL RAHIM                                    |
+| CHAIRPERSON | NUR REZEKI BINTE ISMAIL                                           |
+| VICE-CHAIRPERSON | NAMLEEN KAUR MANN                                          |
+| COMMITTEE MEMBER | NUR ISABELLE MARSHYA BINTE MOHAMAD ZULL                                            |
+| COMMITTEE MEMBER          | NURUL HIQMA BINTE MUHAMMAD RIDHUAN                                    |
 
 **Life of a Gamelan Ensemble Member**
 

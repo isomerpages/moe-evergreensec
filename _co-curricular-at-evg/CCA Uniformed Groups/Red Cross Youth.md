@@ -41,16 +41,50 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 
 <p><strong>Awards and Achievements</strong></p>
 
+![](/images/Beh_Giselle.jpg)
 
-![RCY Directors Award](/images/rcy_3_award.jpg)
-	
+
 <table width="0">
+<tbody>
+<tr><td width="624" colspan="2" style="text-align: center;"><strong>2024</strong></td>
+</tr>
+
+	
+	
+<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
+<td width="312">Beh Giselle</td>
+</tr>
+<tr>
+<td width="624" colspan="2"><strong>Competitions</strong></td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid Competition (Junior) 2024</strong></td>
+<td width="312">Gold Award<br>(Team Leader: Er Jun Da)</td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid Competition (Senior) 2024</strong></td>
+<td width="312">Bronze Award<br>(Team Leader: Chevelle Khoo)</td>
+</tr>
+
+
+</tbody></table>
+<p>&nbsp;</p>
+<table width="0">
+<tbody>
+<tr>
+
+</tr></tbody></table><table width="0">
 <tbody>
 <tr><td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
 <tr>
+
+<td width="312"><strong>Excellent Unit Award <br></strong></td>
+<td width="312">Silver</td>
+</tr>	
 	
-<td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
+	
+<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
 <td width="312">Leong Yu Heng Evan</td>
 </tr>
 <tr>
@@ -58,11 +92,11 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </tr>
 <tr>
 <td width="312"><strong>First Aid Competition (Junior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
+<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
 </tr>
 <tr>
 <td width="312"><strong>First Aid Competition (Senior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
+<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
 </tr>
 <tr>
 <td width="312"><strong>Disaster Risk Reduction Competition 2023<br></strong><strong>(Team)</strong></td>
@@ -72,10 +106,8 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 <td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
 <td width="312">Silver Award<br>(Ong Ying Xi)</td>
 </tr>
-<tr>
 
-</tr></tbody>
-</table>
+</tbody></table>
 <p>&nbsp;</p>
 <table width="0">
 <tbody>
@@ -113,9 +145,9 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+
 <p><strong>Find out more: </strong><br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth <br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
 	
 	
 </p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;">
-
-
