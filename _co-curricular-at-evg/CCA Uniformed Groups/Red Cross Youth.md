@@ -49,8 +49,13 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 <tr><td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
 <tr>
+
+<td width="312"><strong>Excellent Unit Award <br></strong></td>
+<td width="312">Silver</td>
+</tr>	
 	
-<td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
+	
+<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
 <td width="312">Leong Yu Heng Evan</td>
 </tr>
 <tr>
@@ -58,11 +63,11 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </tr>
 <tr>
 <td width="312"><strong>First Aid Competition (Junior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
+<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
 </tr>
 <tr>
 <td width="312"><strong>First Aid Competition (Senior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
+<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
 </tr>
 <tr>
 <td width="312"><strong>Disaster Risk Reduction Competition 2023<br></strong><strong>(Team)</strong></td>
@@ -117,5 +122,3 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 	
 	
 </p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;">
-
-
