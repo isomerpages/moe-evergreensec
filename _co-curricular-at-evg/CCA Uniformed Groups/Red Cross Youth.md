@@ -101,10 +101,8 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 <td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
 <td width="312">Silver Award<br>(Ong Ying Xi)</td>
 </tr>
-<tr>
 
-</tr></tbody>
-</table>
+</tbody></table>
 <p>&nbsp;</p>
 <table width="0">
 <tbody>
@@ -142,6 +140,8 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+
 <p><strong>Find out more: </strong><br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth <br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
 	
 	
