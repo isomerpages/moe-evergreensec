@@ -43,8 +43,32 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 
 
 ![RCY Directors Award](/images/rcy_3_award.jpg)
-	
+
 <table width="0">
+<tbody>
+<tr><td width="624" colspan="2" style="text-align: center;"><strong>2024</strong></td>
+</tr>
+
+	
+	
+<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
+<td width="312">Beh Giselle</td>
+</tr>
+<tr>
+<td width="624" colspan="2"><strong>Competitions</strong></td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid Competition (Junior) 2024</strong></td>
+<td width="312">Gold Award<br>(Team Leader: Er Jun Da)</td>
+</tr>
+<tr>
+<td width="312"><strong>First Aid Competition (Senior) 2024</strong></td>
+<td width="312">Bronze Award<br>(Team Leader: Chevelle Khoo)</td>
+</tr>
+
+
+
+</tbody></table><table width="0">
 <tbody>
 <tr><td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
 </tr>
