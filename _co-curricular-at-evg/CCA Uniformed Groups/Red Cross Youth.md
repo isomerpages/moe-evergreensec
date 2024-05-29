@@ -41,8 +41,8 @@ As RCY members, cadets learn and practice leadership, disaster management, lifes
 
 <p><strong>Awards and Achievements</strong></p>
 
+![](/images/Beh_Giselle.jpg)
 
-![RCY Directors Award](/images/rcy_3_award.jpg)
 
 <table width="0">
 <tbody>
