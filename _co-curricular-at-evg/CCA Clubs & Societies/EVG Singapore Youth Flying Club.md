@@ -23,8 +23,8 @@ individuals). Currently, we are one of the 17 secondary schools participating
 in the SYFC CCA programmes and an Open Unit for students from other secondary
 schools who are keen to learn more on aviation (CCA conducted on Saturday
 mornings in SYFC).</p>
-<p><strong>Teachers-in-charge:</strong>
-<br>Ms Ngo Wei Min Jasmine, Mr Ho Kok Wah, Ms Sharie Ong Minyu</p>
+<p><strong>Teachers-in-charge:</strong> 
+<br>Ms Nabila, Mr Ho Kok Wah, Ms Cheyenne</p>
 <p><strong>Organisational Structure:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -225,7 +225,7 @@ EVGYFC members)</p>
 <img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc%2007.jpeg">
 </div>
 <p><strong>Find out more: </strong>
-<br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/evgyfc/home?authuser=0</a>
+<br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/evgyfc/home?authuser=0</a> 
 <br>SYFC website link
 <br><a href="https://www.syfc.sg/cca/cca-activities/" rel="noopener noreferrer nofollow" target="_blank">https://www.syfc.sg/cca/cca-activities/</a>
 </p>
