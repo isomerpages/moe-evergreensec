@@ -3,70 +3,333 @@ title: National Cadet Corps (NCC Land)
 permalink: /cca/ug/ncc/
 description: ""
 third_nav_title: CCA Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-**National Cadet Corps (Land)**
-
-![NCC unit](/images/ncc%2001%20-%20unit%20photo.jpg)
-
-The National Cadet Corps (NCC) is a premier uniformed youth organisation supported by MOE and SAF. The aim of the NCC is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
-
-**Teachers in Charge:** Miss Teresina Loola (I/C) and Mr Tseng Jih Cheng
-
-**Organisational Structure:**
-
-| Leadership Role | Student                                  |
-|---------------------------------|-------------------------------------------------------|
-| UNIT SERGEANT MAJOR (USM) | CLARENCE CHOO                                           |
-| ASSISTANT SERGEANT MAJOR (ASM) | OU JIAN YI                                          |
-| SEC 1 IC | GAVIN LOW                                          |
-| SEC 1 2IC         | DANISH AQIL                                    |
-| SEC 2 IC                | TEE WEI TECK                                     |
-| SEC 2 2IC         | MD FADZULI &amp; MICKEANNU CHEN                                   |
-| SEC 3 IC                           | OU JIAN YI                    |
-| PHYSICAL TRAINING IC                 | XIE NAIER                                    |
-| LOGISTICS                    | MD IRFAN,<br>N SHAVIN GURU,<br>DANISH IRHAM,<br>NAWFAL SYAZWAN &amp;<br>SHAHIR KHAN                                |
-
-
-![NCC RSAF Day](/images/ncc%2008.jpg)
-
-Cadets are introduced to an array of activities related to the ‘Cadet Strong’ framework, where all NCC cadets are ‘Cadet Strong’ -with a resilient mind, fit body and committed heart. We hope to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
-
-![NCC Discuss](/images/ncc%2006.jpg)
-
-
-**Student Development Programmes**
-
- NCC aims to provide a diverse range of challenging and enriching activities. It is guided by 3 key thrusts – Leadership, Fitness and Commitment to Singapore. Various activities are planned for the cadets based on these 3 thrusts.
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="198"><col width="403"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Activities / Events / Courses&nbsp;</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 1&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(Junior Cadets)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Camp FORGE&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">VIA Activities&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rock Climbing&nbsp;&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Orientation Camp</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Affirmation Ceremony&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Captains’ Ball Competition&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Freestyle Drill Competition&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">National Education Outings</span></p></li></ul><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 2&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(Senior Cadets)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Kayaking&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Camp STEEL&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">VIA Activities&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Frisbee Competition&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Orienteering Competition</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Freestyle Drill Competition&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Freestyle Drill Instructor Course&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">National Education Outings</span></p></li></ul><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 3</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;(Cadet Leaders)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Specialist Course</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Leadership Camp</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">VIA Activities&nbsp;&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Soccer Competition&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cadet Leaders Course</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Senior Specialist Course</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Freestyle Drill Competition</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">National Education Outings</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 1 CCA Open House&nbsp;</span></p></li></ul><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 4&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(Senior Cadet Leaders)</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Freestyle Drill Competition</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 1 CCA Open House (organise)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 1 Orientation Camp (organise)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:'Noto Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Calibri,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Secondary 3 Leadership Camp (organise)</span></p></li></ul><br></td></tr></tbody></table>
-
- ![NCC Flag](/images/ncc%2004.jpg) 
-
-**Awards/ Achievements**
-
-2021
-
-*   Unit Recognition Award (Accomplishment)
-    
-*   Guard of Honour Contingent - National Day Parade @ Kampung Admiralty
-    
-
-2022
-
-*   Unit Recognition Award (Distinction)
-    
-*   NCC Sports and Games Championships<br>Sec 2 Frisbee (Central District) - 2nd place
-*   Guard of Honour Contingent - National Day Parade @ Kampung Admiralty
-
-![NCC Sports Competition](/images/ncc%2005%20sports%20competition.jpg)
-
-2023&nbsp; &nbsp;
-
-*   Freestyle Drill Competition - Top 10 placing
-*   Guard of Honour Contingent - National Day Parade @ Kampung Admiralty
-*   NCC Contingent - National Day Parade @ Padang
-*   NCC Sports and Games Championship<br>Sec 1 Captain's Ball (Cluster) - 3rd place<br>Sec 2 Frisbee (Cluster) - 3rd place<br>Sec 3 Soccer (Cluster) - 3rd place
-
-
-![NCC Unit](/images/ncc%20family.JPG)
+<p><strong>National Cadet Corps (Land)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC unit" src="/images/ncc%2001%20-%20unit%20photo.jpg">
+</div>
+<p>The National Cadet Corps (NCC) is a premier uniformed youth organisation
+supported by MOE and SAF. The aim of the NCC is to develop resourceful,
+responsible, resilient, loyal leaders and team players through fun and
+challenging military-related activities.</p>
+<p><strong>Teachers in Charge:</strong> Miss Teresina Loola (I/C) and Mr Tseng
+Jih Cheng</p>
+<p><strong>Organisational Structure:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Leadership Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UNIT SERGEANT MAJOR (USM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD RIZQ BIN ABDUR RAUF</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASSISTANT SERGEANT MAJOR (ASM) / PUBLICITY IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN TAM CHENG YUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEC 1 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN LENG JO YOU (LIAN ZUYAO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEC 1 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RATHOD SOUMIL HEMANT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEC 2 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG JUN ZHE LUKUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEC 3 IC / PUBLICITY IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG QI FAN JAYDEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHYSICAL TRAINING IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ARUMI AQIL BIN MOHAMED IMRAN
+<br>AHMAD AKID AMALI BIN ABDULLAH
+<br>SIM CHONG JIN, NATHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOGISTICS / SEC 2 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ERLEND BIN BUDI IRAMA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOGISTICS / SEC 1 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ZUHAIRI IBNU ZULKIFLE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC RSAF Day" src="/images/ncc%2008.jpg">
+</div>
+<p>Cadets are introduced to an array of activities related to the ‘Cadet
+Strong’ framework, where all NCC cadets are ‘Cadet Strong’ -with a resilient
+mind, fit body and committed heart. We hope to develop resourceful, responsible,
+resilient, loyal leaders and team players through fun and challenging military-related
+activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC Discuss" src="/images/ncc%2006.jpg">
+</div>
+<p><strong>Student Development Programmes</strong>
+</p>
+<p>NCC aims to provide a diverse range of challenging and enriching activities.
+It is guided by 3 key thrusts – Leadership, Fitness and Commitment to Singapore.
+Various activities are planned for the cadets based on these 3 thrusts.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activities / Events / Courses&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1&nbsp;</p>
+<p>(Junior Cadets)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Camp FORGE&nbsp;</p>
+</li>
+<li>
+<p>VIA Activities&nbsp;</p>
+</li>
+<li>
+<p>Rock Climbing&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Orientation Camp</p>
+</li>
+<li>
+<p>Affirmation Ceremony&nbsp;</p>
+</li>
+<li>
+<p>Captains’ Ball Competition&nbsp;</p>
+</li>
+<li>
+<p>Freestyle Drill Competition&nbsp;</p>
+</li>
+<li>
+<p>National Education Outings</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2&nbsp;</p>
+<p>(Senior Cadets)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Kayaking&nbsp;</p>
+</li>
+<li>
+<p>Camp STEEL&nbsp;</p>
+</li>
+<li>
+<p>VIA Activities&nbsp;</p>
+</li>
+<li>
+<p>Frisbee Competition&nbsp;</p>
+</li>
+<li>
+<p>Orienteering Competition</p>
+</li>
+<li>
+<p>Freestyle Drill Competition&nbsp;</p>
+</li>
+<li>
+<p>Freestyle Drill Instructor Course&nbsp;</p>
+</li>
+<li>
+<p>National Education Outings</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+<p>&nbsp;(Cadet Leaders)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Specialist Course</p>
+</li>
+<li>
+<p>Leadership Camp</p>
+</li>
+<li>
+<p>VIA Activities&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Soccer Competition&nbsp;</p>
+</li>
+<li>
+<p>Cadet Leaders Course</p>
+</li>
+<li>
+<p>Senior Specialist Course</p>
+</li>
+<li>
+<p>Freestyle Drill Competition</p>
+</li>
+<li>
+<p>National Education Outings</p>
+</li>
+<li>
+<p>Secondary 1 CCA Open House&nbsp;</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4&nbsp;</p>
+<p>(Senior Cadet Leaders)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Freestyle Drill Competition</p>
+</li>
+<li>
+<p>Secondary 1 CCA Open House (organise)</p>
+</li>
+<li>
+<p>Secondary 1 Orientation Camp (organise)</p>
+</li>
+<li>
+<p>Secondary 3 Leadership Camp (organise)</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC Flag" src="/images/ncc%2004.jpg">
+</div>
+<p><strong>Awards/ Achievements</strong>
+</p>
+<p>2021</p>
+<ul>
+<li>
+<p>Unit Recognition Award (Accomplishment)</p>
+</li>
+<li>
+<p>Guard of Honour Contingent - National Day Parade @ Kampung Admiralty</p>
+</li>
+</ul>
+<p>2022</p>
+<ul>
+<li>
+<p>Unit Recognition Award (Distinction)</p>
+</li>
+<li>
+<p>NCC Sports and Games Championships
+<br>Sec 2 Frisbee (Central District) - 2nd place</p>
+</li>
+<li>
+<p>Guard of Honour Contingent - National Day Parade @ Kampung Admiralty</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC Sports Competition" src="/images/ncc%2005%20sports%20competition.jpg">
+</div>
+<p>2023&nbsp; &nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Freestyle Drill Competition - Top 10 placing</p>
+</li>
+<li>
+<p>Guard of Honour Contingent - National Day Parade @ Kampung Admiralty</p>
+</li>
+<li>
+<p>NCC Contingent - National Day Parade @ Padang</p>
+</li>
+<li>
+<p>NCC Sports and Games Championship
+<br>Sec 1 Captain's Ball (Cluster) - 3rd place
+<br>Sec 2 Frisbee (Cluster) - 3rd place
+<br>Sec 3 Soccer (Cluster) - 3rd place</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC Unit" src="/images/ncc%20family.JPG">
+</div>
+<p></p>
