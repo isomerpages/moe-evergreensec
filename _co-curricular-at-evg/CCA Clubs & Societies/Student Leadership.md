@@ -13,9 +13,9 @@ variant: tiptap
 <p><strong>Teachers in Charge:</strong> 
 <br>Mr Anantharaja Krishnan Samy
 <br>(Subject Head of Student Leadership)
-<br><strong>Prefectorial Board:</strong>
+<br><strong>Prefectorial Board:</strong> 
 <br>Ms Yin Xiaohui (OIC), Ms Cassandra Foo
-<br><strong>CCA EXCO:</strong>
+<br><strong>CCA EXCO:</strong> 
 <br>Mr Nelson Lam (OIC), Ms Teresina Loola, Mdm Ratna</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership - Logo" src="/images/stl%20-%20logo%20combine.png">
