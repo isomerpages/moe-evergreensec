@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>There are new changes to the timetable and venues.</p>
+<p>Please access 2024 Semester 2 timetable for the respective classes here
+:</p>
+<p><a href="/files/Timetable_2024_Sem2_ver3h2_Classes_only.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable</a>
+</p>
+<p></p>
