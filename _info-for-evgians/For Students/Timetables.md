@@ -11,3 +11,4 @@ Please access Semester 1 timetable for the respective classes here :
 
 [2024 Sem 1 Timetable](/files/2024_Sem1_Timetable_Classes_ver3e_updated.pdf)
 
+[2024 Sem 2 Timetable](/files/Timetable_2024_Sem2_ver3h2_Classes_only.pdf)
