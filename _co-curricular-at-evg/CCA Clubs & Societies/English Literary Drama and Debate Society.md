@@ -117,6 +117,34 @@ towards literary and cultural excellence.</p>
 </table>
 <h1><strong>Awards and Achievements</strong></h1>
 <h1></h1>
+<p><strong>2024 Achievements</strong>
+</p>
+<p>In February, the school debate team participated in the annual national
+debate tournament, Singapore Secondary Schools Debating Championships (Division
+III). At the end of the preliminary rounds, the team was ranked at 11<sup>th</sup> position
+out of 26 schools on the Preliminary Rounds League Table.</p>
+<p>Notable Personal Achievements for the debaters:
+<br>Best Speaker for 1st round - Jayne Kuan 3 Commitment
+<br>Best Speaker for 2nd round - Gracelyn Ong 4 Respect
+<br>Best Speaker for 3rd round - Gracelyn Ong 4 Respect</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELDDS2024" src="/images/ELDDS_2024.png">
+</div>
+<p>In March, four Vibes writers took part in the annual Unity Writer’s Festival.
+One of our writers, Eriffah Ardilla bte Norman (4 Respect) emerged 3rd
+place in the Poetry Section.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELDDS2024" src="/images/ELDDS_2024_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ELDDS2024" src="/images/ELDDS_2024_3.png">
+</div>
+<p>
+<br>
+</p>
 <p><strong>2023 Achievements</strong>
 </p>
 <p>Our debate team showed their true mettle in the Dunman High Debate Open
