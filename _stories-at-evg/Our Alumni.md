@@ -7,6 +7,14 @@ variant: tiptap
 <p>Evergreen Secondary School is committed to helping your child succeed
 in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
+<h4><strong>Year 2024:</strong></h4>
+<p>| <strong>Name of Alumni</strong> | <strong>Awards / Achievements</strong> | <strong>Name of Institutions </strong>|</p>
+<p>|--------------|----------------| ----------------|</p>
+<p>| CHAIRPERSON | TEO YU HAN |</p>
+<p>| VICE CHAIRPERSON (TRAINING) | CHEVELLE KHOO |</p>
+<p>| VICE CHAIRPERSON (ADMIN) | JIANG XIN DI |</p>
+<p></p>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <table style="minWidth: 75px">
