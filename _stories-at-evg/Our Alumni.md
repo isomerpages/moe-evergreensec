@@ -15,8 +15,8 @@ EVG Alumni.</p>
 | Joreen Sia Caiyi (Class of 2021)  | Excellent results in GCE-A Level examinations 2023 3 H2 Distinctions or more | Raffles Institution
 | Tan Jin Daat (Class of 2020) | SCS Silver Medal &amp; Prize Diploma in Information Technology | Ngee Ann Polytechnic |
 | Teo Zhi Kang (Class of 2020) | Diploma in Sonic Arts with Merit | Republic Polytechnic | Low Wen Xi Celeste (Class of 2020) |
-| Ong Yao Sheng, Zavier (Class of 2020) | Lee Kuan Yew (LKY) Award for Mathematics and Science 
-* Changi Airport Group Gold Medal Award * Institution of Engineers, Singapore (IES) Gold Medal * Module Prizes * Diploma in Aviation Management with Merit | Republic Polytechnic | Muhammad Harits Bin Safari (Class of 2020) | Diploma in Engineering Design with Business with Merit | Republic Polytechnic | 
+| Ong Yao Sheng, Zavier (Class of 2020) | Lee Kuan Yew (LKY) Award for Mathematics and Science * Changi Airport Group Gold Medal Award * Institution of Engineers, Singapore (IES) Gold Medal * Module Prizes * Diploma in Aviation Management with Merit | Republic Polytechnic |
+Muhammad Harits Bin Safari (Class of 2020) | Diploma in Engineering Design with Business with Merit | Republic Polytechnic | 
 
 
 
