@@ -9,6 +9,10 @@ in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
 <h4><strong>Year 2024:</strong></h4>
 
+![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
+
+
+
 | Name of Alumni |  Awards / Achievements  |  Name of Institutions  |
 |---------------------------------|-------------------------------------------------------| -------------------------------------------------------|
 | He Yifei (Class of 2021) | Excellent results in GCE-A Level examinations 2023 with 3 H2 Distinctions or more | Raffles Institution
