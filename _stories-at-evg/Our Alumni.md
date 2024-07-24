@@ -11,7 +11,7 @@ EVG Alumni.</p>
 
 | Name of Alumni | Awards / Achievements | Name of Institutions |
 |---------------------------------|-------------------------------------------------------| -------------------------------------------------------|
-| He Yifei (Class of 2021) | Excellent results in GCE-A Level examinations 2023 3 H2 Distinctions or more | Raffles Institution
+| He Yifei <p>(Class of 2021)</p> | Excellent results in GCE-A Level examinations 2023 <p>3 H2 Distinctions or more</p> | Raffles Institution
 | VICE-CHAIRPERSONS | THOR EE QUAN &amp; SHARON LING YAO                                          |
 | QUARTER MASTERS | WONG YU TONG (COORDINATOR) &amp; LIM JUN ZE &amp; WANG ZIXUAN                                            |
 | DISCIPLINE MISTRESS/ MASTER          | ADILAH BINTE JEFFRIDIN &amp; PEK ZI YING NICOLE                                    |
