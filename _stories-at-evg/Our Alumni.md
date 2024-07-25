@@ -9,19 +9,8 @@ in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
 <h4><strong>Year 2024:</strong></h4>
 
-![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
 
 
-
-| Name of Alumni |  Awards / Achievements  |  Name of Institutions  |
-|---------------------------------|-------------------------------------------------------| -------------------------------------------------------|
-| He Yifei (Class of 2021) | Excellent results in GCE-A Level examinations 2023 with 3 H2 Distinctions or more | Raffles Institution
-| Joreen Sia Caiyi (Class of 2021)  | Excellent results in GCE-A Level examinations 2023 with 3 H2 Distinctions or more | Raffles Institution
-| Tan Jin Daat (Class of 2020) | SCS Silver Medal &amp; Prize * Diploma in Information Technology | Ngee Ann Polytechnic |
-| Teo Zhi Kang (Class of 2020) | Diploma in Sonic Arts with Merit | Republic Polytechnic | 
-Low Wen Xi Celeste (Class of 2020) | Diploma in Sport &amp; Exercise Science with Merit | Republic Polytechnic | 
-| Ong Yao Sheng, Zavier (Class of 2020) | Lee Kuan Yew (LKY) Award for Mathematics and Science, Changi Airport Group Gold Medal Award, Institution of Engineers Singapore (IES) Gold Medal, Module Prizes * Diploma in Aviation Management with Merit | Republic Polytechnic |
-Muhammad Harits Bin Safari (Class of 2020) | Diploma in Engineering Design with Business with Merit | Republic Polytechnic | 
 
 
 
