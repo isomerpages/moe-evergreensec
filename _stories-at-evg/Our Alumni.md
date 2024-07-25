@@ -1,154 +1,37 @@
 ---
 title: Our Alumni
-permalink: /our-partners/Our-Alumni/
+permalink: /our-partners/our-alumni/
 description: ""
+variant: markdown
 ---
-Evergreen Secondary School is committed to helping your child succeed in school and beyond. Here are some of the notable achievements of our EVG Alumni.
+<p>Evergreen Secondary School is committed to helping our students succeed
+in school and beyond. Here are some of the notable achievements of our
+EVG Alumni.</p>
+<h4><strong>Year 2024:</strong></h4>
 
-**2023**
+![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
 
-**LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)**
+<h4><strong>Year 2023:</strong></h4>
+Name of Alumnus: Raxton Koh Rong Qin (Class of 2022)
 
-&
+Awards: (1) Lee Kuan Yew Award for All-Round Excellence, (2) Lee Kuan Yew Award for Outstanding Normal Course Student (Secondary)
 
-**LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENT(SECONDARY)**
+<h4><strong>Year 2022:</strong></h4>
+Name of Alumnus: Aldrick Au Khin Hon (Class of 2021)
 
-Name : Raxton Koh Rong Qin
+Award: Lee Kuan Yew Award for All-Round Excellence (Secondary)
 
-**2022**
+<h4><strong>Year 2021:</strong></h4>
 
-**LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)**
+![Alumni Achievement 2021](/images/Alumni_Achievement_2021.png)
 
-Name            : Aldrick Au Khin Hon
+<p><em>(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)</em>
+</p>
 
-**2021**
+<h4><strong>Year 2020:</strong></h4>
 
-**NGEE ANN POLYTECHNIC’S 2021 GRADUATING CLASS**
+![Alumni Achievement 2020](/images/Alumni_Achievement_2020.png)
 
-**AWARD WINNERS FROM EVERGREEN SECONDARY SCHOOL**
+<h4><strong>Year 2019:</strong></h4>
 
-Name            : Tan Xin Yi
-
-Course          : Diploma in Accountancy
-
-Award           : The Association of Chartered Certified Accountants Silver Medal & Prize
-
-Diploma with Merit
-
-Name            : Shivaun Goh
-
-Course          : Diploma in Tourism & Resort Management
-
-Award           : The Lo & Behold Group Silver Medal & Prize
-
-Diploma with Merit
-
-Name            : Lim Shee-Ann
-
-Course          : Diploma in Mass Communication
-
-Award           : Diploma with Merit
-
-Diploma Plus: Certificate In Korean
-
-Name            : Hing Pei Jie
-
-Course          : Diploma in Business Studies
-
-Awards         : Diploma with Merit
-
-Tai Sin Prize
-
-Name            : Ng Shi Hui
-
-Course          : Diploma in International Trade & Business
-
-Award           : Diploma with Merit
-
-Name            : Jasel Poh Yuheng
-
-Course          : Diploma in Film, Sound & Video
-
-Award           : Diploma with Merit
-
-Name            : Choo Pei Ying
-
-Course          : Diploma in Child Psychology & Early Education
-
-Award           : Diploma with Merit
-
-Name            : Keith Chin Wei Hao
-
-Course          : Diploma in Engineering Science
-
-Award           : Senserbot Prize
-
-Diploma Plus: Certificate In Advanced Engineering Mathematics
-
-Name            : Tan Yong An, Gareth
-
-Course          : Diploma in Automation & Mechatronic Systems
-
-Award           : Keppel Offshore & Marine Prize
-
-_(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)_
-
-**NANYANG JUNIOR COLLEGE'S** **OUTSTANDING ACADEMIC ACHIEVEMENTS FOR 2019 GCE 'A' LEVELS**
-
-**EVERGREEN SECONDARY SCHOOL ALUMNI (CLASS OF 2017)**
-
-7 Distinctions: Tan Wei Lun Nickie
-
-4 Distinctions: Martin Ng Wee Teck
-
-**NGEE ANN POLYTECHNIC’S 2020 GRADUATING CLASS**
-
-**AWARD WINNERS FROM EVERGREEN SECONDARY SCHOOL**
-
-_Note: The Diploma with Merit is awarded to the top 10% of the graduates in each cohort._
-
-Name           : Sim Ting Yu Emily
-
-Course         : Diploma in Information Security & Forensics
-
-Award           : Diploma with Merit
-
-Diploma Plus: Certificate In Advanced Computing Mathematics
-
-Name           : Khaizuran B Khalid
-
-Course         : Diploma in Automation & Mechatronic Systems
-
-Award           : Diploma with Merit
-
-Diploma Plus: Certificate In Advanced Engineering Mathematics
-
-Name           : Ting Jia Rou
-
-Course         : Diploma in Banking & Financial Services
-
-Award           : Diploma with Merit
-
-Name           : Oh Suew Ling
-
-Course         : Diploma in International Logistics & Supply Chain Management
-
-Award           : Diploma with Merit
-
-Name           : Yek Hui Yee
-
-Course         : Diploma in Real Estate Business
-
-Award           : Diploma with Merit
-
-Name           : Natalie Ng Xiang Ning
-
-Course         : Diploma in Real Estate Business
-
-Award           : UOL Prize
-
-Name           : Lim Pei Jun
-
-Course         : Diploma in Chinese Studies
-
-Award           : Singapore Centre for Chinese Language Prize
+![Alumni Achievement 2019](/images/Alumni_Achievement_2019.png)
