@@ -9,17 +9,17 @@ in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
 <h4><strong>Year 2024:</strong></h4>
 
-![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
+
 
 <h4><strong>Year 2023:</strong></h4>
 Name of Alumnus: Raxton Koh Rong Qin (Class of 2022)
 
-Awards: Lee Kuan Yew Award for All-Round Excellence, Lee Kuan Yew Award for Outstanding Normal Course Student (Secondary)
+Awards: (1) Lee Kuan Yew Award for All-Round Excellence, (2) Lee Kuan Yew Award for Outstanding Normal Course Student (Secondary)
 
 <h4><strong>Year 2022:</strong></h4>
 Name of Alumnus: Aldrick Au Khin Hon (Class of 2021)
 
-Awards: Lee Kuan Yew Award for All-Round Excellence (Secondary)
+Award: Lee Kuan Yew Award for All-Round Excellence (Secondary)
 
 
 
