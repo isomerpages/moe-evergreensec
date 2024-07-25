@@ -10,18 +10,20 @@ EVG Alumni.</p>
 <h4><strong>Year 2024:</strong></h4>
 
 ![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
-<h4><strong>Year 2023:</strong></h4>
 
+<h4><strong>Year 2023:</strong></h4>
 Name of Alumnus: Raxton Koh Rong Qin (Class of 2022)
+
 Awards: Lee Kuan Yew Award for All-Round Excellence, Lee Kuan Yew Award for Outstanding Normal Course Student (Secondary)
 
+<h4><strong>Year 2022:</strong></h4>
+Name of Alumnus: Aldrick Au Khin Hon (Class of 2021)
 
-<p><strong>2022</strong>
-</p>
-<p><strong>LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)</strong>
-</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Aldrick Au Khin Hon</p>
+Awards: Lee Kuan Yew Award for All-Round Excellence (Secondary)
+
+
+
+
 <p><strong>2021</strong>
 </p>
 <p><strong>NGEE ANN POLYTECHNIC’S 2021 GRADUATING CLASS</strong>
