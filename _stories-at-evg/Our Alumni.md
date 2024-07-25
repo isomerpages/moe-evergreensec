@@ -21,76 +21,15 @@ Name of Alumnus: Aldrick Au Khin Hon (Class of 2021)
 
 Award: Lee Kuan Yew Award for All-Round Excellence (Secondary)
 
+<h4><strong>Year 2021:</strong></h4>
 
+![Alumni Achievement 2021](/images/Alumni_Achievement_2021.png)
 
-
-<p><strong>2021</strong>
-</p>
-<p><strong>NGEE ANN POLYTECHNIC’S 2021 GRADUATING CLASS</strong>
-</p>
-<p><strong>AWARD WINNERS FROM EVERGREEN SECONDARY SCHOOL</strong>
-</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Tan Xin Yi</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Accountancy</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : The Association
-of Chartered Certified Accountants Silver Medal &amp; Prize</p>
-<p>Diploma with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Shivaun Goh</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Tourism &amp; Resort Management</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : The Lo
-&amp; Behold Group Silver Medal &amp; Prize</p>
-<p>Diploma with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Lim Shee-Ann</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Mass Communication</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Diploma Plus: Certificate In Korean</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Hing Pei Jie</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Business Studies</p>
-<p>Awards&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma with
-Merit</p>
-<p>Tai Sin Prize</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Ng Shi Hui</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in International Trade &amp; Business</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Jasel Poh Yuheng</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Film, Sound &amp; Video</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Choo Pei Ying</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Child Psychology &amp; Early Education</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Keith Chin Wei Hao</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Engineering Science</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Senserbot
-Prize</p>
-<p>Diploma Plus: Certificate In Advanced Engineering Mathematics</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Tan Yong An, Gareth</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-in Automation &amp; Mechatronic Systems</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Keppel
-Offshore &amp; Marine Prize</p>
 <p><em>(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)</em>
 </p>
+
+
+
 <p><strong>NANYANG JUNIOR COLLEGE'S</strong>&nbsp;<strong>OUTSTANDING ACADEMIC ACHIEVEMENTS FOR 2019 GCE 'A' LEVELS</strong>
 </p>
 <p><strong>EVERGREEN SECONDARY SCHOOL ALUMNI (CLASS OF 2017)</strong>
