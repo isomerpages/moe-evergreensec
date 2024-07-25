@@ -28,60 +28,10 @@ Award: Lee Kuan Yew Award for All-Round Excellence (Secondary)
 <p><em>(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)</em>
 </p>
 
+<h4><strong>Year 2020:</strong></h4>
 
+![Alumni Achievement 2020](/images/Alumni_Achievement_2020.png)
 
-<p><strong>NANYANG JUNIOR COLLEGE'S</strong>&nbsp;<strong>OUTSTANDING ACADEMIC ACHIEVEMENTS FOR 2019 GCE 'A' LEVELS</strong>
-</p>
-<p><strong>EVERGREEN SECONDARY SCHOOL ALUMNI (CLASS OF 2017)</strong>
-</p>
-<p>7 Distinctions: Tan Wei Lun Nickie</p>
-<p>4 Distinctions: Martin Ng Wee Teck</p>
-<p><strong>NGEE ANN POLYTECHNIC’S 2020 GRADUATING CLASS</strong>
-</p>
-<p><strong>AWARD WINNERS FROM EVERGREEN SECONDARY SCHOOL</strong>
-</p>
-<p><em>Note:&nbsp;The Diploma with Merit is awarded to the top 10% of the graduates in each cohort.</em>
-</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Sim
-Ting Yu Emily</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Information
-Security &amp; Forensics</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Diploma Plus: Certificate In Advanced Computing Mathematics</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Khaizuran
-B Khalid</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Automation
-&amp; Mechatronic Systems</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Diploma Plus: Certificate In Advanced Engineering Mathematics</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Ting
-Jia Rou</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Banking
-&amp; Financial Services</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Oh
-Suew Ling</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in International
-Logistics &amp; Supply Chain Management</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Yek
-Hui Yee</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Real
-Estate Business</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma
-with Merit</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Natalie
-Ng Xiang Ning</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Real
-Estate Business</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : UOL Prize</p>
-<p>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Lim
-Pei Jun</p>
-<p>Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Diploma in Chinese
-Studies</p>
-<p>Award &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Singapore
-Centre for Chinese Language Prize</p>
+<h4><strong>Year 2019:</strong></h4>
+
+![Alumni Achievement 2019](/images/Alumni_Achievement_2019.png)
