@@ -35,3 +35,5 @@ Award: Lee Kuan Yew Award for All-Round Excellence (Secondary)
 <h4><strong>Year 2019:</strong></h4>
 
 ![Alumni Achievement 2019](/images/Alumni_Achievement_2019.png)
+
+![Alumni Achievement 2019_1](/images/Alumni_Achievement_2019_1.png)
