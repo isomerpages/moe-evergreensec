@@ -10,27 +10,12 @@ EVG Alumni.</p>
 <h4><strong>Year 2024:</strong></h4>
 
 ![Alumni Achievement 2024](/images/Alumni_Achievement_2024.png)
-
 <h4><strong>Year 2023:</strong></h4>
 
+Name of Alumnus: Raxton Koh Rong Qin (Class of 2022)
+Awards: Lee Kuan Yew Award for All-Round Excellence, Lee Kuan Yew Award for Outstanding Normal Course Student (Secondary)
 
 
-
-
-
-
-
-
-
-<p></p>
-<p><strong>2023</strong>
-</p>
-<p><strong>LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)</strong>
-</p>
-<p>&amp;</p>
-<p><strong>LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENT(SECONDARY)</strong>
-</p>
-<p>Name : Raxton Koh Rong Qin</p>
 <p><strong>2022</strong>
 </p>
 <p><strong>LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE (SECONDARY)</strong>
