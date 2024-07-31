@@ -8,7 +8,11 @@ variant: tiptap
 <h5><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h5>
 <p><strong>(A) MOE Financial Assistance Scheme (MOE FAS)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,7 +33,12 @@ variant: tiptap
 </tbody>
 </table>
 <p>Types of benefits provided under MOE FAS (Secondary School):</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,7 +140,7 @@ of 365 days from the date of accident.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to Income’s GPA portal at&nbsp;<strong>https://studentgpa.incomegroupins.com.sg</strong>
+<p>Go to Income’s GPA portal at&nbsp;<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 </li>
 <li>
