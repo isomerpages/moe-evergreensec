@@ -16,7 +16,7 @@ Award 2024! The Evergreen Secondary School Caring Teacher Award is one
 of the ways for our school to give recognition to our teachers who have
 gone the extra mile for their students</p>
 <p>Parents and EVGians are invited to submit your nominations via the QR
-code above or the following link by 19 August 2024 :</p>
+code above or the following link by <strong>19 August 2024</strong> :</p>
 <p><a href="https://form.gov.sg/66a89a5ce190decffe8d49d7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66a89a5ce190decffe8d49d7</a>
 </p>
 <p></p>
