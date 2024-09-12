@@ -8,6 +8,8 @@ variant: tiptap
 <p>2024 Editions</p>
 <p><a href="/files/Newsletter by Vibes/2024_Vibes_Vol_1.pdf" rel="noopener nofollow" target="_blank">2024 Term 1 Issue 1</a>
 </p>
+<p><a href="/files/Newsletter by Vibes/2024_Vibes_Vol_2.pdf" rel="noopener nofollow" target="_blank">2024 Term 3 Issue 2</a>
+</p>
 <p>2023 Editions</p>
 <p><a href="/files/Newsletter by Vibes/Vibes_Newsletter_2023_Vol_1_compressed.pdf" rel="noopener nofollow" target="_blank">2023 Term 1 Issue 1</a>
 </p>
