@@ -2,8 +2,13 @@
 title: Staff Achievements
 permalink: /stories-at-evg/permalink/
 description: ""
+variant: markdown
 ---
 Evergreen is proud to have highly innovative teachers who are caring and always have their students’ best interests at heart. Some of our teachers have even won national awards, giving due recognition to their dedication and commitment to their work.
+
+Ms Tina Kishore Sajani, our English Literature lead teacher won the Inspiring Teacher of English (Teaching) Award in 2024. Watch the video here:
+
+[Inspiring Teacher of English Award 2024 (Teaching Award) Tina Kishore Sajnani](https://www.youtube.com/watch?v=rGekhct8JJw)
 
 Read more about our Food and Nutrition teacher, Mdm Lee Teck Miang (pictured below), who was a finalist for the&nbsp;President’s Award for Teachers 2019, click [here](https://www.schoolbag.edu.sg/story/where-f-and-n-stands-for-fun-and-nurturing)
 
