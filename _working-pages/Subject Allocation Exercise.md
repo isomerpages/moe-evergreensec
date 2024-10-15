@@ -11,7 +11,7 @@ breakdown of the process, key information and deadlines, to help both EVGians
 and their parents make well-informed decisions.</p>
 <hr>
 <h4><strong>Timeline for the Subject Combination Exercise</strong></h4>
-<p>Here is a overview of the entire process:</p>
+<p>Here is an overview of the entire process:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/Timeline.png">
