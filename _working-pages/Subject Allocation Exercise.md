@@ -9,16 +9,6 @@ description: Sec 2 Subject Combination
 the right subject combination is an important step. You’ll find a detailed
 breakdown of the process, key information and deadlines, to help both EVGians
 and their parents make well-informed decisions.</p>
-<h4><strong>Subject Information Booklet</strong></h4>
-<p>To help students and parents make informed decisions, we have prepared
-a comprehensive <strong>Subject Information Booklet</strong> that covers
-all the subjects offered in Secondary 3 for 2025.
-<br><a href="http://go.gov.sg/evg-sub-info" rel="noopener nofollow" target="_blank">Access the Subject Information Booklet here.</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/info_book_pic_2.png">
-</div>
-<p></p>
 <hr>
 <h4><strong>Timeline for the Subject Combination Exercise</strong></h4>
 <p>Here is a overview of the entire process:</p>
@@ -70,7 +60,19 @@ online.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<h4></h4>
 <hr>
+<h3><strong>Subject Information Booklet</strong></h3>
+<p>To help students and parents make informed decisions, we have prepared
+a comprehensive <strong>Subject Information Booklet</strong> that covers
+all the subjects offered in Secondary 3 for 2025.
+<br><a href="http://go.gov.sg/evg-sub-info" rel="noopener nofollow" target="_blank">Access the Subject Information Booklet here.</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/info_book_pic_2.png">
+</div>
+<p></p>
 <h3><strong>Need Help?</strong></h3>
 <p>If you have any questions or need assistance with the Subject Combination
 and Allocation Exercise, feel free to reach out to your form teacher or
