@@ -69,10 +69,10 @@ a comprehensive <strong>Subject Information Booklet</strong> that covers
 all the subjects offered in Secondary 3 for 2025.
 <br><a href="http://go.gov.sg/evg-sub-info" rel="noopener nofollow" target="_blank">Access the Subject Information Booklet here.</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/info_book_pic_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/info_book_pic_web_space.png">
+</div>
 <h3><strong>Need Help?</strong></h3>
 <p>If you have any questions or need assistance with the Subject Combination
 and Allocation Exercise, feel free to reach out to your form teacher or
