@@ -3,6 +3,7 @@ title: Useful links for staff
 permalink: /our-staff/Useful-links-for-staff/
 description: ""
 third_nav_title: For Staff
+variant: markdown
 ---
 | Website                                                   | URL                                                                                     |
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -27,5 +28,5 @@ Fault Reporting Form | Log in to iCON before clicking the link [https://tinyurl.
 | Singapore Teaching Practice (log on to OPAL2.0)                | [https://go.gov.sg/stpwiki](https://go.gov.sg/stpwiki)                                                                                          |                                                                                       |
 | **Information for our NSmen**                                      | 
 SAFRA: | [https://www.safra.sg/](https://www.safra.sg/)  
-NS Matters Portal: | [https://www.ns.sg/](https://www.ns.sg/) 
+NS Matters Portal: | [https://www.ns.gov.sg/](https://www.ns.sg/) 
 Home Team NS: | [https://www.hometeamns.sg/](https://www.hometeamns.sg/)   |
