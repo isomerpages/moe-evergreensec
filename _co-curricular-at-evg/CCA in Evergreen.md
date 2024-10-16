@@ -86,7 +86,7 @@ Please note that these bonus points are used to determine the net aggregate scor
 </tbody>
 </table>
 
-For more details, please click [here](https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf).  
+For more details, please click [here.](https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf) 
 
 
 **Key CCA Highlights**
