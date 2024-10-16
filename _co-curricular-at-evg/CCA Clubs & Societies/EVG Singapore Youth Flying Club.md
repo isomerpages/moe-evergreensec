@@ -227,5 +227,5 @@ EVGYFC members)</p>
 <p><strong>Find out more: </strong>
 <br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/evgyfc/home?authuser=0</a> 
 <br>SYFC website link
-<br><a href="https://www.syfc.sg/cca/cca-activities/" rel="noopener noreferrer nofollow" target="_blank">https://www.syfc.sg/cca/cca-activities/</a>
+<br><a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener noreferrer nofollow" target="_blank">https://www.syfc.sg/cca/cca-activities/</a>
 </p>
