@@ -2,6 +2,7 @@
 title: CCA in Evergreen
 permalink: /co-curricular/
 description: ""
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vEVBv5IY5OU" height="315" width="560"></iframe>
 
@@ -85,8 +86,8 @@ Please note that these bonus points are used to determine the net aggregate scor
 </tbody>
 </table>
 
-For more details, please click link below.  
-[https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf](https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf)
+For more details, please click [here.](https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf) 
+
 
 **Key CCA Highlights**
 
