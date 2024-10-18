@@ -2,7 +2,6 @@ collections:
   working-pages:
     output: true
     order:
-      - Subject Allocation Exercise.md
       - Our School Values.md
       - Overseas Learning Journeys.md
       - Our Heritage.md
