@@ -5,7 +5,7 @@ variant: tiptap
 description: Sec 2 Subject Combination
 third_nav_title: For Students
 ---
-<h3><strong>Secondary 2 Subject Combination and Allocation Exercise 2024</strong></h3>
+<h3><strong>Secondary 2 Subject Combination Exercise 2024</strong></h3>
 <p>As your child prepares for the transition to Secondary 3 in 2025, choosing
 the right subject combination is an important step. You’ll find a detailed
 breakdown of the process, key information and deadlines, to help both EVGians
