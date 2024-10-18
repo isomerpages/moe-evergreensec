@@ -2,16 +2,16 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - For Students/Subject Allocation Exercise.md
       - For Students/.keep
       - For Students/Timetables.md
-      - For Students/Uniform and Textbook Matters.md
-      - For Students/Financial Assistance and Insurance Matters.md
-      - For Students/Travel Declaration.md
+      - For Students/CCA Schedule.md
       - For Students/Cyberwellness.md
       - For Students/Education and Career Guidance (ECG).md
       - For Students/MOE Sexuality Education.md
-      - For Students/CCA Schedule.md
+      - For Students/Subject Allocation Exercise.md
+      - For Students/Uniform and Textbook Matters.md
+      - For Students/Financial Assistance and Insurance Matters.md
+      - For Students/Travel Declaration.md
       - For Students/Our School Newsletter.md
       - For Staff/Useful links for staff.md
       - For Staff/.keep
