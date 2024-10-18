@@ -5,9 +5,7 @@ variant: tiptap
 description: Sec 2 Subject Combination
 third_nav_title: For Students
 ---
-<h3><strong>Secondary 2 Subject Combination Exercise 2024</strong></h3>
-<hr>
-<h4><strong>Timeline for the Subject Combination Exercise</strong></h4>
+<h3><strong>Timeline for the Subject Combination Exercise 2024</strong></h3>
 <p>Here is an overview of the entire process:</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -15,7 +13,7 @@ third_nav_title: For Students
 </div>
 <p></p>
 <hr>
-<h3><strong>Key Dates: </strong></h3>
+<h3><strong>Key Dates:</strong></h3>
 <h4><strong>Application Period</strong><br>25 October 2024, 0800 to 29 October 2024, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
