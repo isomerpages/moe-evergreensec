@@ -76,5 +76,5 @@ all the subjects offered in Secondary 3 for 2025.
 </div>
 <h3><strong>Need Help?</strong></h3>
 <p>If you have any questions or need assistance with the Subject Combination
-and Allocation Exercise, feel free to reach out to your form teacher or
-contact the school office.</p>
+Exercise, feel free to reach out to the form teacher or contact the school
+office.</p>
