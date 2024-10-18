@@ -6,10 +6,6 @@ description: Sec 2 Subject Combination
 third_nav_title: For Students
 ---
 <h3><strong>Secondary 2 Subject Combination Exercise 2024</strong></h3>
-<p>As your child prepares for the transition to Secondary 3 in 2025, choosing
-the right subject combination is an important step. You’ll find a detailed
-breakdown of the process, key information and deadlines, to help both EVGians
-and their parents make well-informed decisions.</p>
 <hr>
 <h4><strong>Timeline for the Subject Combination Exercise</strong></h4>
 <p>Here is an overview of the entire process:</p>
@@ -19,8 +15,8 @@ and their parents make well-informed decisions.</p>
 </div>
 <p></p>
 <hr>
-<h3><strong>Key Dates: Subject Combination Exercise</strong></h3>
-<h4><strong>Subject Combination Exercise</strong><br>25 October 2024, 0800 to 29 October 2024, 1200</h4>
+<h3><strong>Key Dates: </strong></h3>
+<h4><strong>Application Period</strong><br>25 October 2024, 0800 to 29 October 2024, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to choose your subject combinations.</p>
@@ -30,7 +26,7 @@ and their parents make well-informed decisions.</p>
 </p>
 </li>
 </ul>
-<h4><strong>Results of Subject Combination Exercise</strong><br>6 November 2024, 1500 onwards</h4>
+<h4><strong>Release of Results</strong><br>6 November 2024, 1500 onwards</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to check your allocated subject combination.</p>
@@ -40,7 +36,7 @@ and their parents make well-informed decisions.</p>
 </p>
 </li>
 </ul>
-<h4><strong>Appeal Phase</strong><br>6 November 2024, 1500 to 8 November 2024, 1200</h4>
+<h4><strong>Appeal</strong><br>6 November 2024, 1500 to 8 November 2024, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you wish to appeal your subject combination allocation, submit an appeal
