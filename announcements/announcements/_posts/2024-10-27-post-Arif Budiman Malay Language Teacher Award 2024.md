@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGAB_2024_Mdm_Yati_Ms_Bian.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/AGAB_2024_Mdm_Yati_Ms_Bian.jpg">
 </div>
 <p>Congratulations to Ms Norhayati Bte Jidin, our Malay Language senior teacher,
 for being a finalist in the Role Model category for the Arif Budiman Malay
