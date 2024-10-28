@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Kishore (left) with Ms Bian, Principal of Evergreen Secondary School" src="/images/Tina_Kishore_with_Ms_Bian.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Kishore (left) with Ms Bian, Principal of Evergreen Secondary School" src="/images/Tina_Kishore_with_Ms_Bian.jpg">
 </div>
 <p>Congratulations to Ms Tina Kishore Sajnani, our English Literature lead
 teacher in winning the Inspiring Teacher of English (Teaching) Award 2024.
