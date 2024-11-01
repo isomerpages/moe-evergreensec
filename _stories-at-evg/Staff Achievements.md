@@ -9,7 +9,9 @@ Evergreen is proud to have highly innovative teachers who are caring and always 
 Ms Tina Kishore Sajani, our English Literature lead teacher won the Inspiring Teacher of English (Teaching) Award in 2024. Watch the video [here](https://www.youtube.com/watch?v=rGekhct8JJw).
 ![Tina_Kishore_ITEA2024_TA](/images/Tina_Kishore_ITEA2024_TA.jpg)
 
-Ms Norhayati Bte Jidin, our Malay Language senior teacher, was a finalist in the Role Model category for the Arif Budiman Malay Language Teacher Award (AGAB) 2024. AGAB recognises teachers who have made significant contributions to the teaching of the Malay Language.
+Jointly organised by the Malay Language Council Singapore (MBMS), Malay Language Teachers Association (PGBM), Berita Harian (BH), and the Malay Language Learning and Promotion Committee (MLLPC), the Arif Budiman Malay Language Teacher Award (AGAB) shines a spotlight on teachers who inspire a love for Malay language, literature, and culture.
+
+Our Malay Language senior teacher, Ms Norhayati Bte Jidin, was named one of four finalists in the prestigious Role Model category. 
 ![](/images/Mdm_Yati_AGAB_2024.jpg)
 
 
