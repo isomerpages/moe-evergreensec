@@ -8,6 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p>Calling all Primary 6 students and parents!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OH2024_postcard" src="/images/Resources/October 25, 2022 EVG OH/4_Front_Open_House_Postcard.jpg">
+</div>
 <p>Are you searching for the best school to shape your future? Look no further
 — make Evergreen Sec your choice! With a vibrant community, dedicated educators,
 and a commitment to excellence, we’re ready to nurture your potential and
