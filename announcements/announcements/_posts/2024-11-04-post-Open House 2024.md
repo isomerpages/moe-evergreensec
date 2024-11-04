@@ -13,14 +13,11 @@ variant: tiptap
 and a commitment to excellence, we’re ready to nurture your potential and
 help you shine!</p>
 <p>Join us at our Open House 2024 to explore our school environment, experience
-our holistic programmes, and engage with our EVGians! Don’t miss the chance
-to join the following:</p>
+our holistic programmes, and engage with our EVGians!</p>
 <p></p>
-<p>a) Principal's Address + Q&amp;A</p>
-<p>b) CCAs</p>
-<p>c) Academic Programmes</p>
-<p>d) PRISM Lesson Experience + School Tour</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OH2024_brochure" src="/images/Resources/October 25, 2022 EVG OH/EVG2024_OH_Brochure.png">
+</div>
 <p>Date : Saturday 16 November</p>
 <p>Time : 9.00am - 1.00pm</p>
 <p>Check out our social media platforms to find out more about us:</p>
