@@ -48,6 +48,9 @@ end of their 4 years.</p>
 <h4>Events and Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Netball (C Division Girls) 2024: 2nd (League 3)</p>
+</li>
+<li>
 <p>4 girls were selected for 17 &amp; U Zone Development Squad Selection
 in 2023</p>
 </li>
