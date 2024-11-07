@@ -82,13 +82,11 @@ inspiring the juniors to develop their own leadership skills.</p>
 <p>2022 National School Games, C Division Girls, North Zone Top 8</p>
 </li>
 <li>
-<p>2021 National School Games, B Division Boys, North Zone Top 8</p>
-</li>
-<li>
 <p>2022 Friendly Match with Bedok South Secondary School</p>
 </li>
 <li>
 <p>2022 Friendly Match with Bukit Batok Secondary School</p>
+<p>2021 National School Games, B Division Boys, North Zone Top 8</p>
 </li>
 </ul>
 <h4>Student Leaders</h4>
@@ -116,7 +114,7 @@ inspiring the juniors to develop their own leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DION TAN RUI EN</p>
@@ -132,7 +130,7 @@ inspiring the juniors to develop their own leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE CAPTAIN</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ONG SHENG HONG</p>
@@ -140,7 +138,7 @@ inspiring the juniors to develop their own leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE CAPTAIN</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YONG TECK WEI</p>
