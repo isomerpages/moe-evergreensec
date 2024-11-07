@@ -21,6 +21,18 @@ positions in our CCA.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Rugby/2023%20Updates/rugby_02.JPG">
 </div>
 <h4>Events and Achievements</h4>
+<p>2024</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'C' Division Boys, 2nd (League 2)</p>
+</li>
+</ul>
+<p>2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'B' Division Champion</p>
+</li>
+</ul>
 <p>2022</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,18 +46,6 @@ positions in our CCA.</p>
 </li>
 <li>
 <p>Raffles 10s</p>
-</li>
-</ul>
-<p>2023</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>'B' Division Champion</p>
-</li>
-</ul>
-<p>2024</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>'C' Division Boys, 2nd (League 2)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
