@@ -26,7 +26,7 @@ their excellence in both sports and studies through Direct Schools Admission
 (DSA-JC) to top Junior Colleges in Singapore. Many go on to become captains
 of their Cross-Country or Track and Field teams.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Cross%20Country/2023%20Updates/3%20crosscountry.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC02___Priscilia_Teng.jpg">
 </div>
 <h4>Events and Achievements</h4>
 <p><strong><u>NSG Track and Field</u></strong>
@@ -73,7 +73,9 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC03___Priscilia_Teng.jpg">
+</div>
 <p><strong><u>NSG Cross Country</u></strong>
 </p>
 <table style="minWidth: 100px">
@@ -160,7 +162,9 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC04___Priscilia_Teng.jpg">
+</div>
 <p><strong><u>Pesta Sukan Athletics 2024 -&nbsp; 1500m Racewalk&nbsp;</u></strong>
 </p>
 <table style="minWidth: 100px">
@@ -289,7 +293,9 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC05___Priscilia_Teng.jpg">
+</div>
 <p><strong><u>Pesta Sukan Athletics 2024 -&nbsp; 1500m race&nbsp;</u></strong>
 </p>
 <table style="minWidth: 100px">
@@ -460,7 +466,10 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC06___Priscilia_Teng.jpg">
+</div>
 <h4>Student Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
