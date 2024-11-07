@@ -22,19 +22,19 @@ Games.</p>
 <h4>Events and Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>North Zone Table Tennis Championship 2020 C Division Boys Top 4th</p>
-</li>
-<li>
-<p>North Zone Table Tennis Championship 2021 B Division Boys 4th Placing</p>
-</li>
-<li>
-<p>North Zone Table Tennis Championship 2022 C Division Girls 4th Placing</p>
+<p>Table Tennis (C Division Girls) 2024: 3rd (League 2)</p>
 </li>
 <li>
 <p>North Zone Table Tennis Championship 2023 C Division Girls 4th Placing</p>
 </li>
 <li>
-<p>Table Tennis (C Division Girls) 2024: 3rd (League 2)</p>
+<p>North Zone Table Tennis Championship 2022 C Division Girls 4th Placing</p>
+</li>
+<li>
+<p>North Zone Table Tennis Championship 2021 B Division Boys 4th Placing</p>
+</li>
+<li>
+<p>North Zone Table Tennis Championship 2020 C Division Boys Top 4th</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -65,18 +65,18 @@ Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Caden Tan Qi hao</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Captain (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Wei En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caden Tan Qi hao</p>
 </td>
 </tr>
 <tr>
