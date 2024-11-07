@@ -3,151 +3,347 @@ title: Red Cross Youth
 permalink: /cca/ug/red-cross-youth/
 description: ""
 third_nav_title: CCA Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-**Red Cross Youth (RCY)**
-
-![RCY Flag](/images/rcy_1_rcy%20cadets%20with%20flag.jpg)
-
-The Singapore Red Cross Youth (RCY) is a branch of the International Red Cross and Red Crescent Movement. RCY operates in primary and secondary schools, post-secondary institutions, and communities, offering young volunteers a smooth transition into adulthood. The organization focuses on character-building, leadership, life-saving skills, blood donation, community service, and humanitarian projects. It aims to develop 21st-century competencies, character, and citizenship among youth.
-
-**Teachers in Charge:** Ms Sooben Mavishna (I/C), Ms Qurnyaningsy Ahmad Mokhtar, Ms Koh Yan Ling, Ms Carlyna Tambunan
-
-**Volunteer Instructors:** Eric Lim, Jasmine Soh, Raxton Koh, Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang
-
-**Organisational Structure:**
-
-| Leadership Role | Student                                  |
-|---------------------------------|-------------------------------------------------------|
-| CHAIRPERSON | TEO YU HAN                                           |
-| VICE CHAIRPERSON (TRAINING) | CHEVELLE KHOO                                          |
-| VICE CHAIRPERSON (ADMIN) | JIANG XIN DI                                          |
-| LEVEL HEAD (SEC 1)         | NUR FATHIN &amp; LOH YU QI &amp; NG YAO MIN                                     |
-| LEVEL HEAD (SEC 2)                | BRIAN LOW &amp; WONG YU TONG                                     |
-| LEVEL HEAD (SEC 3)         | THESVIN UTHIRASWAN &amp; KEERTNA ANNATHASON                                   |
-| MEDIA IC                           | KEERTNA ANNATHASON &amp; THEONE SOH                    |
-| LOGISTICS IC                 | WONG YU TONG &amp; FALISYAH AULYA                                    |
-| 
-
-
-We believe that everyone can make a positive difference in the world by helping others. Our cadets at EVG Red Cross Youth (RCY) also share this belief, which is why our organisation exists—to teach them the necessary skills and give them the confidence to make a difference. 
-![RCY Enrollment](/images/rcy_4_pinning%20enrollment%20badge%20on%20a%20new%20sec%201%20cadet.jpg)
-As RCY members, cadets learn and practice leadership, disaster management, lifesaving, and blood donation skills. They actively help their local community and take part in humanitarian projects abroad. Our cadets have a natural desire to assist those in need and are known for their strong sense of responsibility and leadership qualities.
-![RCY First Aiders](/images/rcy_5_first%20aiders.JPG)
-
-![RCY Grooming](/images/rcy_2_grooming%20our%20cadet%20leaders.jpg)
-
-
-
-<p><strong>Awards and Achievements</strong></p>
-
-![](/images/Beh_Giselle.jpg)
-
-
-<table width="0">
-<tbody>
-<tr><td width="624" colspan="2" style="text-align: center;"><strong>2024</strong></td>
-</tr>
-
-	
-	
-<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
-<td width="312">Beh Giselle</td>
-</tr>
-<tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid Competition (Junior) 2024</strong></td>
-<td width="312">Gold Award<br>(Team Leader: Er Jun Da)</td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid Competition (Senior) 2024</strong></td>
-<td width="312">Bronze Award<br>(Team Leader: Chevelle Khoo)</td>
-</tr>
-
-
-</tbody></table>
-<p>&nbsp;</p>
-<table width="0">
+<p><strong>Red Cross Youth (RCY)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY Flag" src="/images/rcy_1_rcy%20cadets%20with%20flag.jpg">
+</div>
+<p>The Singapore Red Cross Youth (RCY) is a branch of the International Red
+Cross and Red Crescent Movement. RCY operates in primary and secondary
+schools, post-secondary institutions, and communities, offering young volunteers
+a smooth transition into adulthood. The organization focuses on character-building,
+leadership, life-saving skills, blood donation, community service, and
+humanitarian projects. It aims to develop 21st-century competencies, character,
+and citizenship among youth.</p>
+<p><strong>Teachers in Charge:</strong> Ms Sooben Mavishna (I/C), Ms Qurnyaningsy
+Ahmad Mokhtar, Ms Koh Yan Ling, Ms Carlyna Tambunan</p>
+<p><strong>Volunteer Instructors:</strong> Eric Lim, Jasmine Soh, Raxton Koh,
+Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang</p>
+<p><strong>Organisational Structure:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-
-</tr></tbody></table><table width="0">
+<th rowspan="1" colspan="1">
+<p>Leadership Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAIRPERSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO YU HAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VICE CHAIRPERSON (TRAINING)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEVELLE KHOO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VICE CHAIRPERSON (ADMIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JIANG XIN DI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEVEL HEAD (SEC 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR FATHIN &amp; LOH YU QI &amp; NG YAO MIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEVEL HEAD (SEC 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRIAN LOW &amp; WONG YU TONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEVEL HEAD (SEC 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THESVIN UTHIRASWAN &amp; KEERTNA ANNATHASON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEDIA IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KEERTNA ANNATHASON &amp; THEONE SOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOGISTICS IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG YU TONG &amp; FALISYAH AULYA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We believe that everyone can make a positive difference in the world by
+helping others. Our cadets at EVG Red Cross Youth (RCY) also share this
+belief, which is why our organisation exists—to teach them the necessary
+skills and give them the confidence to make a difference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY Enrollment" src="/images/rcy_4_pinning%20enrollment%20badge%20on%20a%20new%20sec%201%20cadet.jpg">
+</div>
+<p>As RCY members, cadets learn and practice leadership, disaster management,
+lifesaving, and blood donation skills. They actively help their local community
+and take part in humanitarian projects abroad. Our cadets have a natural
+desire to assist those in need and are known for their strong sense of
+responsibility and leadership qualities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY First Aiders" src="/images/rcy_5_first%20aiders.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY Grooming" src="/images/rcy_2_grooming%20our%20cadet%20leaders.jpg">
+</div>
+<p><strong>Awards and Achievements</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beh_Giselle.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><td width="624" colspan="2" style="text-align: center;"><strong>2023</strong></td>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
-
-<td width="312"><strong>Excellent Unit Award <br></strong></td>
-<td width="312">Silver</td>
-</tr>	
-	
-	
-<tr><td width="312"><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong></td>
-<td width="312">Leong Yu Heng Evan</td>
+<td rowspan="1" colspan="1">
+<p><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beh Giselle</p>
+</td>
 </tr>
 <tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
+<td rowspan="1" colspan="2">
+<p><strong>Competitions</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td width="312"><strong>First Aid Competition (Junior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Wong Yu Tong)</td>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Competition (Junior) 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award
+<br>(Team Leader: Er Jun Da)</p>
+</td>
 </tr>
 <tr>
-<td width="312"><strong>First Aid Competition (Senior) 2023</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Beh Giselle)</td>
-</tr>
-<tr>
-<td width="312"><strong>Disaster Risk Reduction Competition 2023<br></strong><strong>(Team)</strong></td>
-<td width="312">Silver Award<br>(Team Leader: Lim Pei Si Vicky)</td>
-</tr>
-<tr>
-<td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
-<td width="312">Silver Award<br>(Ong Ying Xi)</td>
-</tr>
-
-</tbody></table>
-<p>&nbsp;</p>
-<table width="0">
-<tbody>
-<tr>
-	
-<td width="624" colspan="2" style="text-align: center;"><strong>2022</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>Excellent Unit Award</strong></td>
-<td width="312">No Assessment</td>
-</tr>
-<tr>
-<td width="624" colspan="2"><strong>Competitions</strong></td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid - Awareness Category (Junior)</strong></td>
-<td width="312">Commendation</td>
-</tr>
-<tr>
-<td width="312"><strong>First Aid - Awareness Category (Senior)</strong></td>
-<td width="312">Silver</td>
-</tr>
-<tr>
-<td width="312"><strong>Disaster Risk Reduction Competition<br></strong><strong>(Team)</strong></td>
-<td width="312">Commendation</td>
-</tr>
-<tr>
-<td width="312"><strong>Ambassador Blood Donation Competition<br></strong><strong>(Individual)</strong></td>
-<td width="312">Commendation</td>
-</tr>
-<tr>
-<td><strong>Trailblazer Competition (Team)</strong></td>
-<td>Silver</td>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Competition (Senior) 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award
+<br>(Team Leader: Chevelle Khoo)</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-
-
-<p><strong>Find out more: </strong><br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/">https://www.instagram.com/evergreen_rcy/</a><br>Red Cross Youth <br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
-	
-	
-</p><p style="text-align: center;"><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong></p><img src="/images/redcross5.jpg" style="width: 80%;">
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award <br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Director's Award <br>Most Outstanding Cadet in the Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Yu Heng Evan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Competitions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Competition (Junior) 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award
+<br>(Team Leader: Wong Yu Tong)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Competition (Senior) 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award
+<br>(Team Leader: Beh Giselle)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Disaster Risk Reduction Competition 2023<br>(Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award
+<br>(Team Leader: Lim Pei Si Vicky)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ambassador Blood Donation Competition<br>(Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award
+<br>(Ong Ying Xi)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2022</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Competitions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid - Awareness Category (Junior)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid - Awareness Category (Senior)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Disaster Risk Reduction Competition<br>(Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ambassador Blood Donation Competition<br>(Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trailblazer Competition (Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Find out more: </strong>
+<br>EVG RCY Instagram <a href="https://www.instagram.com/evergreen_rcy/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/evergreen_rcy/</a>
+<br>Red Cross Youth
+<br><a href="https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html" rel="noopener noreferrer nofollow" target="_blank">https://www.redcross.sg/red-cross-youth/about-red-cross-youth.html</a>
+</p>
+<p><strong>Join us and be part of the Red Cross family. <br>Humanity is in your hands.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/redcross5.jpg">
+</div>
+<p></p>
