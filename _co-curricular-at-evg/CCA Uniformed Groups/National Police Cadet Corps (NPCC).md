@@ -19,7 +19,6 @@ The National Police Cadet Corps (NPCC) in Singapore aims to become the premier y
 
  | Instructor Role | Name                  |
 |---------------------------------|-------------------------------------------------------|
-| SENIOR CADET INSPECTOR | CHEW SIEW HWEE                                           |
 | CADET INSPECTOR | LEE YING ZHENG                                          |
 | CADET INSPECTOR | NADHRAH ADILAH BINTE NOORIZAM                                            |
 | CADET INSPECTOR          | OH SHI YING                                    |
