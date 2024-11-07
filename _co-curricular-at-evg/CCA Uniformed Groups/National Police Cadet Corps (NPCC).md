@@ -31,10 +31,10 @@ The National Police Cadet Corps (NPCC) in Singapore aims to become the premier y
 |---------------------------------|-------------------------------------------------------|
 | CHAIRPERSON | CHAN WEN XUAN                                           |
 | VICE-CHAIRPERSON | TEH GUANG LIANG DERRICK                                          |
-| SEC 1 OIC | JESTON LIN ZHUXINHAI                                            |
-| SEC 1 OIC          | CHAN LI YUN                                    |
 | SEC 2 OIC                | SYED UMAR SYARIFF BIN SYED FAIZAL                                     |
 | SEC 2 OIC         | TIEW YI HAO                                   |
+| SEC 1 OIC | JESTON LIN ZHUXINHAI                                            |
+| SEC 1 OIC          | CHAN LI YUN                                    |
 
 **Life of a NPCC Member**
 
