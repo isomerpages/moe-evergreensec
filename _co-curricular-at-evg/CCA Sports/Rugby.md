@@ -51,11 +51,7 @@ positions in our CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Rugby/2023%20Updates/rugby_04.JPG">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 <h4>Student Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -145,6 +141,7 @@ positions in our CCA.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Rugby/2023%20Updates/rugby_03.JPG">
 </div>
