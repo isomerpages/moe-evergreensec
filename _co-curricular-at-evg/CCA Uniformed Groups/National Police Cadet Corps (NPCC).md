@@ -22,7 +22,8 @@ Tyrus Chua, Ms Wu Yuting</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc_02%20-%20wong%20wei%20tang.jpg">
 </div>
-<p><strong>Organisational Structure</strong>:</p>
+<p><strong>Organisational Structure</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,6 +72,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -191,6 +193,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Life of a NPCC Member</strong>
 </p>
 <p>As an NPCC cadet, life is dynamic and fulfilling. We participate in parades,
@@ -208,9 +211,17 @@ impact on our community.</p>
 </div>
 <p><strong>Awards and Achievements</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Unit Overall Proficiency Award 2022 – Distinction</p>
+</li>
+<li>
 <p>Woodlands Division Crime Prevention Poster Design Competition 2022 – Winner</p>
+</li>
+<li>
 <p>Unit Overall Proficiency Award 2021 – Gold</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc_06%20-%20wong%20wei%20tang.jpg">
 </div>
