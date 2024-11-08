@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA Sports
 variant: tiptap
 ---
-<h3>EVG Table Tennis</h3>
+<h3>Table Tennis</h3>
 <p>To cultivate a sense of appreciation and passion for table tennis. To
 instil a sense of discipline and responsibility in our players. To nurture
 confident and resilient individuals.</p>
