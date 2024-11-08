@@ -34,7 +34,7 @@ Games.</p>
 <p>North Zone Table Tennis Championship 2021 B Division Boys 4th Placing</p>
 </li>
 <li>
-<p>North Zone Table Tennis Championship 2020 C Division Boys Top 4th</p>
+<p>North Zone Table Tennis Championship 2020 C Division Boys Top 4</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -105,6 +105,7 @@ Games.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Table%20Tennis/2023%20Updates/tabletennis_01.JPG">
 </div>
