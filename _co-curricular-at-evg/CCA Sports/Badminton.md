@@ -86,6 +86,8 @@ inspiring the juniors to develop their own leadership skills.</p>
 </li>
 <li>
 <p>2022 Friendly Match with Bukit Batok Secondary School</p>
+</li>
+<li>
 <p>2021 National School Games, B Division Boys, North Zone Top 8</p>
 </li>
 </ul>
