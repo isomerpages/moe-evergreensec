@@ -9,6 +9,10 @@ variant: tiptap
 <img style="width: 40%;" height="auto" width="100%" src="/images/badmin1.jpg">
 </div>
 <h3>EVG Badminton</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton Team" src="/images/Co Curricular @ EVG/Badminton_Team.jpg">
+</div>
 <p>EVG Badminton is dedicated to cultivating resilient and committed student
 leaders through comprehensive training programs, nurturing their skills
 and court craft to unlock their full potential.</p>
@@ -63,6 +67,20 @@ inspiring the juniors to develop their own leadership skills.</p>
 <p></p>
 <h4>Events and Achievements</h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton NSG" src="/images/Co Curricular @ EVG/Badminton_NSG_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton NSG" src="/images/Co Curricular @ EVG/Badminton_NSG.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton Girls" src="/images/Co Curricular @ EVG/Badminton_Girls_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton Combine" src="/images/Co Curricular @ EVG/Badminton_Combine.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/10%20evg%20c%20boys%20top%204.JPG">
 </div>
 <ul data-tight="true" class="tight">
@@ -71,9 +89,6 @@ inspiring the juniors to develop their own leadership skills.</p>
 </li>
 <li>
 <p>2024 National School Games, C Division Girls, 2nd (League 4)</p>
-</li>
-<li>
-<p>2023 National School Games, C Division Boys, North Zone Top 4</p>
 </li>
 <li>
 <p>2022 National School Games, B Division Girls, North Zone Top 8</p>
