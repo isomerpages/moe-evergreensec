@@ -10,6 +10,38 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership" src="/images/stl%20-%20rhd23.jpeg">
 </div>
+<p><strong>Vision:</strong>&nbsp; <em>Dynamic, Thinking and Caring Leaders<br></em><strong>Mission: </strong>To
+develop student leaders who are role models with a passion to contribute
+and excel.
+<br><strong>Guiding Philosophy:</strong> Service through Leadership
+<br><strong>Guiding Framework:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Talent Identification</strong>
+</p>
+<p>A differentiated and comprehensive selection process for all student leaders</p>
+<p></p>
+</li>
+<li>
+<p><strong>Role Perception</strong>
+</p>
+<p>In depth understanding of the roles of an EVG student leader</p>
+<p></p>
+</li>
+<li>
+<p><strong>Training</strong>
+</p>
+<p>The development of student leaders through various platforms – workshops,
+camps and overseas expedition</p>
+<p></p>
+</li>
+<li>
+<p><strong>Opportunities to Excel</strong>
+</p>
+<p>Providing platforms for student leaders to shine and achieve success.</p>
+</li>
+</ul>
 <p><strong>Teachers in Charge:</strong> 
 <br>Mr Anantharaja Krishnan Samy
 <br>(Subject Head of Student Leadership)
