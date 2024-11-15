@@ -55,9 +55,6 @@ Open House event, all members actively participated and showcased their
 talents through various creative means, such as designing posters, creating
 promotional videos, and delivering persuasive speeches to promote Badminton
 to the Secondary One juniors and parents.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/evg%20c%20boys%202023%20round%202.jpg">
-</div>
 <p>The Badminton Captains, Vice-Captains, and Executive Committee members
 work collaboratively to plan and host both the in-house annual year-end
 tournament and the CCA open house event. These experiences provide valuable
@@ -67,21 +64,12 @@ inspiring the juniors to develop their own leadership skills.</p>
 <p></p>
 <h4>Events and Achievements</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton NSG" src="/images/Co Curricular @ EVG/Badminton_NSG_2.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton NSG" src="/images/Co Curricular @ EVG/Badminton_NSG.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton Girls" src="/images/Co Curricular @ EVG/Badminton_Girls_2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton Combine" src="/images/Co Curricular @ EVG/Badminton_Combine.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Badminton/10%20evg%20c%20boys%20top%204.JPG">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,6 +77,9 @@ inspiring the juniors to develop their own leadership skills.</p>
 </li>
 <li>
 <p>2024 National School Games, C Division Girls, 2nd (League 4)</p>
+</li>
+<li>
+<p>2023 National School Games, C Division Boys, 4th in North Zone</p>
 </li>
 <li>
 <p>2022 National School Games, B Division Girls, North Zone Top 8</p>
@@ -123,49 +114,14 @@ inspiring the juniors to develop their own leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN</p>
+<p>CAPTAIN STEERING COMMITTEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHAI SAO SHENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>DION TAN RUI EN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VICE CAPTAIN</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NGU SHU NING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>ONG SHENG HONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>YONG TECK WEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MENTOR</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>KEE CHUN SHEN</p>
 </td>
 </tr>
