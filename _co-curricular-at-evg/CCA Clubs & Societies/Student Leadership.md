@@ -67,25 +67,25 @@ also often deployed to assist the school as ushers for guests.</p>
 <p>Over the years, the roles and responsibilities of the student leaders
 have expanded, in line with the school’s move to develop and stretch student
 leaders.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership CCA EXCO" src="/images/stl%20-%20cca%20exco.jpg">
-</div>
+<p></p>
 <p>Each year, an Executive Committee is formed from the top student leaders
 in Secondary 3 are involved in organising and executing events. Student
 leaders plan, organise, delegate and assume the various roles and responsibilities
-associated with an event. School-based events such as Secondary One Orientation
-and Graduation Day are just a couple of the events that greatly involve
-the student leaders.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Event" src="/images/stl%20-%20events.jpg">
-</div>
+associated with an event. School-based events such as Secondary One Orientation,
+Teachers’ Day and Graduation Day are just a couple of the events that greatly
+involve the student leaders.</p>
+<p></p>
 <p>In addition, student leaders are given formal leadership developmental
 training from external agencies such as Halogen, Achievers and Acorn Training
 to hone their leadership potential and ability, on top of the constant
 guidance received from their seniors and teachers.</p>
-<p>To date, the student leaders are 60-strong and come from very diverse
-backgrounds and interests. It is in this various mix that the school hopes
-to develop future leaders for the community.</p>
+<p></p>
+<p>To date, the student leadership committee is 80-strong and comes from
+very diverse backgrounds and interests. It is in this various mix that
+the school hopes to develop future leaders for the community.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25 2" src="/images/IMG_7027_2.jpg">
