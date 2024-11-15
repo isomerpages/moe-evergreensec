@@ -84,9 +84,6 @@ guidance received from their seniors and teachers.</p>
 very diverse backgrounds and interests. It is in this various mix that
 the school hopes to develop future leaders for the community.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25 2" src="/images/IMG_7027_2.jpg">
 </div>
