@@ -26,3 +26,33 @@ Over the years, the Malay Language Unit has provide numerous opportunities to EV
 
 Through these workshops, students participated in interactive and engaging activities that helped developed their confidence and deepen their love for the language.
 
+**Silat Pengantin Workshop for Secondary One**
+
+This workshop aims to expose students to the Malay art of self- defense. Students learn various martial art techniques and significance of silat in Malay society.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/pic_1_silat.jpg)
+
+**National Writing Competition – Peraduan Pena Emas**
+
+Over the years, Evergreen Secondary School achieved remarkable results in the National Writing Competition - Pena Emas. A number of our students were among the Top 30.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/Picture2.jpg)
+
+**Secondary Two Interactive Oracy Skills Workshop- Journalism**
+
+The workshop conducted offers a unique and invaluable opportunity to cultivate critical thinking, communication skills and media literacy.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_3_.jpg)
+
+**Secondary Four Creative Writing Workshop- Bengkel Penulisan Kreatif**
+
+This Creative Writing Workshop aims to sharpen the upper secondary students' skills in narrative essay writing. Through this workshop, students were exposed to various creative writing techniques. The students surely gained many benefits while being entertained by Mr. Peter’s effective teaching style.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_5.jpg)
+
+**Secondary Three Lyrics and Songwriting Workshop with Khair Yasin**
+
+This year, Evergreen Secondary School once again invited renowned lyricist, Mr. Khair Yasin, to conduct a Lyric and Songwriting Workshop for the Secondary 3 students. Through this workshop, students were able to produce meaningful and creative song lyrics. The students also enjoyed composing songs in Malay while learning various lyric-writing techniques.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_4.jpg)
+
+**Young Journalist Camp Competition organized by Berita Harian**
+
+Our students had the incredible opportunity to participate in the Young Journalist Competition, also known as Kem Kewartawanan, organized by Berita Harian. This event provided our students with a fantastic chance to dive into the world of journalism firsthand. They showcased their skills by creating a vlog, conducting interviews (including one with Singapore's rising star, Shaza), writing newspaper articles, and capturing stunning photos like professional journalists.
+
+
