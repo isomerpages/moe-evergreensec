@@ -43,7 +43,9 @@ Our members engage in various enriching experiences like participating in the Si
 
 ![](/images/g7%20inter-school%20guitar%20exchange%202023%20at%20saint%20anthony's%20canossian%20secondary%20school.jpeg)
 
-![](/images/g8%20inter-school%20guitar%20exchange%202023%20at%20saint%20anthony's%20canossian%20secondary%20school.jpeg)
+![](/images/151124%20CCA%20photos%20update/Guitar/2_Guitar_practice_for_National_Day_2024.jpg)
+
+![](/images/151124%20CCA%20photos%20update/Guitar/3_Performing_for_National_Day_Concert_2024.jpg)
 
 **Awards and Achievements**
 
@@ -55,6 +57,8 @@ SYF Arts Presentation 2021 – Certificate of Accomplishment
 
 2020 Guitar Festival
 
-![](/images/g4%20syf%202023.jpeg)
-
 ![](/images/g5%20syf%202023.jpeg)
+
+![](/images/151124%20CCA%20photos%20update/Guitar/5_Photos_of_members_during_guitar_practice.jpg)
+
+![](/images/151124%20CCA%20photos%20update/Guitar/1_CCA_Photo_on_CCA_Open_House_Day_2024.jpg)
