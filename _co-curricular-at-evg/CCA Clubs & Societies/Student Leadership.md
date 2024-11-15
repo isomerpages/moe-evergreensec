@@ -306,13 +306,57 @@ and the Secondary 2 Junior Prefects.</p>
 <p>Service Learning Projects</p>
 </li>
 </ul>
+<p></p>
+<p><strong>Key events and initiatives</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Prefectorial%20Board/P2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_2_Prefect_Collage.jpg">
 </div>
-<p>Student leaders hearing the different voices of EVGians and engaging them
-on how we can further improve our school as a community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Prefectorial%20Board/P3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_3_Prefect_collage.jpg">
 </div>
-<p>With the support of EVGians, we contributed 168 hampers to the less fortunate
-in the Woodlands Community during the festive season.</p>
+<p></p>
+<p><strong>Voices of EVG</strong>
+</p>
+<p>Our student leaders use this platform to hear different voices of EVGians
+and engage them on how we can further improve our school as a community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_4_Prefect_collage_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_5_Prefect_CNY_VIA.jpg">
+</div>
+<p>Our school's yearly commitment to Woodlands RC involves contributing numerous
+hampers to less privileged families in Woodlands during the Chinese New
+Year. This initiative allows our student leaders to engage in meaningful
+service, providing support to the community while fostering a sense of
+empathy and responsibility. Through this act of giving, they gain valuable
+insights into the needs of others and the importance of coming together
+to uplift those in need during festive times.</p>
+<p></p>
+<p><strong>Service Learning Projects</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_6_Prefect_House_Cleaning.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_7_Prefect_SBS_Transit.jpg">
+</div>
+<p>Our student leaders exemplify servant leadership by consistently placing
+others before themselves. Through their involvement in numerous Service
+Learning projects with Pertapis, Meals on Wheels, SBS Transit and the Singapore
+Association of the Visually Handicapped, they have gained invaluable insights
+into the importance of serving others. These experiences have broadened
+their perspectives, fostering a deep understanding of empathy, selflessness,
+and the significance of community service. By embracing these values, they
+continue to develop into compassionate leaders dedicated to making a positive
+impact on society.</p>
+<p></p>
+<p>Follow us on Instagram @evg_prefects and @evgspirit for regular updates.</p>
+<p></p>
