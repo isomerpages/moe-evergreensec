@@ -3,6 +3,7 @@ title: Mother Tongue Language
 permalink: /our-curriculum/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 **Key Learning Experiences**
 * **Applied Learning Programme (ALP)**   
@@ -24,15 +25,4 @@ In 2022, Chinese Unit has organized a virtual learning journey to Beijing and Ti
 Over the years, the Malay Language Unit has provide numerous opportunities to EVGians to demonstrate sharpen their skills in a variety workshops that cover poetry writing, debate, expository writing and communications.
 
 Through these workshops, students participated in interactive and engaging activities that helped developed their confidence and deepen their love for the language.
-
-**![](https://lh5.googleusercontent.com/M-wupefVy3qxfK0QHo6I-ll0hkgPvjD_pjDiHr_XNLBHhO1r-4TM-bFUFyn8YUOYodgAeD1FEuYfNGPhFk3B9iRbpt6kS6kLFde6Z51YGzG7kUAZYZv-FloCw9LO0bp0FJvGFR1bwI1nrthW-sXDoA=s2048)**
-
-**![](https://lh6.googleusercontent.com/139lukPoSgsz81PpYLygWlup-YswZdw7Ogqpcypcffc_XK2xY6gzae6T2z_3F86zAvZTliPS-xgJXzc3gw4v5-HlvYUGtFM0OtJoChySrNvzteC9aXak4CmrFst5LdDK7mKQ6Jn70Wz9fkCTel3H=s2048)**
-
-EVGians have also been given opportunities to represent the school and excel in Malay Language competitions that focus on skills like debating, writing and even Scrabble. 
-
-**![](https://lh3.googleusercontent.com/JrGhA8lykILwKBtOjnWQ9UiGGyKxJ3OjPa5fwY10SxDZSoTB2I9ccJDN9RNs456xlrAKUTbRaVXzm-4k_hYMOnhyQac3gUDtnWNkF3-L5RYOcAcnri1X1imX1hIACF7-lmbhJI2yF1taz-sGWugtug=s2048)**
-
-**![](https://lh4.googleusercontent.com/0zt1yLYoce3oB7YshaEyZdAWRrrnP5N4pdLdqNEWlY469nmBfeAKzU2Q0XghtuC9RL5LPKL4c60jW5fIySe9mPRfkwjnws27CwzfCLLI3FvYNv3bidveEpEhJvb_EAcHEN6IY091tuLtZU0bu_9x=s2048)**
-
 
