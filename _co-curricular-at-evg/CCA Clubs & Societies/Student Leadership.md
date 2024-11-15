@@ -87,6 +87,10 @@ the school hopes to develop future leaders for the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25 2" src="/images/IMG_7027_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_1_Sec_3_Prefects.jpg">
+</div>
 <p><strong>Prefects Executive Committees of 2024/2025</strong>
 </p>
 <table style="minWidth: 50px">
@@ -260,10 +264,10 @@ and the Secondary 2 Junior Prefects.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Orientation</p>
+<p>Sec 1 Orientation and Campfire</p>
 </li>
 <li>
-<p>Lunar New Year Hamper Wrapping</p>
+<p>School-wide Chinese New Year Values-in-Action Project</p>
 </li>
 <li>
 <p>Student Leaders’ Investiture</p>
@@ -272,13 +276,16 @@ and the Secondary 2 Junior Prefects.</p>
 <p>Leadership-In-Action Camp</p>
 </li>
 <li>
-<p>Teachers’ Day Celebrations</p>
+<p>Teachers’ Day Celebration</p>
 </li>
 <li>
 <p>Graduation Day</p>
 </li>
 <li>
 <p>Prom Night</p>
+</li>
+<li>
+<p>Dining in the Dark (SAVH)</p>
 </li>
 <li>
 <p>Prefects’ Family Day</p>
@@ -288,6 +295,15 @@ and the Secondary 2 Junior Prefects.</p>
 </li>
 <li>
 <p>Voices of EVG</p>
+</li>
+<li>
+<p>Rise and Shine</p>
+</li>
+<li>
+<p>Class Cleanliness Award</p>
+</li>
+<li>
+<p>Service Learning Projects</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
