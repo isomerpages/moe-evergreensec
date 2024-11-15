@@ -89,8 +89,9 @@ the school hopes to develop future leaders for the community.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_1_Sec_3_Prefects.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_1_Sec_3_Prefects.jpg">
 </div>
+<p></p>
 <p><strong>Prefects Executive Committees of 2024/2025</strong>
 </p>
 <table style="minWidth: 50px">
@@ -311,11 +312,11 @@ and the Secondary 2 Junior Prefects.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_2_Prefect_Collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_2_Prefect_Collage.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_3_Prefect_collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_3_Prefect_collage.jpg">
 </div>
 <p></p>
 <p><strong>Voices of EVG</strong>
@@ -324,12 +325,14 @@ and the Secondary 2 Junior Prefects.</p>
 and engage them on how we can further improve our school as a community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_4_Prefect_collage_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_4_Prefect_collage_3.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_5_Prefect_CNY_VIA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_5_Prefect_CNY_VIA.jpg">
 </div>
+<p></p>
 <p>Our school's yearly commitment to Woodlands RC involves contributing numerous
 hampers to less privileged families in Woodlands during the Chinese New
 Year. This initiative allows our student leaders to engage in meaningful
@@ -342,12 +345,14 @@ to uplift those in need during festive times.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_6_Prefect_House_Cleaning.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_6_Prefect_House_Cleaning.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA photos update/Prefect/2024_7_Prefect_SBS_Transit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_7_Prefect_SBS_Transit.jpg">
 </div>
+<p></p>
 <p>Our student leaders exemplify servant leadership by consistently placing
 others before themselves. Through their involvement in numerous Service
 Learning projects with Pertapis, Meals on Wheels, SBS Transit and the Singapore
