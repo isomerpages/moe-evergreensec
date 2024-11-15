@@ -48,9 +48,12 @@ This Creative Writing Workshop aims to sharpen the upper secondary students' ski
 
 **Secondary Three Lyrics and Songwriting Workshop with Khair Yasin**
 
-This year, Evergreen Secondary School once again invited renowned lyricist, Mr. Khair Yasin, to conduct a Lyric and Songwriting Workshop for the Secondary 3 students. Through this workshop, students were able to produce meaningful and creative song lyrics. The students also enjoyed composing songs in Malay while learning various lyric-writing techniques.
+Evergreen Secondary School invited renowned lyricist, Mr. Khair Yasin, to conduct a Lyric and Songwriting Workshop for the Secondary 3 students. Through this workshop, students were able to produce meaningful and creative song lyrics. The students also enjoyed composing songs in Malay while learning various lyric-writing techniques.
 ![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_4.jpg)
 
 **Young Journalist Camp Competition organized by Berita Harian**
 
 Our students had the incredible opportunity to participate in the Young Journalist Competition, also known as Kem Kewartawanan, organized by Berita Harian. This event provided our students with a fantastic chance to dive into the world of journalism firsthand. They showcased their skills by creating a vlog, conducting interviews (including one with Singapore's rising star, Shaza), writing newspaper articles, and capturing stunning photos like professional journalists.
+
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/Picture_6.jpg)
+
