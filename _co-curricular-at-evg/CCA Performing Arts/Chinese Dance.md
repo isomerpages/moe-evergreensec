@@ -45,4 +45,4 @@ SYF Arts Presentation 2021 – Certificate of Distinction
 
 ![](/images/cd_08%20-%20ning%20ma.jpg)
 
-![](/images/cd_09_farewell.jpg)
+![](/images/151124%20CCA_ML%20photos%20update/Chinese%20Dance/Chinese_Dance_4.jpg)

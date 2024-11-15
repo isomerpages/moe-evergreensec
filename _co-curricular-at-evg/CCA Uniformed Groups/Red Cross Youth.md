@@ -107,17 +107,22 @@ Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang</p>
 helping others. Our cadets at EVG Red Cross Youth (RCY) also share this
 belief, which is why our organisation exists—to teach them the necessary
 skills and give them the confidence to make a difference.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RCY Enrollment" src="/images/rcy_4_pinning%20enrollment%20badge%20on%20a%20new%20sec%201%20cadet.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Red Cross Youth/RCY_1_Sec_1_enrolment.jpg">
 </div>
+<p></p>
 <p>As RCY members, cadets learn and practice leadership, disaster management,
 lifesaving, and blood donation skills. They actively help their local community
 and take part in humanitarian projects abroad. Our cadets have a natural
 desire to assist those in need and are known for their strong sense of
 responsibility and leadership qualities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RCY First Aiders" src="/images/rcy_5_first%20aiders.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Red Cross Youth/RCY_2_First_Aid_Competition.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RCY Grooming" src="/images/rcy_2_grooming%20our%20cadet%20leaders.jpg">
 </div>

@@ -10,6 +10,38 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership" src="/images/stl%20-%20rhd23.jpeg">
 </div>
+<p><strong>Vision:</strong>&nbsp; <em>Dynamic, Thinking and Caring Leaders<br></em><strong>Mission: </strong>To
+develop student leaders who are role models with a passion to contribute
+and excel.
+<br><strong>Guiding Philosophy:</strong> Service through Leadership
+<br><strong>Guiding Framework:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Talent Identification</strong>
+</p>
+<p>A differentiated and comprehensive selection process for all student leaders</p>
+<p></p>
+</li>
+<li>
+<p><strong>Role Perception</strong>
+</p>
+<p>In depth understanding of the roles of an EVG student leader</p>
+<p></p>
+</li>
+<li>
+<p><strong>Training</strong>
+</p>
+<p>The development of student leaders through various platforms – workshops,
+camps and overseas expedition</p>
+<p></p>
+</li>
+<li>
+<p><strong>Opportunities to Excel</strong>
+</p>
+<p>Providing platforms for student leaders to shine and achieve success.</p>
+</li>
+</ul>
 <p><strong>Teachers in Charge:</strong> 
 <br>Mr Anantharaja Krishnan Samy
 <br>(Subject Head of Student Leadership)
@@ -21,44 +53,45 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership - Logo" src="/images/stl%20-%20logo%20combine.png">
 </div>
 <p>From planning and running school-wide events to assisting the school in
-its day-to-day activities, the Prefectorial Board takes great pride and
-responsibility in doing all these well. Formed when the school was in still
-in its infant years, the board and its members have increasingly taken
-on greater roles and tasks.</p>
+its day-to-day activities, the Student Leadership Committee takes great
+pride and responsibility in doing all these well. Formed when the school
+was still in its infant years, the committee and its members have increasingly
+taken on greater roles and tasks.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25" src="/images/IMG_3271.jpg">
-</div>
 <p>The first few years saw prefects fulfilling duties in supervising students’
 movement and discipline. Classroom orderliness and good student behaviour
-were expected of all the students in the school and the prefects were there
-to help ensure that these were adhered to. Prefects were also often deployed
-to assist the school as ushers for guests.</p>
-<p>Over the years, the roles and responsibilities of the prefects have expanded,
-in line with the school’s move to develop and stretch student leaders.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership CCA EXCO" src="/images/stl%20-%20cca%20exco.jpg">
-</div>
+were expected of all the students in the school and the student leaders
+were there to help ensure that these were adhered to. Student Leaders were
+also often deployed to assist the school as ushers for guests.</p>
+<p></p>
+<p>Over the years, the roles and responsibilities of the student leaders
+have expanded, in line with the school’s move to develop and stretch student
+leaders.</p>
+<p></p>
 <p>Each year, an Executive Committee is formed from the top student leaders
 in Secondary 3 are involved in organising and executing events. Student
 leaders plan, organise, delegate and assume the various roles and responsibilities
-associated with an event. School-based events such as Secondary One Orientation
-and Graduation Day are just a couple of the events that greatly involve
-the student leaders.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Event" src="/images/stl%20-%20events.jpg">
-</div>
+associated with an event. School-based events such as Secondary One Orientation,
+Teachers’ Day and Graduation Day are just a couple of the events that greatly
+involve the student leaders.</p>
+<p></p>
 <p>In addition, student leaders are given formal leadership developmental
 training from external agencies such as Halogen, Achievers and Acorn Training
 to hone their leadership potential and ability, on top of the constant
 guidance received from their seniors and teachers.</p>
-<p>To date, the student leaders are 60-strong and come from very diverse
-backgrounds and interests. It is in this various mix that the school hopes
-to develop future leaders for the community.</p>
+<p></p>
+<p>To date, the student leadership committee is 80-strong and comes from
+very diverse backgrounds and interests. It is in this various mix that
+the school hopes to develop future leaders for the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25 2" src="/images/IMG_7027_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_1_Sec_3_Prefects.jpg">
+</div>
+<p></p>
 <p><strong>Prefects Executive Committees of 2024/2025</strong>
 </p>
 <table style="minWidth: 50px">
@@ -232,10 +265,10 @@ and the Secondary 2 Junior Prefects.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Orientation</p>
+<p>Sec 1 Orientation and Campfire</p>
 </li>
 <li>
-<p>Lunar New Year Hamper Wrapping</p>
+<p>School-wide Chinese New Year Values-in-Action Project</p>
 </li>
 <li>
 <p>Student Leaders’ Investiture</p>
@@ -244,13 +277,16 @@ and the Secondary 2 Junior Prefects.</p>
 <p>Leadership-In-Action Camp</p>
 </li>
 <li>
-<p>Teachers’ Day Celebrations</p>
+<p>Teachers’ Day Celebration</p>
 </li>
 <li>
 <p>Graduation Day</p>
 </li>
 <li>
 <p>Prom Night</p>
+</li>
+<li>
+<p>Dining in the Dark (SAVH)</p>
 </li>
 <li>
 <p>Prefects’ Family Day</p>
@@ -261,14 +297,71 @@ and the Secondary 2 Junior Prefects.</p>
 <li>
 <p>Voices of EVG</p>
 </li>
+<li>
+<p>Rise and Shine</p>
+</li>
+<li>
+<p>Class Cleanliness Award</p>
+</li>
+<li>
+<p>Service Learning Projects</p>
+</li>
 </ul>
+<p></p>
+<p><strong>Key events and initiatives</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Prefectorial%20Board/P2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_2_Prefect_Collage.jpg">
 </div>
-<p>Student leaders hearing the different voices of EVGians and engaging them
-on how we can further improve our school as a community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/CCA/Clubs%20and%20Societies/Prefectorial%20Board/P3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_3_Prefect_collage.jpg">
 </div>
-<p>With the support of EVGians, we contributed 168 hampers to the less fortunate
-in the Woodlands Community during the festive season.</p>
+<p></p>
+<p><strong>Voices of EVG</strong>
+</p>
+<p>Our student leaders use this platform to hear different voices of EVGians
+and engage them on how we can further improve our school as a community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_4_Prefect_collage_3.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_5_Prefect_CNY_VIA.jpg">
+</div>
+<p></p>
+<p>Our school's yearly commitment to Woodlands RC involves contributing numerous
+hampers to less privileged families in Woodlands during the Chinese New
+Year. This initiative allows our student leaders to engage in meaningful
+service, providing support to the community while fostering a sense of
+empathy and responsibility. Through this act of giving, they gain valuable
+insights into the needs of others and the importance of coming together
+to uplift those in need during festive times.</p>
+<p></p>
+<p><strong>Service Learning Projects</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_6_Prefect_House_Cleaning.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_7_Prefect_SBS_Transit.jpg">
+</div>
+<p></p>
+<p>Our student leaders exemplify servant leadership by consistently placing
+others before themselves. Through their involvement in numerous Service
+Learning projects with Pertapis, Meals on Wheels, SBS Transit and the Singapore
+Association of the Visually Handicapped, they have gained invaluable insights
+into the importance of serving others. These experiences have broadened
+their perspectives, fostering a deep understanding of empathy, selflessness,
+and the significance of community service. By embracing these values, they
+continue to develop into compassionate leaders dedicated to making a positive
+impact on society.</p>
+<p></p>
+<p>Follow us on Instagram @evg_prefects and @evgspirit for regular updates.</p>
+<p></p>

@@ -3,6 +3,7 @@ title: Mother Tongue Language
 permalink: /our-curriculum/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 **Key Learning Experiences**
 * **Applied Learning Programme (ALP)**   
@@ -25,14 +26,34 @@ Over the years, the Malay Language Unit has provide numerous opportunities to EV
 
 Through these workshops, students participated in interactive and engaging activities that helped developed their confidence and deepen their love for the language.
 
-**![](https://lh5.googleusercontent.com/M-wupefVy3qxfK0QHo6I-ll0hkgPvjD_pjDiHr_XNLBHhO1r-4TM-bFUFyn8YUOYodgAeD1FEuYfNGPhFk3B9iRbpt6kS6kLFde6Z51YGzG7kUAZYZv-FloCw9LO0bp0FJvGFR1bwI1nrthW-sXDoA=s2048)**
+**Silat Pengantin Workshop for Secondary One**
 
-**![](https://lh6.googleusercontent.com/139lukPoSgsz81PpYLygWlup-YswZdw7Ogqpcypcffc_XK2xY6gzae6T2z_3F86zAvZTliPS-xgJXzc3gw4v5-HlvYUGtFM0OtJoChySrNvzteC9aXak4CmrFst5LdDK7mKQ6Jn70Wz9fkCTel3H=s2048)**
+This workshop aims to expose students to the Malay art of self- defense. Students learn various martial art techniques and significance of silat in Malay society.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/pic_1_silat.jpg)
 
-EVGians have also been given opportunities to represent the school and excel in Malay Language competitions that focus on skills like debating, writing and even Scrabble. 
+**National Writing Competition – Peraduan Pena Emas**
 
-**![](https://lh3.googleusercontent.com/JrGhA8lykILwKBtOjnWQ9UiGGyKxJ3OjPa5fwY10SxDZSoTB2I9ccJDN9RNs456xlrAKUTbRaVXzm-4k_hYMOnhyQac3gUDtnWNkF3-L5RYOcAcnri1X1imX1hIACF7-lmbhJI2yF1taz-sGWugtug=s2048)**
+Over the years, Evergreen Secondary School achieved remarkable results in the National Writing Competition - Pena Emas. A number of our students were among the Top 30.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/Picture2.jpg)
 
-**![](https://lh4.googleusercontent.com/0zt1yLYoce3oB7YshaEyZdAWRrrnP5N4pdLdqNEWlY469nmBfeAKzU2Q0XghtuC9RL5LPKL4c60jW5fIySe9mPRfkwjnws27CwzfCLLI3FvYNv3bidveEpEhJvb_EAcHEN6IY091tuLtZU0bu_9x=s2048)**
+**Secondary Two Interactive Oracy Skills Workshop- Journalism**
 
+The workshop conducted offers a unique and invaluable opportunity to cultivate critical thinking, communication skills and media literacy.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_3_.jpg)
+
+**Secondary Four Creative Writing Workshop- Bengkel Penulisan Kreatif**
+
+This Creative Writing Workshop aims to sharpen the upper secondary students' skills in narrative essay writing. Through this workshop, students were exposed to various creative writing techniques. The students surely gained many benefits while being entertained by Mr. Peter’s effective teaching style.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_5.jpg)
+
+**Secondary Three Lyrics and Songwriting Workshop with Khair Yasin**
+
+Evergreen Secondary School invited renowned lyricist, Mr. Khair Yasin, to conduct a Lyric and Songwriting Workshop for the Secondary 3 students. Through this workshop, students were able to produce meaningful and creative song lyrics. The students also enjoyed composing songs in Malay while learning various lyric-writing techniques.
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/picture_4.jpg)
+
+**Young Journalist Camp Competition organized by Berita Harian**
+
+Our students had the incredible opportunity to participate in the Young Journalist Competition, also known as Kem Kewartawanan, organized by Berita Harian. This event provided our students with a fantastic chance to dive into the world of journalism firsthand. They showcased their skills by creating a vlog, conducting interviews (including one with Singapore's rising star, Shaza), writing newspaper articles, and capturing stunning photos like professional journalists.
+
+![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/Picture_6.jpg)
 
