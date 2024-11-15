@@ -53,21 +53,20 @@ camps and overseas expedition</p>
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership - Logo" src="/images/stl%20-%20logo%20combine.png">
 </div>
 <p>From planning and running school-wide events to assisting the school in
-its day-to-day activities, the Prefectorial Board takes great pride and
-responsibility in doing all these well. Formed when the school was in still
-in its infant years, the board and its members have increasingly taken
-on greater roles and tasks.</p>
+its day-to-day activities, the Student Leadership Committee takes great
+pride and responsibility in doing all these well. Formed when the school
+was still in its infant years, the committee and its members have increasingly
+taken on greater roles and tasks.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leaders 24/25" src="/images/IMG_3271.jpg">
-</div>
 <p>The first few years saw prefects fulfilling duties in supervising students’
 movement and discipline. Classroom orderliness and good student behaviour
-were expected of all the students in the school and the prefects were there
-to help ensure that these were adhered to. Prefects were also often deployed
-to assist the school as ushers for guests.</p>
-<p>Over the years, the roles and responsibilities of the prefects have expanded,
-in line with the school’s move to develop and stretch student leaders.</p>
+were expected of all the students in the school and the student leaders
+were there to help ensure that these were adhered to. Student Leaders were
+also often deployed to assist the school as ushers for guests.</p>
+<p></p>
+<p>Over the years, the roles and responsibilities of the student leaders
+have expanded, in line with the school’s move to develop and stretch student
+leaders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership CCA EXCO" src="/images/stl%20-%20cca%20exco.jpg">
 </div>
