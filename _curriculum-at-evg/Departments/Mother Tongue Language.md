@@ -54,5 +54,3 @@ This year, Evergreen Secondary School once again invited renowned lyricist, Mr. 
 **Young Journalist Camp Competition organized by Berita Harian**
 
 Our students had the incredible opportunity to participate in the Young Journalist Competition, also known as Kem Kewartawanan, organized by Berita Harian. This event provided our students with a fantastic chance to dive into the world of journalism firsthand. They showcased their skills by creating a vlog, conducting interviews (including one with Singapore's rising star, Shaza), writing newspaper articles, and capturing stunning photos like professional journalists.
-
-
