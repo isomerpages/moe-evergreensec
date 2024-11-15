@@ -131,21 +131,7 @@ inspiring the juniors to develop their own leadership skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KEERTHANA SIBY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>KEIJI ENG KIAN CHENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>SHA ZIQI</p>
 </td>
 </tr>
