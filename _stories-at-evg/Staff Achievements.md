@@ -14,6 +14,8 @@ Jointly organised by the Malay Language Council Singapore (MBMS), Malay Language
 Our Malay Language senior teacher, Ms Norhayati Bte Jidin, was named one of four finalists in the prestigious Role Model category. 
 ![](/images/Mdm_Yati_AGAB_2024.jpg)
 
+Ms. Priscilia Teng, our Chemistry senior teacher, has been awarded the 2024 Outstanding STEM Teacher Award (OSTA) for her passion and contributions in the advancement of STEM in education and efforts in inspiring her students to&nbsp;Be Curious, Be Creative and Be the Change&nbsp;through STEM.
+![](/images/Pris_Outstanding_STEM_Award.jpg)
 
 Read more about our Food and Nutrition teacher, Mdm Lee Teck Miang (pictured below), who was a finalist for the&nbsp;President’s Award for Teachers 2019, click [here](https://www.schoolbag.edu.sg/story/where-f-and-n-stands-for-fun-and-nurturing)
 ![](/images/copy-of-img12371-moe-010719-pat-lee-teck-miang-@evergreen-secondary-schoolac-1-2048x1367.jpg)
