@@ -3,8 +3,9 @@ title: Overseas Learning Journey (Kuala Lumpur)
 permalink: /curriculum-at-evg/overseas-learning-journeys/kualalumpur2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
+variant: markdown
 ---
-From 19th - 22nd June, travelled to Kuala Lumpur for an Overseas Learning Journey.
+From 19th - 22nd June, a group of Secondary 3 travelled to Kuala Lumpur for an Overseas Learning Journey.
 
 During the trip, our students had the privilege of visiting Breadtalk, where they had the chance to delve into the intricacies of running a franchise. 
 
