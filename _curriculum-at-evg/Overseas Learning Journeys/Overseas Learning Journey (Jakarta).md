@@ -3,6 +3,7 @@ title: Overseas Learning Journey (Jakarta)
 permalink: /curriculum-at-evg/overseas-learning-journeys/jakarta2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
+variant: markdown
 ---
 From 30 May to 2 June 2023, our Secondary 3 Malay Language students travelled to Jakarta for the Sec 3 Cultural Immersion Overseas Learning Journey.
 
@@ -24,7 +25,7 @@ ii) a school immersion experience at Sekolah Alam Indonesia, a Jakarta-based lo
 
 iii) a visit to a Singaporean startup, PT Kinobi Technologies Indonesia. 
 
-iv) a visit to the Textile Museu, where our EVGians had the opportunity to create Batik pieces
+iv) a visit to the Textile Museum, where our EVGians had the opportunity to create Batik pieces
 
 v) a visit to Taman Mini Indonesia (Visit Mini Indonesia Park)
 

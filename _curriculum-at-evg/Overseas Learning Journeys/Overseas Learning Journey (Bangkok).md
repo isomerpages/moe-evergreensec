@@ -3,8 +3,9 @@ title: Overseas Learning Journey (Bangkok)
 permalink: /curriculum-at-evg/overseas-learning-journeys/bangkok2023/
 description: ""
 third_nav_title: Overseas Learning Journeys
+variant: markdown
 ---
-During the last week of the June holidays, a group of Secondary 3 students embarked on a journey to Bangkok for a Cultural Immersion Outdoor Leaning Journey.
+During the last week of the June holidays, a group of Secondary 3 students embarked on a journey to Bangkok for a Cultural Immersion Outdoor Learning Journey.
 
 The OLJ aims to
 
