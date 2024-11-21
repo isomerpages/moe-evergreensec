@@ -16,14 +16,21 @@ term starts in January next year.</p>
 deadline indicated below, as our bookshop and school uniform partners will
 need to deploy their manpower for sales to 2025 Sec 1s, once posting results
 is announced between 18 &amp; 20 December 2024.</p>
+<p></p>
 <p>&nbsp;</p>
 <p><strong><u>Books &amp; Stationeries</u></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please order online before&nbsp;<strong><u>14 December 2024</u> (3.00pm). There will be No WALK-IN</strong> purchase.</p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>URL: <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
-<p><u>&nbsp;</u>
+<p>Click below to download the booklist.</p>
+<p><a href="/files/Secondary_2_Booklist__2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist</a>
 </p>
+<p><a href="/files/Secondary_3_Booklist__2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
+</p>
+<p><a href="/files/Secondary_4_Booklist__2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
+</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Self-Collection</u></strong>
