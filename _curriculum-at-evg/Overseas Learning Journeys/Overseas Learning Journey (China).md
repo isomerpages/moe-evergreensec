@@ -98,10 +98,10 @@ understanding of themselves, their values, and their place in the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_7.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_8.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_10.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_12.jpg">
