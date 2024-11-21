@@ -5,3 +5,68 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Learning Journeys
 ---
+<h3><strong>A Memorable Overseas Learning Journey</strong></h3>
+<p></p>
+<p>A group of Secondary 3 students embarked on an exciting Cultural Immersion
+Overseas Learning Journey (OLJ) to Beijing and Tianjin, China, from 27
+May to 2 June 2024. This enriching experience was designed to expand students’
+horizons and nurture essential life skills under the theme, “The World
+as Our School.”</p>
+<p>&lt; China 5.jpg &gt;</p>
+<h4><strong>Objectives of the OLJ</strong></h4>
+<p>The programme aimed to:</p>
+<ol>
+<li>
+<p>Develop Personal and Interpersonal Skills: Enhance students’ self-management,
+social awareness, and interpersonal abilities through real-world experiences.</p>
+</li>
+<li>
+<p>Instil Core Values: Foster respect, commitment, responsibility, and care
+during interactions with peers and hosts.</p>
+</li>
+<li>
+<p>Promote Cultural Appreciation: Expose students to a culture distinct from
+Singapore’s, encouraging an appreciation for diversity and cultural sensitivity.</p>
+</li>
+<li>
+<p>Deepen National Identity: Strengthen students’ commitment to and rootedness
+in Singapore through reflection on their overseas experiences.</p>
+</li>
+</ol>
+<p>&lt; China 9.jpg &gt;</p>
+<h4><strong>Highlights of the Trip</strong></h4>
+<p>The journey offered a dynamic blend of cultural exploration, educational
+opportunities, and personal growth:</p>
+<ul>
+<li>
+<p>Exploring Iconic Landmarks: Students marvelled at renowned sites such
+as the majestic Great Wall of China and the vibrant historical streets
+of Nanluoguxiang, delving into China’s rich history and heritage.</p>
+</li>
+<li>
+<p>Learning through Innovation: A visit to the China Science and Technology
+Museum in Beijing showcased the country’s advancements in technology and
+innovation, inspiring curiosity and forward-thinking.</p>
+</li>
+<li>
+<p>Discovering the Singapore Connection: At Tianjin Eco-City, students observed
+how Singapore’s sustainable practices are applied through international
+collaboration, reinforcing pride in Singapore’s global contributions.</p>
+</li>
+<li>
+<p>Engaging in School Exchanges: Students visited three schools—one in Tianjin
+and two in Beijing—where they were warmly welcomed. They attended lessons
+alongside their buddies, interacted with local students, and gained valuable
+insights into China’s education system while forming meaningful cross-cultural
+friendships.</p>
+</li>
+</ul>
+<p>&lt; China 11.jpg &gt;</p>
+<h4><strong>A Transformative Experience</strong></h4>
+<p>This unforgettable learning journey encouraged students to step out of
+their comfort zones, embrace new experiences, and return with a deeper
+understanding of themselves, their values, and their place in the world.</p>
+<p>We look forward to seeing future cohorts embark on this meaningful adventure!</p>
+<p>
+<br>
+</p>
