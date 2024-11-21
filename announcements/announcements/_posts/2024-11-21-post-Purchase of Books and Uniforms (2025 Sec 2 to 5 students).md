@@ -20,7 +20,7 @@ is announced between 18 &amp; 20 December 2024.</p>
 <p><strong><u>Books &amp; Stationeries</u></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please order online before&nbsp;<strong><u>14 December 2024</u> (3.00pm). There will be No WALK-IN</strong> purchase.</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>URL: <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>URL: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <p>Click below to download the booklist.</p>
 <p><a href="/files/Secondary_2_Booklist__2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist</a>
@@ -67,7 +67,7 @@ dates below)</p>
 </p>
 <p>Please order online before&nbsp;<strong><u>30th November 2024</u> (2359hrs)</strong>
 </p>
-<p>URL: <a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/evergreen-secondary-school</a>
+<p>URL: <a href="https://jeepsinguniform.com/collections/evergreen-secondary-school" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com/collections/evergreen-secondary-school</a>
 </p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
