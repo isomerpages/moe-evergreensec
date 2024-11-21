@@ -29,6 +29,8 @@ is announced between 18 &amp; 20 December 2024.</p>
 </p>
 <p><a href="/files/Secondary_4_Booklist__2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
 </p>
+<p><a href="/files/Uniform_Jeep_Seng_Evergreen_Secondary_sale_schedule_Y24.pdf" rel="noopener nofollow" target="_blank">Uniform Evergreen Secondary sale schedule</a>
+</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
