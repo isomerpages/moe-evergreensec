@@ -12,7 +12,10 @@ Overseas Learning Journey (OLJ) to Beijing and Tianjin, China, from 27
 May to 2 June 2024. This enriching experience was designed to expand students’
 horizons and nurture essential life skills under the theme, “The World
 as Our School.”</p>
-<p>&lt; China 5.jpg &gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_5.jpg">
+</div>
 <h4><strong>Objectives of the OLJ</strong></h4>
 <p>The programme aimed to:</p>
 <ol>
@@ -33,7 +36,11 @@ Singapore’s, encouraging an appreciation for diversity and cultural sensitivit
 in Singapore through reflection on their overseas experiences.</p>
 </li>
 </ol>
-<p>&lt; China 9.jpg &gt;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_9.jpg">
+</div>
 <h4><strong>Highlights of the Trip</strong></h4>
 <p>The journey offered a dynamic blend of cultural exploration, educational
 opportunities, and personal growth:</p>
@@ -61,12 +68,45 @@ insights into China’s education system while forming meaningful cross-cultural
 friendships.</p>
 </li>
 </ul>
-<p>&lt; China 11.jpg &gt;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_11.jpg">
+</div>
 <h4><strong>A Transformative Experience</strong></h4>
 <p>This unforgettable learning journey encouraged students to step out of
 their comfort zones, embrace new experiences, and return with a deeper
 understanding of themselves, their values, and their place in the world.</p>
 <p>We look forward to seeing future cohorts embark on this meaningful adventure!</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/2024 OLJ (China)/China_14.jpg">
+</div>
+<p></p>
