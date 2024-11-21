@@ -16,7 +16,6 @@ term starts in January next year.</p>
 deadline indicated below, as our bookshop and school uniform partners will
 need to deploy their manpower for sales to 2025 Sec 1s, once posting results
 is announced between 18 &amp; 20 December 2024.</p>
-<p></p>
 <p>&nbsp;</p>
 <p><strong><u>Books &amp; Stationeries</u></strong>
 </p>
