@@ -8,8 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Students, Parents &amp; Guardians,</p>
-<p>&nbsp;</p>
-<p>You are strongly encouraged to order your textbooks and unform orders <strong>online</strong> early
+<p>&nbsp;You are strongly encouraged to order your textbooks and unform orders <strong>online</strong> early
 as this will allow your items to be delivered to you before&nbsp;the&nbsp;school
 term starts in January next year.</p>
 <p>&nbsp;We seek your understanding to place your orders before the respective
