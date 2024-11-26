@@ -26,12 +26,12 @@ Mode of Payment
 Cash, Nets, PayNow, DBS Paylah!  
 
 
-**Textbooks & Stationery**  
+**Textbooks &amp; Stationery**  
 Textbooks and stationery can be purchased from the school bookshop. The details are as below:
 
-**PACIFIC BOOKSTORES PTE. LTD**
+**PACIFIC BOOKSTORES PTE. LTD**<br>
 Operating Hours on school days 
 Monday to Friday 
 7.30am – 3.00pm
-Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
+Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>
 Contact No.: 9091 9869
