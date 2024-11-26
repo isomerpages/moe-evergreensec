@@ -100,7 +100,7 @@ office</p>
 School General Office or downloaded below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>
+<p><a href="/files/MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 </li>
 </ul>

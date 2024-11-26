@@ -97,10 +97,12 @@ to supplier)</p>
 textbooks in school</p>
 </li>
 </ul>
-<p>&nbsp;<strong><u>Dates for Self -Collection of Textbooks &amp; Purchase of Uniforms in School</u></strong>
+<p><strong><u>Dates for Self -Collection of Textbooks &amp; Purchase of Uniforms in School</u></strong>
 </p>
-<p>November:&nbsp;&nbsp;&nbsp;&nbsp; 25, 26, 29</p>
+<p>November:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;25, 26, 29</p>
 <p>December:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3, 5, 6,13,26,27</p>
-<p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00
+<p>December:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9, 10, 11 <strong>(For FAS Collection only)</strong>
+</p>
+<p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00
 am to 3.00 pm</p>
 <p>Lunch Break:&nbsp;&nbsp; 12.00 pm to 1.00 pm</p>

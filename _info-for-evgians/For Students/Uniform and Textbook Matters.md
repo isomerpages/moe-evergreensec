@@ -3,6 +3,7 @@ title: Uniform and Textbook Matters
 permalink: /school-information/Students/Uniform-and-Textbook-Matters/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 **Uniforms for Purchase**  
 School uniforms can be purchased from Jeep Sing Fashion. The uniforms are placed at school bookshop on school days. The school uniforms can also be purchased at the following locations.
@@ -25,12 +26,12 @@ Mode of Payment
 Cash, Nets, PayNow, DBS Paylah!  
 
 
-**Textbooks & Stationery**  
+**Textbooks &amp; Stationery**  
 Textbooks and stationery can be purchased from the school bookshop. The details are as below:
 
-**Print-Pak & Marketing**   
-Operating Hours on school days  
-Monday to Friday  
-7.30 am – 3.30pm  
-Contact No  
-63650779
+**PACIFIC BOOKSTORES PTE. LTD**<br>
+Operating Hours on school days 
+Monday to Friday 
+7.30am – 3.00pm
+Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)<br>
+Contact No.: 9091 9869
