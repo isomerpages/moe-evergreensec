@@ -2,9 +2,10 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
+variant: markdown
 ---
 # Our Vision
-#### **A dynamic community that thinks and cares.**
+#### **Evergreen in Learning, Exceptional in Character**
 
 
 # Our Mission
