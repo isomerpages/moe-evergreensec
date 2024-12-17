@@ -202,9 +202,9 @@ please send us the FAS Approval Letter immediately for processing:</p>
 </p>
 <p><strong>4.2&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>New Application for FAS</u></strong>
 </p>
-<p>If you <strong>have not</strong> applied for FAS in your Primary school,</p>
-<p>please complete and submit via: eFAS (<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS</a>)</p>
-<p><strong><br>Exceptions</strong>
+<p>If you <strong>have not</strong> applied for FAS in your Primary school,
+please complete and submit via: eFAS (<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">MOE eFAS</a>)</p>
+<p><strong>Exceptions</strong>
 </p>
 <p>For household that meet the following families conditions:</p>
 <ol data-tight="true" class="tight">
@@ -224,7 +224,6 @@ please send us the FAS Approval Letter immediately for processing:</p>
 <p>Please complete and email the soft copy of <a href="https://www.moe.gov.sg/financial-matters/-/media/a2155de9879a4d1db7eef286a4451e2c.ashx" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> to
 <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener nofollow" target="_blank">evergreen_ss@schools.gov.sg&nbsp;</a>
 </p>
-<p>&nbsp;</p>
 <p>To facilitate processing, applications must be attached with <strong><u>all supporting documents</u></strong> indicated
 in the MOE FAS Application form.</p>
 <h4><strong>5.&nbsp;&nbsp;Secondary One Letter to Parents / Guardians</strong></h4>
