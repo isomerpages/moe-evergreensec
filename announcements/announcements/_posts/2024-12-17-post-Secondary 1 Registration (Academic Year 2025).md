@@ -45,7 +45,7 @@ Banding (Full SBB)</p>
 <p><strong>&nbsp;&nbsp;</strong>
 </p>
 <h4><strong>1.&nbsp;&nbsp;Secondary 1 Online Registration on 19 December 2024</strong></h4>
-<p><u>Online Briefing for all Secondary 1 Students and Parents</u>
+<p><strong>Online Briefing for all Secondary 1 Students and Parents</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
