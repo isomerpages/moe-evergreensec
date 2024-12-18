@@ -195,8 +195,11 @@ to purchase the PE T-shirt in school on the first week of school.</p>
 </p>
 <p>To collect your textbooks and uniforms on 19, 20 and 23 December 2024,
 please send us the FAS Approval Letter immediately for processing:</p>
-<p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 18 December 2024</p>
-<p>Email:&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
+<p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 18 December 2024, 4pm (For Students Eligible
+for More Demanding Level Subjects)</p>
+<p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 19 December 2024, 4pm (All other students)</p>
+<p></p>
+<p>Email:&nbsp;&nbsp;&nbsp; <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -232,7 +235,7 @@ in our Parents Gateway message, for important information about the school
 and the key events in the school calendar for Term 1 2025.</p>
 <h4><strong>&nbsp;6. Reporting to School on 2 January 2025</strong></h4>
 <p><strong>&nbsp;</strong>If you are unable to report to Evergreen Secondary
-on 2 January 2025 due to valid reasons, please email us at <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
+on 2 January 2025 due to valid reasons, please email us at <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
 your name and contact number to confirm that you are still taking up the
 place, and we will be able to reserve the place for you.</p>
 <h4><strong>7. Secondary 1 (AY2025) Appeal for Admission to Evergreen Secondary School</strong></h4>
@@ -311,7 +314,7 @@ the child to assess their counselling needs.</p>
 <a href="mailto:julia_chia_jing_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">julia_chia_jing_yi@schools.gov.sg</a>.</p>
 <p><strong>(k) </strong>&nbsp;&nbsp;<strong>My child has health issues. How do I inform the school about it?</strong>
 </p>
-<p>Parents may email Mr James Ng (HOD / PE &amp; CCA) at <a rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a>.</p>
+<p>Parents may email Mr James Ng (HOD / PE &amp; CCA) at <a href="mailto:james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a>.</p>
 <p><strong><u>Parents Support Group (PSG)</u></strong>
 </p>
 <p><strong>(l)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I join the PSG?</strong>
