@@ -206,7 +206,7 @@ please send us the FAS Approval Letter immediately for processing:</p>
 <p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 18 December 2024, 4pm (For Students Eligible
 for More Demanding Level Subjects)</p>
 <p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 19 December 2024, 4pm (All other students)</p>
-<p>Email:&nbsp;<a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
+<p>Email: &nbsp; <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
 </p>
 <p></p>
 <p><strong>4.2&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>New Application for FAS</u></strong>
