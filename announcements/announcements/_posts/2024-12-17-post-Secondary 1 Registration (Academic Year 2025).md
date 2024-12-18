@@ -237,7 +237,7 @@ your name and contact number to confirm that you are still taking up the
 place, and we will be able to reserve the place for you.</p>
 <h4><strong>7. Secondary 1 (AY2025) Appeal for Admission to Evergreen Secondary School</strong></h4>
 <p>For consideration to be placed on the waiting list for admission to Evergreen
-Secondary School, please submit your application form through <a href="%20" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1appeal-evgss</a>
+Secondary School, please submit your application form <a href="https://go.gov.sg/sec1appeal-evgss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1appeal-evgss</a>
 </p>
 <p>Students seeking admission <strong>must</strong> meet the cut-off point
 (COP) of the school.</p>
