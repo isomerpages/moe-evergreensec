@@ -236,17 +236,20 @@ please complete and submit via: eFAS (<a href="https://form.gov.sg/6666a548f71e0
 <p>To facilitate processing, applications must be attached with <strong><u>all supporting documents</u></strong> indicated
 in the MOE FAS Application form.</p>
 <p></p>
+<p>&nbsp;</p>
 <h4><strong>5.&nbsp;&nbsp;Secondary One Letter to Parents / Guardians</strong></h4>
 <p>Please refer to the <strong>2025 Term 1 Letter to Secondary One Parents</strong> attached
 in our Parents Gateway message, for important information about the school
 and the key events in the school calendar for Term 1 2025.</p>
 <p></p>
+<p>&nbsp;</p>
 <h4><strong>6. Reporting to School on 2 January 2025</strong></h4>
 <p><strong>&nbsp;</strong>If you are unable to report to Evergreen Secondary
 on 2 January 2025 due to valid reasons, please email us at <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
 your name and contact number to confirm that you are still taking up the
 place, and we will be able to reserve the place for you.</p>
 <p></p>
+<p>&nbsp;</p>
 <h4><strong>7. Secondary 1 (AY2025) Appeal for Admission to Evergreen Secondary School</strong></h4>
 <p>For consideration to be placed on the waiting list for admission to Evergreen
 Secondary School, please submit your application form <a href="https://go.gov.sg/sec1appeal-evgss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1appeal-evgss</a>
@@ -255,6 +258,7 @@ Secondary School, please submit your application form <a href="https://go.gov.sg
 (COP) of the school.</p>
 <p>Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5.00pm.</p>
 <p></p>
+<p>&nbsp;</p>
 <h4><strong>8. Frequently Asked Questions and Other Queries</strong></h4>
 <p><strong><u>Sec 1 Registration</u></strong>
 </p>
