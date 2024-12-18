@@ -89,7 +89,7 @@ for and intends to take Science and Mathematics at G3 level).&nbsp;</p>
 </ul>
 <p>&nbsp;</p>
 <h4><strong>3.&nbsp;&nbsp;&nbsp;Purchase of Textbooks and School Uniforms</strong></h4>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>For Students Eligible for More Demanding Level Subjects</u></strong>
 </p>
 <p>After submission of the Full SBB option form, parents and students may
@@ -125,7 +125,7 @@ book an appointment slot via the following link before proceeding to school.</p>
 to the school Security Officers before entry.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp; <u>Sales location in school</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -137,7 +137,7 @@ to the school Security Officers before entry.</p>
 (EP) Corner.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Operating days and hours</u></strong>
 </p>
 <p>Below are the operating hours for the sale of textbooks, stationery and
@@ -180,9 +180,17 @@ school uniform:</p>
 <p>23 December 2024</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp; <u>PE T-shirt</u></strong>
 </p>
 <p>The colour of the PE T-shirt will depend on the class/house that students
@@ -198,11 +206,9 @@ please send us the FAS Approval Letter immediately for processing:</p>
 <p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 18 December 2024, 4pm (For Students Eligible
 for More Demanding Level Subjects)</p>
 <p>Date:&nbsp;&nbsp;&nbsp;&nbsp; By 19 December 2024, 4pm (All other students)</p>
+<p>Email:&nbsp;<a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
+</p>
 <p></p>
-<p>Email:&nbsp;&nbsp;&nbsp; <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>4.2&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>New Application for FAS</u></strong>
 </p>
 <p>If you <strong>have not</strong> applied for FAS in your Primary school,
@@ -229,15 +235,21 @@ please complete and submit via: eFAS (<a href="https://form.gov.sg/6666a548f71e0
 </p>
 <p>To facilitate processing, applications must be attached with <strong><u>all supporting documents</u></strong> indicated
 in the MOE FAS Application form.</p>
+<p></p>
+<p>&nbsp;</p>
 <h4><strong>5.&nbsp;&nbsp;Secondary One Letter to Parents / Guardians</strong></h4>
 <p>Please refer to the <strong>2025 Term 1 Letter to Secondary One Parents</strong> attached
 in our Parents Gateway message, for important information about the school
 and the key events in the school calendar for Term 1 2025.</p>
-<h4><strong>&nbsp;6. Reporting to School on 2 January 2025</strong></h4>
+<p></p>
+<p>&nbsp;</p>
+<h4><strong>6. Reporting to School on 2 January 2025</strong></h4>
 <p><strong>&nbsp;</strong>If you are unable to report to Evergreen Secondary
 on 2 January 2025 due to valid reasons, please email us at <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
 your name and contact number to confirm that you are still taking up the
 place, and we will be able to reserve the place for you.</p>
+<p></p>
+<p>&nbsp;</p>
 <h4><strong>7. Secondary 1 (AY2025) Appeal for Admission to Evergreen Secondary School</strong></h4>
 <p>For consideration to be placed on the waiting list for admission to Evergreen
 Secondary School, please submit your application form <a href="https://go.gov.sg/sec1appeal-evgss" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1appeal-evgss</a>
@@ -245,6 +257,8 @@ Secondary School, please submit your application form <a href="https://go.gov.sg
 <p>Students seeking admission <strong>must</strong> meet the cut-off point
 (COP) of the school.</p>
 <p>Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5.00pm.</p>
+<p></p>
+<p>&nbsp;</p>
 <h4><strong>8. Frequently Asked Questions and Other Queries</strong></h4>
 <p><strong><u>Sec 1 Registration</u></strong>
 </p>
