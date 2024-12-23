@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Thank you to all parents and newly posted Sec 1 students who attended
-our Zoom briefing session this morning.</p>
+our Zoom briefing session on 19 December 2024.</p>
 <p>The following are the slides and video recording from the briefing session
 for your reference:</p>
 <p><strong>(A) Slides from Briefing:</strong>
