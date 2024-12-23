@@ -23,9 +23,12 @@ for your reference:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.youtube.com/watch?v=gN0x8Dn74a8" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Registration (AY2024) Zoom Briefing Recording</a>
+<p><a href="https://www.youtube.com/watch?v=gN0x8Dn74a8" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Registration (AY2025) Zoom Briefing Recording</a>
 </p>
 <p></p>
+</li>
+<li>
+<p>5</p>
 </li>
 </ul>
 <p></p>
