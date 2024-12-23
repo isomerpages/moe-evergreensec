@@ -15,7 +15,7 @@ for your reference:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/S1_Registration_Slides_21Dec2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration Briefing Slides (AY 2025)</a>
+<p><a href="/files/Secondary 1 Registration/sec 1 registration briefing slides ay2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration Briefing Slides (AY2025)</a>
 </p>
 </li>
 </ul>
