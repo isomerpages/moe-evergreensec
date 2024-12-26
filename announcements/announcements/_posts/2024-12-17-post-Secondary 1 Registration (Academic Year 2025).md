@@ -256,7 +256,9 @@ Secondary School, please submit your application form <a href="https://go.gov.sg
 </p>
 <p>Students seeking admission <strong>must</strong> meet the cut-off point
 (COP) of the school.</p>
-<p>Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5.00pm.</p>
+<p>Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5.00pm. The appeal
+is deemed to be unsuccessful if you do not hear from the school by 2 January
+2025.</p>
 <p></p>
 <p>&nbsp;</p>
 <h4><strong>8. Frequently Asked Questions and Other Queries</strong></h4>

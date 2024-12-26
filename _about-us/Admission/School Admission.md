@@ -21,7 +21,7 @@ Our Cut Off Points (COP) for AY2025 Sec 1 are:
 
 **Posting Group 1: 28**
 
-Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5 pm.
+Deadline for appeal for S1 (AY2025) is 30 Dec 2024, 5 pm. The appeal is deemed to be unsuccessful if you do not hear from the school by 2 January 2025.
 
 **(B) Transfer to Evergreen Secondary (for Students Presently Studying in Other Schools)**
 
