@@ -451,8 +451,10 @@ activities taking place in school, and do not require any overnight stay.</p>
 </tr>
 </tbody>
 </table>
-<p>To help you prepare for the new academic year, we have attached the
-<a href="/files/Secondary_5_Booklist__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">booklist</a>for 2025. You can purchase these items from the school bookshop
-starting 30 December 2025 (Monday) from 9 am to 3 pm. Please note that
-the bookshop staff will be on lunch break from 12 pm to 1 pm.</p>
+<p>To help you prepare for the new academic year, we have attached the booklist
+for 2025. You can purchase these items from the school bookshop starting
+30 December 2025 (Monday) from 9 am to 3 pm. Please note that the bookshop
+staff will be on lunch break from 12 pm to 1 pm.</p>
+<p><a href="/files/Secondary_5_Booklist__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 5 BOOKLIST 2025</a>
+</p>
 <p>We look forward to seeing you and embark on this new chapter together!</p>
