@@ -297,11 +297,11 @@ prepare for the upcoming academic challenges.</p>
 <p><strong>Camp Readiness</strong> aims to prepare you for future educational
 and career paths through industry insights and exploration of post-secondary
 options. This camp develops crucial 21st century skills while fostering
-stronger class bonds, empowering you to make informed decisions about their
+stronger class bonds, empowering you to make informed decisions about your
 future.</p>
 <p>Start-It-Right Programme is held from <strong>2 to 6 January</strong>,
 followed by Camp Readiness from <strong>8 to 10 January</strong>. The detailed
-schedule will be shared with your child/ward on the first day of school.&nbsp;</p>
+schedule will be shared with you on the first day of school.&nbsp;</p>
 <p>Please note that Start-It-Right Programme and Camp Readiness include day
 activities taking place in school, and do not require any overnight stay.</p>
 <table style="minWidth: 125px">
