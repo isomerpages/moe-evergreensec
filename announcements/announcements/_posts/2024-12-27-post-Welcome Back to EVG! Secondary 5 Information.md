@@ -265,9 +265,192 @@ to have you on board for 2025!</p>
 </tr>
 </tbody>
 </table>
-<p>Please report to your form class on 2 January 2025 at 8:50 am in your
-PE attire. This will mark the beginning of your Secondary 5 journey with
-us.</p>
+<p>Please report to the hall on 2 January 2025 (Thursday) at 8:50 am in your
+PE attire for the Start-It-Right Programme. You will need to bring along:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pocket money for recess and lunch</p>
+</li>
+<li>
+<p>Student smart card</p>
+</li>
+<li>
+<p>Writing materials</p>
+</li>
+<li>
+<p>Fully charged personal learning device (PLD)</p>
+</li>
+<li>
+<p>Water bottle</p>
+</li>
+<li>
+<p>Financial assistance form (if any)</p>
+</li>
+<li>
+<p>Medical reports (if any)</p>
+</li>
+</ul>
+<p>The <strong>Start-It-Right Programme</strong> sets the tone for the academic
+year ahead, and includes various important activities designed to help
+you reconnect with your peers and teachers, reinforce school values, and
+prepare for the upcoming academic challenges.</p>
+<p><strong>Camp Readiness</strong> aims to prepare you for future educational
+and career paths through industry insights and exploration of post-secondary
+options. This camp develops crucial 21st century skills while fostering
+stronger class bonds, empowering you to make informed decisions about their
+future.</p>
+<p>Start-It-Right Programme is held from <strong>2 to 6 January</strong>,
+followed by Camp Readiness from <strong>8 to 10 January</strong>. The detailed
+schedule will be shared with your child/ward on the first day of school.&nbsp;</p>
+<p>Please note that Start-It-Right Programme and Camp Readiness include day
+activities taking place in school, and do not require any overnight stay.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.50am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.05pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.05pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Camp Preparation &amp; Blended Learning Day (No School)
+<br>Students will complete an SLS learning package and a survey at home.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.05pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.40pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>To help you prepare for the new academic year, we have attached the
 <a href="/files/Secondary_5_Booklist__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">booklist</a>for 2025. You can purchase these items from the school bookshop
 starting Monday, 30 December, from 9 am to 3 pm. Please note that the bookshop
