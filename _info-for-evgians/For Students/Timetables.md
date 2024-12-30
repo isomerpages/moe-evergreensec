@@ -9,4 +9,4 @@ variant: markdown
 
 Please access Semester 1 timetable for the respective classes here : 
 
-[](/files/Timetables/2025_Sem1_Timetable_Class.pdf)
+[2025 Semester 1 Timetable_Class](/files/Timetables/2025_Sem1_Timetable_Class.pdf)
