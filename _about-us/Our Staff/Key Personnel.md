@@ -19,16 +19,15 @@ variant: markdown
 | Mr Gregory Peck Chin Hee  | HOD - Science | peck_chin_hee@moe.edu.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@moe.edu.sg |
 | Ms Koh Siang Cheng | Subject Head - English Language | koh_siang_cheng@moe.edu.sg |
+| Ms Chong Siew Sia | Subject Head - Character & Citizenship Education | chong_siew_sia@moe.edu.sg |
 | Ms Low Hwee Noi | Subject Head - Chinese Language  | low_hwee_noi@moe.edu.sg |
 | Ms Siti Mariam Binte Muhammad | Subject Head - History | siti_mariam_muhammad@moe.edu.sg |
-| Mr Wong Wei Tang | Subject Head - Student Management (Int) | wong_wei_tang@moe.edu.sg |
-| Ms Chong Siew Sia | Level Head - Character & Citizenship Education (CCE) | chong_siew_sia@moe.edu.sg |
-| Ms Yew Min'er Mindice| Level Head - Mathematics | yew_miner_mindice@moe.edu.sg |
-| Ms Chia Ai Li, Joan | Level Head - Science | chia_ai_li_joan@moe.edu.sg |
-| Ms Koh Siang Cheng | Level Head - English (Int) | koh_siang_cheng@moe.edu.sg |
-| Mr Oun Yejiu | Year Head | oun_yejiu@moe.edu.sg |
+| Ms Yew Min'er Mindice| Subject Head - Mathematics | yew_miner_mindice@moe.edu.sg |
+| Ms Chia Ai Li, Joan | Subject Head - Science | chia_ai_li_joan@moe.edu.sg |
+| Mr Wong Wei Tang | Subject Head - Student Management | wong_wei_tang@moe.edu.sg |
 | Mr Mohammad Shahril Bin Jumat | Year Head | mohammad_shahril_jumat@moe.edu.sg |
+| Mr Oun Yejiu | Year Head | oun_yejiu@moe.edu.sg |
 | Mr Anantharaja Krishnan Samy | Assistant Year Head | anantharaja_krishnan_samy@moe.edu.sg |
 | Ms Joanna Lee Teck Miang | Assistant Year Head | lee_teck_miang@moe.edu.sg |
-| Mr Ratish Balakrishnan | Assistant Year Head | ratish_balakrishnan@moe.edu.sg |
-| Ms Lee Wei Leng | Assistant Year Head - 21CC (Int) | lee_wei_leng@moe.edu.sg |
+| Ms Lee Wei Leng | Assistant Year Head - 21CC | lee_wei_leng@moe.edu.sg |
+| Ms Lydia Sng Pei'En | Assistant Year Head - CCA & LLP (Int) | lydia_sng_pei_en@moe.edu.sg |
