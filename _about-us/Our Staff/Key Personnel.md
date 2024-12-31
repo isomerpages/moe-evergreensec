@@ -8,8 +8,8 @@ variant: markdown
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Imran Bin Zainal | School Staff Developer | imran_zainal@moe.edu.sg |
-| Ms Pushpalatha d/o Krishnan     | HOD - Aesthetics | pushpalatha_krishnan@moe.edu.sg |
-|Ms Julia Chia Jing Yi | HOD - Character Citizenship Education & Student Well-Being |julia_chia_jing_yi@moe.edu.sg |
+| Miss Pushpalatha d/o Krishnan     | HOD - Aesthetics | pushpalatha_krishnan@moe.edu.sg |
+|Mrs Julia Raj | HOD - Character Citizenship Education & Student Well-Being |julia_chia_jing_yi@moe.edu.sg |
 | Mr Abdul Aziz Bin Mohamad | HOD - Discipline | abdul_aziz_mohamad@moe.edu.sg |
 | Mr Chua Swee Heng Melvin   | HOD - EdTech | chua_swee_heng_melvin@moe.edu.sg |
 | Ms Hanna Maryam Bte Samri | HOD - English Language and Literature | hanna_maryam_samri@moe.edu.sg |
