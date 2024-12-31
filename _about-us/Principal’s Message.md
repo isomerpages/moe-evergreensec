@@ -24,8 +24,6 @@ As we take our next leap forward, perhaps most importantly, this is also a remin
 
 Thank you all for your unwavering support and belief in Evergreen. I look forward to journeying with all of you in this new chapter as we continue to make Evergreen a pride of place in the community and the nation.
 
-Yours Sincerely, 
-
-Ms Bian Yu Wei
+Yours Sincerely, Ms Bian Yu Wei
 
 ![](/images/Our%20Staff/School%20Leaders/Principal_Message_29dec23.png)
