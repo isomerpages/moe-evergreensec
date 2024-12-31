@@ -13,7 +13,7 @@ variant: markdown
 | Mr Abdul Aziz Bin Mohamad | HOD - Discipline | abdul_aziz_mohamad@moe.edu.sg |
 | Ms Hanna Maryam Bte Samri | HOD - English Language and Literature | hanna_maryam_samri@moe.edu.sg |
 | Ms Yong Shing Peng Sabrina | HOD - Humanities | yong_shing_peng_sabrina@moe.edu.sg |
-| Mr Chua Swee Heng Melvin   | HOD - Information & Communication Technology (ICT) | chua_swee_heng_melvin@moe.edu.sg |
+| Mr Chua Swee Heng Melvin   | HOD - EdTech | chua_swee_heng_melvin@moe.edu.sg |
 | Mr Chong Sze Kei | HOD - Mathematics | chong_sze_kei@moe.edu.sg |
 | Mr Zulkarnain Bin Sarion  | HOD - Mother Tongue Languages | zulkarnain_bin_sarion@moe.edu.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@moe.edu.sg |
