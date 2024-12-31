@@ -19,7 +19,7 @@ variant: markdown
 | Mr Gregory Peck Chin Hee  | HOD - Science | peck_chin_hee@moe.edu.sg |
 | Mr James Ng Aik Gian | HOD - PE & CCA | james_ng_aik_gian@moe.edu.sg |
 | Ms Koh Siang Cheng | Subject Head - English Language | koh_siang_cheng@moe.edu.sg |
-| Ms Chong Siew Sia | Subject Head - Character & Citizenship Education | chong_siew_sia@moe.edu.sg |
+| Mdm Chong Siew Sia | Subject Head - Character & Citizenship Education | chong_siew_sia@moe.edu.sg |
 | Ms Low Hwee Noi | Subject Head - Chinese Language  | low_hwee_noi@moe.edu.sg |
 | Ms Siti Mariam Binte Muhammad | Subject Head - History | siti_mariam_muhammad@moe.edu.sg |
 | Ms Yew Min'er Mindice| Subject Head - Mathematics | yew_miner_mindice@moe.edu.sg |
