@@ -130,7 +130,7 @@ Cousins and others)</p>
 <p>Find out the summary of claims procedure and coverage:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Info about Student's Insurance Plan (NTUC)</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Info about Student's Insurance Plan (2025)</a>
 </p>
 </li>
 </ul>
