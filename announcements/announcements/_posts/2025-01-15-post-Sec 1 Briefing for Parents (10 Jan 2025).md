@@ -10,4 +10,5 @@ variant: tiptap
 <p>Thank you to all parents of our Sec 1 students who attended the briefing
 on 10 January 2025.</p>
 <p>Here is the briefing material for your reference:</p>
-<p></p>
+<p><a href="/files/Sec_1_Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Briefing for Parents </a>
+</p>
