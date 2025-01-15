@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Thank you to all parents of our Sec 1 students who attended the briefing
+on 10 January 2025.</p>
+<p>Here is the briefing material for your reference:</p>
+<p></p>
