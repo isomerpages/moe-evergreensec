@@ -16,25 +16,26 @@ The Evergreen Secondary School DMC was formed to provide a platform for both stu
 
 | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| PRESIDENT (PHOTOGRAPHY) | LIN JIA HENG                                           |
-| PRESIDENT (VIDEOGRAPHY) | CHONG YING EN REGINE                                          |
-| PRESIDENT (AVA) | MUSRIDA DEA ANANDA                                          |
-| VICE PRESIDENT (OPERATIONS)         | KHAIRIL RUSYAIDI BIN KHAIRULLAH                                    |
-| VICE PRESIDENT (AVA)                | YEH YUH XUN                                     |
-| VICE PRESIDENT (LIVESTREAM)         | TAY WEN SUAN                                   |
-| SECRETARY                           | ZEPHAN SAGHADEVAN                    |
-| ASSISTANT SECRETARY                 | NUR ADAWIYAH MAISARAH BTE ZULKARNAEN                                    |
-| LOGISTICS (PHOTO)                   | OH JUN LONG                                |
-ASSISTANT LOGISTICS (PHOTO)         | ANG JUN KIAT                               |
-| LOGISTICS (VIDEO)                   | SIM WEI RUI |
-| ASSISTANT LOGISTICS (VIDEO)         | TIAN JINGYU                               |
-| LOGISTICS (AVA)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
-| ASSISTANT LOGISTICS (AVA)         |  CLAUDIO XAVIER BARBERO & WONG JUN XIANG JENSON|
-LOGISTICS (LIVESTREAM/LAPTOPS)         | SHAWN ALEXIS ROJAS HIPOLITO                               |
-| COMMUNICATIONS OFFICER (SEC 2)      | YEUNG WEN JUN                              |
-| COMMUNICATIONS OFFICER (SEC 1)      | ZHANG HAOYANG                                 |
-PRODUCER                   | QUEK WEI XIN                                |
-FITNESS GAME IC                   | TAN KAI JIE, JOAQUIN & ALISHA QISTINA BTE MOHD NIZAR                                |
+| PRESIDENT (AVA) | GOH YUAN LIN                                          |
+| PRESIDENT (PHOTOGRAPHY) | GOH HAO ZHEN                                           |
+| PRESIDENT (VIDEOGRAPHY) | HAN RONG DING, ENVER                                          |
+| VICE PRESIDENT (AVA)                | WONG JUN XIANG JENSON                                    |
+| VICE PRESIDENT (LIVESTREAM)         | ERNEST LUM                                   |
+| VICE PRESIDENT (OPERATIONS)         | YEUNG WEN JUN                                    |
+| SECRETARY                           | NUR SAKEENAH FATINI BINTE RAZALI ,              |
+|                  |     NUR ADALINA AMELDA BINTE MUHAMMAD JAMALNASRUDDIN                                     |
+| LOGISTICS (PHOTO)                   | WONG WEI KAI                                |
+LOGISTICS (LIVESTREAM)         | DYLAN SEE YU ZHE                               |
+LOGISTICS (LAPTOP)         | MUHAMMAD ARASY RAIHAN BIN RUSLAN                               |
+| LOGISTICS (VIDEO)                   | TAI JIT HANG |
+| ASSISTANT LOGISTICS (VIDEO)         | ARIESYA BINTE MUHAMMAD ZAHID                               |
+| ASSISTANT LOGISTICS (AVA)         |  LOW ZHI XUAN|
+| COMMUNICATIONS OFFICER (SEC 2)      | AQIL BIN ISMAN                              |
+| COMMUNICATIONS OFFICER (SEC 1)      | NIR RIFQHA ASHIFAH BINTE S M WAJDI                                 |
+CHIEF EDITOR                   | LOH YI ZHENG                        |
+ |                  | DENZER CHONG YIN KANG                               |
+FITNESS GAME IC                   | MUHAMMAD FAIQ RUSYDI BIN MOHAMMAD HAFIZ                               |
+|                   | MUHAMMAD DANISH ILHAN BIN SAHRIN                               |
 
 ![DMC Formal 2022](/images/dmc%20formal%202022.JPG)
 
@@ -63,6 +64,11 @@ The students of Digital Media Club will contribute to the school through providi
 
 Every student in this club is encouraged to participate in the annual NEmation competition, School Digital Media Awards competition and media-related enrichment workshops. The students will also participate in various notable photography competitions and events.
 
+**N.E.Mation 2024**  
+N.E.mation! is a competition for youths to express their notions on Total Defence through animation. All DMC members participate in this competition every year. 
+
+In 2024, two of the teams was selected for Top 20 Finalists category. The production and judging process is still ongoing until February 2025.
+
 **Appreciating our NSmen 2023 Video Competition**
 
 We are delighted to announce that one of our entries ‘My Brother In Green’ has won the Merit Award, Audience Choice Award and Young Video Maker Award. This is the second year in a row that we have received these award!
@@ -89,7 +95,7 @@ We are happy to announce that the submission by our students, Izzul Ilham Bin Ra
 ![DMC SG75](/images/dmc%20sg75.jpg)
 
 **N.E.Mation 2021**  
-N.E.mation! is a competition for youths to express their notions on Total Defence through animation. All DMC members participate in this competition every year. In 2021, one of the teams was selected for Top 20 Finalists category.
+In 2021, one of the teams was selected for Top 20 Finalists category.
 
 **N.E.Mation 2020**
 
