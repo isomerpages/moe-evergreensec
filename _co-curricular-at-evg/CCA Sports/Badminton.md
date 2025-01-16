@@ -79,6 +79,9 @@ inspiring the juniors to develop their own leadership skills.</p>
 <p>2024 National School Games, C Division Girls, 2nd (League 4)</p>
 </li>
 <li>
+<p>2024 National School Games, B Division Boys, North Zone Top 8</p>
+</li>
+<li>
 <p>2023 National School Games, C Division Boys, 4th in North Zone</p>
 </li>
 <li>
@@ -160,8 +163,9 @@ Hall</p>
 </p>
 </li>
 </ul>
-<h4>Join our 2024 trial sessions!</h4>
+<h4>Join our 2025 trial sessions!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton Trials" src="/images/Badminton_Trial_Poster_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/WhatsApp_Image_2025_01_17_at_07_24_54.jpg">
 </div>
 <p></p>
