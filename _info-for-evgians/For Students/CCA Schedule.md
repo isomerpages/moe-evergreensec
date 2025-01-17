@@ -9,4 +9,4 @@ variant: markdown
 
 2025 CCA Schedule
 
-[CCA Training Schedule 2025](/files/CCA_Training_Schedule_2025.pdf)
+[CCA Training Schedule](/files/CCA_Training_Schedule_2025_1.pdf)
