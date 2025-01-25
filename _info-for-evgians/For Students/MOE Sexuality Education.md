@@ -45,7 +45,8 @@ ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>Overview of Evergreen Secondary School's Sexuality Education Programme for 2024</h3>
+<p></p>
+<h3>Overview of Evergreen Secondary School's Sexuality Education Programme for 2025</h3>
 <p></p>
 </li>
 <li>
@@ -69,7 +70,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
+his or her own identity and often struggles with new social relationships.
 The period of middle adolescence (generally from 15 – 17 years old) can
 be a turbulent period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
@@ -88,14 +89,62 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p><strong>At Evergreen Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Evergreen Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <p></p>
-<p>2024 Sexuality Education Lessons in CCE 2021</p>
+<p>2025 Sexuality Education Lessons in CCE</p>
 <p></p>
 <h4>Secondary 1</h4>
 <p></p>
-<table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 Sexuality Education Part 1" src="/images/Sec_1_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 Sexuality Education Part 2" src="/images/Sec_1_2.jpg">
+</div>
+<p></p>
+<h4>Secondary 2</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Sexuality Education Part 1" src="/images/Sec_2_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Sexuality Education Part 2" src="/images/Sec_2_2.jpg">
+</div>
+<p></p>
+<h4>Secondary 3</h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 Sexuality Education Part 1" src="/images/Sec_3_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 Sexuality Education Part 2" src="/images/Sec_3_2.jpg">
+</div>
+<h4>Secondary 4</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 Sexuality Education Part 1" src="/images/Sec_4_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 Sexuality Education Part 2" src="/images/Sec_4_2.jpg">
+</div>
+<p></p>
+<h4>Secondary 5</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 5 Sexuality Education" src="/images/Sec_5.jpg">
+</div>
+<p></p>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -218,7 +267,14 @@ flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <h4>Secondary 2</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -340,7 +396,14 @@ consequences, both offline and online</p>
 </tbody>
 </table>
 <h4>Secondary 3</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -437,7 +500,14 @@ pillars of support</p>
 </tbody>
 </table>
 <h4>Secondary 4</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -591,7 +661,14 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tbody>
 </table>
 <h4>Secondary 5</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -671,7 +748,12 @@ Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <p><strong>At Evergreen Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
