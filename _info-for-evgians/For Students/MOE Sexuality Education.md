@@ -746,8 +746,10 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p><strong>At Evergreen Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Evergreen Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
