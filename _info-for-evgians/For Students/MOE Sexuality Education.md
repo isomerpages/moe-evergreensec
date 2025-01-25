@@ -187,9 +187,9 @@ submitted by 07/02/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@moe.edu.sg</a> or
-63656392 for discussion or to seek clarification about the school’s Sexuality
-Education programme.</p>
+<p>Parents can contact the school at <a href="mailto:evergreen_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@moe.edu.sg</a> or 63656392
+for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 </li>
 </ol>
 <p></p>
