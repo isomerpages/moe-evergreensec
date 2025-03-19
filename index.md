@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/hero_banner_1920x720gif.gif
+      background: /images/HeroBanner_Final.gif
       variant: image
   - resources:
       button: Read more
