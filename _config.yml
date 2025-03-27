@@ -3,8 +3,8 @@ url: https://evergreensec.moe.edu.sg
 favicon: /images/Homepage/evergreen sec logo final color (2)_jan 2016 (rgb with
   transparent background).png
 colors:
-  primary-color: "#226704"
-  secondary-color: "#4e8905"
+  primary-color: "#02574e"
+  secondary-color: "#0f776c"
   media-colors:
     - title: media-color-one
       color: "#3e6616"
