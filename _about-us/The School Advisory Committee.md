@@ -16,3 +16,6 @@ As a key partner in guiding and growing the school to realise her mission and vi
 | Bian Yu Wei    |    Secretary    |
 | Carina Chia    |      Member     |
 | Tony Ng        |      Member     |
+| Pratik Mukherjee        |      Member     |
+| Jackson Koh        |      Member     |
+| Raja Chowdhury        |      Member     |
