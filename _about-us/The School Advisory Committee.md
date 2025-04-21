@@ -10,7 +10,7 @@ As a key partner in guiding and growing the school to realise her mission and vi
 
 **SAC Office Bearers**
 
-| Lydia Chan     |     Chairman    |
+| Lydia Goh     |     Chairman    |
 |----------------|:---------------:|
 | Edward Wee     | Vice - Chairman |
 | Bian Yu Wei    |    Secretary    |
