@@ -76,34 +76,6 @@ CCA.</p>
 <p></p>
 </li>
 <li>
-<p>Students who accept DSA offers to EVG through:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><u>Digital Media</u> must indicate either the <u>Digital Media Club</u> or
-the <u>English Literary Drama and Debate Society (ELDDS)</u> as one of their
-CCA.</p>
-</li>
-<li>
-<p><u>Bilingualism</u> must indicate either the <u>Digital Media Club</u> or
-the <u>English Literary Drama and Debate Society (ELDDS)</u> as one of their
-CCA options.</p>
-</li>
-<li>
-<p><u>Leadership</u> must indicate at least one <u>Uniformed Group</u> as one
-of their CCA options.</p>
-</li>
-<li>
-<p><u>Sports</u> must participate in their respective <u>sports CCAs</u> for
-the duration of their secondary school education.</p>
-</li>
-<li>
-<p><u>Chinese Language</u> or <u>Malay Language</u> may join any CCA of their
-choice.</p>
-<p></p>
-</li>
-</ul>
-</li>
-<li>
 <p>Successful DSA students will also be nurtured through our distinctive
 programmes to further develop their talents, character and leadership potential.
 They will have opportunities to participate in various competitions, workshops
@@ -111,6 +83,7 @@ and enrichment activities to further hone their skills and expertise in
 their respective domains. These students can also take on leadership roles
 within their CCAs and at the school level, contributing to EVG’s vibrant
 student life and inspiring other students through their leadership.</p>
+<p></p>
 </li>
 <li>
 <p>Click on these links to learn more about the above talent areas and their
@@ -134,7 +107,7 @@ programmes:</p>
 <p></p>
 <h4><strong>(C) Selection Criteria &amp; Selection Process</strong></h4>
 <p>To find out about the selection criteria and process for each of the talent
-areas, click <a href="/files/Direct School Admission/EVG_DSA_Criteria_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Processes</a>.</p>
+areas, click <a href="/files/Direct School Admission/EVG_DSA_Opportunities_Selection_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Processes</a>.</p>
 <p>Meeting all the criteria does not guarantee shortlist or offer.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
