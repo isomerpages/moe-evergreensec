@@ -106,20 +106,34 @@ programmes:</p>
 </div>
 <p></p>
 <h4><strong>(C) Selection Criteria &amp; Selection Process</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>To find out about the selection criteria and process for each of the talent
 areas, click <a href="/files/Direct School Admission/EVG_DSA_Opportunities_Selection_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Processes</a>.</p>
+</li>
+<li>
 <p>Meeting all the criteria does not guarantee shortlist or offer.</p>
+</li>
+<li>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p>You will receive notification from the school by Friday, 11<sup>th</sup> July
-2025. If your child has been shortlisted to undergo Direct School Admission
-(DSA) selection.</p>
+</li>
+<li>
+<p>You will receive notification from the school by Friday, 11th July 2025.
+If your child has been shortlisted to undergo Direct School Admission (DSA)
+selection.</p>
+</li>
+<li>
 <p>All applicants will receive their application outcomes between Monday
-25<sup>th</sup> August and Thursday 4<sup>th</sup> September 2025.</p>
+25th August and Thursday 4th September 2025.</p>
+</li>
+<li>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>
 </p>
+</li>
+</ol>
 <h4><strong>(D) Follow Us on Social Media</strong></h4>
 <p>Follow us on <a href="https://www.facebook.com/EvergreenSecondary/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/evergreen_secondary_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to find out more about our vibrant school community!</p>
