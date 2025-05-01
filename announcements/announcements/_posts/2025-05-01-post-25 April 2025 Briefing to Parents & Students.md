@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Thank you to all parents of our Sec 2, 3 and 4 students who attended the
-briefing on 25 April 2025.</p>
+briefing/s on 25 April 2025.</p>
 <p>Here are the briefing materials for Secondary 2:</p>
 <ul data-tight="true" class="tight">
 <li>
