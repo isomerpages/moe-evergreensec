@@ -37,3 +37,15 @@ briefing/s on 25 April 2025.</p>
 </li>
 </ul>
 <p></p>
+<p>Here are the briefing materials for Secondary 4:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/5 Sec 1 Letter to Parents/Sec_4_Briefing_to_Students_and_Parents_2025_25042025_R.pdf" rel="noopener nofollow" target="_blank">Sec Sec 4 Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/3gIQab36fhU" rel="noopener nofollow" target="_blank">Sec 4 Briefing Video Recording</a>
+</p>
+</li>
+</ul>
+<p></p>
