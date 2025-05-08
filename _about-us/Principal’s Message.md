@@ -26,4 +26,4 @@ Thank you all for your unwavering support and belief in Evergreen. I look forwar
 
 Yours Sincerely, Ms Bian Yu Wei
 
-![Ms Bian, our Principal](/images/KTD_0229.jpg)
+![Ms Bian, our Principal](/images/KTD_0229_1.jpg)
