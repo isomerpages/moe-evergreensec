@@ -26,4 +26,5 @@ Thank you all for your unwavering support and belief in Evergreen. I look forwar
 
 Yours Sincerely, Ms Bian Yu Wei
 
-![](/images/Our%20Staff/School%20Leaders/Principal_Message_29dec23.png)
+
+![Ms Bian, our Principal](/images/KTD_0229_1.jpg)
