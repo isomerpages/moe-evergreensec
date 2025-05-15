@@ -14,7 +14,7 @@ third_nav_title: For Students
 <p></p>
 <hr>
 <h3><strong>Key Dates:</strong></h3>
-<h4><strong>Application Period</strong><br>30 October 2025, 1400 to 4 November 2025, 1200</h4>
+<h4><strong>Application Period</strong><br>23 October 2025, 1400 to 28 October 2025, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to choose your subject combinations.</p>
@@ -24,7 +24,7 @@ third_nav_title: For Students
 </p>
 </li>
 </ul>
-<h4><strong>Release of Results</strong><br>17 November 2025, 1500 onwards</h4>
+<h4><strong>Release of Results</strong><br>10 November 2025, 1500 onwards</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to check your allocated subject combination.</p>
@@ -34,7 +34,7 @@ third_nav_title: For Students
 </p>
 </li>
 </ul>
-<h4><strong>Appeal</strong><br>17 November 2025, 1500 to 19 November 2025, 1200</h4>
+<h4><strong>Appeal</strong><br>10 November 2025, 1500 to 12 November 2025, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you wish to appeal your subject combination allocation, submit an appeal
@@ -45,7 +45,7 @@ online.</p>
 </p>
 </li>
 </ul>
-<h4><strong>Appeal Outcome</strong><br>21 November 2025, 1500 onwards</h4>
+<h4><strong>Appeal Outcome</strong><br>14 November 2025, 1500 onwards</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to check the outcome of your appeal.</p>
