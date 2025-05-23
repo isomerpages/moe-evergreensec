@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://drive.google.com/file/d/1AvH_NbB8ZY6SQjhKVPX_CSq4anFR_bhA/view?usp=sharing
+external: https://youtu.be/BWTL8BTSAis
 ---
