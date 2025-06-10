@@ -131,9 +131,10 @@ inspiring the juniors to develop their own leadership skills.</p>
 <p>C DIVISION CAPTAIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KEERTHANA SIBY</p>
-<p>KEIJI ENG KIAN CHENG</p>
-<p>SHA ZIQI</p>
+<p>WONG YU HAN</p>
+<p>CHENG ZHI HANG JAVIAN</p>
+<p>NG QIAO YEE</p>
+<p>TAN EN XI EZANN</p>
 </td>
 </tr>
 </tbody>
