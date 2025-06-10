@@ -488,71 +488,87 @@ of their Cross-Country or Track and Field teams.</p>
 <p>Team Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Feng Bin Daviano</p>
+<p>KEON POH DING JIE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Boys Captain</p>
+<p>Team Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong KangZheng, Marcel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Yu Ruo</p>
+<p>HENG YU RUO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Secretary</p>
+<p>B-Div Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Zixuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Boys Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Keon Poh Ding Jie</p>
+<p>LIM BO PIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Boys Vice Captain</p>
+<p>B-Div Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Bo Pin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Division Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamad Asyriq Asyavvin Bin Mohamad Hadi</p>
+<p>ISAAC TAN ZEE KAI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Team Mentor IC</p>
+<p>C-Div Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lai Xue Rui</p>
+<p>QAISARA NUR AFIQAH BINTE AHMAD IZWAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C-Div Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>William Cha Yu Fan</p>
+<p>EDVARD CHAN YI FENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA JUN XIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMAD ESHAN QAZI BIN MUHAMAD SUFIAN SHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD ASYRIQ ASYAVIN BIN MOHAMAD HADI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAU JUN LE, LUCAS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ARYAN DHULFIQAR BIN ZUBYR</p>
 </td>
 </tr>
 </tbody>
