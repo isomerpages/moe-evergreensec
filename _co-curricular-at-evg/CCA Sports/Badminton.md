@@ -117,15 +117,13 @@ inspiring the juniors to develop their own leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN STEERING COMMITTEE</p>
+<p>B DIVISION CAPTAIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHAI SAO SHENG</p>
-<p>DION TAN RUI EN</p>
-<p>NGU SHU NING</p>
-<p>ONG SHENG HONG</p>
-<p>YONG TECK WEI</p>
-<p>KEE CHUN SHEN</p>
+<p>SHA ZIQI</p>
+<p>KEIJI ENG KIAN CHENG</p>
+<p>KEERTHANA SIBY</p>
+<p>LEN XIN ER</p>
 </td>
 </tr>
 <tr>
