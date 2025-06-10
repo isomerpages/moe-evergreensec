@@ -23,7 +23,7 @@ As a multi-racial Performing Arts CCA group, the orchestra emphasizes teamwork, 
  
  
  
- **Organisational Structure:**
+ **Student Leaders:**
  
  | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
