@@ -27,10 +27,10 @@ harmoniously in all performances.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf%20dizi.jpg">
 </div>
-<p><strong>Teacher in Charge:</strong> Mr Yeo Gim Sng (I/C), Mr Henry Lee
-(2I/C), Mdm Norhayati Jidin and Ms Tan Wah Sing</p>
-<p><strong>Sections:</strong> erhu, yangqin, ruan, liuqin, pipa, flute, sheng,
-suona, cello, double bass, percussions</p>
+<p><strong>Teacher in Charge:</strong> Mr Henry Lee (I/C), Mdm Norhayati Jidin
+(2IC), Ms Tan Wah Sing and Ms Chee Zi Hui</p>
+<p><strong>Sections:</strong> Erhu, Yangqin, Ruan, Liuqin, Pipa, Flute, Sheng,
+Suona, Cello, Double Bass, Percussions</p>
 <p><strong>Student Leaders:</strong>
 </p>
 <table style="minWidth: 50px">
