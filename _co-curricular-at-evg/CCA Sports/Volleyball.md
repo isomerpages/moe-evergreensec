@@ -99,7 +99,7 @@ Placing</p>
 <p>B Div Captain (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEONG WEN THUNG, BERNICE</p>
+<p>CHUA XIN YU</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Placing</p>
 <p>B Div Vice-Captain (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NG JING WEN SARAH</p>
+<p>CHEE WEI NI ANGEL</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Placing</p>
 <p>B Div Logistics IC (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIM XIAO MIAN MIAN</p>
+<p>HUANG YUNHAN</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Placing</p>
 <p>B Div Welfare IC (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN MUN LIN</p>
+<p>ONG XIN RONG</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ Placing</p>
 <p>C Div Captain (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHUA XIN YU</p>
+<p>SIK KAI EN</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ Placing</p>
 <p>C Div Vice-Captain (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG XIN RONG</p>
+<p>LERVELLE CHIA EN XUAN</p>
 </td>
 </tr>
 <tr>
@@ -184,10 +184,10 @@ Placing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div Logistics IC</p>
+<p>C Div Logistics IC (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHEE WEI NI ANGEL</p>
+<p>SU JIA YU, AKEMI</p>
 </td>
 </tr>
 <tr>
