@@ -72,52 +72,12 @@ positions in our CCA.</p>
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AMRUN FIRAS BIN ABDUL RAZAK</p>
+<p>MUHAMMAD RIFQI ARYAN BIN MOHAMMAD FAIZAL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ANAQI NUR' HAZIQ BIN ANDY HIRMAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fitness IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RYAN FERDIAN BIN JOHAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Logistics IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EDDY ARDIAWAN BIN MOHAMMAD FU'AD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NG YONG EN, JOVAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AKMAL ZEKI AKESI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 IC</p>
+<p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RAFFAN QAISAR BIN RIZAIDI</p>
@@ -125,18 +85,34 @@ positions in our CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fitness IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ADDRY ADRYNN BIN ABDUL WAHID</p>
+<p>SOH RUI JIE, DAYNE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Logistics IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOHAMED FARIZ BIN MOHAMED RAHIM</p>
+<p>GERARD LIM WEI SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ARIFFAN BIN HIRMEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN FERDIAN BIN JOHAN</p>
 </td>
 </tr>
 </tbody>
