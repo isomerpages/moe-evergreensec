@@ -57,50 +57,66 @@ Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain (Boys)</p>
+<p>Captain (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jaedon Lim Kai Heng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Wei En</p>
+<p>DAEMERZ LEE KETING</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain (Boys)</p>
+<p>Captain (B Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caden Tan Qi hao</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captain (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Jia En</p>
+<p>KEE SI JIA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec IC (Boys)</p>
+<p>Vice-Captain (B Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daemerz Lee Keting</p>
+<p>ONG HONG SHENG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec IC (Girls)</p>
+<p>Vice-Captain (B Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kee Si Jia</p>
+<p>JOLENE GOH SU YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (C Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN RUIYANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (C Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RANICE WONG YU XIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (C Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOVAN CHENG SHENG KANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (C Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JIAYU</p>
 </td>
 </tr>
 </tbody>
