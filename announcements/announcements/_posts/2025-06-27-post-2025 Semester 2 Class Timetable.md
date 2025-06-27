@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please access 2025 Semester 2 timetable for the respective classes here
+:</p>
+<p></p>
