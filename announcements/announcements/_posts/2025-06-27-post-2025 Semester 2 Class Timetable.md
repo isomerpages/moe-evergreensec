@@ -9,4 +9,5 @@ variant: tiptap
 ---
 <p>Please access 2025 Semester 2 timetable for the respective classes here
 :</p>
-<p></p>
+<p><a href="/files/Timetables/2025_Sem2_Timetable_Ver3D9_Class_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Class Timetable</a>
+</p>
