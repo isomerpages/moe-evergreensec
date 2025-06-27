@@ -9,4 +9,4 @@ variant: markdown
 
 Please access Semester 2 timetable for the respective classes here : 
 
-[2025 Semester 2 Timetable_Class]
+[2025 Semester 2 Class Timetable](/files/Timetables/2025_Sem2_Timetable_Ver3D9_Class_.pdf)
