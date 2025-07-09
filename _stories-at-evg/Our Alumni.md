@@ -10,13 +10,14 @@ EVG Alumni.</p>
 <h4><strong>Year 2025:</strong></h4>
 <p><strong>Outstanding results in GCE-A Level Examinations 2024 (Anderson Serangoon Junior College)</strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Name of Alumni (Class of 2022)</p>
 </th>
 </tr>
@@ -24,8 +25,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>Ng Sing Chern</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Wong Sun Yu</p>
 </td>
@@ -34,8 +33,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>Oh Wei Jun</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Jaw Yue Zhen Amos</p>
 </td>
@@ -44,8 +41,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>Png Jun Jie Ryan</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Muhammad Danial Nabil Shah Ibn</p>
 </td>
@@ -54,8 +49,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>Wai Guang Hao</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mohamed Yatim</p>
 </td>
@@ -64,8 +57,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>Ivan Ong Hong Yi</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Jermaine Khor</p>
 </td>
@@ -74,8 +65,6 @@ EVG Alumni.</p>
 <td rowspan="1" colspan="1">
 <p>He Jinjun</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Tan Xin Xuan</p>
 </td>
