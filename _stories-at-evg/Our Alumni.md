@@ -8,7 +8,9 @@ variant: tiptap
 in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
 <h4><strong>Year 2025:</strong></h4>
-<p><strong>Outstanding results in GCE-A Level Examinations 2024 (Anderson Serangoon Junior College)</strong>
+<p><strong>Outstanding results in GCE-A Level Examinations 2024 </strong>
+</p>
+<p><strong>Anderson Serangoon Junior College</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
