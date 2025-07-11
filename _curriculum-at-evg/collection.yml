@@ -2,7 +2,6 @@ collections:
   curriculum-at-evg:
     output: true
     order:
-      - Assessment.md
       - Academics in Evergreen.md
       - Applied Learning Programme (ALP).md
       - Departments/.keep
