@@ -2,6 +2,7 @@ collections:
   info-for-evgians:
     output: true
     order:
+      - For Students/Assessment.md
       - For Students/.keep
       - For Students/Timetables.md
       - For Students/CCA Schedule.md
