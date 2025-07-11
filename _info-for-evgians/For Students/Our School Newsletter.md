@@ -5,6 +5,9 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<p>2025 Editions</p>
+<p><a href="/files/Vibes_Newsletter_Vol__1_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Issue 1</a>
+</p>
 <p>2024 Editions</p>
 <p><a href="/files/Newsletter by Vibes/2024_Vibes_Vol_1.pdf" rel="noopener nofollow" target="_blank">2024 Term 1 Issue 1</a>
 </p>
