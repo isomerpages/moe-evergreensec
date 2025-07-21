@@ -5,8 +5,7 @@ variant: tiptap
 description: Evergreen Secondary Assessment Information
 third_nav_title: For Students
 ---
-<p>#### <strong>2025 Term 3 Assessment Schedule</strong>
-</p>
+<h4><strong>2025 Term 3 Assessment Schedule</strong></h4>
 <p>Please access the Term 3 Assessment schedule here :</p>
 <p></p>
 <blockquote>
