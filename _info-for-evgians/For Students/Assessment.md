@@ -9,7 +9,7 @@ third_nav_title: For Students
 <p>Please access the Term 3 Assessment schedule here :</p>
 <p></p>
 <blockquote>
-<p><a href="/files/WA3_SEC_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA3 Scheduled (updated 21 July)</a>
+<p><a href="/files/Timetables/Assessment Timetable/WA3_SEC_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA3 Schedule (updated 21 July)</a>
 </p>
 <p><a href="/files/Timetables/Assessment Timetable/WA3_SEC_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA3 Schedule (14 July)</a>
 </p>
