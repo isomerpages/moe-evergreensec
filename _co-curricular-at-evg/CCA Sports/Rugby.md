@@ -104,14 +104,6 @@ positions in our CCA.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ARIFFAN BIN HIRMEE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>RYAN FERDIAN BIN JOHAN</p>
 </td>
 </tr>
