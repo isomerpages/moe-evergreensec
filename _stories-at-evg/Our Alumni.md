@@ -9,8 +9,7 @@ in school and beyond. Here are some of the notable achievements of our
 EVG Alumni.</p>
 <h4><strong>Year 2025:</strong></h4>
 <p>Ms Stella Tay is an alumna of Evergreen Secondary School. She was featured
-in the following article: <a href="https://www.straitstimes.com/singapore/father-and-son-to-lead-ndp-2025-mobile-column-to-celebrate-commitment-to-defence-across-generations" rel="noopener nofollow" target="_blank">Father and son to lead NDP 2025 mobile column to celebrate commitment to defence across generations</a>
-</p>
+in the following ST <a href="https://www.straitstimes.com/singapore/father-and-son-to-lead-ndp-2025-mobile-column-to-celebrate-commitment-to-defence-across-generations" rel="noopener nofollow" target="_blank">article</a>.</p>
 <p></p>
 <p><strong>Outstanding results in GCE-A Level Examinations 2024</strong>
 </p>
