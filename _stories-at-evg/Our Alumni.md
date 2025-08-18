@@ -10,7 +10,7 @@ EVG Alumni.</p>
 <h4><strong>Year 2025:</strong></h4>
 <p>Ms Stella Tay and Mr Khairi are alumni of Evergreen Secondary School.
 Ms Tay was featured in the following <a href="https://www.straitstimes.com/singapore/father-and-son-to-lead-ndp-2025-mobile-column-to-celebrate-commitment-to-defence-across-generations" rel="noopener nofollow" target="_blank">ST article</a> and
-<a href="https://www.youtube.com/live/u1RxF6f4qyk?si=7RG9dXW0egNMlBfU&amp;t=6775" rel="noopener nofollow" target="_blank">NPD 2025</a>. Mr Khairi was featured in <a href="https://www.youtube.com/live/u1RxF6f4qyk?si=9pSDZT3hXszQ4YGh&amp;t=6739" rel="noopener nofollow" target="_blank">NDP 2025</a>.</p>
+<a href="https://www.youtube.com/live/u1RxF6f4qyk?si=2fqmTlNhvbnxOmWq&amp;t=6775" rel="noopener nofollow" target="_blank">NPD 2025</a>. Mr Khairi was featured in <a href="https://www.youtube.com/live/u1RxF6f4qyk?si=9pSDZT3hXszQ4YGh&amp;t=6739" rel="noopener nofollow" target="_blank">NDP 2025</a>.</p>
 <p></p>
 <p><strong>Outstanding results in GCE-A Level Examinations 2024</strong>
 </p>
