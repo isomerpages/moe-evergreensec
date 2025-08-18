@@ -29,6 +29,7 @@ deep sense of rootedness, responsibility, and pride in Singapore.</p>
 us of the strong values nurtured at Evergreen Secondary—values that continue
 to guide our alumni as they make a difference in the community and beyond.</p>
 <p></p>
+<p></p>
 <p><strong>Outstanding results in GCE-A Level Examinations 2024</strong>
 </p>
 <p><strong>Anderson Serangoon Junior College</strong>
