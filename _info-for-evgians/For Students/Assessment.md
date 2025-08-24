@@ -15,4 +15,9 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Timetables/Assessment Timetable/2025_N_O_Level_Preliminary_Examinations_Updated_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 and 5 Prelim Exams Schedule (updated 22 July)</a>
 </p>
-<p></p>
+<p><a href="/files/EOY_EXAM_SCHEDULE_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 EOY Exam Schedule</a>
+</p>
+<p><a href="/files/EOY_EXAM_SCHEDULE_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 EOY Exam Schedule</a>
+</p>
+<p><a href="/files/EOY_EXAM_SCHEDULE_2025_Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 EOY Exam Schedule</a>
+</p>
