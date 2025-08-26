@@ -11,7 +11,7 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Timetables/Assessment Timetable/EOY_EXAM_SCHEDULE_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 EOY Exam Schedule</a>
 </p>
-<p><a href="/files/EOY_EXAM_SCHEDULE_2025_Sec_3__updated_on_26th_August_2025_.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 EOY Exam Schedule (updated on 26 August)</a>
+<p><a href="/files/EOY_EXAM_SCHEDULE_2025_Sec_3_1__Updated_.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 EOY Exam Schedule (updated on 26 August)</a>
 </p>
 <p></p>
 <p></p>
