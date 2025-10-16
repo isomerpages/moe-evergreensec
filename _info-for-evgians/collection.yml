@@ -2,9 +2,8 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - For Alumni.md
-      - For Students/Assessment.md
       - For Students/.keep
+      - For Students/Assessment.md
       - For Students/Timetables.md
       - For Students/CCA Schedule.md
       - For Students/Cyberwellness.md
@@ -15,8 +14,9 @@ collections:
       - For Students/Financial Assistance and Insurance Matters.md
       - For Students/Travel Declaration.md
       - For Students/Our School Newsletter.md
-      - For Staff/Useful links for staff.md
       - For Staff/.keep
-      - For Parents/Parent Support Group.md
+      - For Staff/Useful links for staff.md
       - For Parents/.keep
+      - For Parents/Parent Support Group.md
       - For Parents/Parents Gateway.md
+      - For Alumni.md
