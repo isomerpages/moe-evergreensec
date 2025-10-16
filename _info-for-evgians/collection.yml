@@ -2,7 +2,7 @@ collections:
   info-for-evgians:
     output: true
     order:
-      - Alumni.md
+      - For Alumni.md
       - For Students/Assessment.md
       - For Students/.keep
       - For Students/Timetables.md
