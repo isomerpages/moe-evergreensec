@@ -10,9 +10,12 @@ sections:
       background: /images/HeroBanner_Upload_2.gif
       variant: image
       key_highlights:
-        - title: 2025 Direct School Admission
-          description: ""
-          url: https://www.evergreensec.moe.edu.sg/admission/dsa/
+        - title: Open House on 22 Nov'25, 9AM-12PM
+          description: Click for more details
+          url: https://www.evergreensec.moe.edu.sg/open-house-2025/
+      backgroundColor: gray
+      size: md
+      alignment: left
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
