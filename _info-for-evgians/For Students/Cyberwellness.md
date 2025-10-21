@@ -13,7 +13,7 @@ variant: tiptap
 citizens.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_1_1.png">
 </div>
 <h3>CYBER WELLNESS POLICY</h3>
 <p>All EVGians are to show respect for self and others and to practice safe
