@@ -21,5 +21,14 @@ our holistic programmes, and engage with our EVGians!</p>
 <p>Date : Saturday 22 November 2025</p>
 <p>Time : 9.00am - 12.00pm</p>
 <p>Check out our social media platforms to find out more about us:</p>
+<p><a href="https://www.facebook.com/EvergreenSecondary" rel="noopener nofollow" target="_blank">https://www.facebook.com/EvergreenSecondary</a>
+</p>
+<p><a href="https://www.instagram.com/evergreen_secondary_official/" rel="noopener nofollow" target="_blank">https://www.instagram.com/evergreen_secondary_official/</a>
+</p>
+<p>We’re thrilled to welcome you — see you there!</p>
+<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
