@@ -69,8 +69,26 @@ Be wise not to participate in illegal online activities.</p>
 mindful about Intellectual Property rules by not using or downloading copyrighted
 materials without permission.</p>
 <p></p>
+<h3>EVG GUIDELINES ON USE OF DIGITAL MEDIA</h3>
+<h4>Digitally Empowering Caring Leaders and Thinking Citizens</h4>
+<p>Digital media (e.g. Social media &amp; AI) allows people to create, share
+or exchange information, ideas and images in virtual communities and networks.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_2.jpg">
+</div>
+<p>All EVGians are expected to be digitally empowered Caring Leaders and
+Thinking Citizens through responsible actions on digital media by observing
+the following guidelines.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_3.png">
+</div>
+<p>Photographs or video images of you and your legal guardians may be taken
+during school activities and events such as classroom lessons, CCA, school
+camps, or school concerts. The school may use and publish such photographs
+or video recordings in school publications, the school website, social
+media channels, or other communication channels.</p>
 <p></p>
 <p></p>
 <p></p>
