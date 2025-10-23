@@ -61,7 +61,7 @@ online.</p>
 <h3><strong>Subject Information Booklet</strong></h3>
 <p>To help students and parents make informed decisions, we have prepared
 a comprehensive <strong>Subject Information Booklet</strong> that covers
-all the subjects offered in Secondary 3.
+all the subjects that Evergreen Secondary can offer in Secondary 3.
 <br><a href="http://go.gov.sg/evg-sub-info" rel="noopener nofollow" target="_blank">Access the Subject Information Booklet here</a>
 </p><a class="isomer-image-wrapper" href="http://go.gov.sg/evg-sub-info"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Subject Combination/Cover_No_Year_Web_vSmall.png"></a>
 <h3><strong>Briefing Materials</strong></h3>
