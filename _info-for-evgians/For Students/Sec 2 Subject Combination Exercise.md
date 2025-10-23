@@ -76,7 +76,7 @@ all the subjects offered in Secondary 3.
 <p>25 April 2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/5 Sec 1 Letter to Parents/Sec_2_Briefing_to_Students_and_Parents_2025_Website_R.pdf" rel="noopener nofollow" target="_blank">Slides for Sec 2 Briefing to Parents &amp; Students</a>
+<p><a href="/files/5 Sec 1 Letter to Parents/Sec_2_Briefing_to_Students_and_Parents_2025_Website_R.pdf" rel="noopener nofollow" target="_blank">Slides for Sec 2 Briefing to Parents &amp; Students on Subject Combination, Full Subject-Based Banding and Post-Secondary Pathways</a>
 </p>
 </th>
 </tr>
