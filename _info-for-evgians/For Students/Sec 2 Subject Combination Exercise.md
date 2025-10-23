@@ -5,7 +5,7 @@ variant: tiptap
 description: Sec 2 Subject Combination
 third_nav_title: For Students
 ---
-<h3><strong>Timeline for the Subject Combination Exercise 2025</strong></h3>
+<h3><strong>Timeline for the Subject Combination Exercise</strong></h3>
 <p>Here is an overview of the entire process:</p>
 <p></p>
 <div class="isomer-image-wrapper">
