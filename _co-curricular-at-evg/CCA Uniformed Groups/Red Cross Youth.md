@@ -42,55 +42,26 @@ Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang</p>
 <p>CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TEO YU HAN</p>
+<p>ER JUN DA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICE CHAIRPERSON (TRAINING)</p>
+<p>VICE CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHEVELLE KHOO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VICE CHAIRPERSON (ADMIN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JIANG XIN DI</p>
+<p>RICHTON KOH RONG YUAN</p>
+<p>CHIN YONG CHENG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LEVEL HEAD (SEC 1)</p>
+<p>LEVEL HEAD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR FATHIN &amp; LOH YU QI &amp; NG YAO MIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LEVEL HEAD (SEC 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRIAN LOW &amp; WONG YU TONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LEVEL HEAD (SEC 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>THESVIN UTHIRASWAN &amp; KEERTNA ANNATHASON</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MEDIA IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KEERTNA ANNATHASON &amp; THEONE SOH</p>
+<p>ETHAN ONG ZI JIA</p>
+<p>ADAM ZUHAYR BIN MOHAMMED JAMEEL</p>
+<p>WONG WEE SENG</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +69,8 @@ Melissa Choy, Lay Wen Xuan, Evan Leong, Chin Zheng Liang</p>
 <p>LOGISTICS IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG YU TONG &amp; FALISYAH AULYA</p>
+<p>JODIE ENG ZEE SIM</p>
+<p>CHOO RUI JIE</p>
 </td>
 </tr>
 </tbody>
