@@ -109,6 +109,7 @@ our guiding principles.</p>
 </div>
 <p><strong>Awards and Achievements</strong>
 </p>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
