@@ -79,7 +79,7 @@ in 2023</p>
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YAP YU HUI</p>
+<p>NUR IFFAH NADHIRAH BINTE NORASLAN</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ in 2023</p>
 <p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHARLOTTE TAN HUIQI</p>
+<p>ADELINE OH LI XUAN</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ in 2023</p>
 <p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYLA SOPHIA BINTI IRWIN</p>
+<p>AFIQAH NUR QAISARAH BINTE TAUFIK</p>
 </td>
 </tr>
 </tbody>
