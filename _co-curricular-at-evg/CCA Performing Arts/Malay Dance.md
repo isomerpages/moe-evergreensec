@@ -36,6 +36,8 @@ Dancers will be given the opportunity to showcase their talents at school events
 
 **Awards and Achievements**
 
+SYF Arts Presentation 2025 – Certificate of Acomplishment
+
 SYF Arts Presentation 2023 – Certificate of Acomplishment
 
 SYF Arts Presentation 2021 – Certificate of Distinction
