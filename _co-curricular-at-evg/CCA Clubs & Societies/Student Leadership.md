@@ -92,7 +92,7 @@ the school hopes to develop future leaders for the community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/151124 CCA_ML photos update/Prefect/2024_1_Sec_3_Prefects.jpg">
 </div>
 <p></p>
-<p><strong>Prefects Executive Committees of 2024/2025</strong>
+<p><strong>Prefects Executive Committees of 2025/2026</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -110,7 +110,7 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ONG QING RU</p>
+<p>AVRIL XENIA SIAK EN RUI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD PREFECT</p>
@@ -118,7 +118,7 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LINGAT JUAN CARLO PINLAC</p>
+<p>LOW ZHI XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-HEAD PREFECT</p>
@@ -126,8 +126,8 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOPHIE LAI YU TYNG
-<br>TAN JING LE</p>
+<p>AIDEN LIM TAI YU</p>
+<p>KEERTHANA SIBY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ADMIN HEAD</p>
@@ -135,8 +135,7 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JAYNE KUAN
-<br>LIM ZING UI GARRETT</p>
+<p>LAW WEN TING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DISCIPLINE HEAD</p>
@@ -144,8 +143,8 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GISELLE XIE YUN EN
-<br>YONG TECK WEI</p>
+<p>NICOLE CHIM OU RUI</p>
+<p>HARSHINI VATSAVAI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>REACH</p>
@@ -153,8 +152,8 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CELEST TAY YI XUAN
-<br>RADEN IRFAN HARIS BIN MUHAMMAD SYAFIQ</p>
+<p>AUNI HAMIZAH BINTE ZULKHAIRI</p>
+<p>SOK KAI SHENG SYRIUS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WELFARE HEAD</p>
@@ -162,8 +161,8 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KASUMI YAMASHITA
-<br>YASHODDHARAN MURUGAN</p>
+<p>HUANG JING HAN</p>
+<p>ADDRY ADRYNN BIN ABDUL WAHID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CITIZENSHIP HEAD</p>
@@ -171,8 +170,8 @@ the school hopes to develop future leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JIANG XIN DI
-<br>GABRIEL LOH SHEN JIE</p>
+<p>CHEONG REN ZHEN</p>
+<p>ADELINE OH LI XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SERVICE LEARNING HEAD</p>
@@ -182,7 +181,7 @@ the school hopes to develop future leaders for the community.</p>
 </table>
 <p>The Prefectorial Board also comprises the Secondary 3 Senior Prefects
 and the Secondary 2 Junior Prefects.</p>
-<p><strong>CCA Executive Committees of 2024/2025</strong>
+<p><strong>CCA Executive Committees of 2025/2026</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -200,7 +199,7 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WIN JAZTMINE</p>
+<p>LEE JIAXUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD CCA EXCO</p>
@@ -208,7 +207,7 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KHOO ZI QI CHEVELLE</p>
+<p>JENSON WONG JUN XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-HEAD CCA EXCO</p>
@@ -216,8 +215,8 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FALISYAH AMIRA BTE MD FAIZAL
-<br>LI ZHIQI</p>
+<p>CHEE WEI NI ANGEL</p>
+<p>KEE SI JIA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ADMIN HEAD</p>
@@ -225,8 +224,8 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM JUN ZE
-<br>WIN JAZTMINE</p>
+<p>TOH KEE RWEE</p>
+<p>NG RUI EN ENEZ</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD OF PERFORMING ARTS</p>
@@ -234,8 +233,8 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BRIAN LOW CHENG HAO
-<br>ONG QI FAN JAYDEN</p>
+<p>ASLINDAWATI KAYLA WILLIAM</p>
+<p>ETHAN ONG ZI JIA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD OF UNIFORMED GROUPS</p>
@@ -243,8 +242,8 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHOO KOI HENG
-<br>WONG JUN XIANG JENSON</p>
+<p>LUA YAO EN</p>
+<p>TARANVEER SINGH S/O SURJAN SINGH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD OF CLUBS &amp; SOCIETIES</p>
@@ -252,8 +251,8 @@ and the Secondary 2 Junior Prefects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GOH ZHE HAO ETHEN
-<br>MUHAMMAD NUR IMAN BIN AZHAR</p>
+<p>MOHAMED FARIZ BIN MOHAMED RAHIM</p>
+<p>LIU HONG LE CRUZ</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HEAD OF SPORTS</p>
