@@ -162,6 +162,7 @@ melodies together and continuously pushing the boundaries of our capabilities.</
 </div>
 <p><strong>Awards and Achievements</strong>
 </p>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 <p>2022 Guitar Festival</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
