@@ -142,6 +142,7 @@ passion, empowering students to reach their full potential. It opens doors
 to a world of musical exploration, friendship, and self-discovery.</p>
 <p><strong>Awards and Achievements</strong>
 </p>
+<p>SYF Arts Presentation 2025 – Certificate of Accomplishment</p>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
