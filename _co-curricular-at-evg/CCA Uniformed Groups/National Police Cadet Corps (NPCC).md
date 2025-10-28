@@ -92,7 +92,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JING LE</p>
+<p>KOBAYASHI JUN</p>
 </td>
 </tr>
 <tr>
@@ -100,15 +100,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>VICE-CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR ALYA INSYIRAH BINTE MOHAMMAD SHARIFF</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOGISTICS OIC/PTI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHINKI LAY HONG YU</p>
+<p>AVRIL XENIA SIAK EN RUI</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +108,24 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>LOGISTICS OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YAP ZHI EN, REENA</p>
+<p>NG JUN YU</p>
+<p>NGEW ZI XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FIRST AID &amp; SAFETY OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALYA AMIRA BINTE ABDUL SANI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PTI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YU HENG</p>
 </td>
 </tr>
 <tr>
@@ -124,15 +133,9 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 2 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALEX LI HAOZHE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 2 OIC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUR INSYIRAH BINTE NURAIZAT</p>
+<p>IAIN TOK</p>
+<p>OOI TZE KAI</p>
+<p>HUANG JING HAN</p>
 </td>
 </tr>
 <tr>
@@ -140,15 +143,8 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 2 CAMPCRAFT IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KAUSHIK S/O ARIVEZHAGAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 2 DRILLS IC/PTI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HO ZHENG RONG LINTON</p>
+<p>AYUSH SAHA</p>
+<p>MIAO YUXUAN</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +152,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 2 DRILLS IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NURUL AMEERA MOHD RAFIT</p>
+<p>CHOONG JIA JUN</p>
 </td>
 </tr>
 <tr>
@@ -164,15 +160,9 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 1 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHONG XIN PEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 1 OIC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOK CHIN YEE, EDNA</p>
+<p>ADEN NG SHENG YOU</p>
+<p>AIDEN LIM TAI YU</p>
+<p>ZADEN SOH RUI YAN</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +170,7 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 1 CAMPCRAFT IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TRISANT RAO KANTHA RAO</p>
+<p>CHOW QIAN HUI JESMINE</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +178,16 @@ Tyrus Chua, Ms Wu Yuting</p>
 <p>SEC 1 DRILLS IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE DING HUAN FELIX</p>
+<p>TAN JING YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOGISTICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISAAC KOH SEE GUAN</p>
+<p>XAVIER YAP JUN XI</p>
 </td>
 </tr>
 </tbody>
