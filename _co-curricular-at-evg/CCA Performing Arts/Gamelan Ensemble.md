@@ -49,7 +49,7 @@ Chandra Sekhar</p>
 <p>CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR REZEKI BINTE ISMAIL</p>
+<p>KHOLLIF AKRILL BIN KAYOM</p>
 </td>
 </tr>
 <tr>
@@ -57,23 +57,41 @@ Chandra Sekhar</p>
 <p>VICE-CHAIRPERSON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAMLEEN KAUR MANN</p>
+<p>MASYITAH RAUDHAH BINTE MASYUDI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>COMMITTEE MEMBER</p>
+<p>LOGISTICS IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR ISABELLE MARSHYA BINTE MOHAMAD ZULL</p>
+<p>EDEN MITCHELL ZULHILMI PODISINGHO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>COMMITTEE MEMBER</p>
+<p>PUBLICITY IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NURUL HIQMA BINTE MUHAMMAD RIDHUAN</p>
+<p>AHMAD SYAZWAN BIN NOOR HISHAM</p>
+<p>FATHURRAHMAN BIN NASRUDIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAKE-UP IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARISSA QAISARA BINTE MUHAMMAD FAZLI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COSTUME IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR QUSYAIRAH BINTE OSMAN</p>
+<p>DEWI NURUL JANNAH BINTE ZALANI</p>
 </td>
 </tr>
 </tbody>
