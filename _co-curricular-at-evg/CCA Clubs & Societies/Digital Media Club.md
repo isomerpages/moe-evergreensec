@@ -16,26 +16,14 @@ The Evergreen Secondary School DMC was formed to provide a platform for both stu
 
 | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| PRESIDENT (AVA) | GOH YUAN LIN                                          |
-| PRESIDENT (PHOTOGRAPHY) | GOH HAO ZHEN                                           |
-| PRESIDENT (VIDEOGRAPHY) | HAN RONG DING, ENVER                                          |
-| VICE PRESIDENT (AVA)                | WONG JUN XIANG JENSON                                    |
-| VICE PRESIDENT (LIVESTREAM)         | ERNEST LUM                                   |
-| VICE PRESIDENT (OPERATIONS)         | YEUNG WEN JUN                                    |
-| SECRETARY                           | NUR SAKEENAH FATINI BINTE RAZALI ,              |
-|                  |     NUR ADALINA AMELDA BINTE MUHAMMAD JAMALNASRUDDIN                                     |
-| LOGISTICS (PHOTO)                   | WONG WEI KAI                                |
-LOGISTICS (LIVESTREAM)         | DYLAN SEE YU ZHE                               |
-LOGISTICS (LAPTOP)         | MUHAMMAD ARASY RAIHAN BIN RUSLAN                               |
-| LOGISTICS (VIDEO)                   | TAI JIT HANG |
-| ASSISTANT LOGISTICS (VIDEO)         | ARIESYA BINTE MUHAMMAD ZAHID                               |
-| ASSISTANT LOGISTICS (AVA)         |  LOW ZHI XUAN|
-| COMMUNICATIONS OFFICER (SEC 2)      | AQIL BIN ISMAN                              |
-| COMMUNICATIONS OFFICER (SEC 1)      | NIR RIFQHA ASHIFAH BINTE S M WAJDI                                 |
-CHIEF EDITOR                   | LOH YI ZHENG                        |
- |                  | DENZER CHONG YIN KANG                               |
-FITNESS GAME IC                   | MUHAMMAD FAIQ RUSYDI BIN MOHAMMAD HAFIZ                               |
-|                   | MUHAMMAD DANISH ILHAN BIN SAHRIN                               |
+| PRESIDENT (AVA) | SOON EN HUI FELICIA                                          |
+| PRESIDENT (VIDEOGRAPHY) | DENZEL OH HAO EE                                           |
+| PRESIDENT (LIVE PRODUCTIONS) | WONG JUN XIANG JENSON                                          |
+| VICE PRESIDENT (LIVESTREAM)                | LIM LOK YAN RAYNE                                    |
+| VICE PRESIDENT (AVA)         | LOW ZHI XUAN                                   |
+| VICE PRESIDENT (PHOTOGRAPHY)         | AQIL BIN ISMAN                                    |
+| SECRETARY (ADMIN)                          | MUHAMMAD ANAS IIMAN ISHAK              |
+| SECRETARY (WELFARE)                 |     SOON HUI XIN                                     |
 
 ![DMC Formal 2022](/images/dmc%20formal%202022.JPG)
 

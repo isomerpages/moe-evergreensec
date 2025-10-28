@@ -42,7 +42,7 @@ towards literary and cultural excellence.</p>
 <p>PRESIDENT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SU YEE LINN</p>
+<p>NAMISHA SURESH BALANI</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ towards literary and cultural excellence.</p>
 <p>VICE PRESIDENT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FALISYAH AMIRA BTE MUHAMMAD FAIZAL</p>
+<p>JENNABEL ANG EN XI</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ towards literary and cultural excellence.</p>
 <p>DEBATE HEAD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAYNE KUAN YEE SUM (GUAN YIXIN)</p>
+<p>BHINDER TANVIR SINGH</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ towards literary and cultural excellence.</p>
 <p>DEPUTY DEBATE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CELEST TAY YI XUAN</p>
+<p>ALVINA AISHWINI D/O ALBERT</p>
 </td>
 </tr>
 <tr>
@@ -74,15 +74,7 @@ towards literary and cultural excellence.</p>
 <p>VIBES HEAD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WAH NING XUAN, HAELLIE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DEPUTY VIBES HEAD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YEOW YAN XI</p>
+<p>MARYAM RUI EN BINTE MUHAMMAD IQBAL</p>
 </td>
 </tr>
 <tr>
@@ -90,27 +82,39 @@ towards literary and cultural excellence.</p>
 <p>EDITOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAIUS CHOO YAN KAI
-<br>SHALAI AISHA</p>
+<p>CHEE XUAN EN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WELFARE</p>
+<p>EDITOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GISELLE XIE YUN EN
-<br>CHLOE CHOY YU XUAN (CAI YUXUAN)
-<br>SYED RIZQ IQBAL BIN SYED NATASHRUL</p>
+<p>ONG YI XUAN, MERANDA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PUBLICITY</p>
+<p>WELFARE &amp; OUTREACH OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM ZING UI, GARRETT (LIN JINGWEI)
-<br>KASUMI YAMASHITA</p>
+<p>ELLIN AISYA BINTI ADAM FU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WELFARE &amp; OUTREACH OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IWANI HIDAYATI BINTE ABDUL RASID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WELFARE &amp; OUTREACH OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG NICHAPA</p>
 </td>
 </tr>
 </tbody>
