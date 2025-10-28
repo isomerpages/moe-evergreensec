@@ -96,7 +96,7 @@ programmes:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme [LLP]</a>
+<p><a href="https://www.evergreensec.moe.edu.sg/our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme (LLP)</a>
 </p>
 </li>
 </ul>
