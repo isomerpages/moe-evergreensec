@@ -17,8 +17,8 @@ Interact Club is a Rotary-sponsored service club for youths between 12 to 18 yea
 
 | Leadership Role | Student                                  |
 |---------------------------------|-------------------------------------------------------|
-| PRESIDENT | ASHTON NG JUN LIN                                           |
-| VICE-PRESIDENT | ALICIA TAN XIN YI & GLENNIS CHOO JIA YI                                         |
+| PRESIDENT |          NURUL ALYSSA BINTE JUMAHAT                                           |
+| VICE-PRESIDENT |          LUA YAO EN                                         |
 | SENIOR INTERACT MENTOR | CHIN EN XUAN & WILLIAM SHIN CHEONG LOONG                                          |
 | ADMINISTRATION / SECRETARY         | VANESSA ANG & NUR SOFIYYAH FATEENAH                                    |
 | HEAD, INTERNATIONAL UNDERSTANDING                | AMIRAH BTE JEFFRIDIN & LI ZHIQI                                     |
