@@ -51,6 +51,15 @@ life.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
+<p>2025: NSG B Division Boys: 3rd (North Zone)</p>
+</li>
+<li>
+<p>2025: NSG B Division Girls: 4th (North Zone)</p>
+</li>
+<li>
+<p>2025: NSG C Division Girls: 1st (League 2)</p>
+</li>
+<li>
 <p>2024: NSG B Division Boys: 4th (North Zone)</p>
 </li>
 <li>
@@ -91,7 +100,7 @@ Placing</p>
 <p>B Div Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH ZHE HAO, ETHEN</p>
+<p>JOASH LIM YU XI</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +116,7 @@ Placing</p>
 <p>B Div Vice-Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GABRIEL LOH SHEN JIE</p>
+<p>SHI SHEYONG</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +132,7 @@ Placing</p>
 <p>B Div Quarter-Master (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JEREMY DWIGHT KRISTIAN</p>
+<p>ALFRED SUN JIAYANG</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +153,10 @@ Placing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div Captain (Boys) (Boys)</p>
+<p>C Div Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOASH LIM YU XI</p>
+<p>JABEZ CHEONG KAI LE</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +172,7 @@ Placing</p>
 <p>C Div Vice-Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHI SHEYONG</p>
+<p>SAMUEL TAN GUAN YU</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +188,7 @@ Placing</p>
 <p>C Div Quarter-Master (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HO YI XUAN</p>
+<p>NIYU YI ZHE</p>
 </td>
 </tr>
 <tr>
@@ -188,30 +197,6 @@ Placing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SU JIA YU, AKEMI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Sec 1 Captain (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JABEZ CHEONG KAI LE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Sec 1 Vice-Captain (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAMUEL TAN GUAN YU</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Quarter-Master (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HAYDEN SETT PAING TUN</p>
 </td>
 </tr>
 </tbody>
