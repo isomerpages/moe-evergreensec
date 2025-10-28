@@ -46,7 +46,15 @@ mornings in SYFC).</p>
 <p>COMMANDER EVG YFC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MA ZICHAO</p>
+<p>DARIUS LOY CAI ZHI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DY COMMANDER EVG YFC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AW YU XIN REISA</p>
 </td>
 </tr>
 <tr>
@@ -54,15 +62,7 @@ mornings in SYFC).</p>
 <p>COMMANDER RC DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHOO KOI HENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>COMMANDER CL DIVISION</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIEW YANG ZHI, ALVIN</p>
+<p>JOSHUA TAN</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ mornings in SYFC).</p>
 <p>COMMANDER DRONE DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YEO JIE LUN, JAYLEN</p>
+<p>SOK KAI SHENG SYRIUS</p>
 </td>
 </tr>
 <tr>
@@ -78,15 +78,7 @@ mornings in SYFC).</p>
 <p>DY COMMANDER RC DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AW YU XIN RIESA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DY COMMANDER CL DIVISION</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>XAVIER ONG HONG KAI</p>
+<p>SOH JUN YU RAYDEN</p>
 </td>
 </tr>
 <tr>
@@ -94,33 +86,41 @@ mornings in SYFC).</p>
 <p>DY COMMANDER DRONE DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DARIUS LOY CAI ZHI</p>
+<p>WOO JIE RUI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HEAD OF TRAINING</p>
+<p>HEAD TRAINING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RADEN IRFAN HARIS BIN MUHAMMAD SYAFIQ</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DY HEAD OF TRAINING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOSHUA TAN
-<br>MATHIAS LOH XIANG MING
-<br>SOK KAI SHENG SYRIUS</p>
+<p>TARANVEER SINGH SURJAN SINGH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HEAD OF LOGISTICS</p>
+<p>DY HEAD TRAINING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR ILHAM BIN SAHARUDIN</p>
+<p>LOO YOU KUAN</p>
+<p>WANG JIAHE</p>
+<p>LIN YI YANG LUCAS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DY HEAD TRAINING (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALVIN CHI PEI JUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HEAD LOGISTICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUCAS GAN KAI LE</p>
 </td>
 </tr>
 <tr>
@@ -128,9 +128,10 @@ mornings in SYFC).</p>
 <p>DY HEAD OF LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOH JUN YU RAYDEN
-<br>LEONG JUN WEN
-<br>TING XIAN ZHEN</p>
+<p>NABYL AYYAN SYAM</p>
+<p>JIANG YONG EN</p>
+<p>TAN SHANG YI</p>
+<p>TRAVEN WONG YEW KIAT</p>
 </td>
 </tr>
 <tr>
@@ -138,12 +139,10 @@ mornings in SYFC).</p>
 <p>SECTION LEADER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NABYL AYYAN SYAM
-<br>RAIN LIM KAI YAN
-<br>ALVIN CHI PEI JUN
-<br>ZHENG FANCHEN
-<br>MUHAMMAD AIDIL PUTRA BIN MD INDRA
-<br>WOO JIE RUI</p>
+<p>JAYDEN LIM YU WEN</p>
+<p>YONG TIAN YEW EMERSON</p>
+<p>LIM ZHE LEI RYAN</p>
+<p>LIM JUN WEI LEX</p>
 </td>
 </tr>
 </tbody>
