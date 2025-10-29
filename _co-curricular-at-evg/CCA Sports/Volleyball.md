@@ -12,8 +12,9 @@ variant: tiptap
 <p>In EVG Volleyball, we aim to nurture our student's holistic development
 by instilling our 4 core values in them. These values can be summarised
 into an acronym, <strong>ACES</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_1.jpg">
 </div>
 <p><strong>A is for Attitude</strong>. Through regular training sessions
 and competitive matches, we aim to cultivate a positive attitude among
@@ -32,8 +33,9 @@ their individual efforts contribute to the overall success of the team.</p>
 <p><strong>E is for Excellence</strong>. Our students strive towards constant
 improvement individually, and together as a team. They are encouraged to
 push their boundaries, and set high standards for themselves.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_2.jpg">
 </div>
 <p>Finally, <strong>S is for Sportsmanship</strong>. We develop our students
 to be athletes with strong character and values on court, who display dignity
@@ -47,7 +49,7 @@ values and character traits necessary for success in various aspects of
 life.</p>
 <h4>Events and Achievements</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_3.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
