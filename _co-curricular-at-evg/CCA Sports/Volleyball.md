@@ -12,8 +12,9 @@ variant: tiptap
 <p>In EVG Volleyball, we aim to nurture our student's holistic development
 by instilling our 4 core values in them. These values can be summarised
 into an acronym, <strong>ACES</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_1.jpg">
 </div>
 <p><strong>A is for Attitude</strong>. Through regular training sessions
 and competitive matches, we aim to cultivate a positive attitude among
@@ -32,8 +33,9 @@ their individual efforts contribute to the overall success of the team.</p>
 <p><strong>E is for Excellence</strong>. Our students strive towards constant
 improvement individually, and together as a team. They are encouraged to
 push their boundaries, and set high standards for themselves.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_2.jpg">
 </div>
 <p>Finally, <strong>S is for Sportsmanship</strong>. We develop our students
 to be athletes with strong character and values on court, who display dignity
@@ -47,9 +49,18 @@ values and character traits necessary for success in various aspects of
 life.</p>
 <h4>Events and Achievements</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/Volleyball_Boys_3.jpg">
 </div>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025: NSG B Division Boys: 3rd (North Zone)</p>
+</li>
+<li>
+<p>2025: NSG B Division Girls: 4th (North Zone)</p>
+</li>
+<li>
+<p>2025: NSG C Division Girls: 1st (League 2)</p>
+</li>
 <li>
 <p>2024: NSG B Division Boys: 4th (North Zone)</p>
 </li>
@@ -91,7 +102,7 @@ Placing</p>
 <p>B Div Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH ZHE HAO, ETHEN</p>
+<p>JOASH LIM YU XI</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +118,7 @@ Placing</p>
 <p>B Div Vice-Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GABRIEL LOH SHEN JIE</p>
+<p>SHI SHEYONG</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +134,7 @@ Placing</p>
 <p>B Div Quarter-Master (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JEREMY DWIGHT KRISTIAN</p>
+<p>ALFRED SUN JIAYANG</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +155,10 @@ Placing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div Captain (Boys) (Boys)</p>
+<p>C Div Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOASH LIM YU XI</p>
+<p>JABEZ CHEONG KAI LE</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +174,7 @@ Placing</p>
 <p>C Div Vice-Captain (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHI SHEYONG</p>
+<p>SAMUEL TAN GUAN YU</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +190,7 @@ Placing</p>
 <p>C Div Quarter-Master (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HO YI XUAN</p>
+<p>NIYU YI ZHE</p>
 </td>
 </tr>
 <tr>
@@ -190,36 +201,9 @@ Placing</p>
 <p>SU JIA YU, AKEMI</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Sec 1 Captain (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JABEZ CHEONG KAI LE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Sec 1 Vice-Captain (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAMUEL TAN GUAN YU</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Quarter-Master (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HAYDEN SETT PAING TUN</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_05.jpg">
-</div>
 <h4>Training Schedule Information</h4>
 <ul data-tight="true" class="tight">
 <li>

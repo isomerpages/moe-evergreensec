@@ -37,73 +37,48 @@ Jih Cheng</p>
 <p>UNIT SERGEANT MAJOR (USM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD RIZQ BIN ABDUR RAUF</p>
+<p>NG BIN RUI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT SERGEANT MAJOR (ASM) / PUBLICITY IC</p>
+<p>SEC 2 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETHAN TAM CHENG YUAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 1 IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RYAN LENG JO YOU (LIAN ZUYAO)</p>
+<p>AKID NUR' HAYYAN BIN ANDY HIRMAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEC 1 2IC</p>
+<p>SEC 1 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RATHOD SOUMIL HEMANT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 2 IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NG JUN ZHE LUKUS</p>
+<p>MOHAMAD HAYY AIDAN BIN IRMAN IRYAWAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEC 3 IC / PUBLICITY IC</p>
+<p>SEC 1 OIC / PUBLICITY IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG QI FAN JAYDEN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PHYSICAL TRAINING IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD ARUMI AQIL BIN MOHAMED IMRAN
-<br>AHMAD AKID AMALI BIN ABDULLAH
-<br>SIM CHONG JIN, NATHAN</p>
+<p>MUHAMMAD NUR TAUFIQ BIN NUR AZMAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LOGISTICS / SEC 2 2IC</p>
+<p>PTI / LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ERLEND BIN BUDI IRAMA</p>
+<p>FENG ZI XUAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LOGISTICS / SEC 1 2IC</p>
+<p>LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ZUHAIRI IBNU ZULKIFLE</p>
+<p>MUHAMMAD ZAFRAN BIN MOHAMMAD HIDIR</p>
+<p>VINCENT NG YI SHENG</p>
 </td>
 </tr>
 </tbody>
