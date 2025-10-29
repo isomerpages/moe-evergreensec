@@ -204,9 +204,6 @@ Placing</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co%20Curricular%20@%20EVG/Sports%20CCA/Volleyball/vball22_05.jpg">
-</div>
 <h4>Training Schedule Information</h4>
 <ul data-tight="true" class="tight">
 <li>
