@@ -20,11 +20,11 @@ RSAF aircraft under the Flight Experience Program (FEP). These include
 the Lockheed C-130, Fokker 50 and CH-47 Chinook. The FEP also features
 an experiential ride on the SYFC Diamond DA-40 (for selected outstanding
 individuals). Currently, we are one of the 17 secondary schools participating
-in the SYFC CCA programmes and an Open Unit for students from other secondary
-schools who are keen to learn more on aviation (CCA conducted on Saturday
-mornings in SYFC).</p>
+in the SYFC CCA programmes.</p>
+<p></p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Ms Nabila, Mr Ho Kok Wah, Ms Cheyenne</p>
+<br>Ms Nabila, Mr Ho Kok Wah, Ms Cheyenne Chew</p>
+<p></p>
 <p><strong>Organisational Structure:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -78,7 +78,7 @@ mornings in SYFC).</p>
 <p>DY COMMANDER RC DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOH JUN YU RAYDEN</p>
+<p>NABYL AYYAN SYAM</p>
 </td>
 </tr>
 <tr>
@@ -102,9 +102,10 @@ mornings in SYFC).</p>
 <p>DY HEAD TRAINING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOO YOU KUAN</p>
-<p>WANG JIAHE</p>
-<p>LIN YI YANG LUCAS</p>
+<p>LIM ZHE LEI RYAN</p>
+<p>LIM SHENG JIE</p>
+<p>YONG TIAN YEW EMERSON</p>
+<p>TAN SHANG YI</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +129,10 @@ mornings in SYFC).</p>
 <p>DY HEAD OF LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NABYL AYYAN SYAM</p>
-<p>JIANG YONG EN</p>
-<p>TAN SHANG YI</p>
-<p>TRAVEN WONG YEW KIAT</p>
+<p>SOH JUN YU RAYDEN</p>
+<p>LIM JUN WEI LEX</p>
+<p>JAYDEN LIM YU WEN</p>
+<p>WANG JIA HE</p>
 </td>
 </tr>
 <tr>
@@ -139,16 +140,17 @@ mornings in SYFC).</p>
 <p>SECTION LEADER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAYDEN LIM YU WEN</p>
-<p>YONG TIAN YEW EMERSON</p>
-<p>LIM ZHE LEI RYAN</p>
-<p>LIM JUN WEI LEX</p>
+<p>LIM YI YANG LUCAS</p>
+<p>JIANG YONG EN</p>
+<p>TRAVEN WONG YEW KIAT</p>
+<p>LOO YOU KUAN</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc_03.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFC2.jpg">
 </div>
 <p><strong>Life of an EVG YFC Member</strong>
 </p>
@@ -157,74 +159,76 @@ throughout their 4 years in this CCA. Flight Simulation and Launch Glider
 is fundamental and the first touch point for all members. All Year 1 cadets
 will undergo a 1 year Fundamental and Experiential Training (FET). Cadet’s
 Training in Year 1 will be conducted in 3 Phases over the course of 1 year.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc_02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFC3.jpg">
 </div>
+<p></p>
 <p>All cadets will be allowed to choose their specialization after FET. Members
 not holding any appointment in the Command Team will be posted to 1 of
-the Division as their specialization: Radio Control/ Control Line/ Drone.
-Members are to self regulate their flying hours for Flight Simulation after
-FET. In the YFC, members are given the opportunity to hone important life
-skills that encompass skill development, character development and leadership
-training. This is achieved through numerous experiential learning activities
-and competitions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc_04.jpg">
-</div>
+the Division as their specialization: Radio Control or Drone. Control Line
+is provided as an experiential experience where competent members from
+any division can train and compete in competitions. Members are to self
+regulate their flying hours for Flight Simulation after FET. In the YFC,
+members are given the opportunity to hone important life skills that encompass
+skill development, character development and leadership training. This
+is achieved through numerous experiential learning activities and competitions.</p>
 <p><strong>Awards and Achievements</strong>
 </p>
-<p><strong>The Singapore Amazing Flying Machine Competition (SAFMC) 2023</strong>
+<p><strong>The Singapore Amazing Flying Machine Competition (SAFMC) 2025</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>organised by DSO National Laboratories and Science Centre Singapore</p>
 </li>
 <li>
-<p>First place for Most Creative and Theory of Flight Award</p>
+<p>2nd runner up for Most Creative &amp; Theory of Flight Award in CAT C1
+Radio Control Flight - Fixed Wing</p>
 </li>
 <li>
-<p>First Runner Up for Overall Championship Award</p>
+<p>Merit Award in CAT B Unpowered Glider</p>
 </li>
 <li>
-<p>$1000 cash prize for EVGYFC members/Team Ocean</p>
+<p>7th runner up for CAT C2 FPV Drone</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFC4.jpg">
 </div>
-<p><strong>Drone Odyssey Challenge</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>organised by Science Centre Singapore and EP Tec Solutions PTE LTD with
-support from the Ministry of Education (MOE) and various partners</p>
-</li>
-<li>
-<p>Champions in the B1 Parrot Drone Obstacle Challenge ($500 cash prize for
-EVGYFC members)</p>
-</li>
-<li>
-<p>Best Presentation Award</p>
-</li>
-</ul>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc_06.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFC5.jpg">
 </div>
-<p><strong>The annual SYFC Inter-school Competition</strong>
+<p><strong>The annual SYFC Inter-school Competition (SIAC) 2025</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>organised by Singapore Youth Flying Club</p>
 </li>
 <li>
-<p>Results to be announced soon.</p>
+<p>SYFC School Challenge (Overall Standing) 2nd Runner-Up</p>
+</li>
+<li>
+<p>RC Fixed Wing Pylon Race (Senior) Champion</p>
+</li>
+<li>
+<p>RC Fixed Wing Pylon Race (Junior) 1st Runner-Up</p>
+</li>
+<li>
+<p>Launch Glider Team Event (Junior) 2nd Runner-Up</p>
+</li>
+<li>
+<p>Launch Glider (Teacher-Student Team) 2nd Runner-Up</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EVG YFC" src="/images/evgyfc%2007.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYFC6.jpg">
 </div>
+<p></p>
 <p><strong>Find out more: </strong>
-<br>EVG YFC official website <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/evgyfc/home?authuser=0</a> 
-<br>SYFC website link
-<br><a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener noreferrer nofollow" target="_blank">https://www.syfc.sg/cca/cca-activities/</a>
+<br>EVG YFC official website: click <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener nofollow" target="_blank">here</a>
+<br>SYFC website link: click <a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener nofollow" target="_blank">here</a> 
 </p>
