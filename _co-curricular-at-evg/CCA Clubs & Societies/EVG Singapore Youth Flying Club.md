@@ -20,11 +20,11 @@ RSAF aircraft under the Flight Experience Program (FEP). These include
 the Lockheed C-130, Fokker 50 and CH-47 Chinook. The FEP also features
 an experiential ride on the SYFC Diamond DA-40 (for selected outstanding
 individuals). Currently, we are one of the 17 secondary schools participating
-in the SYFC CCA programmes and an Open Unit for students from other secondary
-schools who are keen to learn more on aviation (CCA conducted on Saturday
-mornings in SYFC).</p>
+in the SYFC CCA programmes.</p>
+<p></p>
 <p><strong>Teachers-in-charge:</strong> 
-<br>Ms Nabila, Mr Ho Kok Wah, Ms Cheyenne</p>
+<br>Ms Nabila, Mr Ho Kok Wah, Ms Cheyenne Chew</p>
+<p></p>
 <p><strong>Organisational Structure:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -78,7 +78,7 @@ mornings in SYFC).</p>
 <p>DY COMMANDER RC DIVISION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOH JUN YU RAYDEN</p>
+<p>NABYL AYYAN SYAM</p>
 </td>
 </tr>
 <tr>
@@ -102,9 +102,10 @@ mornings in SYFC).</p>
 <p>DY HEAD TRAINING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LOO YOU KUAN</p>
-<p>WANG JIAHE</p>
-<p>LIN YI YANG LUCAS</p>
+<p>LIM ZHE LEI RYAN</p>
+<p>LIM SHENG JIE</p>
+<p>YONG TIAN YEW EMERSON</p>
+<p>TAN SHANG YI</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +129,10 @@ mornings in SYFC).</p>
 <p>DY HEAD OF LOGISTICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NABYL AYYAN SYAM</p>
-<p>JIANG YONG EN</p>
-<p>TAN SHANG YI</p>
-<p>TRAVEN WONG YEW KIAT</p>
+<p>SOH JUN YU RAYDEN</p>
+<p>LIM JUN WEI LEX</p>
+<p>JAYDEN LIM YU WEN</p>
+<p>WANG JIA HE</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +140,10 @@ mornings in SYFC).</p>
 <p>SECTION LEADER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JAYDEN LIM YU WEN</p>
-<p>YONG TIAN YEW EMERSON</p>
-<p>LIM ZHE LEI RYAN</p>
-<p>LIM JUN WEI LEX</p>
+<p>LIM YI YANG LUCAS</p>
+<p>JIANG YONG EN</p>
+<p>TRAVEN WONG YEW KIAT</p>
+<p>LOO YOU KUAN</p>
 </td>
 </tr>
 </tbody>
