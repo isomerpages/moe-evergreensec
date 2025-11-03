@@ -230,8 +230,5 @@ Radio Control Flight - Fixed Wing</p>
 <p></p>
 <p><strong>Find out more: </strong>
 <br>EVG YFC official website: click <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<p><a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/evgyfc/home?authuser=0</a> 
-<br>SYFC website link: click <a href="https://www.syfc.sg/cca/cca-activities/" rel="noopener nofollow" target="_blank">here</a> 
-<br><a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener noreferrer nofollow" target="_blank">https://www.syfc.sg/cca/cca-activities/</a>
+<br>SYFC website link: click <a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener nofollow" target="_blank">here</a> 
 </p>
