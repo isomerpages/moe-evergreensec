@@ -54,7 +54,7 @@ in the SYFC CCA programmes.</p>
 <p>DY COMMANDER EVG YFC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AW YU XIN REISA</p>
+<p>AW YU XIN RIESA</p>
 </td>
 </tr>
 <tr>
@@ -230,5 +230,5 @@ Radio Control Flight - Fixed Wing</p>
 <p></p>
 <p><strong>Find out more: </strong>
 <br>EVG YFC official website: click <a href="https://sites.google.com/view/evgyfc/home?authuser=0" rel="noopener nofollow" target="_blank">here</a>
-<br>SYFC website link: click <a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener nofollow" target="_blank">here</a> 
+<br>SYFC website link: click <a href="https://www.syfc.sg/CCA/CCActivities" rel="noopener nofollow" target="_blank">here</a>
 </p>
