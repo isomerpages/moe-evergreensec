@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
+#### **Chinese Language**
 **Key Learning Experiences**
 * **Applied Learning Programme (ALP)**   
 EVG’s Enhanced ALP programme offers a comprehensive curriculum to guide students in their lyrical expressions and to convey their emotions through music. The school has organised a series of in-house lessons and workshop to enhance students’ public speaking skills. Through the activities, students were able to understand the elements of giving an interesting and engaging speech and managed to deliver their speech to their peers. Through a series of trainings of storytelling, students were able to understand the elements of presenting a story in terms of content, enunciation, presentation and delivery.![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C27.png)
@@ -21,7 +22,7 @@ Chinese Unit launched the Reading Programme with the Secondary One and Two stude
 * **Learning Journeys**  
 In 2022, Chinese Unit has organized a virtual learning journey to Beijing and Tianjin in November. In this learning journey, students were able to explore attractions like The Great Wall of China, The Forbidden City and the Singapore-Sino project in Tianjin Eco-city virtually.  With the help of a local guide, students were able to learn interesting historical facts associated with these heritage sites. Different from that of last year, students had the opportunity gain a better understanding on the rapid technological development in China. Students have gained a better understanding on Chinese culture by participating in paper cutting activities.![](/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C12.png)
 
-
+#### **Malay Language**
 Over the years, the Malay Language Unit has provide numerous opportunities to EVGians to demonstrate sharpen their skills in a variety workshops that cover poetry writing, debate, expository writing and communications.
 
 Through these workshops, students participated in interactive and engaging activities that helped developed their confidence and deepen their love for the language.
@@ -56,4 +57,3 @@ Evergreen Secondary School invited renowned lyricist, Mr. Khair Yasin, to conduc
 Our students had the incredible opportunity to participate in the Young Journalist Competition, also known as Kem Kewartawanan, organized by Berita Harian. This event provided our students with a fantastic chance to dive into the world of journalism firsthand. They showcased their skills by creating a vlog, conducting interviews (including one with Singapore's rising star, Shaza), writing newspaper articles, and capturing stunning photos like professional journalists.
 
 ![](/images/151124%20CCA_ML%20photos%20update/Malay%20Language/Picture_6.jpg)
-
