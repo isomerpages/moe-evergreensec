@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH_WebHero.png
+      background: /images/OH_WebHero_v3.png
       variant: image
       key_highlights:
         - title: Open House on 22 Nov'25, 9AM-12PM
