@@ -38,7 +38,8 @@ responsible choices to protect yourself and the community.</p>
 and school internet networks.</p>
 </li>
 </ul>
-<p>Click here to view the Acceptable Use Policy (AUP) for use of EdTech Resources.</p>
+<p><a href="/files/ICT Related/EVG_AUP_on_EdTech_ver_Oct_2025.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
+view the Acceptable Use Policy (AUP) for use of EdTech Resources.</p>
 <h4>Consequences of Non-Compliance</h4>
 <p>Failure to adhere to the policy and guidelines above may result in the
 suspension or termination of your user account.</p>
