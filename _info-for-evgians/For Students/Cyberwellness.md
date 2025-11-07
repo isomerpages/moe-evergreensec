@@ -5,16 +5,6 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h3>EVG EDTECH SMART FRAMEWORK</h3>
-<h4>Vision:</h4>
-<p>A digitally empowered network of learners in a future-ready community.</p>
-<h4>Mission:</h4>
-<p>To empower EVGians to be innovative, adaptive and responsible digital
-citizens.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_1_1.png">
-</div>
 <h3>CYBER WELLNESS POLICY</h3>
 <p>All EVGians are to show respect for self and others and to practice safe
 and responsible use of the Internet.</p>
