@@ -117,8 +117,64 @@ and excellence in learning.</p>
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Dept_7_1_jpg.png">
+</div>
+<p><strong><em>Knowgets Creative Lab</em></strong>
+</p>
+<p>Our students participated in Knowgets Creative Lab, organised by Holy
+Innocents’ High School in collaboration with the Media Design for Learning
+Branch (MDL) of ETD. Centred on the theme “STEM in Everyday Life,” the
+programme allowed students to explore Science Centre Singapore’s exhibitions
+and create digital media products that explain scientific principles behind
+daily phenomena. Through this experience, our students honed their creativity,
+collaboration, and digital literacy skills while discovering how science
+and technology shape the world around them.</p>
 <p></p>
+<p><strong>SISTEMIC</strong>
+</p>
+<p>Our Evergreen students proudly represented the school at Singapore International
+STEM Innovation Challenge (SISTEMIC), a six-day international STEM summit
+organised by the MOE and National Junior College. Themed “Life Reimagined
+– Exploring Emerging Technologies,” the summit brought together students
+aged 15–18 from around the world to tackle real-world challenges through
+innovation, collaboration, and design thinking. Participants explored the
+social, economic and ethical impacts of technologies such as artificial
+intelligence, biotechnology, renewable energy, and space exploration.</p>
+<p>The Voyager teams collaborated with peers from international schools in
+masterclasses, learning journeys, and the STEM Innovation Challenge. They
+designed and presented solutions for issues such as sustainable energy
+and conscious consumption — demonstrating outstanding scientific reasoning
+and innovative thinking. We are thrilled to share that Team Evergreen clinched
+the Gold and Silver Awards in the Voyager Programme, a testament to our
+students’ creativity, perseverance, and teamwork on the global stage.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_8.jpg">
+</div>
+<p>Our Explorer team took part in hands-on STEM design challenges and workshops
+that developed creativity, teamwork and problem-solving. They gained new
+insights into sustainability, innovation, and how science can drive change
+in everyday life.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_9.jpg">
+</div>
+<p><strong>High School STEM Internship @ Abbott Singapore</strong>
+</p>
+<p>Our student, Carlo from 4 Respect, experienced a two-week internship at
+Abbott Singapore to explore how STEM is applied in a real-world context.
+He was exposed to various job prospects within Abbott, such as Clinical
+Research, Nutrition Science, Project Management, Consumer Science, and
+Sensory Science. Carlo eventually chose to focus on Innovation Development,
+where he learnt how different AI tools and research papers are used in
+the medical field.</p>
+<p><em>“I am grateful for this opportunity as I gained valuable insights into different job prospects within the STEM field. The exposure to real-world innovation and challenges has enhanced my problem-solving skills and sharpened my critical, adaptive, and inventive thinking. I was also privileged to work with professionals from the science field and collaborate with other students, which greatly improved my teamwork and communication skills. I would strongly recommend other students to take up such an experience!” - </em>Lingat
+Juan Carlo, 4 Respect</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_10.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
