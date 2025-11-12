@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h4><strong>Science </strong></h4>
+<h4><strong>Science</strong></h4>
 <p>The Science Department is committed to cultivating scientifically literate,
 critical, and innovative thinkers who are equipped to navigate and contribute
 to a rapidly evolving world. Through engaging students in real-world applications,
@@ -41,7 +41,7 @@ to form polymers, learning about viscosity, states of matter, and the properties
 of materials in a hands-on way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_2_1.jpg">
 </div>
 <p><strong>Innovating with Solar Energy Projects</strong>
 </p>
@@ -149,16 +149,18 @@ the Gold and Silver Awards in the Voyager Programme, a testament to our
 students’ creativity, perseverance, and teamwork on the global stage.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_8_1.jpg">
 </div>
+<p></p>
 <p>Our Explorer team took part in hands-on STEM design challenges and workshops
 that developed creativity, teamwork and problem-solving. They gained new
 insights into sustainability, innovation, and how science can drive change
 in everyday life.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Science_Dept_9_1.jpg">
 </div>
+<p></p>
 <p><strong>High School STEM Internship @ Abbott Singapore</strong>
 </p>
 <p>Our student, Carlo from 4 Respect, experienced a two-week internship at
