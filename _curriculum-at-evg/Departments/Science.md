@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h4><strong>Science Department</strong></h4>
+<h4><strong>Science </strong></h4>
 <p>The Science Department is committed to cultivating scientifically literate,
 critical, and innovative thinkers who are equipped to navigate and contribute
 to a rapidly evolving world. Through engaging students in real-world applications,
