@@ -148,8 +148,5 @@ Hall</p>
 </li>
 </ul>
 <h4>Join our 2026 trial sessions!</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 CCA Updates/WhatsApp_Image_2025_01_17_at_07_24_54.jpg">
-</div>
+<p>Details to be released soon.</p>
 <p></p>
