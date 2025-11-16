@@ -50,11 +50,10 @@ of their Cross-Country or Track and Field teams.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong><u>NSG Track and Field</u></strong>
+<p><strong><u>2025 NSG Track and Field</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -73,23 +72,41 @@ of their Cross-Country or Track and Field teams.</p>
 <p><strong>Position</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
+<p>Jerestin Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys 3000m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Austin Stephen Roji</p>
+<p>Chua Feng Bin, Daviano</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div Boys 3.0km</p>
+<p>B Boys 3000m Race Walk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd place</p>
+<p>12<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qaisara Nur Afiqah Binte Ahmad Izwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9min 59s</p>
+<p>B Girls 1500m Race Walk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
