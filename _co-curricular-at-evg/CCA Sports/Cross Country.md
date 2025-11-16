@@ -247,7 +247,7 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team Vice-Captain</p>
+<p>Team Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HENG YU RUO</p>
@@ -298,7 +298,7 @@ of their Cross-Country or Track and Field teams.</p>
 <p>Welfare IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMAD ESHAN QAZI BIN MUHAMAD SUFIAN SHA</p>
+<p>LAU JUN LE, LUCAS</p>
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ of their Cross-Country or Track and Field teams.</p>
 <p>Training IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LAU JUN LE, LUCAS</p>
+<p>JAVIER SIM ZE MING</p>
 </td>
 </tr>
 <tr>
@@ -325,21 +325,32 @@ of their Cross-Country or Track and Field teams.</p>
 <p>MUHAMMAD ARYAN DHULFIQAR BIN ZUBYR</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAVIER YANG WEIWEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMAD ESHAN QAZI BIN MUHAMAD SUFIAN SHA</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC05___Priscilia_Teng.jpg">
-</div>
 <h4>Training Schedule Information</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday and Thursday, 3.30pm to 6.00pm, Woodlands Stadium</p>
-</li>
-<li>
-<p>Friday, 3.30pm to 6.00pm, MacRitchie Reservoir (Sec 2-4s only)</p>
+<p>Tuesday and Thursday, 4.00pm to 6.00pm, Woodlands Stadium</p>
+<p></p>
+<p></p>
 </li>
 </ul>
-<h4>More Information</h4>
-<p><a href="/files/CCA%20Training%20Schedule/Cross%20Country/cca%20open%20house%202023%20-%20cross%20country.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for New Secondary 1</a>
-</p>
+<h4>Join us at our <a href="https://www.instagram.com/evg_athletics/" rel="noopener nofollow" target="_blank">IG page</a></h4>
+<p></p>
