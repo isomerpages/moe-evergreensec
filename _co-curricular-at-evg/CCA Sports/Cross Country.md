@@ -6,8 +6,11 @@ third_nav_title: CCA Sports
 variant: tiptap
 ---
 <h3>EVG Cross Country</h3>
+<p>Link to <a href="https://youtu.be/QrT5btzWKOA" rel="noopener nofollow" target="_blank">XC Video</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC01___Priscilia_Teng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_1.jpg">
 </div>
 <p>Cross-country is a middle-distance running sport, typically covering distances
 between 3.6 to 4.8 km. The term “cross-country” reflects the nature of
@@ -16,8 +19,14 @@ As an endurance sport, physical conditioning and fitness are crucial. To
 maintain their progress and fitness from season to season, our student-athletes
 train consistently with varying intensities and volumes throughout the
 year.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC02___Priscilia_Teng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_3.jpg">
 </div>
 <p>We are dedicated to nurturing strong, self-motivated, and disciplined
 youths who excel both in sports and academics. This commitment is reflected
@@ -28,10 +37,19 @@ emerge as resilient, capable young men and women, often recognised for
 their excellence in both sports and studies through Direct Schools Admission
 (DSA-JC) to top Junior Colleges in Singapore. Many go on to become captains
 of their Cross-Country or Track and Field teams.</p>
+<p></p>
 <h4>Events and Achievements</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC03___Priscilia_Teng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_4.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_5.jpg">
+</div>
+<p></p>
+<p></p>
 <p><strong><u>NSG Track and Field</u></strong>
 </p>
 <table style="minWidth: 100px">
