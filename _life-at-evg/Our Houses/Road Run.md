@@ -3,23 +3,100 @@ title: Road Run
 permalink: /life-at-evg/our-houses/road-run/
 description: ""
 third_nav_title: Our Houses
+variant: tiptap
 ---
-#### **The Annual EVG Road Run**
-
-![](/images/Life%20At%20EVG/Road%20Run/house_all.jpg)
-
-**A Spectacular Comeback Filled with Energy and Spirit**
-
-On the 10th of March 2023, EVGians radiated energy through their spirited house cheers, vibrant flags, and dazzling colors at the breathtaking Gardens by the Bay. The Annual EVG Road Run is back!
-
-![](/images/Life%20At%20EVG/Road%20Run/runners_02.jpg)
-
-Parents, staff, guest runners and EVGians alike embarked on the 3.8 km scenic route, brimming with anticipation and determination. The beautiful surroundings of Gardens by the Bay provided a stunning backdrop for our journey. With each step, our community forged bonds and fostered a sense of camaraderie that epitomizes the EVG spirit.
-
-![](/images/Life%20At%20EVG/Road%20Run/runners_03.jpg)
-
-The EVG Road Run was not just a race; it was a celebration of our resilience, our spirit, and our commitment to growth. It reminded us that together, as one EVG family, we can overcome any obstacle and achieve greatness. The memories we created on that day will serve as a constant reminder of the bonds we share and the limitless potential that lies within us.
-
-![](/images/Life%20At%20EVG/Road%20Run/house_green.jpg)
-
-The Annual EVG Road Run was indeed a fitting way to conclude Term 1. It was a day filled with laughter, cheers, and a renewed sense of purpose.
+<h4><strong>EVG Road Run — A Celebration of Spirit, Strength, and Community</strong></h4>
+<p><strong>Overview</strong>
+</p>
+<p>The <strong>EVG Road Run</strong> is an annual signature event, which is
+part of our LLP Tier 1 programmes, that brings together students, staff,
+parents, and alumni in a celebration of health, resilience, and school
+spirit. More than just a race, it is a joyful expression of unity and belonging
+— a day when the EVG family runs together as one.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Road Run/Road_Run_1.jpg">
+</div>
+<p></p>
+<p><strong>A Vibrant Display of Energy and Togetherness</strong>
+</p>
+<p>Each edition of the EVG Road Run transforms a scenic route into a sea
+of colour, cheer, and determination.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Participants:</strong> Students, staff, parents, and alumni join
+in, embodying the inclusive spirit of EVG.</p>
+</li>
+<li>
+<p><strong>Atmosphere:</strong> The event is filled with vibrant house flags,
+rhythmic cheers, and a contagious energy that reflects the pride and enthusiasm
+of the EVG community.</p>
+</li>
+<li>
+<p><strong>Purpose:</strong> Beyond physical activity, the run celebrates <strong>resilience, camaraderie, and collective growth</strong>,
+reminding everyone that challenges are best overcome together.</p>
+</li>
+<li>
+<p><strong>Significance:</strong> It is a meaningful occasion that strengthens
+friendships, builds confidence, and renews motivation across the EVG family.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Road Run/Road_Run_2.png">
+</div>
+<p><strong>Inclusive and Competitive Spirit</strong>
+</p>
+<p>The EVG Road Run caters to participants of all abilities through a mix
+of activities that balance fun and competition.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Event Segments:</strong> The programme typically includes <strong>inter-house competitive runs</strong>, <strong>inter-school races</strong>,
+a <strong>staff race</strong>, and a <strong>fun run/walk</strong> for inclusive
+participation.</p>
+</li>
+<li>
+<p><strong>House System:</strong> Every runner — whether competitive or casual
+— contributes <strong>House Points</strong> that go towards the <strong>Inter-House Challenge Shield</strong>,
+fostering friendly rivalry and teamwork.</p>
+</li>
+<li>
+<p><strong>Core Values:</strong> The event embodies EVG’s values of <strong>perseverance, unity, and holistic well-being</strong>,
+ensuring that every participant experiences both achievement and belonging.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Road Run/Road_Run_3_png.jpg">
+</div>
+<p><strong>Enduring Impact</strong>
+</p>
+<p>The EVG Road Run stands as a hallmark of school culture, promoting both
+physical wellness and emotional connection. It:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Builds community bonds</strong> among students, staff, parents,
+and alumni.</p>
+</li>
+<li>
+<p><strong>Promotes active living</strong> through joyful participation.</p>
+</li>
+<li>
+<p><strong>Strengthens house spirit</strong> and collective identity.</p>
+</li>
+<li>
+<p><strong>Instills resilience and pride</strong> in every EVGian.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Road Run/Road_Run_4_png.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life At EVG/Road Run/Road_Run_5_png.jpg">
+</div>
+<p></p>
+<p></p>
