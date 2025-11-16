@@ -45,10 +45,10 @@ of their Cross-Country or Track and Field teams.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_5_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_5.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong><u>2025 NSG Track and Field</u></strong>
 </p>
