@@ -111,12 +111,10 @@ of their Cross-Country or Track and Field teams.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>NSG Cross Country</u></strong>
+<p><strong><u>2025 NSG Cross Country</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -127,6 +125,38 @@ of their Cross-Country or Track and Field teams.</p>
 </p>
 </th>
 <td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jerestin Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15<sup>th</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong><u>2025 Pesta Sukan</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name (Class)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Events</strong>
 </p>
 </td>
@@ -134,375 +164,64 @@ of their Cross-Country or Track and Field teams.</p>
 <p><strong>Position</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
-</p>
+<p>Jerestin Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U15 Boys 1500m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Austin Stephen Roji</p>
+<p>Jerestin Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div Boys 4.8km&nbsp;</p>
+<p>U15 Boys 800b</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13<sup>th</sup>&nbsp; place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18min 16s</p>
+<p>3rd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Vee Xuen</p>
+<p>Megan Yoon Rui en</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div Girls 3.8km</p>
+<p>U15 Girls 1500m Racewalk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14<sup>th</sup>&nbsp; place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16min 51s</p>
+<p>2nd</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Bo Pin</p>
+<p>Qaisara Nur Afiqah Binte Ahmad Izwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Div Boys 3.8km</p>
+<p>U18 Girls 1500m Racewalk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11<sup>th</sup>&nbsp; place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14min 26s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhamad Asyriq Asyavin Bin Mohamad Hadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C Div Boys 3.8km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19<sup>th</sup>&nbsp; place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14min 49s</p>
+<p>3rd</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC04___Priscilia_Teng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_6.jpg">
 </div>
-<p><strong><u>Pesta Sukan Athletics 2024 -&nbsp; 1500m Racewalk&nbsp;</u></strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name (Class)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Events</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Position</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Heng Yu Ruo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10min 44s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Megan Yoon Rui En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10min 54s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wee Yu Ting Elise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10min 29s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Goh Jin En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11min 58s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhamad Asyriq Asyavin Bin Mohamad Hadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9min 59s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Feng Bin Daviano (3 Thk)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8min 54s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yusuf Akmal Bin Mohamad Rizam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10min 22s</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Pesta Sukan Athletics 2024 -&nbsp; 1500m race&nbsp;</u></strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name (Class)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Events</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Position</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhamad Asyriq Asyavin Bin Mohamad Hadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 14s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keon Poh Ding Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7th place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 17s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Bo Pin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9th place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 min 22s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Javier Yang Wei Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12th place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 33s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Isaac Tan Zee Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U15 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16th place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 46s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Marcus Ng Yee Zhe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 10s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Edvard Chan Yi Feng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 29s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mohamed Haikal Iskandar Bin Mohamed Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 36s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chow Zixuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 37s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wong Kang Zheng Marcel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U18 Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17<sup>th</sup> place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5min 37s</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4></h4>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XC06___Priscilia_Teng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Cross Country/XC_photo_7.jpg">
 </div>
+<p></p>
+<p></p>
 <h4>Student Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
