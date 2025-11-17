@@ -11,89 +11,75 @@ variant: tiptap
 <ul>
 <li>
 <p><strong>Applied Learning Programme (ALP)</strong>
-<br>EVG’s Enhanced ALP programme offers a comprehensive curriculum to guide
-students in their lyrical expressions and to convey their emotions through
-music. The school has organised a series of in-house lessons and workshop
-to enhance students’ public speaking skills. Through the activities, students
-were able to understand the elements of giving an interesting and engaging
-speech and managed to deliver their speech to their peers. Through a series
-of trainings of storytelling, students were able to understand the elements
-of presenting a story in terms of content, enunciation, presentation and
-delivery.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C27.png">
-</div>
-</li>
-<li>
-<p><strong>North Zone Schools (Primary/Secondary) Chinese Speech Competition</strong>
-<br>North Zone Schools (Primary/Secondary) Chinese Speech Competition was
-jointly organised by Evergreen Primary School and Evergreen Secondary School,
-and saw participation of over 170 staff and students from 32 North-zone
-Primary and Secondary Schools between May and July 2022. The competition’s
-judging panel comprised Master Teacher of Singapore Centre for Chinese
-Language (SCCL), as well as professor from National Institute of Education
-(NIE) and officer from CPDD Mother Tongue Branch. Through the competition,
-students are able to build their oratorical skills and confidence in public
-speaking. The competition is also a platform for students from different
-schools to build friendships and expand their perspectives through learning
-together.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C7.png">
-</div>
-</li>
-<li>
-<p><strong>Chinese New Year Celebration</strong>
-<br>Chinese New Year is one of the most important festivals for Chinese. In
-2022, a year of rejuvenation, we celebrated and ushered in the Tiger Year
-with a hybrid celebration, incorporating online concert and a Chinese calligraphy
-competition! We have proudly presented wonderful performances from Chinese
-Orchestra, Chinese Dance, Malay Dance, Guitar Ensemble and Gamelan. Not
-only that, school leaders and HODs have also written Chinese calligraphy
-on red diamond-shaped papers, wishing everyone good fortune, promising
-career, good health and good luck.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C22.png">
-</div>
-</li>
-<li>
-<p><strong>Reading Programme</strong>
-<br>Chinese Unit launched the Reading Programme with the Secondary One and
-Two students this year. Through this programme, we hope to cultivate the
-habit of reading in our students, enable them to find enjoyment and widen
-their perspective through reading. Teachers have developed learning packages
-in SLS that will promote critical thinking in students thereby enriching
-students’ reading experiences. Through the interactive activities in SLS
-and discussion in class, students communicate and express their thought
-confidently with their peers. Students has also participated a series of
-interesting activities on School Book Day (校园书香日), including taking part
-in prized pop quizzes sessions, introducing their favourite books and receiving
-books as gifts from school.</p>
-</li>
-<li>
-<p><strong>Author-in-Residence Programme</strong>
-<br>In collaboration with the Singapore Association of Writers, the Committee
-to Promote Chinese Language Learning (CPCLL) launched the Author-in-Residence
-Programme (驻校作家计划). Numerous activities were organised and renowned local
-writers were invited to schools to promote a love and appreciation of literature
-among students. The school is honoured to invite local writer Mr Quek Yong
-Siu (郭永秀) to share his passion of writing with our students.</p>
-</li>
-<li>
-<p><strong>Learning Journeys</strong>
-<br>In 2022, Chinese Unit has organized a virtual learning journey to Beijing
-and Tianjin in November. In this learning journey, students were able to
-explore attractions like The Great Wall of China, The Forbidden City and
-the Singapore-Sino project in Tianjin Eco-city virtually. With the help
-of a local guide, students were able to learn interesting historical facts
-associated with these heritage sites. Different from that of last year,
-students had the opportunity gain a better understanding on the rapid technological
-development in China. Students have gained a better understanding on Chinese
-culture by participating in paper cutting activities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/MTL%20Department/Chinese%20Language/C12.png">
-</div>
+<br>EVG’s Enhanced ALP equips students with the skills to express themselves
+creatively through music, speech, and storytelling.</p>
+<p></p>
+<p>Through a series of in-house workshops, students learnt the fundamentals
+of public speaking and storytelling — from crafting engaging content to
+improving vocal delivery and stage presence. These sessions helped students
+build confidence, communicate with clarity, and express their emotions
+effectively.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/MTL Department/Chinese Language/2025_CL1.png">
+</div>
+<p></p>
+<p></p>
+<ul>
+<li>
+<p><strong>Reading Programme</strong>
+<br>This year, the Chinese Unit introduced a Reading Programme for Secondary
+One and Two students to nurture a love for reading and expand their worldviews.
+Through curated texts, class discussions, and interactive SLS activities,
+students developed critical thinking and communication skills while engaging
+deeply with literary content.</p>
+<p></p>
+<p>To enrich the experience, students also took part in a Story Writing Workshop,
+where visual and auditory prompts were used to inspire creative storytelling
+and strengthen their narrative writing abilities.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/MTL Department/Chinese Language/2025_CL2.png">
+</div>
+<p></p>
+</li>
+<li>
+<p><strong>Lunar New Year Celebration</strong>
+<br>Lunar New Year is a significant cultural celebration, and in 2025 — a
+year symbolising rejuvenation — our school welcomed the Year of the Snake
+with a vibrant hybrid celebration.</p>
+<p></p>
+<p>The festivities featured an exciting blend of online and in-person elements,
+including a virtual concert and a Chinese calligraphy competition. Students
+showcased their talents through captivating performances by the Chinese
+Orchestra, Chinese Dance, Malay Dance, Guitar Ensemble, and Gamelan.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/MTL Department/Chinese Language/2025_CL3.png">
+</div>
+<p></p>
+</li>
+<li>
+<p><strong>North Zone Speech Competition</strong>
+<br>Jointly organised by Evergreen Primary and Evergreen Secondary School,
+the 2025 North Zone Chinese Speech Competition saw over 170 staff and students
+from 32 schools participating between May and July.</p>
+<p></p>
+<p>The event provided a valuable platform for students to develop their oratorical
+skills, build confidence, and connect with peers through public speaking.
+We are proud to share that Ong Qing Ru clinched 1st place, while Chan Li
+Yun achieved 2nd place, both representing Evergreen Secondary with excellence.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/MTL Department/Chinese Language/2025_CL4.png">
+</div>
+<p></p>
 <h4><strong>Malay Language</strong></h4>
 <p>Over the years, the Malay Language Unit has provide numerous opportunities
 to EVGians to demonstrate sharpen their skills in a variety workshops that
