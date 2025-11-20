@@ -9,15 +9,13 @@ variant: tiptap
 <img style="width: 40%;" height="auto" width="100%" src="/images/badmin1.jpg">
 </div>
 <h3>EVG Badminton</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_1A.png">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_1A.png">
-</div>
 <p>EVG Badminton is dedicated to cultivating resilient and committed student
 leaders through comprehensive training programs, nurturing their skills
 and court craft to unlock their full potential.</p>
@@ -58,33 +56,33 @@ inspiring the juniors to develop their own leadership skills.</p>
 <h4>Events and Achievements</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_3.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_4A.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_4A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_4B.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_4B.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_5.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular @ EVG/Sports CCA/Badminton/Badminton_6.png">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_6.png">
-</div>
 <p></p>
 <h4>Student Leaders</h4>
 <table style="minWidth: 50px">
