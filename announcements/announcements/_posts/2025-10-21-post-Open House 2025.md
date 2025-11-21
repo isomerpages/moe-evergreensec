@@ -27,6 +27,9 @@ our holistic programmes, and engage with our EVGians!</p>
 </p>
 <p>We’re thrilled to welcome you — see you there!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Evergreen_Secondary_School_Open_House.png">
+</div>
 <p>
 <br>
 </p>
