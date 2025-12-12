@@ -68,7 +68,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>·<strong>Application Methods</strong>
+<p><strong>Application Methods</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
