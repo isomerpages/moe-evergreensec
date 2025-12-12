@@ -5,9 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h5><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h5>
-<p><strong>(A) MOE Financial Assistance Scheme (MOE FAS)</strong>
-</p>
+<h5><strong>(A) MOE Financial Assistance Scheme (MOE FAS)</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
