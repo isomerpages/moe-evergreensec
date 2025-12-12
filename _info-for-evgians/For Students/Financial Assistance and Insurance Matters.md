@@ -70,42 +70,24 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Methods</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">§&nbsp; Apply online at:&nbsp; </a>
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<p>·<strong>Application Methods</strong>
 </p>
-<p>§&nbsp; Parents Gateway under Services tab – Financial Assistance or</p>
-<p>§&nbsp; QR code</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply online at: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+</li>
+<li>
+<p>Parents Gateway under Services tab – Financial Assistance</p>
+</li>
+</ul>
+<p></p>
 <p>If you have children in different schools, you just need to submit 1 application
 form to any of their schools. The school that receives the application
-form will inform you of the outcome</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial assistance | MOE</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information on MOE Financial Assistance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E-FAS Application Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+form will inform you of the outcome.</p>
 <p></p>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Click here for more information on MOE Financial Assistance</a>
+</p>
 </td>
 </tr>
 </tbody>
