@@ -7,12 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/OH_WebHero_v3.png
+      background: /images/HeroBanner_Upload_2.gif
       variant: image
-      key_highlights:
-        - title: Open House on 22 Nov'25, 9AM-12PM
-          description: Click for more details
-          url: https://www.evergreensec.moe.edu.sg/open-house-2025/
       backgroundColor: gray
       size: md
       alignment: left
