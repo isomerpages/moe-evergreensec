@@ -186,7 +186,7 @@ school uniform via email.</p>
 <p></p>
 <p>C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Application Methods</u>
 </p>
-<p>Apply online at <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<p>Apply online at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 <p>OR</p>
 <p>Parents Gateway under Services tab – Financial Assistance</p>
@@ -197,7 +197,7 @@ form will inform you of the outcome.</p>
 <p><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong>
 </p>
 <h4><strong>6. Secondary One Letter to Parents / Guardians</strong></h4>
-<p>Please refer to the <strong><a rel="noopener noreferrer nofollow" target="_blank">2026 Term 1 Letter to Secondary One Parents</a></strong> attached
+<p>Please refer to the 2<strong>026 Term 1 Letter to Secondary One Parents</strong> attached
 in our Parents Gateway message, for important information about the school
 and the key events in the school calendar for Term 1 2026.</p>
 <p></p>
@@ -205,7 +205,7 @@ and the key events in the school calendar for Term 1 2026.</p>
 <p>All Secondary 1 students are to report to Evergreen Secondary School on
 2 January 2026 by 7.30am. Attire is full school uniform or Primary School
 PE attire. If you are unable to report to Evergreen Secondary on 2 January
-2026 due to valid reasons, please email us at <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
+2026 due to valid reasons, please email us at <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
 your name and contact number to confirm that you are still taking up the
 place, and we will be able to reserve the place for you.</p>
 <p></p>
@@ -281,11 +281,11 @@ the child to assess their counselling needs.</p>
 <p></p>
 <p><strong>(j) </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>My child has special needs. How do I inform the school about it?</strong>
 </p>
-<p>Parents may email Ms Joanna Lee (AYH/Student Well-Being) at <a href="lee_teck_miang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_miang@schools.gov.sg</a>.</p>
+<p>Parents may email Ms Joanna Lee (AYH/Student Well-Being) at <a href="mailto:lee_teck_miang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_miang@schools.gov.sg</a>.</p>
 <p><strong>(k) </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>My child has health issues. How do I inform the school about it?</strong>
 </p>
-<p>Parents may email Mr James Ng (HOD/PE&amp;CCA) at <a href="james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a> or
-Ms Lydia Sng (SH/CCA&amp;LLP) at <a href="lydia_sng_pei_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lydia_sng_pei_en@schools.gov.sg</a>.&nbsp;</p>
+<p>Parents may email Mr James Ng (HOD/PE&amp;CCA) at <a href="mailto:james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a> or
+Ms Lydia Sng (SH/CCA&amp;LLP) at <a href="mailto:lydia_sng_pei_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lydia_sng_pei_en@schools.gov.sg</a>.&nbsp;</p>
 <p><strong><u>Parents Support Group (PSG)</u></strong>
 </p>
 <p><strong>(l)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I join the PSG?</strong>
