@@ -151,7 +151,57 @@ Parents/Guardians can check their PG for their child’s/ward’s class allocati
 <p>Students can purchase the PE T-shirt in school on 2 Jan (Fri), 5 Jan (Mon)
 and 6 Jan (Tues) from the vendor&nbsp;from 11.00am to 4.00pm.</p>
 <p></p>
+<h4><strong>5. Application for Financial Assistance Scheme (FAS)</strong></h4>
+<p><strong>5.1&nbsp;MOE FAS Approved by Graduating Schools or Other Schools (Sibling’s School)</strong>
+</p>
+<p>Please send us a copy of the FAS Approval Letter as soon as possible,
+by:</p>
+<p>Date: 22 December 2025.</p>
+<p>Email: <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
+</p>
+<p>We will then send you the details for the collection of textbooks and
+school uniform via email.</p>
+<p><strong>&nbsp;5.2&nbsp;New Application for MOE Financial Assistance Scheme (MOE FAS)</strong>
+</p>
+<p>A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Criteria</u>
+</p>
+<p>Gross Monthly Household Income (GHI) of $4,000 and below;</p>
+<p>OR</p>
+<p>Gross monthly household Per Capita Income (PCI) of $1,000 and below</p>
 <p></p>
+<p>B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Types of benefits provided under MOE FAS (Secondary School):</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>100% subsidy of school and miscellaneous fees</p>
+</li>
+<li>
+<p>Free textbooks and school attire</p>
+</li>
+<li>
+<p>School meal subsidy of $8.20 per school day</p>
+</li>
+<li>
+<p>Public transport subsidy of $21 per month or up to $252 per annum</p>
+</li>
+</ul>
+<p></p>
+<p>C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Application Methods</u>
+</p>
+<p>Apply online at <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+<p>OR</p>
+<p>Parents Gateway under Services tab – Financial Assistance</p>
+<p>If you have children in different schools, you just need to submit 1 application
+form to any of their schools. The school that receives the application
+form will inform you of the outcome.</p>
+<p>Click here for more information on MOE Financial Assistance</p>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong>
+</p>
+<h4><strong>6. Secondary One Letter to Parents / Guardians</strong></h4>
+<p>Please refer to the <strong><a rel="noopener noreferrer nofollow" target="_blank">2026 Term 1 Letter to Secondary One Parents</a></strong> attached
+in our Parents Gateway message, for important information about the school
+and the key events in the school calendar for Term 1 2026.</p>
 <p></p>
 <p></p>
 <p></p>
