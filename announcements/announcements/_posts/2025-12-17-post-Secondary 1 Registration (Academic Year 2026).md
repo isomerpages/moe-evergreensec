@@ -90,9 +90,7 @@ After submission through Parents Gateway (PG), parents and students may
 proceed with the purchase of textbooks, based on the choice made. Please
 purchase the learning materials for the corresponding subject level (i.e.,
 G3 or G2 or G1) your child/ward will be studying.</p>
-<p>&nbsp;</p>
 <h4><strong>3. Eligibility for Higher Mother Tongue Languages (HMTL)</strong></h4>
-<p></p>
 <p>For Sec 1 students who are eligible to take Higher Mother Tongue Languages
 (HTML), our school personnel will be reaching out to the selected students’
 parents/guardians after the Sec 1 online briefing on 22 December 2025 to
