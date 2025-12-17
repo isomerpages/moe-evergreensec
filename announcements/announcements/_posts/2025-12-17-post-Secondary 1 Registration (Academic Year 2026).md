@@ -155,7 +155,7 @@ and 6 Jan (Tues) from the vendor&nbsp;from 11.00am to 4.00pm.</p>
 <p>Please send us a copy of the FAS Approval Letter as soon as possible,
 by:</p>
 <p>Date: 22 December 2025.</p>
-<p>Email: <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
+<p>Email: <a href="mailto:evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a>
 </p>
 <p>We will then send you the details for the collection of textbooks and
 school uniform via email.</p>
@@ -293,8 +293,8 @@ Ms Lydia Sng (SH/CCA&amp;LLP) at <a href="lydia_sng_pei_en@schools.gov.sg" rel="
 <p>You may register using the online form: <a href="https://go.gov.sg/joinevgpsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/joinevgpsg</a>.</p>
 <p><strong>(m) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How often does the PSG meet up?</strong>
 </p>
-<p><strong>&nbsp;</strong>The PSG meetings are held on a termly basis, as
-well as when needed to support or participate in school events</p>
+<p>The PSG meetings are held on a termly basis, as well as when needed to
+support or participate in school events</p>
 <p><strong>(n)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How does joining the PSG enable parents to better support their children in secondary school?</strong>
 </p>
 <p>You can attend PSG meetings where staff will share more about school programmes
