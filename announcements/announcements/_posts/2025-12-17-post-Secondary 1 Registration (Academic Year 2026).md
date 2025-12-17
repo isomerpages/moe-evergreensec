@@ -203,5 +203,113 @@ form will inform you of the outcome.</p>
 in our Parents Gateway message, for important information about the school
 and the key events in the school calendar for Term 1 2026.</p>
 <p></p>
+<h4><strong>7. Reporting to School on 2 January 2026</strong></h4>
+<p>All Secondary 1 students are to report to Evergreen Secondary School on
+2 January 2026 by 7.30am. Attire is full school uniform or Primary School
+PE attire. If you are unable to report to Evergreen Secondary on 2 January
+2026 due to valid reasons, please email us at <a href="evergreen_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evergreen_ss@schools.gov.sg</a> with
+your name and contact number to confirm that you are still taking up the
+place, and we will be able to reserve the place for you.</p>
+<p></p>
+<h4><strong>8. Frequently Asked Questions and Other Queries</strong></h4>
+<p></p>
+<p><strong><u>Sec 1 Registration</u></strong>
+</p>
+<p><strong>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if I do not have Parents Gateway?</strong>
+</p>
+<p>Information will be placed on the school website. If you do have any queries,
+you may contact the General Office at 63656392.</p>
+<p></p>
+<p><strong>(b)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>What is the duration of the MS Teams Session on 22 December 2025?</strong>
+</p>
+<p></p>
+<p>The duration of the MS Teams session is around 30 mins. If you have any
+concerns about attending the session, you may contact the General Office
+at 63656392.</p>
+<p></p>
+<p><strong><u>Full Subject-Based Banding</u></strong>
+</p>
+<p><strong>(c)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I appeal for my child to take subjects at a more demanding level?</strong>
+</p>
+<p>There is no appeal as the offer is first made based on the PSLE Achievement
+Level. However, if a student does well for the subject and meets the eligibility
+criteria (with reference to their Weighted Assessments and/or End-of-Year
+Examination results) at the end of Secondary 1 Semester 1 or 2, he / she
+may be given an offer to take up the subject(s) at more demanding level.</p>
+<p></p>
+<p><strong><u>Higher Mother Tongue Languages</u></strong>
+</p>
+<p><strong>(d) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I appeal for my child to take Higher Mother Tongue Languages (HMTL)?</strong>
+</p>
+<p>Eligibility for HMTL is based on MOE's letter of offer to the Secondary
+1 students. Subsequently, our school may offer other students to take up
+HMTL based on his/her interest, aptitude, teacher’s assessment and overall
+school-based performance.</p>
+<p></p>
+<p><strong>(e) </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>What are the merits of taking HTML?</strong>&nbsp;</p>
+<p>HMTL offers students the opportunities to learn a language at a more advanced
+level. It will develop students with the ability, aptitude and interest
+in MTL towards achieving higher levels of language proficiency and cultural
+knowledge.</p>
+<p><strong>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What should I do if my child declines the HMTL offer?</strong>
+</p>
+<p>If your child does not wish to take up the HMTL offer, please purchase
+the regular G3 MTL textbook instead.</p>
+<p></p>
+<p><strong><u>Tamil Lessons</u></strong>
+</p>
+<p><strong>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child would like to take Tamil lessons. What are the arrangements for his / her Tamil lessons?</strong>
+</p>
+<p>Evergreen Secondary School does not offer Tamil Language as a subject.
+The dedicated Tamil Language Centre for our students is Marsiling Secondary
+School. We will enrol our students taking Higher Tamil Language or Tamil
+Language at the various subject levels in Marsiling Secondary School. Students
+taking Tamil language will be allowed to leave school earlier to proceed
+to the Tamil Centre on the days of their lessons. Currently, Tamil lessons
+are held once a week during the school term.</p>
+<p><strong><u>Third Language</u></strong>
+</p>
+<p><strong>(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child would like to take a Third Language. Is it possible?</strong>
+</p>
+<p>Third Language offers are given by MOE based on the students' PSLE results.
+Any appeal should be made directly to the MOE Language Centres.</p>
+<p><strong><u>Support for your Child</u></strong>
+</p>
+<p><strong>(i) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My child has been having counselling in Primary School and would like to continue with counselling. How can I discuss the arrangements with the school?</strong>
+</p>
+<p>Parents may contact the Form Teachers to request for counselling support,
+providing current areas of concerns, and the school counsellor will meet
+the child to assess their counselling needs.</p>
+<p></p>
+<p><strong>(j) </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>My child has special needs. How do I inform the school about it?</strong>
+</p>
+<p>Parents may email Ms Joanna Lee (AYH/Student Well-Being) at <a href="lee_teck_miang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_miang@schools.gov.sg</a>.</p>
+<p><strong>(k) </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>My child has health issues. How do I inform the school about it?</strong>
+</p>
+<p>Parents may email Mr James Ng (HOD/PE&amp;CCA) at <a href="james_ng_aik_gian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_ng_aik_gian@schools.gov.sg</a> or
+Ms Lydia Sng (SH/CCA&amp;LLP) at <a href="lydia_sng_pei_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lydia_sng_pei_en@schools.gov.sg</a>.&nbsp;</p>
+<p><strong><u>Parents Support Group (PSG)</u></strong>
+</p>
+<p><strong>(l)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I join the PSG?</strong>
+</p>
+<p>You may register using the online form: <a href="https://go.gov.sg/joinevgpsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/joinevgpsg</a>.</p>
+<p><strong>(m) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How often does the PSG meet up?</strong>
+</p>
+<p><strong>&nbsp;</strong>The PSG meetings are held on a termly basis, as
+well as when needed to support or participate in school events</p>
+<p><strong>(n)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How does joining the PSG enable parents to better support their children in secondary school?</strong>
+</p>
+<p>You can attend PSG meetings where staff will share more about school programmes
+to help parents better understand the school, and where parents can explore
+ways to participate in and contribute to school activities. Through such
+active participation, parents not only gain a better understanding of secondary
+school life and how to support their child, but also receive support and
+insights from fellow parents on the same journey. There will also be invitations
+to workshops on parenting and providing support for students.</p>
+<p><strong><u>Other Queries</u></strong>
+</p>
+<p>For all other enquiries please call the General Office at 63656392 between
+8.00am and 4.00pm on weekdays (except public holidays).</p>
+<p></p>
 <p></p>
 <p></p>
