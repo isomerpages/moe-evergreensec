@@ -40,7 +40,7 @@ steps.</p>
 <li>
 <p><strong>ECG Counselling Support</strong>
 <br>Students who require further guidance may approach the school ECG Counsellor
-or make an appointment with the ECG Centre @ MOE <a href="go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">[click here]</a>.</p>
+or make an appointment with the ECG Centre @ MOE <a href="https://form.gov.sg/65acbdaf19b4f200123054bb" rel="noopener nofollow" target="_blank">[click here]</a>.</p>
 <p></p>
 </li>
 <li>
