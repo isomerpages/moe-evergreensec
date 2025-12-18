@@ -10,8 +10,9 @@ variant: tiptap
 <p>Dear Parents/Guardians,</p>
 <p></p>
 <p>Thank you for your support and presence during the release of the 2025
-GCE N-Level results.</p>
-<p>As shared during the hall briefing, we would like to reiterate that <strong>there are multiple pathways for our students to continue their learning journey</strong>,
+GCE N-Level results earlier today.</p>
+<p>As shared during the hall briefing this afternoon, we would like to reiterate
+that <strong>there are multiple pathways for our students to continue their learning journey</strong>,
 and that this phase is about making <strong>informed and thoughtful choices</strong>,
 rather than rushing into decisions.</p>
 <p>For your reference, we have attached the <strong>edited set of slides that was presented to students and parents in the hall</strong>.
