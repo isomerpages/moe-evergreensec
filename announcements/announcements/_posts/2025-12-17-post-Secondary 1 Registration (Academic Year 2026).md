@@ -94,7 +94,7 @@ G3 or G2 or G1) your child/ward will be studying.</p>
 <p>Parents/Guardians of students who are eligible to take Higher Mother Tongue
 Languages (HTML) will be notified via Parents Gateway (PG) by 22 December
 2025. Your child/ward can choose to accept or reject the offer of the HTML
-subject(s).</p>
+subject(s) by <strong><u>23 December 2025</u></strong>.</p>
 <p></p>
 <h4><strong>4. Purchase of Textbooks and School Uniforms&nbsp;</strong></h4>
 <p>A copy of the booklist and school uniform price list will be sent to you
