@@ -91,10 +91,10 @@ proceed with the purchase of textbooks, based on the choice made. Please
 purchase the learning materials for the corresponding subject level (i.e.,
 G3 or G2 or G1) your child/ward will be studying.</p>
 <h4><strong>3. Eligibility for Higher Mother Tongue Languages (HMTL)</strong></h4>
-<p>For Sec 1 students who are eligible to take Higher Mother Tongue Languages
-(HTML), our school personnel will be reaching out to the selected students’
-parents/guardians after the Sec 1 online briefing on 22 December 2025 to
-provide further guidance.</p>
+<p>Parents/Guardians of students who are eligible to take Higher Mother Tongue
+Languages (HTML) will be notified via Parents Gateway (PG) by 22 December
+2025. Your child/ward can choose to accept or reject the offer of the HTML
+subject(s) by <strong><u>23 December 2025</u></strong>.</p>
 <p></p>
 <h4><strong>4. Purchase of Textbooks and School Uniforms&nbsp;</strong></h4>
 <p>A copy of the booklist and school uniform price list will be sent to you
