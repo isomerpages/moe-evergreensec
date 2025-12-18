@@ -84,7 +84,7 @@ demanding levels will be notified via Parents Gateway (PG) by <strong><u>22 Dece
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Your child/ward <strong><u>can choose</u></strong> to <strong>accept or reject</strong> the
 offer of the subject(s) at a more demanding level via PG. Please submit
-your choice by <strong><u>24 December 2025, 12pm</u></strong>.</p>
+your choice by <strong><u>23 December 2025</u></strong>.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 After submission through Parents Gateway (PG), parents and students may
 proceed with the purchase of textbooks, based on the choice made. Please
