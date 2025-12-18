@@ -15,7 +15,8 @@ GCE N-Level results.</p>
 and that this phase is about making <strong>informed and thoughtful choices</strong>,
 rather than rushing into decisions.</p>
 <p>For your reference, we have attached the <strong>edited set of slides that was presented to students and parents in the hall</strong>.
-These slides are intended to:</p>
+These slides <a href="/files/2025_Release_of_N_Level_Results_Materials.pdf" rel="noopener nofollow" target="_blank">[click here]</a> are
+intended to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recap the <strong>post-secondary pathways and progression options</strong> discussed</p>
