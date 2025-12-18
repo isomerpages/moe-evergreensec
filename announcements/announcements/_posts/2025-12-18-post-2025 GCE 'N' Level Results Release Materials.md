@@ -42,6 +42,7 @@ steps.</p>
 or make an appointment with the ECG Centre @ MOE at
 <br><a href="go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>School Support</strong>
