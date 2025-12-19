@@ -53,3 +53,7 @@ require clarification or reassurance during this transition period.</p>
 this important milestone. With time, guidance and encouragement, our teens
 will find pathways that allow them to continue growing with confidence
 and purpose.</p>
+<p></p>
+<p></p>
+<p>Available Material: <a href="/files/2025_Release_of_N_Level_Results_Materials.pdf" rel="noopener nofollow" target="_blank">Slides on 2025 Release of N Level Results (18 Dec 2025)</a>
+</p>
