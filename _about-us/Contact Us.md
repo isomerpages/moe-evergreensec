@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **Address :** 11, WOODLANDS STREET 83 (738489)  
-**Tel :** 63656392     **Fax :** 63658083  
+**Tel :** 63656392       
 **E-mail :**  [EVERGREEN\_SS@MOE.EDU.SG](mailto:EVERGREEN_SS@MOE.EDU.SG)  
 **Office Opening Hours**   
 During School Term : 7.00 am - 6.30 pm (Mon- Thu); 7.00 am - 6.00 pm (Fri)  
@@ -26,4 +26,3 @@ Woodlands MRT Station
 ### **Follow us on social media**
 **[Instagram](https://www.instagram.com/evergreen_secondary_official/)**        **[Facebook](https://www.facebook.com/EvergreenSecondary/)**     
 **[Youtube](https://www.youtube.com/channel/UC5lg0o_1JDz1wfjEAHlHQ9A)**
-
