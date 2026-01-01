@@ -28,7 +28,21 @@ options:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Fri, 2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.00am to 4.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mon, 5 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.00am to 4.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tues, 6 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,6 +52,13 @@ options:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tues, 13 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm to 4.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wed, 14 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,8 +67,7 @@ options:</p>
 </tr>
 </tbody>
 </table>
-<p>Regular Weekly Sales from 20 Jan 2026 :
-<br>Every Tues 2.00pm to 4.00pm</p>
+<p>Regular Weekly Sales from 20 Jan 2026 : Every Tues 2.00pm to 4.00pm</p>
 <p>&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
