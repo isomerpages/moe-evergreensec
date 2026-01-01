@@ -2,29 +2,41 @@
 title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Principal’s Message 2025**  
- 
-##### **Exceptionally Evergreen**
-
-2025 will be a very special and joyous year for Evergreen. We will be celebrating our 25th anniversary, marking a quarter of a century of our school’s exceptional journey to becoming a school of choice in the community.
-
-In this spirit, I am excited to share our school theme for the year: “Exceptionally Evergreen.” This theme was intentionally conceptualised to reflect Evergreen’s proud heritage and our aspirations for the future.
-
-After a year of re-envisioning with our community, this theme captures the essence of our new school vision which will inspire our next bound: “Evergreen in Learning, Exceptional in Character.”
-
-“Evergreen in Learning” reflects our commitment to lifelong growth. Like the evergreen tree that stays vibrant in all seasons by refreshing its leaves, we commit ourselves to reinvigorating our teaching and learning practices, nurturing an enduring passion for learning. While the winds of change might be unpredictable, our motivation is enduring- to ensure that our students are equipped with the curiosity, adaptability, and resilience to embrace the opportunities of tomorrow.
-
-“Exceptional in Character” speaks to the heart of who we are as a school. We strongly believe that good learning is rooted in strong values and discipline. We are unrelentingly dedicated to cultivating upstanding students of good character — so they may lead with compassion, contribute meaningfully to their communities, and embody the spirit of excellence in all they do.
-
-Together, “Exceptionally Evergreen” is a rallying call to go to our roots as we strive towards new possibilities. We will be modernising our distinctive National Education roots as the school’s foundation, and challenging ourselves to try to do things differently to ensure teaching and learning remains future-oriented and effective.
-
-As we take our next leap forward, perhaps most importantly, this is also a reminder to let us all strive to be exceptional in our own ways — whether it is through inspiring others, leading with purpose, or supporting each other as we grow.
-
-Thank you all for your unwavering support and belief in Evergreen. I look forward to journeying with all of you in this new chapter as we continue to make Evergreen a pride of place in the community and the nation.
-
-Yours Sincerely, Ms Bian Yu Wei
-
-
-![Ms Bian, our Principal](/images/KTD_0229_1.jpg)
+<h3><strong>Principal’s Message 2026</strong></h3>
+<h5><strong>Exceptionally Evergreen</strong></h5>
+<p>Begin each day with a grateful heart. As we begin 2026, I would like to
+express my heartfelt appreciation to all of you for the energy, commitment,
+and contributions that made our 25th anniversary year such a meaningful
+success. It was a year of reflection, rejoicing, reimagining and shared
+pride — one that reminded us of Evergreen’s strong roots and the collective
+effort that has shaped our journey over the past quarter century.</p>
+<p>We carry forward the theme Exceptionally Evergreen in 2026 because it
+continues to reflect both who we are and who we are striving to become.
+This is a year of deepening what matters most, and of translating our vision
+into purposeful action across the school. Through refreshed programmes,
+such as our Applied Learning Programme in Bilingual Communication and our
+Digital Literacy and Artificial Intelligence Curriculum, we seek to make
+your learning experiences more relevant, engaging, and future-ready.</p>
+<p>At the heart of these efforts remains our enduring strength — character
+development. You would be aware by now that meaningful learning happens
+in a school environment grounded in strong values, discipline, and a sense
+of responsibility and respect for others. In 2026, we will anchor our approach
+on evidence-based practices, guided by the PRIMED Character Education principles
+developed by Dr Marvin Berkowitz. Character is a way of being, and we will
+continue to invest in developing Evergreen students who are empowered to
+think, feel, and do the right thing.</p>
+<p>At Evergreen, we will walk this journey with you as you grow your own
+wings. I thank you in advance for playing your part in shaping our school
+community, caring for one another, and taking ownership of your holistic
+well-being as you navigate the year ahead. Please do not hesitate to reach
+out to your teachers should you need any support.</p>
+<p></p>
+<p><strong>Ms Bian Yu Wei </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Bian, our Principal" src="/images/KTD_0229_1.jpg">
+</div>
+<p></p>
