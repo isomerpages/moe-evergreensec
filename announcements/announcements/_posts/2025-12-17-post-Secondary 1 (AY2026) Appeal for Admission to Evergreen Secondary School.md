@@ -16,6 +16,4 @@ Secondary School, please submit your application form through <a href="https://g
 <p>Posting Group 3: 10 - 15</p>
 <p>Posting Group 2: 21 - 23</p>
 <p>Posting Group 1: 25 - 26</p>
-<p>Deadline for appeal for S1 (AY2026) is 24 Dec 2025, 5.00pm.<strong> </strong>The
-appeal is deemed to be unsuccessful if you do not hear from the school
-by 2 January 2026.</p>
+<p></p>
