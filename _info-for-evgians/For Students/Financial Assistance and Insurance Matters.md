@@ -96,8 +96,8 @@ form will inform you of the outcome.</p>
 <p>View claims and coverage information :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.evergreensec.moe.edu.sg/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Info about Student's Insurance Plan</a> (Replace
-the file with the attached Product Fact Sheet for Year 2026)</p>
+<p><a href="https://www.evergreensec.moe.edu.sg/files/Product_Fact_Sheet_Year_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Info about Student's Insurance Plan</a>
+</p>
 </li>
 </ul>
 <p>All claims should be submitted as soon as possible subjected to a cap
