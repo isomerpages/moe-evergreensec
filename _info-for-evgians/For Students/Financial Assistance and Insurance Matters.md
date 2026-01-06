@@ -91,13 +91,13 @@ form will inform you of the outcome.</p>
 </tbody>
 </table>
 <h5><strong>(B) Student's Insurance Plan</strong></h5>
-<p>Company:&nbsp;<strong>NTUC Income</strong>
+<p>Company:&nbsp;<strong>Income Insurance Limited</strong>
 </p>
-<p>Find out the summary of claims procedure and coverage:</p>
+<p>View claims and coverage information :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Info about Student's Insurance Plan</a>
-</p>
+<p><a href="https://www.evergreensec.moe.edu.sg/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Info about Student's Insurance Plan</a> (Replace
+the file with the attached Product Fact Sheet for Year 2026)</p>
 </li>
 </ul>
 <p>All claims should be submitted as soon as possible subjected to a cap
