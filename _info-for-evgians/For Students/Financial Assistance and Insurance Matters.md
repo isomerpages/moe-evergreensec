@@ -96,7 +96,7 @@ form will inform you of the outcome.</p>
 <p>View claims and coverage information :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.evergreensec.moe.edu.sg/files/Product_Fact_Sheet_Year_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Info about Student's Insurance Plan</a>
+<p><a href="/files/Product_fact_sheet_year_2026.pdf" rel="noopener nofollow" target="_blank">Info about Student's Insurance Plan</a>
 </p>
 </li>
 </ul>
