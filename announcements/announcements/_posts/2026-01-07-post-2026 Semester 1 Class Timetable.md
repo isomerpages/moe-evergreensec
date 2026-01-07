@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please access 2026 Semester 1 timetable for the respective classes here:</p>
+<p></p>
+<p><a href="/files/Timetable_2026__Sem_1_Final_070126.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Class Timetable</a>
+</p>
