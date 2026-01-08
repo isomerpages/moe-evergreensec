@@ -13,9 +13,9 @@ sections:
       size: md
       alignment: left
       key_highlights:
-        - title: Release of 2025 GCE N-Level Results
-          description: 18 December 2025, 2pm
-          url: https://www.evergreensec.moe.edu.sg/release-of-2025-gce-n-a-n-t-level-examination-results/
+        - title: Release of 2025 GCE O-Level Results
+          description: 14 January 2026, 2pm
+          url: https://www.evergreensec.moe.edu.sg/2025-gce-o-level-examination-release-of-examination-results/
   - resources:
       button: Read more
       subtitle: Announcements, News & Events
