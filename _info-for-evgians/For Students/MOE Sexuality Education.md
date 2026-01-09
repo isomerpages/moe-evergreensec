@@ -46,7 +46,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h3>Overview of Evergreen Secondary School's Sexuality Education Programme for 2025</h3>
+<h3>Overview of Evergreen Secondary School's Sexuality Education Programme for 2026</h3>
 <p></p>
 </li>
 <li>
@@ -89,7 +89,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p><strong>At Evergreen Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Evergreen Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
 <p>2025 Sexuality Education Lessons in CCE</p>
@@ -105,34 +105,38 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4>Secondary 2</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Sexuality Education Part 1" src="/images/Sec_2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 Sexuality Education Part 2" src="/images/Sec_2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2b.png">
 </div>
 <p></p>
 <h4>Secondary 3</h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 3 Sexuality Education Part 1" src="/images/Sec_3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3x.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 3 Sexuality Education Part 2" src="/images/Sec_3_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3y.png">
 </div>
+<p></p>
 <h4>Secondary 4</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 Sexuality Education Part 1" src="/images/Sec_4_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 Sexuality Education Part 2" src="/images/Sec_4_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4b.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4c.png">
 </div>
 <p></p>
 <h4>Secondary 5</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 5 Sexuality Education" src="/images/Sec_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_5.png">
 </div>
 <p></p>
 <p></p>
@@ -141,12 +145,16 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 </li>
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -156,11 +164,11 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p><strong>At Evergreen Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Evergreen Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eTeens" src="/images/eTeens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eteens.png">
 </div>
 <p></p>
 <p><strong>Information for Parents</strong>
@@ -175,15 +183,15 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025_SEd_ANNEX_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be
-submitted by 07/02/2025.</p>
+at the start of the year and is also available <a href="/files/2026_ANNEX_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 06/02/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025_SEd_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be
-submitted by 07/02/2025.</p>
+at the start of the year and is also available <a href="/files/2026_SEd_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be
+submitted by 06/02/2026.</p>
 <p></p>
 </li>
 <li>
