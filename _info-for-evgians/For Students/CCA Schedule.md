@@ -7,6 +7,7 @@ variant: markdown
 ---
 ##### **CCA Schedule**
 
-2025 CCA Schedule
+2026 CCA Schedule
 
-[CCA Training Schedule](/files/CCA_Training_Schedule_2025_1.pdf)
+[CCA Training Schedule 2026](/files/CCA_Training_Schedule_2026__Semester_1_.pdf)
+
