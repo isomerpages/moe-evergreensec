@@ -90,13 +90,13 @@ form will inform you of the outcome.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>(B) Student's Insurance Plan</strong></h5>
+<h5><strong>(B) Group Personal Accident Insurance For Students</strong></h5>
 <p>Company:&nbsp;<strong>Income Insurance Limited</strong>
 </p>
 <p>View claims and coverage information :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product_fact_sheet_year_2026.pdf" rel="noopener nofollow" target="_blank">Info about Student's Insurance Plan</a>
+<p><a href="/files/Product_fact_sheet_year_2026.pdf" rel="noopener nofollow" target="_blank">Fact Sheet for Group Personal Accident Insurance For Students</a>
 </p>
 </li>
 </ul>
