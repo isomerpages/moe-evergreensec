@@ -13,5 +13,5 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Sec_3_Weighted_Assessment_One_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 WA1 Schedule</a>
 </p>
-<p><a href="/files/Sec_4_and_Sec_5_Weighted_Assessment_One_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 and 5 WA1 Schedule</a>
+<p><a href="/files/Sec_4_and_Sec_5_Weighted_Assessment_One_Schedule_2026___updated_29_Jan.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 and 5 WA1 Schedule (Updated 29 Jan)</a>
 </p>
