@@ -18,57 +18,7 @@ options:</p>
 </p>
 </li>
 </ol>
-<p>Special Arrangement for Start of Year:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 2 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.00am to 4.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon, 5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.00am to 4.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tues, 6 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.00am to 4.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tues, 13 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00pm to 4.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed, 14 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00pm to 4.00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Regular Weekly Sales from 20 Jan 2026 : Every Tues 2.00pm to 4.00pm</p>
-<p>&nbsp;</p>
+<p>Regular Weekly Sales : Every Tues 2.00pm to 4.00pm</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Online Purchase with delivery</strong>
@@ -76,9 +26,6 @@ options:</p>
 Please refer to the vendor’s&nbsp;<a href="https://jeepsinguniform.com/collections/evergreen-secondary-school" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
 more information.</p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Retail Outlet</strong>
 <br>Blk 4012 Ang Mo Kio Ave 10
