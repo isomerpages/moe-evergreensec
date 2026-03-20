@@ -14,7 +14,7 @@ Pacific Bookstores.</p>
 options:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Walk-in purchase in school</strong>
+<p><strong>Walk-in purchase in school (Only during School Term Time)</strong>
 </p>
 </li>
 </ol>
