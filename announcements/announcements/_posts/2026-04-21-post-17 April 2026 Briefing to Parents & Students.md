@@ -22,10 +22,12 @@ briefing/s on 17 April 2026.</p>
 <p>Here are the briefing materials for Secondary 4:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PDF</p>
+<p><a href="/files/Sec_4_Briefing_to_Students_and_Parents_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 Briefing Slides</a>
+</p>
 </li>
 <li>
-<p>Video</p>
+<p><a href="https://youtu.be/ZQ-s4rtONCI" rel="noopener nofollow" target="_blank">Sec 3 Briefing Video Recording</a>
+</p>
 </li>
 </ul>
 <p></p>
