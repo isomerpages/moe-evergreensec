@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admission
 variant: tiptap
 ---
-<h1>Join Evergreen Secondary Through Direct School Admission</h1>
+<h4><strong>Join Evergreen Secondary Through Direct School Admission</strong></h4>
 <p><em>Wondering if DSA is right for your child? <br>We believe every child has unique talents waiting to be discovered. Whether your child is already showing leadership qualities, loves sports, enjoys languages, or is curious about digital media, we'd love to meet them!</em>
 </p>
 <p></p>
@@ -83,14 +83,21 @@ presently not in any related CCA.</p>
 <br>vi. Table Tennis (Boys &amp; Girls)
 <br>vii. Volleyball (Boys &amp; Girls)</p>
 <p></p>
-<p>Students who are successfully admitted into our school via DSA Sports
-and Digital Media are obliged to join the respective sports CCA, ELDDS
-or Digital Media Club.</p>
+</li>
+<li>
+<p>Students who accept DSA offers to EVG through:</p>
+<p>• Digital Media must indicate either the <a href="https://www.evergreensec.moe.edu.sg/cca/clubs/digital-media-club/" rel="noopener nofollow" target="_blank">Digital Media Club</a> or
+the <a href="https://www.evergreensec.moe.edu.sg/cca/clubs/eldds/" rel="noopener nofollow" target="_blank">English Literary Drama and Debate Society (ELDDS)</a> as
+one of their CCA.</p>
+<p>• Bilingualism, Chinese Language or Malay Language may join any CCA of
+their choice.</p>
+<p>• Leadership must indicate at least one <a href="https://www.evergreensec.moe.edu.sg/co-curricular-at-evg/cca-uniformed-groups/permalink/" rel="noopener nofollow" target="_blank">Uniformed Group</a> as
+one of their CCA options.</p>
+<p>• Sports must participate in their respective <a href="https://www.evergreensec.moe.edu.sg/co-curricular-at-evg/cca-sports/permalink/" rel="noopener nofollow" target="_blank">sports CCAs</a> for
+the duration of their secondary school education.</p>
 <p></p>
-<p>Students who are successfully admitted into our school via DSA Leadership,
-Chinese Language, Malay Language and Bilingualism may join any CCA and
-are encouraged to develop their talents through various stretch programmes.</p>
-<p></p>
+</li>
+<li>
 <p>Successful applicants will be nurtured through our distinctive programmes
 and developmental opportunities to further develop their talents and character.
 They can participate in various competitions and workshops to hone their
@@ -115,26 +122,22 @@ programmes:</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>(C) Selection Criteria</strong></h4>
-<p>The selection criteria for the talent areas will be updated from early
-May 2026.</p>
+<h4><strong>(C) Selection Criteria &amp; Selection Process</strong></h4>
+<p>To find out about the selection criteria and process for each of the talent
+areas, click <a href="/files/EVG_DSA_Opportunities_Selection_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Processes</a>.</p>
+<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/EVG_DSA_Opportunities_Selection_2026.pdf"><img style="width: 100%" height="auto" width="100%" alt="DSA Criteria" src="/images/DSA_Selection_Criteria.jpg"></a>
 <p>Meeting all the criteria does not guarantee shortlist or offer.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p></p>
-<h4><strong>(D) Selection Process</strong></h4>
-<p>The selection process for various talent areas will be updated from early-May
-2026.</p>
 <p>You will receive notification from the school by 22 July 2026 if your
 child has been shortlisted to undergo DSA selection interviews/trials.</p>
 <p>Due to the high number of applicants, we will not be informing candidates
 who have not been shortlisted for interviews and/or trials.</p>
-<p>All applicants will receive their application outcomes between 17 and
-28 August 2026 via email notification.</p>
+<p>All applicants will receive their application outcomes between 17 August
+and 28 August 2026 via email notification.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
-<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>
-</p>
+<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</p>
 <h4><strong>(D) Apply Now &amp; Follow Us on Social Media</strong></h4>
 <p>Follow us on <a href="https://www.facebook.com/EvergreenSecondary/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/evergreen_secondary_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to find out more about our vibrant school community!</p>
