@@ -4,56 +4,50 @@ permalink: /curriculum/alp/
 description: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3m4p8dbNnzk"></iframe>
-</div>
-<p>Effective Communicators With a Heart</p>
-<p>The school’s Applied Learning Programme (ALP) –&nbsp; Effective&nbsp;
-Communicators with a&nbsp; Heart – is a three-year&nbsp; programme&nbsp;
-which&nbsp; leverages&nbsp; on&nbsp; real-world&nbsp; contexts&nbsp; to
-develop values, communication skills, and creative and critical thinking.
-It seeks to groom confident leaders with effective communication skills,
-the ability to express themselves clearly and creatively, and a strong
-sense of purpose to harness these skills to serve for the greater good.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A1.jpg">
-</div>
-<p>In the present run, the English ALP is closely aligned with the English
-Language curriculum. The Secondary 1 Drama Programme focuses on the foundational
-skillsets of clarity in self-expression. The Secondary 2 Forum Theatre
-programme aims to develop students’ capacity for empathy as well as analytical
-and critical thinking, through the interactivity offered by Forum Theatre.
-Secondary 3 students undergo an intensive focus on effective presentation
-skills, honing their communication skills in order to speak persuasively,
-and with purpose. Authentic platforms to apply their skills are deliberately
-created in the students’ Service Learning Projects.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A2.png">
-</div>
-<p>Evergreen Secondary School is also one of four schools in the whole of
-Singapore offering the Enhanced ALP in Mother Tongue Languages. Over a
-three-year curriculum, Chinese and Malay Language students are exposed
-to a range of experiences and cultural exposure programmes to help them
-develop a deeper appreciation of their Mother Tongue.</p>
+<h3>Applied Learning Programme (ALP): Bilingual Voices, Active Citizens</h3>
+<p>At Evergreen Secondary School, our Applied Learning Programme (ALP) is
+built around the vision of nurturing <em>Bilingual Voices, Active Citizens</em>.
+We believe every EVGian has the potential to be a confident communicator
+and a thoughtful contributor to society.</p>
+<p>&nbsp;Through the ALP, students develop strong bilingual communication
+skills, enabling them to express their ideas with clarity and conviction.
+They are also guided to think critically and engage meaningfully with real-world
+issues that matter to their communities and to Singapore. By connecting
+classroom learning to authentic contexts, the ALP in Evergreen Secondary
+shapes students into informed and active citizens who are ready to make
+a positive difference in Singapore and beyond.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_combined_photo.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP" src="/images/ALP_1.jpg">
 </div>
-<p>Students with strengths in communication skills are then given developmental
-avenues through participating in public speaking activities and hosting
-school-based activities, as well as participating in prestigious competitions
-such as national debate competitions, storytelling competitions and the
-Model United Nations. They also work closely with the school’s kNOW programme
-to present general knowledge and current affairs issues to the school population.</p>
-<p>Another area of ALP that is unique to the school is our Music programme,
-which aims to develop and recognise students’ musical talents. Students
-go through a rich Lower Secondary Music curriculum which develops their
-musicality and songwriting skills, and those who show a keen interest are
-then grown through talent development programmes and representation at
-various music events and competitions both in and outside school.</p>
+<h4><strong>应用学习计划（ALP）：双语之声，知性公民</strong></h4>
+<p>永青中学的应用学习计划（ALP）以“培养双语表达能力强、积极关心社会的公民”为愿景。我们相信，每一位永青学子都能自信沟通并且具备社会责任感。</p>
+<p>通过应用学习计划 (ALP)，将课堂学习与真实情境相结合，学生能够锻炼双语沟通能力，清晰自信地表达自己的想法，积极关注社区及新加坡相关的重要议题，进而发展批判性思维，成为知性、积极的公民，为国家与社会作出贡献。</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Distinctive%20School%20Programmes/Applied%20Learning%20Programme/A4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ALP" src="/images/ALP_2.jpg">
 </div>
-<p>Together, the EVG ALP gives every student, regardless of his or her academic
-course, a strong foundation and a competitive edge in expressing themselves
-effectively beyond the walls of the classroom.</p>
+<h4><strong>Program Pembelajaran Terapan (ALP): Suara Dwibahasa, Warga Aktif</strong></h4>
+<p>Di Sekolah Menengah Evergreen, Program Pembelajaran Terapan (ALP) dibina
+berasaskan visi untuk melahirkan suara dwibahasa dan warga yang aktif.
+Kami percaya bahawa setiap pelajar Evergreen berpotensi menjadi penutur
+yang yakin serta penyumbang yang berfikiran matang kepada masyarakat.</p>
+<p>Melalui ALP, pelajar mengembangkan kemahiran komunikasi dwibahasa yang
+kukuh, sekali gus membolehkan mereka menyampaikan idea dengan jelas dan
+berkeyakinan. Mereka juga dibimbing untuk berfikir secara kritis serta
+melibatkan diri secara bermakna dalam isu-isu dunia sebenar yang relevan
+dengan komuniti dan Singapura. Dengan menghubungkan pembelajaran di bilik
+darjah kepada konteks yang autentik, ALP di Sekolah Menengah Evergreen
+membentuk pelajar menjadi warga yang berpengetahuan dan aktif, yang bersedia
+untuk memberi sumbangan positif kepada Singapura dan juga di peringkat
+global.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP" src="/images/ALP_3.jpg">
+</div>
+<h4><strong>Music ALP</strong></h4>
+<p>Part of the ALP, Evergreen Secondary’s lower secondary Music programme
+develops students' musicality while deepening their awareness of civic
+issues. Through the creative process of writing and performing raps, students
+explore real-world topics, expressing their perspectives confidently in
+English or their Mother Tongue Languages.</p>
