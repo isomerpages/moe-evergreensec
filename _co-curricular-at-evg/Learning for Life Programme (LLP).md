@@ -2,56 +2,109 @@
 title: Learning for Life Programme (LLP)
 permalink: /our-curriculum/Distinctive-School-Programmes/Learning-for-Life-Programme-LLP/
 description: ""
+variant: tiptap
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Evergreen Sec   ALP&amp; LLP Feature" src="https://www.youtube.com/embed/3m4p8dbNnzk" height="393" width="699"></iframe>
-
-**Focus:**&nbsp;Strengthening Resilience, Character and Leadership through Sports Education
-
-![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L1.png)
-
-**LLP Desired Outcomes**
-
-1.  Develop a keen interest in physical activity and heathy living and be equipped with knowledge and transferable skills to allow for life-long participation in sporting or outdoor activities.
-2.  Demonstrate resilience, school values, SE Competencies and 21CC within and beyond school.
-3.  Display leadership competencies such as Self Leadership, Peer Leadership and Community Leadership &amp; Developmental Leadership.
-4.  Develop a strong sense of belonging, love &amp; rootedness to the school and Singapore.
-
-The Learning for Life Programme (LLP) in EVG is a 4/5 year programme that focuses on Strengthening Resilience, Character and Leadership through Sports Education in all students. A 3 tiers approach is adopted, ranging from school-wide programmes to specific interest or ability groups. With this programme, we aim to nurture all our students to become thinking and caring leaders who takes personal responsibility for maintaining an active and healthy lifestyle.
-
-![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L2.png)
-
-TIER 1: EDUCATE a Broad-Base through PE curriculum
-
-1.  Broad-based PE curriculum&nbsp;that uses the Character and Leadership Development through Sports (CLDS) framework co-created with Sports Singapore to guide the explicit teaching of values during PE lessons.
-
-2.  ICT-based health lessons&nbsp;are also infused into the PE curriculum to increase student engagement and promote lifelong learning.
-
-3.  The EVG Student Leadership &amp; Outdoor Experiential Programme&nbsp;draw out real world insights and authentic applications of lessons on resilience and leadership through outdoor programmes such as:
-
-*   EVG Road Run
-*   Sec 1 Camp Confidence (Theme: Knowing and Leading Yourself)
-*   Sec 2 Camp Dynamism (Theme: Working in Teams, Leading Others)
-*   Sec 3 Camp Resilience (Theme: Leading in the Community)
-*   Games Organisation Module at Sec4/5
-
-![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L3.png)
-
-
-TIER 2: INSPIRE Promising Students through CCA platforms  
-Programmes for students with higher interest and ability
-
-1.  Sports &amp; PE Leaders Programme&nbsp;to widen general knowledge of sporting world beyond technical knowledge of own game through Learning Journeys to sporting establishments (Sports Hub Tour and Sports Museum)
-2.  Sports Enrichment Modules&nbsp;covering injury management, sports nutrition, physical strength training and mental training for all sports CCAs during EVG Sports Camp. Application opportunities in the 3 key platforms for students to demonstrate competency and interest at EVG Sports Carnival, EVG Friendly Futsal, and Olympic Week.
-3.  Specialised Fitness and Conditioning&nbsp;for all student athletes through access to Cross Country Trainings
-
-![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L4.png)
-
-
-
-TIER 3: SPECIALISE the training for talented students in attachments or programmes through Partners
-
-1.  EVG Sports Leaders Development Programme, piloting with Sport Singapore from 2017
-2.  Overseas exposure&nbsp;for elite school athletes with National Sports Associations etc (e.g. National Rugby Academy Under 16 Select Team)
-3.  Poly elective modules&nbsp;(AEM &amp; EMs) for students who are interested to pursue further studies in sports.
-
-![](/images/Our%20Curriculum/Distinctive%20School%20Programmes/Learning%20for%20Life%20Programme/L5.png)
+<h3><strong>EVG LEARNING FOR LIFE&nbsp;PROGRAMME (LLP)&nbsp;</strong></h3>
+<h3><strong>Focus&nbsp;</strong></h3>
+<p>Strengthening Resilience, Building Character and Developing Leadership
+through&nbsp;Sports and Outdoor Learning</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP Focus" src="/images/LLP_Focus.png">
+</div>
+<h4><strong>LLP Desired Outcomes&nbsp;</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Develop the knowledge, skills, and attitudes needed for lifelong participation
+in&nbsp;sports and outdoor activities.&nbsp;</p>
+</li>
+<li>
+<p>Develop resilience, values, and socio-emotional competencies by demonstrating&nbsp;adaptive
+and inventive thinking skills to solve problems and overcome challenges.</p>
+</li>
+<li>
+<p>Display leadership and teamwork competencies by taking initiative, guiding
+peers,&nbsp;and contributing positively to school and the diverse community.&nbsp;</p>
+</li>
+</ol>
+<p>The Learning for Life Programme (LLP) in EVG is a 4/5-year programme that
+focuses on&nbsp;Strengthening Resilience, Building Character and Developing
+Leadership through Sports&nbsp;and Outdoor Learning in all EVGians. A three-tier
+approach is adopted, ranging from school-wide programmes to specific interest
+or ability groups. Through the LLP, we strive to&nbsp;Educate, Enrich and
+Empower our students’ learning experiences, nurturing them to&nbsp;become
+Confident Persons, Self-Directed Learners, Concerned Citizens and Active&nbsp;Contributors
+who drive positive impact on their lifelong journeys.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP EEE" src="/images/LLP_EEE.png">
+</div>
+<h4><strong><u>3 Es of LLP&nbsp;</u></strong><br><strong><u>Educate </u>(Tier 1: Whole School)&nbsp;</strong></h4>
+<p>Students will be educated with the skills and knowledge necessary for
+lifelong&nbsp;participation in sports and outdoor activities, and to foster
+understanding and&nbsp;inclusion of individuals of all abilities.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cohort Camps&nbsp;</p>
+</li>
+<li>
+<p>EVG Road Run &amp; Sports Carnivals&nbsp;</p>
+</li>
+<li>
+<p>Games Organisation Module (Sec. 4 &amp; 5)</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/LLP_1.jpg">
+</div>
+<h4><strong><u>Enrich </u>(Tier 2: Sports CCA students/Interest groups)&nbsp;</strong></h4>
+<p>Students will be enriched through deepened experiences, broadened perspectives,&nbsp;and
+enhanced quality of learning and living, fostering growth through diverse
+and&nbsp;meaningful opportunities.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applied Learning Module (ApLM): Sports Science Module&nbsp;</p>
+</li>
+<li>
+<p>Sports Overseas Learning Journey&nbsp;</p>
+</li>
+<li>
+<p>Learning Journeys/Sports Education Programme&nbsp;</p>
+</li>
+<li>
+<p>Sports Camp&nbsp;</p>
+</li>
+<li>
+<p>Youth Sports Science Symposium</p>
+</li>
+<li>
+<p>National/Inter-National Athletes Invitationals</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/LLP_2.jpg">
+</div>
+</li>
+</ul>
+<h4><strong><u>Empower </u>(Tier 3: Sports Leaders)&nbsp;</strong></h4>
+<p>Students will be empowered to lead with empathy and respect, contribute
+meaningfully to their community and nation, embrace diversity, and make
+a&nbsp; positive difference as active citizens of Singapore and the world.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Play Inclusive&nbsp;</p>
+</li>
+<li>
+<p>MOE-OBS Sailing Programme&nbsp;</p>
+</li>
+<li>
+<p>Sports Leaders Camp by SportSG&nbsp;</p>
+</li>
+<li>
+<p>National Teams/Clubs/Referee Course</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/LLP_3.jpg">
+</div>
+</li>
+</ul>
+<p></p>
