@@ -125,7 +125,10 @@ programmes:</p>
 <h4><strong>(C) Selection Criteria &amp; Selection Process</strong></h4>
 <p>To find out about the selection criteria and process for each of the talent
 areas, click <a href="/files/EVG_DSA_Opportunities_Selection_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria &amp; Processes</a>.</p>
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/EVG_DSA_Opportunities_Selection_2026.pdf"><img style="width: 100%" height="auto" width="100%" alt="DSA Criteria" src="/images/DSA_Selection_Criteria.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Criteria" src="/images/DSA_Selection_Criteria.jpg">
+</div>
 <p>Meeting all the criteria does not guarantee shortlist or offer.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
