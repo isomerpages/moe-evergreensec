@@ -5,8 +5,8 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-#### **2026 Semester 1 Timetable**
+#### **2026 Semester 2 Timetable**
 
-Please access Semester 1 timetable for the respective classes here : 
+Please access Semester 2 timetable for the respective classes here : 
 
-[2026 Semester 1 Class Timetable (Updated 10 Jan 2026)](/files/Timetable_2026__Sem_1_updated10Jan.pdf)
+[2026 Semester Two Timetable (26 June 2026)](/files/2026_Semester_Two_Timetable_v14c_26_Jun_Class.pdf)
