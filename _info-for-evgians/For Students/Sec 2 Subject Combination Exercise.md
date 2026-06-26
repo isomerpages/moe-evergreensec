@@ -14,7 +14,7 @@ third_nav_title: For Students
 <p></p>
 <hr>
 <h3><strong>Key Dates:</strong></h3>
-<h4><strong>Application Period</strong><br>23 October 2025, 1400 to 28 October 2025, 1200</h4>
+<h4><strong>Subject Preference Survey</strong><br>29 May 2026, 0900 to 3 July 2026, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to choose your subject combinations.</p>
@@ -24,7 +24,17 @@ third_nav_title: For Students
 </p>
 </li>
 </ul>
-<h4><strong>Release of Results</strong><br>10 November 2025, 1500 onwards</h4>
+<h4><strong>Application Period</strong><br>22 October 2026, 1400 to 27 October 2026, 1200</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Log in to choose your subject combinations.</p>
+</li>
+<li>
+<p>Log in at <a href="http://for.edu.sg/evg-choose-subject" rel="noopener nofollow" target="_blank">http://for.edu.sg/evg-choose-subject</a>
+</p>
+</li>
+</ul>
+<h4><strong>Release of Results</strong><br>10 November 2026, 1500 onwards</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to check your allocated subject combination.</p>
@@ -34,7 +44,7 @@ third_nav_title: For Students
 </p>
 </li>
 </ul>
-<h4><strong>Appeal</strong><br>10 November 2025, 1500 to 12 November 2025, 1200</h4>
+<h4><strong>Appeal</strong><br>10 November 2026, 1500 to 12 November 2026, 1200</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you wish to appeal your subject combination allocation, submit an appeal
@@ -45,7 +55,7 @@ online.</p>
 </p>
 </li>
 </ul>
-<h4><strong>Appeal Outcome</strong><br>14 November 2025, 1500 onwards</h4>
+<h4><strong>Appeal Outcome</strong><br>16 November 2026, 1500 onwards</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log in to check the outcome of your appeal.</p>
@@ -79,16 +89,6 @@ all the subjects that Evergreen Secondary can offer in Secondary 3.
 <p><a href="/files/Sec_2_Briefing_to_Students_and_Parents_2026.pdf" rel="noopener nofollow" target="_blank">Slides for Sec 2 Briefing to Parents &amp; Students on Subject Combination, FSBB &amp; Post-Sec Pathways</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>21 October 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Announcements/Sec 1 Parents Briefing Slides/Subject_Combination_Info_updated_Oct_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides for Sec 2 Subject Combination Exercise Briefing to Students</a></strong>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
