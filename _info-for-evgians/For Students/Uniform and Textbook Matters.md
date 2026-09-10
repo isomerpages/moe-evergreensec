@@ -14,13 +14,6 @@ Pacific Bookstores.</p>
 options:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Walk-in purchase in school (Only during School Term Time)</strong>
-</p>
-</li>
-</ol>
-<p>Regular Weekly Sales : Every Tues 2.00pm to 4.00pm</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p><strong>Online Purchase with delivery</strong>
 <br>Uniforms can be purchased online with home delivery with a delivery charge.
 Please refer to the vendor’s&nbsp;<a href="https://jeepsinguniform.com/collections/evergreen-secondary-school" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
